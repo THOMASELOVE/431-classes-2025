@@ -8,8 +8,6 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
-Class | Date | Slides | Word .docx | Quarto .qmd | Recording
-:---: | :--------: | :------: | :------: | :------: | :-------------:
 03 | 2025-09-09 | Coming soon | Coming soon | Coming soon | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 <!-- 
