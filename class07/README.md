@@ -19,3 +19,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. This section will appear in time for class. 
+
+## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
+
+- Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) if you need help     
+- [Lab 2](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2) is also due on Wednesday 2025-09-24 at noon.
+- [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/tree/main) after Class 07 will be posted in time for Class on Tuesday, and is due Wednesday at noon.
