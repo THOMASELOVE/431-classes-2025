@@ -30,6 +30,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record **most** 431 classes via Zoom and post the recording to Canvas.
 
+## Breakout Link
+
+The link we'll use in the breakout session is <https://bit.ly/431-2025-class01-breakout>.
+
 ## Announcements
 
 1. This section will appear in time for class. For now, please read the [Getting Started](https://thomaselove.github.io/431-2025/#getting-started) materials on [the course website](https://thomaselove.github.io/431-2025/).
