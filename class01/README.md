@@ -33,3 +33,13 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. This section will appear in time for class. For now, please read the [Getting Started](https://thomaselove.github.io/431-2025/#getting-started) materials on [the course website](https://thomaselove.github.io/431-2025/).
+
+## Things to do after Class 01 (if you haven't already)
+
+1. Complete the [Welcome to 431 survey](https://bit.ly/431-2025-welcome) (due **tomorrow** at noon.) 
+2. Review the [main course website](https://thomaselove.github.io/431-2025/), being sure to visit the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
+3. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2025/).
+4. Obtain David Spiegelhalter's *The Art of Statistics: How to Learn from Data* (~$20) and read the Introduction and Chapter 1.
+5. [Install the R and RStudio software](https://thomaselove.github.io/431-2025/software.html) you'll need on a computer you control.
+6. Look at Dr. Love's [Course Book](https://thomaselove.github.io/431-book/), especially Chapters 1-3.
+7. Take a look at [Lab 01](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab1) (due 2025-09-17 at noon) which is your first substantial deliverable, and also glance at the instructions for [Project A](https://thomaselove.github.io/431-projectA-2025/).
