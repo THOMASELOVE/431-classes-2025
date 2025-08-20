@@ -19,3 +19,16 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. This section will appear in time for class. 
+
+## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
+
+- Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) if you need help     
+- Before Class 7 (2025-09-23)
+    - Work on [Lab 2](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2), which is due Wednesday 2025-09-24 at noon.
+    - Finish the [Project A data work](https://thomaselove.github.io/431-projectA-2025/) and get started on the [Project A Plan](https://thomaselove.github.io/431-projectA-2025/).
+    - Read *The Art of Statistics* by David Spiegelhalter, Chapter 5 (we'll read Chapter 4 later, you can read it now if you like)
+    - Read [R for Data Science](https://r4ds.hadley.nz/), the "Visualize" sections, focusing on sections 10-11
+    - Review the [Lab X instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) and perhaps get started.
+- Next Week
+    - [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/tree/main) after Class 07 will be posted in time for Class on Tuesday, and is due Wednesday at noon.
+    - Remember that [Lab 2](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2) is also due on Wednesday 2025-09-24 at noon.
