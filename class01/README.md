@@ -32,7 +32,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-If you are **not yet enrolled** in this class, please talk to me before you leave this room. We're basically full here, but there is a Section 2 of 431 from 4:00 - 5:15 on Tuesdays and Thursdays, if you're not planning on also taking 432 this Spring.
+If you are **not yet enrolled** in this class, please talk to me **before you leave this room**. A list of enrolled students (as of 9 AM) [is found here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class01/registrants.pdf), so you can check your status. Note that there is a Section 2 of 431 from 4:00 - 5:15 on Tuesdays and Thursdays, which is appropriate **if** you're not planning on also taking 432 this Spring.
 
 1. Make sure you have read the [Getting Started](https://thomaselove.github.io/431-2025/#getting-started) materials on [the course website](https://thomaselove.github.io/431-2025/).
 2. Thanks to the 44 of you (when last I checked) who've already completed the [Welcome to 431 survey](https://bit.ly/431-2025-welcome). Remember this is due tomorrow (Wednesday 2025-09-03) at noon.
