@@ -60,7 +60,7 @@ The link we'll use in the breakout session is <https://bit.ly/431-2025-class01-b
 4. Obtain David Spiegelhalter's *The Art of Statistics: How to Learn from Data* (~$20) and read the Introduction and Chapter 1.
 5. [Install the R and RStudio software](https://thomaselove.github.io/431-2025/software.html) you'll need on a computer you control.
 6. Look at Dr. Love's [Course Book](https://thomaselove.github.io/431-book/), especially Chapters 1-3.
-7. Take a look at [Lab 01](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab1) (due 2025-09-17 at noon) which is your first substantial deliverable, and also glance at the instructions for [Project A](https://thomaselove.github.io/431-projectA-2025/).
+7. Take a look at [Lab 01](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab1) (due 2025-09-17 at noon) which is your first substantial deliverable, and also glance at the [Project A](https://thomaselove.github.io/431-projectA-2025/) instructions.
 8. Attend [TA office hours](https://thomaselove.github.io/431-2025/calendar.html#ta-office-hours) if you have questions about the materials.
 9. Email Dr. Love directly if you have questions about class logistics that aren't addressed in the [Syllabus](https://thomaselove.github.io/431-syllabus-2025/) or the [Calendar](https://thomaselove.github.io/431-2025/calendar.html).
 
