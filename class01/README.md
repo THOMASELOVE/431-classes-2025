@@ -52,6 +52,14 @@ If you are **not yet enrolled** in this class, please talk to me **before you le
 
 The link we'll use in the breakout session is <https://bit.ly/431-2025-class01-breakout>.
 
+## Links from Today's Slides
+
+- XKCD on [Correlation vs. Causation](https://xkcd.com/552)
+- Syllabus description of [our Teaching Assistants and their backgrounds](https://thomaselove.github.io/431-syllabus-2025/08_teachingassistants.html)
+- The Art of Statistics, by David Spiegelhalter, is the book you need to purchase. [Dr. Spiegelhalter's web site is here](http://www.statslab.cam.ac.uk/~david/).
+- Age-Guessing Activity Form is at <https://bit.ly/431-2025-class01-breakout>. Some of you will need this during class (one person per group.)
+    - The "[convenient piece of paper](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class01/convenient_piece_of_paper.pdf)" handout (pdf, 3 to a page)
+ 
 ## Things to do after Class 01 (if you haven't already)
 
 1. Complete the [Welcome to 431 survey](https://bit.ly/431-2025-welcome) (due **tomorrow** at noon.) 
@@ -64,14 +72,6 @@ The link we'll use in the breakout session is <https://bit.ly/431-2025-class01-b
 8. Attend [TA office hours](https://thomaselove.github.io/431-2025/calendar.html#ta-office-hours) if you have questions about the materials.
 9. Email Dr. Love directly if you have questions about class logistics that aren't addressed in the [Syllabus](https://thomaselove.github.io/431-syllabus-2025/) or the [Calendar](https://thomaselove.github.io/431-2025/calendar.html).
 
-## Links from Today's Slides
-
-- XKCD on [Correlation vs. Causation](https://xkcd.com/552)
-- Syllabus description of [our Teaching Assistants and their backgrounds](https://thomaselove.github.io/431-syllabus-2025/08_teachingassistants.html)
-- The Art of Statistics, by David Spiegelhalter, is the book you need to purchase. [Dr. Spiegelhalter's web site is here](http://www.statslab.cam.ac.uk/~david/).
-- Age-Guessing Activity Form is at <https://bit.ly/431-2025-class01-breakout>. Some of you will need this during class (one person per group.)
-    - The "[convenient piece of paper](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class01/convenient_piece_of_paper.pdf)" handout (pdf, 3 to a page)
- 
 ## One Last Thing
 
 ![](https://imgs.xkcd.com/comics/age_milestone_privileges.png)
