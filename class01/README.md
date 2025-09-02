@@ -70,4 +70,4 @@ The link we'll use in the breakout session is <https://bit.ly/431-2025-class01-b
 - Syllabus description of [our Teaching Assistants and their backgrounds](https://thomaselove.github.io/431-syllabus-2025/08_teachingassistants.html)
 - The Art of Statistics, by David Spiegelhalter, is the book you need to purchase. [Dr. Spiegelhalter's web site is here](http://www.statslab.cam.ac.uk/~david/).
 - Age-Guessing Activity Form is at <https://bit.ly/431-2025-class01-breakout>. Some of you will need this during class (one person per group.)
-    - The "[convenient piece of paper]()" handout (pdf, 3 to a page) 
+    - The "[convenient piece of paper](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class01/convenient_piece_of_paper.pdf)" handout (pdf, 3 to a page) 
