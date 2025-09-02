@@ -37,7 +37,7 @@ If you are **not yet enrolled** in this class, please talk to me **before you le
 1. Make sure you have read the [Getting Started](https://thomaselove.github.io/431-2025/#getting-started) materials on [the course website](https://thomaselove.github.io/431-2025/).
 2. Thanks to the 44 of you (when last I checked) who've already completed the [Welcome to 431 survey](https://bit.ly/431-2025-welcome). Remember this is due tomorrow (Wednesday 2025-09-03) at noon.
 3. As part of our slides today, we'll visit [the main course page](https://thomaselove.github.io/431-2025/) for the course, and look over:
-    - the [Syllabus](https://thomaselove.github.io/431-syllabus-2025/) You'll also want to review [the Syllabus](https://thomaselove.github.io/431-syllabus-2025/) thoroughly. I'll know if you haven't in the next week.
+    - the [Syllabus](https://thomaselove.github.io/431-syllabus-2025/) which you'll want to review pretty thoroughly. As a hint, next Tuesday, I'll know if you haven't done this yet.
     - the [Course Book](https://thomaselove.github.io/431-book/) (Foundations of Applied Statistics and R)
     - the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html), which is the final word for all deadlines in this course
     - the [Assignments](https://thomaselove.github.io/431-2025/assignments.html), including the Minute Papers, Labs, Quizzes, and Projects.
