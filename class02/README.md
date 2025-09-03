@@ -4,6 +4,17 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+## Today's Opener: The Quick Survey
+
+As you come in, **please take** (from the box at the back table) a paper survey with 15 questions. Please read these instructions carefully before writing anything down.
+
+1. Introduce yourself to someone near you.
+2. Record the survey answers **for that other person**, while they record your responses.
+3. Be sure to complete all 15 questions (both sides of the paper).
+4. When you are finished, thank your partner and raise your hand. Someone will come around to collect your survey.
+
+There is a [PDF copy of the Quick Survey here](431_surveyhandout_1perstudent_2025-09-04.pdf), if you'd like to look at the form after your paper copy has been collected.
+
 ## Today's Slides
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
