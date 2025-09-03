@@ -30,7 +30,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. Thank you to xxx for filling out the google form for the age guessing activity in Class 01. I appreciate the help.
+2. We'll start demonstrating the use of R and RStudio in class 3, on Tuesday 2025-09-09.
+3. TAs refers to Teaching Assistants. [TA Office Hours have begun](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours).
 
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
