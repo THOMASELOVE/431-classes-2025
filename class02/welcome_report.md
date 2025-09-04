@@ -2,7 +2,7 @@
 
 ## Sample Size
 
-53 of 54 enrolled students completed the survey, as of the deadline (2025-09-03 at noon.)
+53 students completed the survey, as of the deadline (2025-09-03 at noon.)
 
 - 36 (68%) of the 53 students use she/her as personal pronouns. The rest use he/him.
 
