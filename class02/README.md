@@ -38,7 +38,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Some Thoughts on the Welcome to 431 Survey
 
-
+can be found in this [Welcome to 431 Survey Report](welcome_report.md)
 
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
