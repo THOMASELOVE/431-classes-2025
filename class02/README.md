@@ -30,11 +30,15 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Thank you to xxx for filling out the google form for the age guessing activity in Class 01. I appreciate the help.
-2. We'll start demonstrating the use of R and RStudio in class 3, on Tuesday 2025-09-09.
-3. TAs refers to Teaching Assistants. [TA Office Hours have begun](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours).
-4. A list of enrolled students in the class is now available on our Shared Google Drive in a file called **Student Roster for 431 in Fall 2025**. Please check that the information posted there for you is complete and correct. Let me know via email if it is not.
-5. 
+1. If you want to get in touch with me outside of class, the best option is always to **email** me at `Thomas` dot `Love` at `case` dot `edu`.
+    - If you find a typo or other error in any of our materials, email me there, and I'll award some class participation credit if you're the first to let me know.
+    - If you have a logistical question about how the course is set up, emailing me is also a good idea.
+    - Most questions about software setup, statistical interpretation or R programming issues should be asked in [TA (Teaching Assistant) Office Hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) which started yesterday.
+2. To access the Class recordings, visit [Canvas](https://canvas.case.edu/), select our course, then select *Zoom* and then *Cloud Recordings*. Select the recording you want to view, and you should then be able to either download it or watch it online. 
+3. Thank you to Dana Kleinman, Erin San Valentin, Hana Sato, Hannah Iqbal, Linda Chen, Leland Metheny, Moses Fleischman, Paulina Gonzalez, Swati Jha, Lily Zhang, and Vennila Ramasubramanian for filling out the Google Form for the age guessing activity in Class 01. I appreciate the help.
+4. Mild changes were made since our last class to the [course syllabus](https://thomaselove.github.io/431-syllabus-2025/) to eliminate discussion of Campuswire, which we're not using this term (Thanks to Linda Chen), and I've added data sets about our Class 1 activities to [our 431-data site](https://github.com/THOMASELOVE/431-data).
+5. We'll start demonstrating the use of R and RStudio in class 3, on Tuesday 2025-09-09.
+6. A list of enrolled students in the class is posted to our Shared Google Drive as **Student Roster for 431 in Fall 2025**. Please check that the information posted there for you is complete and correct. Let me know via email if it is not.
 
 ## Some Thoughts on the Welcome to 431 Survey
 
