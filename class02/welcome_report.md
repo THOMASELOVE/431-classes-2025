@@ -108,7 +108,7 @@ Count | Comment
 9 | I don't have much (any / enough) experience with R and/or programming/coding.
 7 | My statistical understanding is rusty. It's been a while since I visited many of these ideas.
 6 | I worry that the material will be difficult for me to understand, or that the pace of the course will be too fast.
-1 | I don't like doing group projects. (There is no group project in this course.)
+1 | I don't like doing group projects. (No project in this course requires you to work in a group.)
 1 | I worry that the course won't move fast enough to suit me.
 
 ## What has made your favorite university classes your favorite?
