@@ -34,6 +34,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. We'll start demonstrating the use of R and RStudio in class 3, on Tuesday 2025-09-09.
 3. TAs refers to Teaching Assistants. [TA Office Hours have begun](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours).
 
+## Some Thoughts on the Welcome to 431 Survey
+
+
+
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
 - Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) if you need help     
@@ -50,3 +54,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Read [R for Data Science](https://r4ds.hadley.nz/), the rest of the "Whole Game" (sections 1-8)
     - Get started on the [Project A data work](https://thomaselove.github.io/431-projectA-2025/)
     - Remember that [Lab 1](https://github.com/THOMASELOVE/431-labs-2025) is due on Wednesday 2025-09-17 at noon.
+
+## One Last Thing
+
+![](Eivers_2024-08-10.png)  [Link to Source](https://x.com/EemerEivers/status/1822239148519890981)
