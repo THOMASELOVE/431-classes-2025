@@ -62,7 +62,7 @@ can be found in this [Welcome to 431 Survey Report](welcome_report.md)
 - *What is your biggest accomplishment as a statistician?*
     - I am proud of many achievements over the years, most especially those of my students. I have also been recognized with numerous awards, both for teaching, service and research work. The [syllabus section on me](https://thomaselove.github.io/431-syllabus-2025/07_professorlove.html) has more details.
 - *In class 1, you mentioned that something has a disproportionate impact on your mood, but then didn't finish that thought. What did you have in mind?*
-    - The Mets. I am a 50+ year fan of the New York Mets. When they win, my life seems better. It's silly, but it's true. 
+    - The [Mets](https://www.mlb.com/mets). I have been a fan of the New York Mets for 52 years. When they win, my life seems better. It's silly, but it's true. 
 
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
