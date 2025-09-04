@@ -33,6 +33,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. Thank you to xxx for filling out the google form for the age guessing activity in Class 01. I appreciate the help.
 2. We'll start demonstrating the use of R and RStudio in class 3, on Tuesday 2025-09-09.
 3. TAs refers to Teaching Assistants. [TA Office Hours have begun](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours).
+4. A list of enrolled students in the class is now available on our Shared Google Drive in a file called **Student Roster for 431 in Fall 2025**. Please check that the information posted there for you is complete and correct. Let me know via email if it is not.
+5. 
 
 ## Some Thoughts on the Welcome to 431 Survey
 
