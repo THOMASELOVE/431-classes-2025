@@ -42,7 +42,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Some Thoughts on the Welcome to 431 Survey
 
-can be found in this [Welcome to 431 Survey Report](welcome_report.md)
+Some general thoughts and statistical summaries are found in this [Welcome to 431 Survey Report](welcome_report.md). 
+
+- I will share some of the interesting things about people in this class in the next few sessions.
 
 -------
 
