@@ -8,9 +8,9 @@
 
 ## Why are you taking this course?
 
-- 26/53 students mentioned that the course was required (or at least strongly encouraged) as part of their academic program.
+- 26/53 students (49%) mentioned that the course was required (or at least strongly encouraged) as part of their academic program.
 
-In addition, some students mentioned other reasons, as summarized below. Dr. Love attributed exactly one of the reasons below to each response: sometimes this was a bit arbitrary.
+Below, I've summarized other reasons. Dr. Love attributed exactly one of the reasons below to each response: sometimes this was arbitrary.
 
 Count | Reason
 -----: | :-------------------------------------------------------------
@@ -22,7 +22,7 @@ Count | Reason
  
 ## How are you feeling?
 
-(Dr. Love selected one word from each response for the summary below.)
+*Dr. Love selected one word from each response for the summary below.*
 
 ```
 Excited x17        Well                  Fine                Unsettled x2
@@ -75,7 +75,7 @@ R Comfort = | 1 | 2 | 3 | 4 | 5 | 6 | Sum
 6 | 4 | - | 3 | 3 | - | 4 | **14**
 **Sum** | **13** | **15** | **10** | **7** | **4** | **4** | **53**
 
-REDO Data | n | Mean | SD | Median | MAD
+Variable | n | Mean | SD | Median | MAD
 :------------------- | --: | ----: | ----: | ----: | ----:
 Excitement (1-6) | 53 | 4.83 | 1.07 | 5 | 1.48
 R Comfort (1-6) | 53 | 2.73 | 1.53 | 2 | 1.48
@@ -89,87 +89,86 @@ R Comfort (1-6) | 53 | 2.73 | 1.53 | 2 | 1.48
 Count | Tool
 -----: | :-------------------------------------------------------------------------------
 4 | I wouldn't be comfortable using anything.
-45 | Excel, Google Sheets, Numbers or some other spreadsheet package
-26 | R
-11 | Python
-11 | GraphPad
-9 | SPSS
-9 | MATLAB
-3 | Minitab, SAS
-2 | JMP, Mathematica, SQL, Tableau
-1 | C, C# or C++, Jasp
-0 | PowerBI
+41 | Excel, Google Sheets, Numbers or some other spreadsheet package
+15 | R
+13 | Python
+10 | GraphPad, SPSS
+8 | MATLAB
+3 | JMP
+2 | Mathematica, SQL, Tableau
+1 | C, C# or C++, Jamovi, Java, Origin, PowerBI, SAS, Stata
 
 ## What, if anything, concerns you about this class?
 
-*An edited list, with each student who expressed a worry represented in one of these categories, even if they gave a more nuanced response.*
+*An edited list, with every student who expressed a worry represented in one of these categories, even if they gave a more nuanced response.*
 
 Count | Comment
 -----: | :-------------------------------------------------------------------------------
-11 | Managing my time / Workload / Other obligations.
-7 | I don't have much (any / enough) experience with R and/or programming/coding.
-6 | I worry that the material will be difficult for me to understand.
-4 | Attendance / getting to class. There is a time period where I will have to miss class.
-3 | Computer problems.
-3 | My statistical understanding is rusty. It's been a while since I visited many of these ideas.
+14 | Managing my time / Workload / Other obligations.
+9 | I don't have much (any / enough) experience with R and/or programming/coding.
+7 | My statistical understanding is rusty. It's been a while since I visited many of these ideas.
+6 | I worry that the material will be difficult for me to understand, or that the pace of the course will be too fast.
+1 | I don't like doing group projects. (There is no group project in this course.)
+1 | I worry that the course won't move fast enough to suit me.
 
 ## What has made your favorite university classes your favorite?
 
-*Mostly verbatim responses, hiding identifying material.*
+*Lightly edited responses, hiding identifying material.*
 
-- A engaged professor who is also understanding and available for help.
-- A good professor makes a huge difference in the courses for me. I enjoy classes most when they are organized and my instructor is passionate about the topic. 
-- A passionate and supportive professor with interesting/relevant coursework. It's obvious when professors care about what they're teaching and their students.
-- As an undergraduate student, my favorite course was XXXX. I loved it because I loved the subject, I connected with the professor, I enjoyed her energetic teaching style, I found the coursework itself challenging enough to require a lot of effort on my part without being overwhelming, and it required me to find the answers to problems by thinking deeply about what I learned, which was satisfying...
-- Being given ample time to engage with others and the teaching staff in a laid-back environment. 
-- Classes that are challenging but engaging and supportive
-- Clear instructions and work that align what with is taught in class
-- Clear, engaging content
-- Discussion! And having an approachable professor
-- Engagement with the class and excitement for the material by classmates and the professor. 
-- Engaging professor and meaningful assignments!
-- Enough office hours
-- Enthusiastic professors that care about their students and are passionate about the material they teach.
-- Flexibility and understanding professors who can empathize with students and treat classwork as a learning process not just a deadline... 
-- Good teaching practices and applications to the real world.
-- Having a learning environment that was built on the foundation of intellectual safety... 
-- ... I felt like my work was appreciated and the feedback on my work was productive, allowing me to learn and make changes that improved the quality of future work.
-- I have really enjoyed courses that allow for class discussion during lectures. I'm not sure how well that translates to a statistics course.
-- I have really liked the XXX classes I have taken, because they have involved immense engagement from the class while also teaching me many new and interesting concepts.
-- I like examples related to medicine.
-- I like solving puzzles. 
-- ... If a subject is hands-on, strongly related to my research projects, and based on understanding not on memorizing...
-- ... Interesting lecturing style, 
-- Interactive and easy to approach the professor/TA
-- Interactive Learning
-- Interactive lectures and hands-on projects have made certain university classes stand out as my favorites.
-- Learning from people that are passionate about the topics they teach, and acquiring practical, translatable skills that I can use in my work. 
-- My favorite class I ever took was very project oriented and very hands on which allowed me to really experience and learn about what the course was about in a practical way.
-- My favorite university class was my favorite because we had lots of discussions. Getting the chance to bond with those people allowed me to form close friendships. 
-- My favorite university classes have been structured, transparent, and flexible (e.g., consistent office hours, understanding of individuals’ realities). In addition, my favorite classes explain how the material being learned applies to real-world scenarios.
-- My favorite university classes incorporated real-world applications that relate to my interests. The material was both challenging and engaging. I also liked when the course fostered a supportive environment where students feel encouraged to interact with the professor/TAs.
-- My performance in the class
-- Patient yet enthusiatic professors, well structured coursework and assignments
-- Professor and students who are equally engaged
-- Professors who are excited and passionate about their field in an infectious way; I learn better when I find the material engaging and interesting and that is influenced in large part by how enthusiastically it is taught. It also helps when the environment is more about co-operation, kindness and collaboration rather than cut-throat competition or high stakes and dire consequences.
-- Small classes where the professor uses ungrading and we often discuss case studies as small groups and share out. 
-- Supportive professors and staff
-- The interactive teaching methodologies deployed by the professor, which increased student engagement within course lectures and activities.
-- The course professor and TA have regular office hours, which don’t need to be long or very frequent. I would feel wonderful if someone could give me a hint after I’ve tried all possible solutions on my own.
-- The knowledge and practice in a course can be applied to solve real world problems.
-- ... The lecturer.
-- The professor
-- The professor
-- The professor! I really appreciate when they are engaged and passionate about what they're teaching
-- The professors and the material. 
-- The quality of the class and the WORKLOAD :)
-- The smaller classes that allow for questions and discussions along with the lecture
-- The way the professor made the course engaging 
-- They are difficult at the time, but looking back, they have enriched me more than I anticipated with practical knowledge.
-- They are part of my interests
-- They were small and the teacher was engaging - also the students were open to discussion rather than standoffish. 
-- When I can directly apply, practice or personally associate something. 
-- ...When there are memorable anecdotes or stories that are also applicable to real life, those tend to make classes enjoyable to learn for me.
-- 2 people didn't give a response, and one person named an individual, who I don't know.
-
+- A class that I can directly apply to my ongoing projects and produce an academic output (abstract, poster, paper, etc.) 
+- An engaging class with challenging, but rewarding class/home work
+- An engaging professor who is enthusiastic about the subject and presents it in relatable ways
+- A highly communicative professor.
+- A professor who is nice and approachable.
+- An approachable professor.
+- Professor is kind, welcoming, easy to approach with questions
+- A professor who is clearly passionate about the subject and who can simplify technical concepts using less-technical language.
+- A professor who can establish a comfortable environment.
+- An understanding professor.
+- Passionate and engaged instructor
+- Professor manages the course with love and treats students with kindness
+- Professor responded to emails quick and made class fun, entertaining and engaging
+- Professors who have the gift of simplifying complicated information, and emphasize critical thinking
+- Lecturer's enthusiasm, clarity, and comprehensibility
+- A good teacher combined with interesting coursework.
+- A great teacher.
+- A supportive teacher
+- Supportive, respectful and knowledgeable teachers
+- Lectures aren't super-boring.
+- Good slides for class.
+- Involvement and enthusiasm on the part of the teacher
+- Organization of course layout and support throughout.
+- Professor's organization and deep understanding of the subject matter
+- Combine engaging teaching with practical application
+- Being able to work with other students on projects and labs
+- Building connections with professors and other students.
+- Live interaction with the professor and peers.
+- Developing friends in the class to talk to inside and outside of class.
+- I love classes where I enjoyed the subject and the people I am taking it with.
+- The camaraderie between peers and philosophical discussions in small classes.
+- Working with others during class periods
+- Being able to chose my research projects, being challenged
+- Engaging lectures.
+- Engaging projects and/or homework.
+- Professor made the subject come alive through real-world examples and interactive discussions
+- I have loved learning something that makes me think about the world differently.
+- I love when professors make class content interesting.
+- Lots of "aha!" moments that were very cool
+- Interesting subject.
+- Interesting classes.
+- Interesting discussions and/or topics that I can learn a lot from.
+- The natural flow of discussion in the classroom
+- Interactive classes.
+- Connection of theory to practical uses
+- Meaningful required work.
+- Hands-on projects and data to apply concepts and methods.
+- Real-life applications and case studies
+- Real-world cases and transparent grading.
+- No confusion or anxiety about expectations.
+- Content that I am very interested in.
+- Content I can apply to my research.
+- Material connected to real world examples, data, or problems
+- Nearby coffee.
+- A safe space to have discussions and ask questions
+- I like courses that challenge me, especially when there is a clear purpose behind that challenge.
 
