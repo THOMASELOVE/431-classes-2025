@@ -110,6 +110,6 @@ These come from the Welcome to 431 survey - some more results from that survey [
 
 ## One Last Thing
 
-[Source](http://www.smbc-comics.com/comic/dogs-4)
+- Source: [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/comic/dogs-4)
 
 ![](smbc-dogs4.png)
