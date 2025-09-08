@@ -17,7 +17,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record **most** 431 classes via Zoom and post the recording to Canvas.
 
----------
+![] [Source](http://www.smbc-comics.com/comic/dogs-4)
 
 ## Announcements
 
