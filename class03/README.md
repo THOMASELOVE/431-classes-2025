@@ -39,17 +39,18 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Today's Data: The 15 Question Survey, from Class 02
 
 You may recall my mentioning that over the past ten years, 547 students had taken a version of our 15-item quick survey, and that 196/547 (36%) caused no problems in deciphering the results. The updated results through 2025 are 216/600 (still 36%), as the 2025 results were 20/53 (37.7%).
-    - I am roughly 6 feet 2.25 inches tall these days, which is about 188 cm. At my tallest, I was 6 feet 4 inches (193 cm), but I've shrunk.
-    - My answers to some of the other survey questions:
-        - I don't wear glasses (except reading glasses on occasion). English is my best language. I have never smoked, not even on stage.
-        - My handedness score is +0.5 (four plus marks on L and 12 on R), although, for example, I shoot pool better left-handed.
-        - My last haircut cost me $45, including the tip. My favorite color is purple.
-        - My hand span is just over 26 inches, which is the largest this year (and most years.)
-        - I slept 6.5 hours the night before our class 02, and my pulse rate at the start of that class was 84 beats per minute.
-    - Changes to the survey over the years:
-        - `glasses` item added in 2019, `love's height` added in 2021
-        - `sex` asked in 2014-2018, `love's age` guessed in 2014-2019
-        - `statssofar`, `handedness`, `pulse` rate and `hand_span` not included in 2020 (COVID-related modifications since the course was exclusively given through Zoom)
+
+- I am roughly 6 feet 2.25 inches tall these days, which is about 188 cm. At my tallest, I was 6 feet 4 inches (193 cm), but I've shrunk.
+- My answers to some of the other survey questions:
+    - I don't wear glasses (except reading glasses on occasion). English is my best language. I have never smoked, not even on stage.
+    - My handedness score is +0.5 (four plus marks on L and 12 on R), although, for example, I shoot pool better left-handed.
+    - My last haircut cost me $45, including the tip. My favorite color is purple.
+    - My hand span is just over 26 inches, which is the largest this year (and most years.)
+    - I slept 6.5 hours the night before our class 02, and my pulse rate at the start of that class was 84 beats per minute.
+- Changes to the survey over the years:
+    - `glasses` item added in 2019, `love's height` added in 2021
+    - `sex` asked in 2014-2018, `love's age` guessed in 2014-2019
+    - `statssofar`, `handedness`, `pulse` rate and `hand_span` not included in 2020 (COVID-related modifications since the course was exclusively given through Zoom)
 
 ## Extra Materials for Class 03 found in the [Class 03 data subfolder](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class03/data)
 
@@ -109,4 +110,6 @@ These come from the Welcome to 431 survey - some more results from that survey [
 
 ## One Last Thing
 
-![https://github.com/THOMASELOVE/431-classes-2025/blob/main/class03/smbc-dogs4.png] [Source](http://www.smbc-comics.com/comic/dogs-4)
+[Source](http://www.smbc-comics.com/comic/dogs-4)
+
+![https://github.com/THOMASELOVE/431-classes-2025/blob/main/class03/smbc-dogs4.png] 
