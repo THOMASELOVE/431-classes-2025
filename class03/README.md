@@ -112,4 +112,4 @@ These come from the Welcome to 431 survey - some more results from that survey [
 
 [Source](http://www.smbc-comics.com/comic/dogs-4)
 
-![https://github.com/THOMASELOVE/431-classes-2025/blob/main/class03/smbc-dogs4.png] 
+![https://github.com/THOMASELOVE/431-classes-2025/blob/main/class03/smbc-dogs4.png]()
