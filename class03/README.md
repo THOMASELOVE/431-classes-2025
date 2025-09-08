@@ -17,7 +17,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record **most** 431 classes via Zoom and post the recording to Canvas.
 
-![] [Source](http://www.smbc-comics.com/comic/dogs-4)
 
 ## Announcements
 
@@ -107,3 +106,7 @@ These come from the Welcome to 431 survey - some more results from that survey [
     - Get started on the [Project A data work](https://thomaselove.github.io/431-projectA-2025/)
     - Remember that [Lab 1](https://github.com/THOMASELOVE/431-labs-2025) is due on Wednesday 2025-09-17 at noon.
 - Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) if you need help.     
+
+## One Last Thing
+
+![https://github.com/THOMASELOVE/431-classes-2025/blob/main/class03/smbc-dogs4.png] [Source](http://www.smbc-comics.com/comic/dogs-4)
