@@ -27,8 +27,8 @@ knitr::opts_chunk$set(comment = NA)
 ## Load Dr. Love's R script
 
 ```{r}
-## remove the ## if the `Love-431.R` file from our web site
-## is loaded into your project directory
+## remove the ## below if the `Love-431.R` file from our web site
+## is loaded into your project directory and you want to include this script
 
 ## source("Love-431.R")
 ```
@@ -70,6 +70,5 @@ ggplot(data = iris, aes(x = Sepal.Length)) +
 ```{r session_info}
 xfun::session_info()
 ```
-
 
 
