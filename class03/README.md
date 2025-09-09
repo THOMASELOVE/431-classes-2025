@@ -26,7 +26,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - More on the Minute Papers [here](https://github.com/THOMASELOVE/431-minute-2025), and [in the Syllabus](https://thomaselove.github.io/431-syllabus-2025/10_assignments.html#minute-papers).
 
 2. 37/53 of you met the deadline for bonus credit related to the "Favorite Movie" activity in [Section 13 of the Syllabus](https://thomaselove.github.io/431-syllabus-2025/13_movies.html). 
-    - If you're one of the two people (Simon and Pooja) who hasn't done this, please [follow the instructions](https://thomaselove.github.io/431-syllabus-2025/13_movies.html) and do it **now**.
+    - Simon and Pooja, please [follow the instructions](https://thomaselove.github.io/431-syllabus-2025/13_movies.html) and do this **now**.
 
 3. If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. Step away for a while, and if you return and are still stuck, **ASK FOR HELP**.
     - Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html) to get one-on-one help or share a computer problem. Our Shared Google Drive (431 Fall 2025 Materials for Students and Dr. Love) contains Zoom links for TA office hours in a document called **TA office hours Schedule and Zoom links**. No appointment is necessary. Please just drop in.
