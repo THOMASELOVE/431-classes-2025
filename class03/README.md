@@ -32,7 +32,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Professor Love also holds "drop-in" office hours before and after each class.
     - Email Professor Love if you have any questions you don't feel comfortable asking in TA office hours.
 
-4. Thanks to a pair of students for suggested fixes to typos in [the Course Book](https://thomaselove.github.io/431-book/). Since it takes a while for this to run, I aim to update it weekly. The latest version (updated yesterday) will be posted by class time.
+4. Thanks to a pair of students for suggested fixes to typos in [the Course Book](https://thomaselove.github.io/431-book/). Since it takes a while for this to run, I aim to update it on Mondays, as needed. The latest version (updated yesterday) is now online.
 
 -------
 
