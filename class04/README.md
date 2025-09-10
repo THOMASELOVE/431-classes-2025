@@ -14,6 +14,21 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. This section will appear in time for class. 
 
+## Ten More Interesting/Fun Facts about Students in this semester's 431 class
+
+1. I like sloths.
+2. I enjoy cycling, and my personal best in this summer is 30 miles in 2 hours and 50 minutes.
+3. I find the sound of trains on the tracks oddly relaxing.
+4. I foster and sit dogs at home.
+5. I grew up in the northeastern most corner of the United States (Madawaska, ME)
+6. I have a three year old daughter.
+7. I have a two-year-old cat with me. He is so cute!
+8. I have been to over half of the national parks.
+9. I have two young boys and they speak English mixed with Chinese.
+10. I have worked in human resources for a global company the last three years.
+
+These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/welcome_report.md).
+
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
 - Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) if you need help     
