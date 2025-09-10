@@ -20,6 +20,21 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. This section will appear in time for class. 
 
+## Final Ten Interesting/Fun Facts about Students in this semester's 431 class
+
+1. I'm a former nutritionist. I enjoy rock climbing!
+2. I’m a passionate Manchester United fan and often stayed up until 3 AM to watch live matches while growing up in India.
+3. I’m always curious. I genuinely enjoy learning new things, even if they seem small. It keeps life exciting, and I think there’s always something new to explore.
+4. I'm from Connecticut.
+5. I've been playing tennis since I was 5 years old and played on my collegiate team in undergrad.
+6. I’ve gone skydiving twice; for my next thrill, I’m taking PQHS 431.
+7. My favorite hobby is knitting and I've been doing that for almost 20 years at this point. During the early days of the pandemic I picked up quilting as another hobby and have been enjoying that as well.
+8. My go-to fun fact about myself is that in 2011 I bicycled from Portland, Maine to Santa Barbara, California. I was part of a group and for a charity cause, but I rode every inch!
+9. My house has six refrigerators.
+10. I dance in my free time.
+
+These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/welcome_report.md).
+
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
 - Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) if you need help     
