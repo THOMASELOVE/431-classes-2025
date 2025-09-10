@@ -20,6 +20,21 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. This section will appear in time for class. 
 
+## Ten More Interesting/Fun Facts about Students in this semester's 431 class
+
+1. I just went kayaking in Washington state to see bioluminescence.
+2. I know some cardistry.
+3. I like cooking and baking, but I do not like to have too much sugar.
+4. I like rock climbing and if anyone wants to try it out I'd welcome them to try.
+5. I love creating short travel videos—last year I made a series about exploring New England in the fall.
+6. I am currently learning Spanish and German, and I taught myself to play the Ukulele last year.
+7. I love nature and going on hikes!
+8. I love soccer!
+9. I love to play mahjong
+10. I love to watch good television. I recently finished watching The Wire and am currently finishing up with Mad Men.
+
+These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/welcome_report.md).
+
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
 - Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) if you need help     
