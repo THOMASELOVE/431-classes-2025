@@ -16,9 +16,9 @@ Source: [XKCD](https://xkcd.com/1179/)
 
 ## Announcements
 
-1. Thanks to those of you who completed the [Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2025) on time. Feedback can be found at <https://bit.ly/431-2025-min-03-feedback>, which links to the file on our Shared Google Drive, so you'll need to be logged into Google via CWRU to review the feedback.
+1. We've set up a new way for you to contact us, 24 hours a day, 7 days a week, starting at 1 PM today. Just email `431-help` at `case` dot `edu`, to simultaneously contact Dr. Love and all thirteen TAs, if you want to ask us a question of any kind. We will get back to you as soon as possible. I've added this to our [Contact] and [Calendar] pages.
 2. Thanks to an alert student who pointed out that the measurements of hand span on the [Day 2 survey](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/431_surveyhandout_1perstudent_2025-09-04.pdf) were not in inches, but rather centimeters.
-3. We are in the process of setting up at least one additional way to ask us questions (in addition to TA office hours.) News on this will come to you via email as soon as it's tested and working properly, perhaps before our next class.
+3. Thanks to those of you who completed the [Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2025) on time. Feedback can be found at <https://bit.ly/431-2025-min-03-feedback>, which links to the file on our Shared Google Drive, so you'll need to be logged into Google via CWRU to review the feedback.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
