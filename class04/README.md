@@ -10,9 +10,15 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 04 | 2025-09-11 | **[Slides 04](https://thomaselove.github.io/431-slides-2025/class04.html)** | **[Word 04](https://thomaselove.github.io/431-slides-2025/class04w.docx)** | **[Code 04](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/iso_8601.png)
+
+Source: [XKCD](https://xkcd.com/1179/)
+
 ## Announcements
 
-1. This section will appear in time for class. 
+1. Thanks to those of you who completed the [Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2025) on time. Feedback can be found at <https://bit.ly/431-2025-min-03-feedback>, which links to the file on our Shared Google Drive, so you'll need to be logged into Google via CWRU to review the feedback.
+2. Thanks to an alert student who pointed out that the measurements of hand span on the [Day 2 survey](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/431_surveyhandout_1perstudent_2025-09-04.pdf) were not in inches, but rather centimeters.
+3. We are in the process of setting up at least one additional way to ask us questions (in addition to TA office hours.) News on this will come to you via email as soon as it's tested and working properly, perhaps before our next class.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
@@ -28,6 +34,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 10. I have worked in human resources for a global company the last three years.
 
 These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/welcome_report.md).
+
+----------
 
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
