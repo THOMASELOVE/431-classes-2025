@@ -29,5 +29,5 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Read [R for Data Science](https://r4ds.hadley.nz/), sections 16 (Factors) and 28 (Quarto)
 - Next Week
     - [Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html) due Wednesday 2025-10-01 at noon.
-- Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) if you need help     
+- Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) or email us at `431-help at case dot edu` if you need help.    
 
