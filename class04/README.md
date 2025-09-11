@@ -47,3 +47,22 @@ These come from the Welcome to 431 survey - some more results from that survey [
 - Next Week
     - [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/tree/main) after Class 05 will be posted in time for Class on Tuesday, and is due Wednesday at noon.
     - Remember that [Lab 1](https://github.com/THOMASELOVE/431-labs-2025) is also due on Wednesday 2025-09-17 at noon.
+
+## One Last Thing
+
+Here is the list of "[favorite movies](https://thomaselove.github.io/431-syllabus-2025/13_movies.html)" provided by 53 students in 431 this semester. More to come.
+
+Favorite Movies |  | 431 Fall 2025 | | n = 53 students
+:-----------------: | :----------------: | :----------------: | :--------------: | :-----------------:
+Good Will Hunting (1997) (x2) | Inception (2010) (x2)
+Avengers: Endgame (2019) | Best in Show (2000) | The Big Lebowski (1998) | The Birdcage (1996) | Catch Me If You Can (2002)
+Everything, Everywhere, All at Once (2022) | Forrest Gump (1994) | The Godfather, Part II (1974) | Harry Potter and the Prisoner of Azkaban (2004) | LOTR: The Fellowship of the Ring (2001) 
+LOTR: The Two Towers (2002) | Now You See Me (2013) | Oppenheimer (2023) | The Prestige (2006) | Shrek (2001)
+Spider Man: Into The Spider-Verse (2018) | Spotlight (2015) | Step Brothers (2008) | 
+3 Idiots (2009) | 20th Century Women (2016) | 300 (2006) | Akira (1988) | B for Busy (Al qing shen hua) (2021)
+Cloud Atlas (2012) | The Devil Wears Prada (2006) | Doom (2005) | Fantastic Mr. Fox (2009) | Godzilla, King of the Monsters (2019)
+The Goonies (1985) | The Hateful Eight (2015) | The Help (2011) | In the Mood for Love (Fa yeung nin wah) (2000) | Jurassic Park (1993)
+Kill Bill, volume 1 (2003) | A Knight's Tale (2001) | Labyrinth (1986) | Lilo & Stitch (2025) | Mad Max: Fury Road (2015) 
+Mulan (1998) | Parasite (Gisaengchung) (2019) | The Perks of Being A Wallflower (2012) | Pride & Prejudice (2005) | Princess Mononoke (Mononoke-hime) (1997)
+Roman Holiday (1953) | Top Gun (1986) | Waterloo Bridge (1940) | Weathering With You (Tenki no ko) (2019) 
+
