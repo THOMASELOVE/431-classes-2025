@@ -46,7 +46,7 @@ You may recall my mentioning that over the past ten years, 547 students had take
     - I don't wear glasses (except reading glasses on occasion). English is my best language. I have never smoked, not even on stage.
     - My handedness score is +0.5 (four plus marks on L and 12 on R), although, for example, I shoot pool better left-handed.
     - My last haircut cost me $45, including the tip. My favorite color is purple.
-    - My hand span is just over 26 inches, which is the largest this year (and most years.)
+    - My hand span is just over 26 cm, which is the largest this year (and most years.)
     - I slept 6.5 hours the night before our class 02, and my pulse rate at the start of that class was 84 beats per minute.
 - Changes to the survey over the years:
     - `glasses` item added in 2019, `love's height` added in 2021
