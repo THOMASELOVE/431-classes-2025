@@ -19,7 +19,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. I fixed a couple of typographical errors that alert students let me know about in the [Class 04 Slides](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class04#todays-slides).
     - If you find such an error during class time, raise your hand and let us know so I can fix it, but outside of class, if you see something, please email me so I can give you a little class participation credit.
 
-4. In section 14 of our Syllabus, I fixed a broken link. Here's the repaired version:
+4. In [section 14 of our Syllabus](https://thomaselove.github.io/431-syllabus-2025/14_advice.html), I updated a broken link. Here's the repaired version:
 
 > Most people are really bad at meetings, including Professor Love. In a series of tweets, Greg Wilson argued that "...the single most useful training you can give an adult is how to run a meeting and how to participate in someone else's." He then provides [some nice tips in this YouTube video](https://www.youtube.com/watch?v=5f3-q9SzkeE).
 
