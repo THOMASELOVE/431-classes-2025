@@ -20,7 +20,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Your next assignment is the [Minute Paper after Class 03](https://bit.ly/431-2025-minute-03), which you need to complete by NOON Wednesday 2024-09-10 (tomorrow). A Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you. It shouldn't take more than 2-3 minutes to complete.
+1. Your next assignment is the [Minute Paper after Class 03](https://bit.ly/431-2025-minute-03), which you need to complete by NOON Wednesday 2025-09-10 (tomorrow). A Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you. It shouldn't take more than 2-3 minutes to complete.
     - You'll need to be logged into Google via CWRU to complete the Minute Papers. 
     - **Always** complete the Minute Paper even if you weren’t able to attend the most recent class. 
     - More on the Minute Papers [here](https://github.com/THOMASELOVE/431-minute-2025), and [in the Syllabus](https://thomaselove.github.io/431-syllabus-2025/10_assignments.html#minute-papers).
