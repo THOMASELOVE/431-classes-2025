@@ -57,9 +57,10 @@ These come from the Welcome to 431 survey - some more results from that survey [
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
 - Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) or email us at `431-help at case dot edu` if you need help.    
-- [Lab 1](https://github.com/THOMASELOVE/431-labs-2025) is due tomorrow (Wednesday 2025-09-17) at noon. Submit it to [Canvas](https://canvas.case.edu/).
+- [Lab 1](https://github.com/THOMASELOVE/431-labs-2025) is also due tomorrow (Wednesday 2025-09-17) at noon. Submit it to [Canvas](https://canvas.case.edu/).
 - The [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/tree/main) after Class 05 is due Wednesday 2025-09-17 at noon.
 - Get started on [Lab 2](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2), which is due Wednesday 2025-09-24 at noon.    
+- You should also get started (or at least read all of the instructions) for [Project A](https://thomaselove.github.io/431-projectA-2025/). The [Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html) is due Wednesday 2025-10-01 at noon.
 
 ## One Last Thing
 
