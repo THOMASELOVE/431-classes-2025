@@ -42,6 +42,11 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/welcome_report.md).
 
+## From Today's Slides
+
+- [Better Health Partnership](https://www.betterhealthpartnership.org/)
+- An [overview of janitor functions](https://cran.r-project.org/web/packages/janitor/vignettes/janitor.html)
+- New York Mets' [Team Color Codes](https://teamcolorcodes.com/new-york-mets-color-codes/)
 
 -----------
 
