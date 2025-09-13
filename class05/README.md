@@ -47,7 +47,10 @@ These come from the Welcome to 431 survey - some more results from that survey [
 - [Better Health Partnership](https://www.betterhealthpartnership.org/)
 - An [overview of janitor functions](https://cran.r-project.org/web/packages/janitor/vignettes/janitor.html)
 - New York Mets' [Team Color Codes](https://teamcolorcodes.com/new-york-mets-color-codes/)
-
+- For more on building tables using the `knitr` and `kableExtra` packages, see [this link](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
+- For more on building tables using the `gt` package: see [this link](https://gt.rstudio.com/)
+- [Appendix E of Dr. Love's Course Book](https://thomaselove.github.io/431-book/formulas.html)  provides detailed descriptions of key numerical summaries.
+ 
 -----------
 
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
