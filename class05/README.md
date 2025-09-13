@@ -14,8 +14,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. [Lab 1](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab1) is due Wednesday 2025-09-17 at Noon. As things stand, **all** assignments for this course are due on Wednesdays at noon. See the [Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word in all situations. Submit it to [Canvas](https://canvas.case.edu/).
 
-2. There is a **Minute Paper after Class 05**, which will be posted **by class time**, and which is also due Wednesday 2025-09-17 at Noon.
-    - Also, be sure to see the "[One Last Thing](#one-last-thing)" section, below.
+2. There is a [Minute Paper after Class 05](https://bit.ly/431-2025-minute-05), which will open **by class time**, and which is also due Wednesday 2025-09-17 at Noon.
+    - Before you respond, be sure to see the "[One Last Thing](#one-last-thing)" section, below.
 
 3. I fixed a couple of typographical errors that alert students let me know about in the [Class 04 Slides](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class04#todays-slides).
     - If you find such an error during class time, raise your hand and let us know so I can fix it, but outside of class, if you see something, please email me so I can give you a little class participation credit.
