@@ -14,7 +14,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. [Lab 1](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab1) is due Wednesday 2025-09-17 at Noon. As things stand, **all** assignments for this course are due on Wednesdays at noon. See the [Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word in all situations. Submit it to [Canvas](https://canvas.case.edu/).
 
-2. There is a **Minute Paper after Class 05**, which will be posted **by class time**, and which is also due Wednesday 2025-09-17 at Noon.
+2. There is a **Minute Paper after Class 05**, which will be posted **by class time**, and which is also due Wednesday 2025-09-17 at Noon. Also, see the "One Last Thing" section, at the bottom of this page.
 
 3. I fixed a couple of typographical errors that alert students let me know about in the [Class 04 Slides](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class04#todays-slides).
     - If you find such an error during class time, raise your hand and let us know so I can fix it, but outside of class, if you see something, please email me so I can give you a little class participation credit.
@@ -60,3 +60,16 @@ These come from the Welcome to 431 survey - some more results from that survey [
 - The [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/tree/main) after Class 05 is due Wednesday 2025-09-17 at noon.
 - Get started on [Lab 2](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2), which is due Wednesday 2025-09-24 at noon.    
 
+## One Last Thing
+
+In today's minute paper, I will ask you "Which of these five themes for slides would you prefer Dr. Love to use in 431 for the rest of the semester?" Here they are, in case you want to see larger versions...
+
+![](01_dark.png)
+
+![](02_default.png)
+
+![](03_dracula.png)
+
+![](04_simple.png)
+
+![](05_night.png)
