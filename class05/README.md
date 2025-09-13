@@ -23,7 +23,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 > Most people are really bad at meetings, including Professor Love. In a series of tweets, Greg Wilson argued that "...the single most useful training you can give an adult is how to run a meeting and how to participate in someone else's." He then provides [some nice tips in this YouTube video](https://www.youtube.com/watch?v=5f3-q9SzkeE).
 
-5. We will begin to post grades (and help you understand how to view and interpret them) after we've graded Lab 1.
+5. There is a [new version of RStudio available](https://posit.co/download/rstudio-desktop/) (2025.09.0 build 387 is the one I'm using now.) Feel encouraged to update to this new version.
+
+6. We will begin to post grades (and help you understand how to view and interpret them) after we've graded Lab 1.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
