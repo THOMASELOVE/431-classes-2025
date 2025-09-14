@@ -28,6 +28,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 6. We will begin to post grades (and help you understand how to view and interpret them) after we've graded Lab 1.
 
+7. Lab 2 is due a week from tomorrow, and I updated [the template for Lab 2](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/lab2-template.qmd) on our [431-data page](https://github.com/THOMASELOVE/431-data) to include the `MKinfer` package, since I expect you'll want to use that package. The revised [Lab 2 template](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/lab2-template.qmd) now includes all packages that I used in preparing the Lab 2 answer sketch.
+
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
 1. I just went kayaking in Washington state to see bioluminescence.
@@ -59,7 +61,7 @@ These come from the Welcome to 431 survey - some more results from that survey [
 - Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) or email us at `431-help at case dot edu` if you need help.    
 - [Lab 1](https://github.com/THOMASELOVE/431-labs-2025) is also due tomorrow (Wednesday 2025-09-17) at noon. Submit it to [Canvas](https://canvas.case.edu/).
 - The [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025/tree/main) after Class 05 is due Wednesday 2025-09-17 at noon.
-- Get started on [Lab 2](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2), which is due Wednesday 2025-09-24 at noon.    
+- Get started on [Lab 2](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2), which is due Wednesday 2025-09-24 at noon. Make sure you grab the [revised version of the Lab 2 template](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/lab2-template.qmd).   
 - You should also get started (or at least read all of the instructions) for [Project A](https://thomaselove.github.io/431-projectA-2025/). The [Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html) is due Wednesday 2025-10-01 at noon.
 
 ## One Last Thing
