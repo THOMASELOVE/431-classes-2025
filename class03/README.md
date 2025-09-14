@@ -71,7 +71,7 @@ In addition to demonstrating general approaches for creating R projects and Quar
 4. Using the assignment operator `<-` to assign results to a variable or tibble or other sort of object.
 5. Summarizing data with `summary()`, `tabyl()` and with `describe_distribution()`
 6. Dealing with missing data via the creation of complete-case analyses with `filter(complete.cases())`
-7. Converting categorical variables to factors with `as_factor())`
+7. Converting categorical variables to factors with `as_factor()`
 8. Building plots using `ggplot` and the `ggplot2` package
     - Setting the x and y variables with `aes()`
     - Using `geom_histogram()` to obtain histograms of quantities
