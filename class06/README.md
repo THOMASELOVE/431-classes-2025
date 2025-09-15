@@ -12,7 +12,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. This section will appear in time for class.
+2. I will provide feedback on the **Minute Paper after Class 05** in today's class.
+3. The **Answer Sketch for Lab 1** will go live on our Shared Google Drive in the early afternoon on Friday.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
