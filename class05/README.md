@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+![](phdcomics_2004-05-31.png)  [Source: phdcomics.com](https://phdcomics.com/comics.php?f=462) by Jorge Cham.
+
 ## Today's Slides
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
