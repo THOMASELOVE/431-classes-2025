@@ -20,8 +20,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. I love to workout and I have my personal training and barre certification!
 2. I moved to Cleveland a month ago and already got 5 stitches :))
-3. I name my pets after [cnidarians](https://en.wikipedia.org/wiki/Cnidaria)
-4. I recently started brewing my own kombucha
+3. I name my pets after [cnidarians](https://en.wikipedia.org/wiki/Cnidaria).
+4. I recently started brewing my own kombucha.
 5. I somehow manage to run cancer research projects, study for Step exams, and raise a Boston Terrier puppy who thinks she’s my boss. Honestly, the puppy is the toughest project.
 6. I started skiing when I was 2 and a half years old.
 7. I studied in Ireland for a semester in undergrad.
