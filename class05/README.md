@@ -70,7 +70,7 @@ These come from the Welcome to 431 survey - some more results from that survey [
 
 ## One Last Thing
 
-In today's minute paper, I will ask you "Which of these five themes for slides would you prefer Dr. Love to use in 431 for the rest of the semester?" Here they are, in case you want to see larger versions...
+In today's minute paper, I will ask you "Which of these five themes for slides would you prefer Dr. Love to use in 431 for the rest of the semester?" You can select as many as you like. Here they are, in case you want to see larger versions...
 
 ![](01_dark.png)
 
