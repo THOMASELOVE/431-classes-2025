@@ -32,7 +32,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 7. Lab 2 is due a week from tomorrow, and I updated [the template for Lab 2](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/lab2-template.qmd) on our [431-data page](https://github.com/THOMASELOVE/431-data) to include the `MKinfer` package, since I expect you'll want to use that package. The revised [Lab 2 template](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/lab2-template.qmd) now includes all packages that I used in preparing the Lab 2 answer sketch.
 
-8. A [quick demonstration](demo_class06.md) about one difference between "live coding" and rendering data.
+8. A [quick demonstration](demo_class05.qmd) about one difference between "live coding" and rendering data related to the use of `kable()` or `print_md()`.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
