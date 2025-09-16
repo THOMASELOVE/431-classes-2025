@@ -17,6 +17,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. This section will appear in time for class.
 2. I will provide feedback on the **Minute Paper after Class 05** in today's class.
 3. The **Answer Sketch for Lab 1** will go live on our Shared Google Drive in the early afternoon on Friday. I will alert you by email when it is live.
+4. "See 2025 Ohio school report card grades for every district in the state" published 2025-09-15 at [Cleveland.com](https://www.cleveland.com/news/2025/09/see-2025-ohio-school-report-card-grades-for-every-district-in-the-state.html)
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
