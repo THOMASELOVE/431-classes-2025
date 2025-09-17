@@ -28,6 +28,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
         - MPH: Tara Hannum (tmh123@case.edu).
     - Or visit the Security Office on the ground floor of the BRB building.
 5. The **Answer Sketch for Lab 1** will go live on our Shared Google Drive in the early afternoon on Friday. I will alert you by email when it is live. The Answer Sketch includes a grading rubric.
+    - If you submit something multiple times to Canvas, the version that appears to us when grading is the most recent one.
     - If I ask you to (for example) report a result to one decimal place, that doesn't mean you have to produce output which is limited to one decimal place. You could, for example, have output with more decimals, but your sentence describing your answer should list a correctly rounded result.
 6. "[See 2025 Ohio school report card grades for every district in the state](https://www.cleveland.com/news/2025/09/see-2025-ohio-school-report-card-grades-for-every-district-in-the-state.html)" published 2025-09-15 at [Cleveland.com](https://www.cleveland.com/news/2025/09/see-2025-ohio-school-report-card-grades-for-every-district-in-the-state.html)
 
