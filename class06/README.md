@@ -14,14 +14,14 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class.
+1. [Slide 41 from Class 05](https://thomaselove.github.io/431-slides-2025/class05.html#/bayesian-fit) is, I think, fixed online now. I emailed you all a copy if it's still an issue for you.
 2. I will provide feedback on the **Minute Paper after Class 05** in today's class.
 3. The **Answer Sketch for Lab 1** will go live on our Shared Google Drive in the early afternoon on Friday. I will alert you by email when it is live.
 4. "See 2025 Ohio school report card grades for every district in the state" published 2025-09-15 at [Cleveland.com](https://www.cleveland.com/news/2025/09/see-2025-ohio-school-report-card-grades-for-every-district-in-the-state.html)
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
-1. I love to workout and I have my personal training and barre certification!
+1. I love to work out and I have my personal training and barre certification!
 2. I moved to Cleveland a month ago and already got 5 stitches :))
 3. I name my pets after [cnidarians](https://en.wikipedia.org/wiki/Cnidaria).
 4. I recently started brewing my own kombucha.
