@@ -20,7 +20,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. Things I've updated since last class...
     - I've updated [the Love-431.R script](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/Love-431.R) on our 431-data page and everywhere else to address an extra comma.
     - [Slide 41 from Class 05](https://thomaselove.github.io/431-slides-2025/class05.html#/bayesian-fit) is, I think, fixed online now. I emailed you all a copy if it's still an issue for you.
-3. To get access to the **Robbins Building** if you are affiliated with a degree program in PQHS, emailing the appropriate admin is a quick way to address ID access issues too. Epi/Bio PhD, Informatics MS and PhD, MS biostatistics: Kim Krajcovic (kxk917@case.edu), CTS PhD, CRSP: Lauren Mazzagatti (lxm565@case.edu), and MPH: Tara Hannum (tmh123@case.edu). Or visit the Security Office on the ground floor of the BRB building.
+3. To get access to the **Robbins Building**:
+    - If you are affiliated with a degree program in PQHS, emailing the appropriate admin is a quick way to address ID access issues too.
+        - Epi/Bio PhD, Informatics MS and PhD, MS biostatistics: Kim Krajcovic (kxk917@case.edu)
+        - CTS PhD, CRSP: Lauren Mazzagatti (lxm565@case.edu)
+        - MPH: Tara Hannum (tmh123@case.edu).
+    - Or visit the Security Office on the ground floor of the BRB building.
 5. The **Answer Sketch for Lab 1** will go live on our Shared Google Drive in the early afternoon on Friday. I will alert you by email when it is live. The Answer Sketch includes a grading rubric.
     - If I ask you to (for example) report a result to one decimal place, that doesn't mean you have to produce output which is limited to one decimal place. You could, for example, have output with more decimals, but your sentence describing your answer should list a correctly rounded result.
 6. "See 2025 Ohio school report card grades for every district in the state" published 2025-09-15 at [Cleveland.com](https://www.cleveland.com/news/2025/09/see-2025-ohio-school-report-card-grades-for-every-district-in-the-state.html)
