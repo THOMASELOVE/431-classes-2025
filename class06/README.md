@@ -34,12 +34,12 @@ I **will add a link here** to my feedback on the Minute Paper after Class 05.
 1. I love to work out and I have my personal training and barre certification!
 2. I moved to Cleveland a month ago and already got 5 stitches :))
 3. I name my pets after [cnidarians](https://en.wikipedia.org/wiki/Cnidaria).
-4. I recently started brewing my own kombucha.
-5. I somehow manage to run cancer research projects, study for Step exams, and raise a Boston Terrier puppy who thinks she’s my boss. Honestly, the puppy is the toughest project.
+4. I recently started brewing my own [kombucha](https://en.wikipedia.org/wiki/Kombucha).
+5. I somehow manage to run cancer research projects, study for [Step exams](https://www.usmle.org/step-exams), and raise a Boston Terrier puppy who thinks she’s my boss. Honestly, the puppy is the toughest project.
 6. I started skiing when I was 2 and a half years old.
 7. I studied in Ireland for a semester in undergrad.
-8. I used to practice aerial dancing.
-9. I was on CWRUbotix's product demo team for the MATE ROV (underwater drone) World Championship a couple of months ago when we won first overall in the university class.
+8. I used to practice [aerial dancing](https://en.wikipedia.org/wiki/Aerial_dance).
+9. I was on [CWRUbotix](https://www.cwrubotix.org/)'s product demo team for the [MATE ROV (underwater drone) World Championship](https://materovcompetition.org/) a couple of months ago when we won first overall in the university class.
 10. I work at Case, primarily dissecting fresh cadavers.
 
 These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/welcome_report.md).
