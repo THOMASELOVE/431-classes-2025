@@ -20,6 +20,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. Things I've updated since last class...
     - I've updated [the Love-431.R script](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/Love-431.R) on our 431-data page and everywhere else to address an extra comma.
     - [Slide 41 from Class 05](https://thomaselove.github.io/431-slides-2025/class05.html#/bayesian-fit) is, I think, fixed online now. I emailed you all a copy if it's still an issue for you.
+    - I changed a phrase in [Section 5.4.1 of the Course Text](https://thomaselove.github.io/431-book/05_paired.html#using-a-linear-model) which was poorly edited previously, abnout the t statistic and p value, which we're not yet interested in.
 3. To get access to the **Robbins Building**:
     - If you are affiliated with a degree program in PQHS, emailing the appropriate admin is a quick way to address ID access issues too.
         - Epi/Bio PhD, Informatics MS and PhD, MS biostatistics: Kim Krajcovic (kxk917@case.edu)
