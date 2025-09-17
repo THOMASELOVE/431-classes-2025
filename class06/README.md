@@ -14,13 +14,14 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To get access to the **Robbins Building** if you are affiliated with a degree program in PQHS, emailing the appropriate admin is a quick way to address ID access issues too. Epi/Bio PhD, Informatics MS and PhD, MS biostatistics: Kim Krajcovic (kxk917@case.edu), CTS PhD, CRSP: Lauren Mazzagatti (lxm565@case.edu), and MPH: Tara Hannum (tmh123@case.edu). Or visit the Security Office on the ground floor of the BRB building.
-2. [Slide 41 from Class 05](https://thomaselove.github.io/431-slides-2025/class05.html#/bayesian-fit) is, I think, fixed online now. I emailed you all a copy if it's still an issue for you.
-3. If you are asking for help from us through `431-help` at `case dot edu`, you will need to provide us with your complete Quarto file, as well as a description (and screenshot) of the problem you're having. We cannot diagnose a problem outside of Zoom without a Quarto file, and often we'll want to see the Quarto file on Zoom. Don't just show us a piece of your Quarto file - we need to see the whole thing.
-4. I will provide feedback on the **Minute Paper after Class 05** in today's class.
-5. The **Answer Sketch for Lab 1** will go live on our Shared Google Drive in the early afternoon on Friday. I will alert you by email when it is live.
-6. If I ask you to (for example) report a result to one decimal place, that doesn't mean you have to produce output which is limited to one decimal place. You could, for example, have output with more decimals, but your sentence describing your answer should list a correctly rounded result.
-7. "See 2025 Ohio school report card grades for every district in the state" published 2025-09-15 at [Cleveland.com](https://www.cleveland.com/news/2025/09/see-2025-ohio-school-report-card-grades-for-every-district-in-the-state.html)
+1. If you are asking for help from us through `431-help` at `case dot edu`, you will need to provide us with your complete Quarto file, as well as a description (and screenshot) of the problem you're having. We cannot diagnose a problem outside of Zoom without a Quarto file, and often we'll want to see the Quarto file on Zoom. Don't just show us a piece of your Quarto file - we need to see the whole thing.
+2. To get access to the **Robbins Building** if you are affiliated with a degree program in PQHS, emailing the appropriate admin is a quick way to address ID access issues too. Epi/Bio PhD, Informatics MS and PhD, MS biostatistics: Kim Krajcovic (kxk917@case.edu), CTS PhD, CRSP: Lauren Mazzagatti (lxm565@case.edu), and MPH: Tara Hannum (tmh123@case.edu). Or visit the Security Office on the ground floor of the BRB building.
+3. I've updated [the Love-431.R script](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/Love-431.R) on our 431-data page to address an extra comma. I encourage you to [use this revised version](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/Love-431.R).
+4. [Slide 41 from Class 05](https://thomaselove.github.io/431-slides-2025/class05.html#/bayesian-fit) is, I think, fixed online now. I emailed you all a copy if it's still an issue for you.
+5. I will provide feedback on the **Minute Paper after Class 05** in today's class.
+6. The **Answer Sketch for Lab 1** will go live on our Shared Google Drive in the early afternoon on Friday. I will alert you by email when it is live.
+7. If I ask you to (for example) report a result to one decimal place, that doesn't mean you have to produce output which is limited to one decimal place. You could, for example, have output with more decimals, but your sentence describing your answer should list a correctly rounded result.
+8. "See 2025 Ohio school report card grades for every district in the state" published 2025-09-15 at [Cleveland.com](https://www.cleveland.com/news/2025/09/see-2025-ohio-school-report-card-grades-for-every-district-in-the-state.html)
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
@@ -39,7 +40,7 @@ These come from the Welcome to 431 survey - some more results from that survey [
 
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
-- Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) or email us at `431-help at case dot edu` if you need help.     
+- Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) or email us at `431-help at case dot edu` if you need help. Send your entire Quarto file **and** a description of your problem if you're asking a question about R via email.     
 - Before Class 7 (2025-09-23)
     - Work on [Lab 2](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2), which is due Wednesday 2025-09-24 at noon.
     - Finish the [Project A data work](https://thomaselove.github.io/431-projectA-2025/) and get started on the [Project A Plan](https://thomaselove.github.io/431-projectA-2025/).
