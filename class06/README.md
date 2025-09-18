@@ -34,7 +34,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Minute Paper after Class 05 Feedback
 
-I **will add a link here** to my feedback on the Minute Paper after Class 05.
+[Here is my feedback](https://bit.ly/431-2025-min-05-feedback) on the Minute Paper after Class 05.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
