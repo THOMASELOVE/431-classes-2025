@@ -18,7 +18,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. We will discuss Section 12 of the Project A Plan - building your research questions today.
+2. We will discuss how to interpret confidence and credibility intervals today in more detail.
+3. More will appear in time for class. 
 
 ## Final Ten Interesting/Fun Facts about Students in this semester's 431 class
 
