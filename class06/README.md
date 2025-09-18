@@ -46,7 +46,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 Ideally, by class time next Tuesday, we want you to have:
 
-- read [all of the Project A instructions], especially the [Home](https://thomaselove.github.io/431-projectA-2025/), [Data](https://thomaselove.github.io/431-projectA-2025/data.html), [Plan](https://thomaselove.github.io/431-projectA-2025/plan.html) and [Examples](https://thomaselove.github.io/431-projectA-2025/examples.html) sections, especially the parts that relate to the Data and Plan phases of the work.
+- read [all of the Project A instructions](https://thomaselove.github.io/431-projectA-2025/), especially the [Home](https://thomaselove.github.io/431-projectA-2025/), [Data](https://thomaselove.github.io/431-projectA-2025/data.html), [Plan](https://thomaselove.github.io/431-projectA-2025/plan.html) and [Examples](https://thomaselove.github.io/431-projectA-2025/examples.html) sections, especially the parts that relate to the Data and Plan phases of the work.
 - completed the [Project A Data phase](https://thomaselove.github.io/431-projectA-2025/data.html), which involves six data management tasks, and is complete when you have a chr_2025 tibble with 11 variables saved as an Rds file called `chr_2025_YOURNAME.Rds` in the `data` subdirectory of the R Project directory you are using for Project A,
 - completed a draft of the [Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html) sections 1-10 and 15.
     - The [Project A Plan instructions are here](https://thomaselove.github.io/431-projectA-2025/plan.html).
