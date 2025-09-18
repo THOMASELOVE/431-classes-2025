@@ -21,6 +21,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - I've updated [the Love-431.R script](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/Love-431.R) on our 431-data page and everywhere else to address an extra comma.
     - [Slide 41 from Class 05](https://thomaselove.github.io/431-slides-2025/class05.html#/bayesian-fit) is, I think, fixed online now. I emailed you all a copy if it's still an issue for you.
     - I changed a phrase in [Section 5.4.1 of the Course Text](https://thomaselove.github.io/431-book/05_paired.html#using-a-linear-model) which included a dead link, about the t statistic and p value.
+    - Thanks to an alert student, I've updated the [Project A instructions' Data page](https://thomaselove.github.io/431-projectA-2025/data.html) to account for the fact that the raw `.csv` file available to the public has changed slightly since my initial posting of the instructions. The corrected sentences in Data Task 1 are:
+
+> This code should create a `chr_2025_raw` tibble with **3204** rows (observations) and **95** columns (variables). 
+> To complete Task 1, you'll need to augment the code above to restrict the `chr_2025_raw` data to include only the **3089** rows which have "county_clustered" values of 1, since the other rows will not be used by us in this project.
+> At the end of Task 1, your `chr_2025_raw` tibble should have **3089** rows (counties) and **95** columns (variables).
+
 3. To get access to the **Robbins Building**:
     - If you are affiliated with a degree program in PQHS, emailing the appropriate admin is a quick way to address ID access issues too.
         - Epi/Bio PhD, Informatics MS and PhD, MS biostatistics: Kim Krajcovic (kxk917@case.edu)
