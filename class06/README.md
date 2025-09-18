@@ -50,7 +50,7 @@ Ideally, by class time next Tuesday, we want you to have:
 - completed the [Project A Data phase](https://thomaselove.github.io/431-projectA-2025/data.html), which involves six data management tasks, and is complete when you have a chr_2025 tibble with 11 variables saved as an Rds file called `chr_2025_YOURNAME.Rds` in the `data` subdirectory of the R Project directory you are using for Project A,
 - completed a draft of the [Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html) sections 1-10 and 15.
     - The [Project A Plan instructions are here](https://thomaselove.github.io/431-projectA-2025/plan.html).
-    - There is a Project A Plan template (and Quarto for a sample Plan, as well) in the [Examples material](https://thomaselove.github.io/431-projectA-2025/examples.html).
+    - There is a Project A [Plan template](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/projectA-plan-template.qmd) (and Quarto for a sample Plan, as well) in the Project A [Examples material](https://thomaselove.github.io/431-projectA-2025/examples.html).
     - Where we'd like you to be by Tuesday is to have used [the Plan template](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/projectA-plan-template.qmd) to start and that you have completed (at least):
         - the adjustments to the YAML to include an appropriate title, subtitle and author(s),
         - the material from the [Data phase](https://thomaselove.github.io/431-projectA-2025/data.html) (which form [Sections 1-9 of the Project Plan](https://thomaselove.github.io/431-projectA-2025/plan.html#sections-of-the-project-a-plan)),
