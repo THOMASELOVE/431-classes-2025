@@ -23,7 +23,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - I fixed Task 2.2b in Lab 2 to indicate that there are four approaches, not three, as I'd originally written.
     - I fixed the typo in slide 15 from Class 06 to show the correct bootstrap confidence interval (0.19, 0.47).
 3. Because conversion of Quarto files to Word does not allow the use of `kable()`, I have deliberately deleted `kable()` calls when building the Word documents for Class Slides this semester. Sorry about that.
-4. MediaVision will be video-taping (at least some of) our Class 09 on 2025-09-30.
+4. MediaVision will be video-taping (at least some of) our Class 09 on 2025-09-30 for use in a video extolling our MS program in Biostatistics.
 5. More to come in time for class.
 
 ## Reminders to Dr. Love
