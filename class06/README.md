@@ -42,6 +42,22 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 [Here is my feedback](https://bit.ly/431-2025-min-05-feedback) on the Minute Paper after Class 05.
 
+## About Project A
+
+Ideally, by class time next Tuesday, we want you to have:
+
+- read [all of the Project A instructions], especially the [Home](https://thomaselove.github.io/431-projectA-2025/), [Data](https://thomaselove.github.io/431-projectA-2025/data.html), [Plan](https://thomaselove.github.io/431-projectA-2025/plan.html) and [Examples](https://thomaselove.github.io/431-projectA-2025/examples.html) sections, especially the parts that relate to the Data and Plan phases of the work.
+- completed the [Project A Data phase](https://thomaselove.github.io/431-projectA-2025/data.html), which involves six data management tasks, and is complete when you have a chr_2025 tibble with 11 variables saved as an Rds file called `chr_2025_YOURNAME.Rds` in the `data` subdirectory of the R Project directory you are using for Project A,
+- completed a draft of the [Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html) sections 1-10 and 15.
+    - The [Project A Plan instructions are here](https://thomaselove.github.io/431-projectA-2025/plan.html).
+    - There is a Project A Plan template (and Quarto for a sample Plan, as well) in the [Examples material](https://thomaselove.github.io/431-projectA-2025/examples.html).
+    - Where we'd like you to be by Tuesday is to have used [the Plan template](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/projectA-plan-template.qmd) to start and that you have completed (at least):
+        - the adjustments to the YAML to include an appropriate title, subtitle and author(s),
+        - the material from the [Data phase](https://thomaselove.github.io/431-projectA-2025/data.html) (which form [Sections 1-9 of the Project Plan](https://thomaselove.github.io/431-projectA-2025/plan.html#sections-of-the-project-a-plan)),
+        - the Numerical Summaries section ([Section 10](https://thomaselove.github.io/431-projectA-2025/plan.html#section-10.-numerical-summaries))
+        - the Session Information section ([Section 15](https://thomaselove.github.io/431-projectA-2025/plan.html#section-15.-session-information)
+- The most important task left after that will be the development of your research questions for Section 12, and we'll discuss that further in **Class 07**.
+
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
 1. I love to work out and I have my personal training and barre certification!
@@ -62,7 +78,7 @@ These come from the Welcome to 431 survey - some more results from that survey [
 - Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) or email us at `431-help at case dot edu` if you need help. Send your entire Quarto file **and** a description of your problem if you're asking a question about R via email.     
 - Before Class 7 (2025-09-23)
     - Work on [Lab 2](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2), which is due Wednesday 2025-09-24 at noon.
-    - Finish the [Project A data work](https://thomaselove.github.io/431-projectA-2025/) and get started on the [Project A Plan](https://thomaselove.github.io/431-projectA-2025/).
+    - Finish the [Project A data work](https://thomaselove.github.io/431-projectA-2025/) and build sections 1-10 and 15 of the [Project A Plan](https://thomaselove.github.io/431-projectA-2025/).
     - Read *The Art of Statistics* by David Spiegelhalter, Chapter 5 (we'll read Chapter 4 later, you can read it now if you like)
     - Read [R for Data Science](https://r4ds.hadley.nz/), the "Visualize" sections, focusing on sections 10-11
     - Review the [Lab X instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) and perhaps get started.
