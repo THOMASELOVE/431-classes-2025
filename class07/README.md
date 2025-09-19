@@ -21,6 +21,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. There is a Minute Paper after Class 07, due Wednesday 2025-09-24 at noon, and which I will link to as soon as it's available.
 2. Lab 2 is also due Wednesday 2025-09-24 at noon.
 3. Corrections since last time:
+    - Somehow, I'd deleted the [`431-projectA-chr_2019.csv`](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/431-projectA-chr_2019.csv) file from our [431-data page](https://github.com/THOMASELOVE/431-data), which you need for Project A. It's back now.
     - I fixed Task 2.2b in Lab 2 to indicate that there are four approaches, not three, as I'd originally written.
     - I fixed the typo in slide 15 from Class 06 to show the correct bootstrap confidence interval (0.19, 0.47).
     - I fixed a broken link on the main page for Lab X, and then some broken links within the [Lab X instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX).
