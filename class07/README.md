@@ -23,7 +23,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. Corrections since last time:
     - I fixed Task 2.2b in Lab 2 to indicate that there are four approaches, not three, as I'd originally written.
     - I fixed the typo in slide 15 from Class 06 to show the correct bootstrap confidence interval (0.19, 0.47).
-    - I fixed a broken link on the main page for Lab X, and then two broken links within the [Lab X instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX).
+    - I fixed a broken link on the main page for Lab X, and then some broken links within the [Lab X instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX).
 4. Because conversion of Quarto files to Word does not allow the use of `kable()`, I have deliberately deleted `kable()` calls when building the Word documents for Class Slides this semester. Sorry about that.
 5. MediaVision will be video-taping (at least some of) our Class 09 on 2025-09-30 for use in a video about our MS program in Biostatistics.
 6. More to come in time for class.
