@@ -18,7 +18,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. There is a Minute Paper after Class 07, due Wednesday 2025-09-24 at noon, and which I will link to as soon as it's available.
+1. There is a [Minute Paper after Class 07], due Wednesday 2025-09-24 at noon, found at <https://bit.ly/431-2025-minute-07>.
 2. [Lab 2](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2) is also due Wednesday 2025-09-24 at noon.
 3. Corrections since last time:
     - I added material to [Project A Data Task 6](https://thomaselove.github.io/431-projectA-2025/data.html#data-task-6.-re-order-variables-drop-extraneous-factor-levels-then-save-the-final-chr_2025-tibble) about applying the `droplevels()` function to your tibble just before you save it. We apply the `droplevels()` function to a tibble to remove all unused levels from your factors, so, for instance, instead of R thinking your tibble has 51 different `state` values (including `DC`), it will correctly understand that you have only 6.
@@ -31,12 +31,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 5. Because conversion of Quarto files to Word does not allow the use of `kable()`, I have deliberately deleted `kable()` calls when building the Word documents for Class Slides this semester. Sorry about that.
 6. MediaVision will be video-taping (at least some of) our Class 09 on 2025-09-30 for use in a video about our MS program in Biostatistics.
 7. Brief introductory videos (from Task 5 in Lab 1) from each of you are now posted to our Shared Google Drive. Please feel encouraged to learn a little more about the very talented people who are also in this room.
-8. **More to come**.
-
-## Reminders to Dr. Love
-
-1. We will discuss Section 12 of the Project A Plan - building your research questions today.
-2. We will discuss how to interpret confidence and credibility intervals today in more detail.
 
 ## Final Ten Interesting/Fun Facts about Students in this semester's 431 class
 
