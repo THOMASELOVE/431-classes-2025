@@ -19,7 +19,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. Feedback on the Minute Paper after Class 07 **will appear** in time for class.
+2. The Answer Sketch for Lab 2 will be posted Friday 2025-09-26 shortly after 1 PM to our Shared Drive.
+3. By now, you should have received your **431 Grading Code** in your CWRU email and should have used it to look up the feedback on Lab 1 we have provided on our Shared Drive. If you are having trouble using the code, contact me.
+    - If you have questions about the Answer Sketch for any completed Lab, please address them to myself or the TAs at any time.
+    - If you have questions about how many points you received on any question in any Lab, don't bother the TAs. Instead, [follow this link](https://github.com/THOMASELOVE/431-labs-2025/tree/main?tab=readme-ov-file#lab-regrade-requests-will-be-reviewed-in-december) and fill out the [Lab Regrade Request Form](https://github.com/THOMASELOVE/431-labs-2025/tree/main?tab=readme-ov-file#lab-regrade-requests-will-be-reviewed-in-december) before 2025-12-12.
+4. More to come.
 
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
