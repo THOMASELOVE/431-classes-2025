@@ -28,7 +28,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 7. Grades for Lab 1 are now posted to the **Grade Roster for 431 Students: Fall 2025**. In order for you to know which applies to you, you'll need a three-digit code specific to you that I will email you later this afternoon.
     - The email will have the subject heading **Grading Code for 431**, and will say something like this...
 
-> I am writing today to provide your three-digit grading code for 431 this semester, which is **I WILL INSERT NUMBER HERE**. You will use the code to access your grade in the 431 course through the Grade Roster for 431 Students: Fall 2025 on our Shared Google Drive.. Thank you, TEL
+> I am writing today to provide your three-digit grading code for 431 this semester, which is **I WILL INSERT NUMBER HERE**. You will use the code to access your grade in the 431 course through the Grade Roster for 431 Students: Fall 2025 on our Shared Google Drive. Thank you, TEL
 
 8. Under the **431 Favorite Movies** directory in our Shared Drive, you will find a Google Sheet called **movies_2025-09-23**. If I get the chance, we'll discuss this sheet a little today, but this will be a more substantial part of what we do in class Thursday and next week.
 
