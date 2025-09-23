@@ -8,13 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
-07 | 2025-09-23 | Coming soon | Coming soon | Coming soon | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
-
-<!-- 
-
 07 | 2025-09-23 | **[Slides 07](https://thomaselove.github.io/431-slides-2025/class07.html)** | **[Word 07](https://thomaselove.github.io/431-slides-2025/class07w.docx)** | **[Code 07](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class07.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
-
--->
 
 ## Announcements
 
@@ -28,15 +22,15 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - I fixed the typo in [slide 15 from Class 06](https://thomaselove.github.io/431-slides-2025/class06.html#/what-to-do-about-outliers-13) to show the correct bootstrap confidence interval (0.19, 0.47).
     - I fixed a broken link on the [main page for Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX), and then some broken links within the [Lab X instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX).
     - I fixed errors in the [Course Text, Chapter 8](https://thomaselove.github.io/431-book/08_moregroups.html), specifically in [section 8.3.2](https://thomaselove.github.io/431-book/08_moregroups.html#estimate-means-at-each-level-from-model) and in [section 8.3.5](https://thomaselove.github.io/431-book/08_moregroups.html#pairwise-comparisons-using-holm-method) where the numbers in the text didn't match the numbers in the output. They should, now.
-5. Because conversion of Quarto files to Word does not allow the use of `kable()`, I have deliberately deleted `kable()` calls when building the Word documents for Class Slides this semester. Sorry about that.
-6. MediaVision will be video-taping (at least some of) our Class 09 on 2025-09-30 for use in a video about our MS program in Biostatistics.
-7. Brief introductory videos (from Task 5 in Lab 1) from each of you are now posted to the **431 Introductory Videos from Lab 1** folder in our Shared Google Drive. Please feel encouraged to learn a little more about the very talented people who are also in this room.
-8. Grades for Lab 1 are now posted to the **Grade Roster for 431 Students: Fall 2025**. In order for you to know which applies to you, you'll need a three-digit code specific to you that I will email you later this afternoon.
+4. Because conversion of Quarto files to Word does not allow the use of `kable()`, I have deliberately deleted `kable()` calls when building the Word documents for Class Slides this semester. Sorry about that.
+5. MediaVision will be video-taping (at least some of) our Class 09 on 2025-09-30 for use in a video about our MS program in Biostatistics.
+6. Brief introductory videos (from Task 5 in Lab 1) from each of you are now posted to the **431 Introductory Videos from Lab 1** folder in our Shared Google Drive. Please feel encouraged to learn a little more about the very talented people who are also in this room.
+7. Grades for Lab 1 are now posted to the **Grade Roster for 431 Students: Fall 2025**. In order for you to know which applies to you, you'll need a three-digit code specific to you that I will email you later this afternoon.
     - The email will have the subject heading **Grading Code for 431**, and will say something like this...
 
 > I am writing today to provide your three-digit grading code for 431 this semester, which is **I WILL INSERT NUMBER HERE**. You will use the code to access your grade in the 431 course through the Grade Roster for 431 Students: Fall 2025 on our Shared Google Drive.. Thank you, TEL
 
-10. Under the **431 Favorite Movies** directory in our Shared Drive, you will find a Google Sheet called **movies_2025-09-23**. If I get the chance, we'll discuss this sheet a little today, but this will be a more substantial part of what we do in class Thursday and next week.
+8. Under the **431 Favorite Movies** directory in our Shared Drive, you will find a Google Sheet called **movies_2025-09-23**. If I get the chance, we'll discuss this sheet a little today, but this will be a more substantial part of what we do in class Thursday and next week.
 
 ## Final Ten Interesting/Fun Facts about Students in this semester's 431 class
 
