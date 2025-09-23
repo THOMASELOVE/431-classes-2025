@@ -32,7 +32,11 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 6. MediaVision will be video-taping (at least some of) our Class 09 on 2025-09-30 for use in a video about our MS program in Biostatistics.
 7. Brief introductory videos (from Task 5 in Lab 1) from each of you are now posted to the **431 Introductory Videos from Lab 1** folder in our Shared Google Drive. Please feel encouraged to learn a little more about the very talented people who are also in this room.
 8. Grades for Lab 1 are now posted to the **Grade Roster for 431 Students: Fall 2025**. In order for you to know which applies to you, you'll need a three-digit code specific to you that I will email you later this afternoon.
-9. Under the **431 Favorite Movies** directory in our Shared Drive, you will find a Google Sheet called **movies_2025-09-23**. If I get the chance, we'll discuss this sheet a little today, but this will be a more substantial part of what we do in class Thursday and next week.
+    - The email will have the subject heading **Grading Code for 431**, and will say something like this...
+
+> I am writing today to provide your three-digit grading code for 431 this semester, which is **I WILL INSERT NUMBER HERE**. You will use the code to access your grade in the 431 course through the Grade Roster for 431 Students: Fall 2025 on our Shared Google Drive.. Thank you, TEL
+
+10. Under the **431 Favorite Movies** directory in our Shared Drive, you will find a Google Sheet called **movies_2025-09-23**. If I get the chance, we'll discuss this sheet a little today, but this will be a more substantial part of what we do in class Thursday and next week.
 
 ## Final Ten Interesting/Fun Facts about Students in this semester's 431 class
 
