@@ -18,7 +18,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. There is a [Minute Paper after Class 07], due Wednesday 2025-09-24 at noon, found at <https://bit.ly/431-2025-minute-07>.
+1. There is a [Minute Paper after Class 07](https://bit.ly/431-2025-minute-07), due Wednesday 2025-09-24 at noon, found at <https://bit.ly/431-2025-minute-07>.
 2. [Lab 2](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab2) is also due Wednesday 2025-09-24 at noon.
 3. Corrections since last time:
     - I added material to [Project A Data Task 6](https://thomaselove.github.io/431-projectA-2025/data.html#data-task-6.-re-order-variables-drop-extraneous-factor-levels-then-save-the-final-chr_2025-tibble) about applying the `droplevels()` function to your tibble just before you save it. We apply the `droplevels()` function to a tibble to remove all unused levels from your factors, so, for instance, instead of R thinking your tibble has 51 different `state` values (including `DC`), it will correctly understand that you have only 6.
@@ -31,6 +31,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 5. Because conversion of Quarto files to Word does not allow the use of `kable()`, I have deliberately deleted `kable()` calls when building the Word documents for Class Slides this semester. Sorry about that.
 6. MediaVision will be video-taping (at least some of) our Class 09 on 2025-09-30 for use in a video about our MS program in Biostatistics.
 7. Brief introductory videos (from Task 5 in Lab 1) from each of you are now posted to our Shared Google Drive. Please feel encouraged to learn a little more about the very talented people who are also in this room.
+8. Grades for Lab 1 are now posted to the **Grade Roster for 431 Students: Fall 2025**. In order for you to know which applies to you, you'll need a three-digit code specific to you that I will email you later this afternoon.
+9. Under the **431 Favorite Movies** directory in our Shared Drive, you will find a Google Sheet called **movies_2025-09-23**. If I get the chance, we'll discuss this sheet a little today, but this will be a more substantial part of what we do in class Thursday and next week.
 
 ## Final Ten Interesting/Fun Facts about Students in this semester's 431 class
 
@@ -46,6 +48,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 10. I dance in my free time.
 
 These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/welcome_report.md).
+
+-----------
 
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
