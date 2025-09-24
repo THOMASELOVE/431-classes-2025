@@ -33,7 +33,5 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Complete the [Project A plan](https://thomaselove.github.io/431-projectA-2025/plan.html), which is due Wednesday 2025-10-01 at noon.
     - Read *The Art of Statistics* by David Spiegelhalter, Chapter 7 (we'll read Chapter 6 later, you can read it now if you like)
     - Read [R for Data Science](https://r4ds.hadley.nz/), sections 16 (Factors) and 28 (Quarto)
-- Next Week
-    - [Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html) due Wednesday 2025-10-01 at noon.
 - Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) or email us at `431-help at case dot edu` if you need help.    
 
