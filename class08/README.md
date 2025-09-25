@@ -19,30 +19,20 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - If you have questions about the Answer Sketch for any completed Lab, please address them to myself or the TAs at any time.
     - If you have questions about how many points you received on any question in any Lab, don't bother the TAs. Instead, [follow this link](https://github.com/THOMASELOVE/431-labs-2025/tree/main?tab=readme-ov-file#lab-regrade-requests-will-be-reviewed-in-december) and fill out the [Lab Regrade Request Form](https://github.com/THOMASELOVE/431-labs-2025/tree/main?tab=readme-ov-file#lab-regrade-requests-will-be-reviewed-in-december) before 2025-12-12.
 4. I fixed the axis labels in slide 21 (also see the revised code in slide 20) on the comparison boxplot in the [Class 07 Slides](https://thomaselove.github.io/431-slides-2025/class07.html). I fixed the posted [Word version](https://thomaselove.github.io/431-slides-2025/class07w.docx) and [the posted Quarto code](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class07.qmd), too.
+5. Remember to come up with [a real title for your Project A Plan submission](https://thomaselove.github.io/431-projectA-2025/plan.html#project-a-plan-title) due next Wednesday 2025-10-01. Read that link.
+    - You will save yourself meaningful pain if you read and heed both the [Submission Instructions](https://thomaselove.github.io/431-projectA-2025/plan.html#submission-instructions) for the Plan, and the [checklist we've provided](https://thomaselove.github.io/431-projectA-2025/plan.html#checklist-review-elements-for-the-project-a-plan) that we'll draw from in evaluating your Project A Plan.
 
 ## Some R Tips
 
-1. When you want to start a new heading in Quarto, hit enter **twice** to create a blank line, then in the second line, use # Name of Header.
-    - To create a new subheader, use ## Name of Subheader.
-    - Note the space between # or ## and your heading.
-    - Note the need for a blank line before a new heading begins.
+1. When you want to start a new heading in Quarto, hit enter **twice** to create a blank line, then in the second line, use `# Name of Header` and not `#Name of Header`.
+    - To create a new subheader, use `## Name of Subheader`.
+    - Note the space between `#` or `##` and your heading, **and** the need for a blank line before a new heading begins.
+2. Place a blank line in your code before and after every header, every code chunk, and every paragraph of text to avoid problems.
 2. When naming a result (like a model) in R, I would use `fit1` or `m1` as a name, followed by `fit2`, `fit3` and so forth. Another option might be `fit_ols` or `fit_Bayes` if you must, but don't ever name anything `ols` or `lm` or something else that is also a function in R. That will create all kinds of havoc.
-3. When loading your R packages, make it look like this:
+3. When loading your R packages in Quarto for 431, silence messages (but not warnings) like this *instead* of any other way...
+![](r_packages_spacing.png)
+4. In the date section (usually the third line of your YAML) at the top of any Quarto document for 431, use `date: last-modified` and not `date: 2025-09-25` or anything else.
 
-```{r}
-#| message: false
-
-details here
-
-and not like this
-
-```{r}
-
-#| message: false
-
-details go here
-
-4. 
 
 
 
