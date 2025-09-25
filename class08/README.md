@@ -17,7 +17,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. By now, you should have received your **431 Grading Code** in your CWRU email and should have used it to look up the feedback on Lab 1 we have provided on our Shared Drive. If you are having trouble using the code, contact me.
     - If you have questions about the Answer Sketch for any completed Lab, please address them to myself or the TAs at any time.
     - If you have questions about how many points you received on any question in any Lab, don't bother the TAs. Instead, [follow this link](https://github.com/THOMASELOVE/431-labs-2025/tree/main?tab=readme-ov-file#lab-regrade-requests-will-be-reviewed-in-december) and fill out the [Lab Regrade Request Form](https://github.com/THOMASELOVE/431-labs-2025/tree/main?tab=readme-ov-file#lab-regrade-requests-will-be-reviewed-in-december) before 2025-12-12.
-4. I fixed the axis labels in slide 21 (also see the revised code in slide 20) on the comparison boxplot in the [Class 07 Slides](https://thomaselove.github.io/431-slides-2025/class07.html). I fixed the Word version and the code, too.
+4. I fixed the axis labels in slide 21 (also see the revised code in slide 20) on the comparison boxplot in the [Class 07 Slides](https://thomaselove.github.io/431-slides-2025/class07.html). I fixed the posted [Word version](https://thomaselove.github.io/431-slides-2025/class07w.docx) and [the posted Quarto code](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class07.qmd), too.
 
 ---------
 
