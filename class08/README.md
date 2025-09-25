@@ -13,7 +13,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 07 [is now available](https://bit.ly/431-2025-min-07-feedback).
-    - Grades below 5 (posted to the Grading Roster) indicate you skipped key questions, or that you didn't complete the minute paper, either on time, or at all.
+    - [Minute Paper grades](https://github.com/THOMASELOVE/431-minute-2025/blob/main/README.md#deadlines-and-late-work) below 5 (posted to the Grading Roster on our Shared Drive) indicate you skipped key questions, or that you didn't complete the minute paper, either on time, or at all.
 2. The Answer Sketch for Lab 2 will be posted **WHEN** to our Shared Drive.
 3. By now, you should have received your **431 Grading Code** in your CWRU email and should have used it to look up the feedback on Lab 1 we have provided on our Shared Drive. If you are having trouble using the code, contact me.
     - If you have questions about the Answer Sketch for any completed Lab, please address them to myself or the TAs at any time.
