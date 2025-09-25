@@ -13,11 +13,40 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 07 [is now available](https://bit.ly/431-2025-min-07-feedback).
+    - Grades below 5 (posted to the Grading Roster) indicate you skipped key questions, or that you didn't complete the minute paper, either on time, or at all.
 2. The Answer Sketch for Lab 2 will be posted **WHEN** to our Shared Drive.
 3. By now, you should have received your **431 Grading Code** in your CWRU email and should have used it to look up the feedback on Lab 1 we have provided on our Shared Drive. If you are having trouble using the code, contact me.
     - If you have questions about the Answer Sketch for any completed Lab, please address them to myself or the TAs at any time.
     - If you have questions about how many points you received on any question in any Lab, don't bother the TAs. Instead, [follow this link](https://github.com/THOMASELOVE/431-labs-2025/tree/main?tab=readme-ov-file#lab-regrade-requests-will-be-reviewed-in-december) and fill out the [Lab Regrade Request Form](https://github.com/THOMASELOVE/431-labs-2025/tree/main?tab=readme-ov-file#lab-regrade-requests-will-be-reviewed-in-december) before 2025-12-12.
 4. I fixed the axis labels in slide 21 (also see the revised code in slide 20) on the comparison boxplot in the [Class 07 Slides](https://thomaselove.github.io/431-slides-2025/class07.html). I fixed the posted [Word version](https://thomaselove.github.io/431-slides-2025/class07w.docx) and [the posted Quarto code](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class07.qmd), too.
+
+## Some R Tips
+
+1. When you want to start a new heading in Quarto, hit enter **twice** to create a blank line, then in the second line, use # Name of Header.
+    - To create a new subheader, use ## Name of Subheader.
+    - Note the space between # or ## and your heading.
+    - Note the need for a blank line before a new heading begins.
+2. When naming a result (like a model) in R, I would use `fit1` or `m1` as a name, followed by `fit2`, `fit3` and so forth. Another option might be `fit_ols` or `fit_Bayes` if you must, but don't ever name anything `ols` or `lm` or something else that is also a function in R. That will create all kinds of havoc.
+3. When loading your R packages, make it look like this:
+
+```{r}
+#| message: false
+
+details here
+
+and not like this
+
+```{r}
+
+#| message: false
+
+details go here
+
+4. 
+
+
+
+
 
 ---------
 
