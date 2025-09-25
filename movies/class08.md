@@ -4,8 +4,8 @@ These are the 51 movies [you selected](https://thomaselove.github.io/431-syllabu
 
 ## Today's Questions
 
-Question 1: What characteristic of each movie tells you whether it is in the [Blue Group](#blue-group-31-movies) or the [Green Group](#green-group-20-movies) of movies?
-Question 2: Can you, as a group, identify three **yes/no** questions that I can answer which will enable you to identify which of these 51 movies is my favorite movie?
+1. What characteristic of each movie tells you whether it is in the [Blue Group](#blue-group-31-movies) or the [Green Group](#green-group-20-movies) of movies?
+2. Can you, as a group, identify three **yes/no** questions that I can answer which will enable you to identify which of these 51 movies is my favorite movie?
 
 ### Blue Group (31 movies)
 
