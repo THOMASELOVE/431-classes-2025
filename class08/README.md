@@ -10,8 +10,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 08 | 2025-09-25 | **[Slides 08](https://thomaselove.github.io/431-slides-2025/class08.html)** | **[Word 08](https://thomaselove.github.io/431-slides-2025/class08w.docx)** | **[Code 08](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class08.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](perceptions.png) from [this link](https://github.com/zonination/perceptions)
-
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 07 [is now available](https://bit.ly/431-2025-min-07-feedback).
@@ -66,3 +64,7 @@ The link above describes some information about the `movies_2025-09-25` Google S
     - Remember that our class will be (at least partially) video-taped on Tuesday 2025-09-30.
 - Attend [TA office hours](https://thomaselove.github.io/431-2025/contact.html#ta-office-hours) or email us at `431-help at case dot edu` if you need help.    
 - Think about some potential sources online of interesting movie data. We'll want to hear about those in Class 11.
+
+## One Last Thing
+
+![](perceptions.png) from [this link](https://github.com/zonination/perceptions)
