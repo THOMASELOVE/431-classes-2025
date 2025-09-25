@@ -29,6 +29,7 @@ Consider the `movies_2025-09-26` Google Sheet now found in our Shared Google Dri
 - In future classes (starting Tuesday), we'll augment this database in several ways, and we'll develop (and try to explore) some research questions.
 - In addition to [IMDB](https://www.imdb.com/), some other sites I have used in the past to gather data about movies include:
     - <https://www.rottentomatoes.com/>, <https://www.flickchart.com/> and <https://the-numbers.com/>
+    - In class 11, I will be looking for you to help me identify other sources of interesting movie data, so you might want to give that some thought in spare hours.
 
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
