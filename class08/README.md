@@ -33,7 +33,8 @@ Note that we have provided multiple tips for Lab (and Project A and B) work [at 
 2. Place a blank line in your code before and after every header, every code chunk, and every paragraph of text to avoid problems.
 2. When naming a result (like a model) in R, I would use `fit1` or `m1` as a name, followed by `fit2`, `fit3` and so forth. Another option might be `fit_ols` or `fit_Bayes` if you must, but don't ever name anything `ols` or `lm` or something else that is also a function in R. That will create all kinds of havoc.
 3. In the date section (usually the third line of your YAML) at the top of any Quarto document for 431, use `date: last-modified` and not `date: 2025-09-25` or anything else.
-4. When loading your R packages in Quarto for 431, silence messages (but not warnings) like this *instead* of any other way...
+4. I encourage you to use the statement `knitr::opts_chunk$set(comment = NA)` as part of your R Setup for all work in 431.
+5. When loading your R packages in Quarto for 431, silence messages (but not warnings) like this *instead* of any other way...
 ![](r_packages_spacing.png)
 
 ---------
