@@ -58,6 +58,8 @@ The link above describes some information about the `movies_2025-09-25` Google S
 
 - Before Class 9 (2025-09-30)
     - Complete the [Project A plan](https://thomaselove.github.io/431-projectA-2025/plan.html), which is due Wednesday 2025-10-01 at noon.
+        - As a reminder, remember to come up with [a real title for your Project A Plan submission](https://thomaselove.github.io/431-projectA-2025/plan.html#project-a-plan-title). (I would definitely read that link.)
+        - Also, you will save yourself meaningful pain if you read and heed both the [Submission Instructions](https://thomaselove.github.io/431-projectA-2025/plan.html#submission-instructions) for the Plan, and the [checklist we've provided](https://thomaselove.github.io/431-projectA-2025/plan.html#checklist-review-elements-for-the-project-a-plan) that we'll draw from in evaluating your Project A Plan.
     - Read *The Art of Statistics* by David Spiegelhalter, Chapter 7 (we'll read Chapter 6 later, you can read it now if you like)
     - Read [R for Data Science](https://r4ds.hadley.nz/), sections 16 (Factors) and 28 (Quarto)
     - Remember that our class will be (at least partially) video-taped on Tuesday 2025-09-30.
