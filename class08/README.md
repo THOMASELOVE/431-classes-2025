@@ -25,6 +25,7 @@ Consider the `movies_2025-09-26` Google Sheet now found in our Shared Google Dri
 
 - This file describes the **51** movies selected as a "favorite movie" by students in 431 in the Fall 2025 version of this course.
     - On Tuesday, we'll be looking at a larger set of data, including "favorite movies" from students in 2020-2024, as well.
+    - Here is a convenient list of those 51 movies, just for today, and the variables included in the data, in case you can't see the Google Sheet live.
 - Today, we'll talk a little bit more about how I developed the data and variable descriptions and sources tabs in the sheet, mostly using [IMDB](https://www.imdb.com/).
 - In future classes (starting Tuesday), we'll augment this database in several ways, and we'll develop (and try to explore) some research questions.
 - In addition to [IMDB](https://www.imdb.com/), some other sites I have used in the past to gather data about movies include:
