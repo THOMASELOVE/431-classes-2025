@@ -12,7 +12,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper after Class 07 **will appear** in time for class.
+1. Feedback on the Minute Paper after Class 07 [is now available](https://bit.ly/431-2025-min-07-feedback).
 2. The Answer Sketch for Lab 2 will be posted **WHEN** to our Shared Drive.
 3. By now, you should have received your **431 Grading Code** in your CWRU email and should have used it to look up the feedback on Lab 1 we have provided on our Shared Drive. If you are having trouble using the code, contact me.
     - If you have questions about the Answer Sketch for any completed Lab, please address them to myself or the TAs at any time.
