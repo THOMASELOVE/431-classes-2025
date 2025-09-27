@@ -22,3 +22,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - I updated [Slides Set 8](https://thomaselove.github.io/431-slides-2025/class08.html), Slides 43-46, to use `stan_glm()` for the Bayesian fit. This changes results shown in slides 43-44 and 46, and also requires the addition of a line of code to the `mutate()` statement in defining the `con_bay` tibble in slide 45. I've updated [the Quarto code](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class08.qmd) and [the Word version](https://thomaselove.github.io/431-slides-2025/class08w.docx) as well as [the HTML slides](https://thomaselove.github.io/431-slides-2025/class08.html). 
     - I updated the [Project A Plan instructions](https://thomaselove.github.io/431-projectA-2025/plan.html) to consistently indicate 3089 rows and 95 columns as the size of the original `chr_2025_raw` tibble in [Section 5.2](https://thomaselove.github.io/431-projectA-2025/plan.html#section-2.-data-ingest) and [Section 7.1.4.](https://thomaselove.github.io/431-projectA-2025/plan.html#element-d.-plan-section-2.-data-ingest)
 2. More to come.
+
+## Theming ggplots
+
+1. The main ggplot2 themes are demonstrated at <https://ggplot2.tidyverse.org/reference/ggtheme.html>. I use `theme_bw()` and `theme_light()`, mostly.
+2. The `see` package within the **easystats** ecosystem adds [several other plot themes](https://easystats.github.io/see/reference/index.html#themes). I like `theme_modern()` and `theme_lucid()`, personally.
+3. If you want to go even further, the [ggthemr package](https://github.com/Mikata-Project/ggthemr), the [ggthemes package](https://jrnold.github.io/ggthemes/) and the [hrbrthemes package](https://github.com/hrbrmstr/hrbrthemes) each provide attractive options.
