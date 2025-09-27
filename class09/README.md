@@ -18,4 +18,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. Fixes made since last class (thanks to alert students):
+    - I updated Slides Set 8, Slides 43-46, to use `stan_glm()` for the Bayesian fit. This changes results shown in slides 43-44 and 46, and also requires the addition of a line of code to the `mutate()` statement in defining the `con_bay` tibble in slide 45. I've updated the code and Word document as well as the HTML slides. 
+    - I updated the Project A Plan instructions to consistently indicate 3089 rows and 95 columns where appropriate.
+2. More to come.
