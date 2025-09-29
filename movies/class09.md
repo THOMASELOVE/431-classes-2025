@@ -10,20 +10,32 @@ There are six variables (`year`, `length`, `imdb_categories`, `imdb_ratings`, `i
 
 Variable | Sample Value | Explanation
 :--------: | :------------: | ------------------------------------------------------------------------
-`mov_id` | M-010 | code (1-228): arranges in alphabetical order by title, ignoring starting "The" or "A"
-`movie` | Avengers: Infinity War | film title according to IMDB
-**`year`** | 2018 | year film was released
+`mov_id` | M-006 | code (M-001 to M-260): arranges in alphabetical order by title, ignoring starting "The" or "A"
+`movie` | 2001: A Space Odyssey | film title according to IMDB
+**`year`** | 1968 | year film was released
 **`length`** | 149 | length of film (in minutes)
-**`imdb_categories`** | Space Sci-Fi, Superhero, Action, Adventure, Sci-Fi | Movie Genre Categories specified by IMDB (up to 10)
-**`imdb_ratings`** | 1,200,000 | Number of Star Ratings (IMDB)
-**`imdb_stars`** | 8.4 | Weighted Average Rating (IMDB)
-**`mpa`** | PG-13 | Rating by the Motion Picture Association
+**`imdb_genres`** | Adventure, Sci-Fi | Movie Genre Categories specified by IMDB (between 1 and 8 genres are listed)
+**`imdb_ratings`** | 764,000 | Number of Star Ratings (IMDB)
+**`imdb_stars`** | 8.3 | Weighted Average Rating (IMDB)
+**`mpa`** | G | Rating by the [Motion Picture Association](https://www.motionpictures.org/)
 
 The **Variable Descriptions** tab in the Google Sheet has additional information on all of these variables.
 
-**Note 1**: The twelve Genre categories in `imdb_categories` matching at least 20 movies are: Action (60 movies), Adventure (80 movies), Animation (25 movies), Comedy (97 movies), Crime (29 movies), Drama (152 movies), Family (36 movies), Fantasy (53 movies), Mystery (22 movies), Romance (55 movies), Sci-Fi (44 movies) and Thriller (46 movies).
+**Note 1**: Across the 260 movies, a total of 846 genres are listed in **`imdb_genres`**. Each movie has 1-8 genres listed, and 20 different genres are listed. Here are the counts of individual genres for these movies (remember the mean number of genres was 3.25, median was 3) from most common (Drama, listed for 153/260 (59%)) to least common (Western 2/160 (1%)).
 
-**Note 2**: The ratings in `mpa` matching at least 20 movies are: PG (62 movies), PG-13 (74 movies), and R (67 movies)
+Genre | Count | - | Genre | Count | - | Genre | Count | - | Genre | Count 
+---------- | ---: | --- |  ---------- | ---: | --- | ---------- | ---: | --- | ---------- | ---:
+Drama | 153 |  | Fantasy | 59 | | Animation | 29 | | Horror | 12
+Comedy | 103 | | Sci-Fi | 51 | | Mystery | 26 | | War | 11
+Adventure | 87 | | Thriller | 50 | | Biography | 17 | | History | 6
+Romance | 62 | | Family | 45 | | Musical | 17 | | Sport | 6
+Action | 60 | | Crime | 34 | | Music | 16 | | Western | 2
+
+**Note 2**: The ratings in `mpa` fall into these categories:
+
+`mpa` | PG-13 | R | PG | Not Rated | G | Approved | TV-G | TV-14 | TV-MA | TV-PG 
+:-----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | 
+Count | 84 | 80 | 67 | 14 | 8 | 2 | 2 | 1 | 1 | 1
 
 ## Your Task(s) for Today
 
