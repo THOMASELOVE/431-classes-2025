@@ -10,6 +10,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 09 | 2025-09-30 | **[Slides 09](https://thomaselove.github.io/431-slides-2025/class09.html)** | **[Word 09](https://thomaselove.github.io/431-slides-2025/class09w.docx)** | **[Code 09](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class09.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/data_trap.png) Source: [XKCD](https://xkcd.com/2582/)
+
 ## Announcements
 
 1. Changes and fixes made since last class (with my thanks to alert students as applicable):
