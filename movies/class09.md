@@ -10,14 +10,19 @@ There are six variables (`year`, `length`, `imdb_categories`, `imdb_ratings`, `i
 
 Variable | Sample Value | Explanation
 :--------: | :------------: | ------------------------------------------------------------------------
-`mov_id` | M-006 | code (M-001 to M-260): arranges in alphabetical order by title, ignoring starting "The" or "A"
-`movie` | 2001: A Space Odyssey | film title according to IMDB
-**`year`** | 1968 | year film was released
-**`length`** | 149 | length of film (in minutes)
+**`year`** | 1968 | year movie was released
+**`length`** | 149 | length of movie (in minutes)
 **`imdb_genres`** | Adventure, Sci-Fi | Movie Genre Categories specified by IMDB (between 1 and 8 genres are listed, [see below](#about-imdb_genres))
 **`imdb_ratings`** | 764,000 | Number of Star Ratings (IMDB)
 **`imdb_stars`** | 8.3 | Weighted Average Rating (IMDB)
 **`mpa`** | G | Rating by the [Motion Picture Association](https://www.motionpictures.org/); [see below](#about-mpa).
+
+The other variables found in `movies_2025-09-30` are...
+
+Variable | Sample Value | Explanation
+:--------: | :------------: | ------------------------------------------------------------------------
+`mov_id` | M-006 | code (M-001 to M-260): arranges in alphabetical order by title, ignoring starting "The" or "A"
+`movie` | 2001: A Space Odyssey | film title according to IMDB
 `imdb_synopsis` | - | IMDB Movie Synopsis (max. 250 characters)
 `list_25` | 0 | # of students in Fall 2025 who selected this movie
 `imdb_link` | - | Web link to IMDB main page for this movie
