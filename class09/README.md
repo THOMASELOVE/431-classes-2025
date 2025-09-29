@@ -12,7 +12,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Changes and fixes made since last class (with my thanks to the relevant alert students):
+1. Changes and fixes made since last class (with my thanks alert students when applicable):
     - I have edited the [Calendar page's descriptions](https://thomaselove.github.io/431-2025/calendar.html) of classes 8-10 to better reflect what we're actually doing.
     - I added the `DescTools` package to our [R packages installation list](https://github.com/THOMASELOVE/431-packages/tree/main). We'll use it today.
         - See <https://andrisignorell.github.io/DescTools/> for more. In particular, [this material on post-hoc tests](https://andrisignorell.github.io/DescTools/reference/PostHocTest.html) after ANOVA.
