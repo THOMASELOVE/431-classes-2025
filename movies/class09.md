@@ -1,6 +1,4 @@
-# Favorite Movies: Breakout Activity for Class 09
-
-To be completed on 2025-09-30 (Class 09).
+# Favorite Movies: Class 09 Breakout Activity (2025-09-30)
 
 ## The Six Variables We're Focusing On Today
 
