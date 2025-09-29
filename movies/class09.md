@@ -18,6 +18,9 @@ Variable | Sample Value | Explanation
 **`imdb_ratings`** | 764,000 | Number of Star Ratings (IMDB)
 **`imdb_stars`** | 8.3 | Weighted Average Rating (IMDB)
 **`mpa`** | G | Rating by the [Motion Picture Association](https://www.motionpictures.org/)
+`imdb_synopsis` | - | IMDB Movie Synopsis (max. 250 characters)
+`list_25` | 0 | # of students in Fall 2025 who selected this movie
+`imdb_link` | - | Web link to IMDB main page for this movie
 
 The **Variable Descriptions** tab in the Google Sheet has additional information on all of these variables.
 
