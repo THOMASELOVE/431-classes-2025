@@ -20,9 +20,13 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - **I have edited** [Section 9.9 of the Course Book](https://thomaselove.github.io/431-book/09_transmore.html#pairwise-comparisons-of-means) to reflect correct simultaneous CIs for the Bonferroni and Tukey methods as will be presented in today's slides
     - I have edited the [Calendar page's descriptions](https://thomaselove.github.io/431-2025/calendar.html) of classes 8-10 to better reflect what we're actually doing.
 2. Your Project A Plan is due tomorrow (Wednesday 2025-10-01) at noon. Please ensure that you submit all required elements to [Canvas](https://canvas.case.edu/).
+    - [What you should be sending](https://thomaselove.github.io/431-projectA-2025/plan.html#the-deliverables) is
+        - the analytic tibble (as an `.Rds` data file) you developed following the Data page instructions,
+        - a Quarto (`.qmd`) file containing your data management work, and the other elements required in the Project A Plan, and
+        - the HTML result of rendering your Quarto file. The resulting HTML document will have 15 sections.        - 
+    - If you are working with a **partner**, **exactly** one of you should submit the materials listed above to Canvas, **and the other partner** should submit a text document (Word or PDF is fine) uploaded to Canvas that reads: "My name is [YOUR NAME]. I am working on Project A with [INSERT FULL NAME OF YOUR PARTNER], and they will submit the materials for the Plan."
     - Be sure to use spell check (just hit F7) on your Quarto file before rendering it, and review the HTML result carefully to ensure that no residual warnings or error messages remain in the document.
-    - Be sure that your Plan includes your name (names if you are working with a partner) as the author in Quarto, and thus in HTML, as well as a proper title.
-    - If you are working with a partner, exactly one of you submits the materials, while the other submits a short note indicating who your partner is and that they will submit the materials.
+    - Be sure that your Plan includes your name (names if you are working with a partner) as the author in Quarto, and thus in HTML, as well as a [proper title](https://thomaselove.github.io/431-projectA-2025/plan.html#project-a-plan-title).
     - Again, [here are the details](https://thomaselove.github.io/431-projectA-2025/plan.html#grading-the-project-a-plan) we will use to assess your Project A Plan.
 3. There is no [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025) this week. The next Minute Paper is after Class 11.
 4. [Lab 3](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3) is the next assignment after the Project A Plan. It's due next Wednesday 2025-10-08. You have everything you need from me to do it now.
