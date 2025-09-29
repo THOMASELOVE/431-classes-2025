@@ -31,7 +31,7 @@ Adventure | 87 | | Thriller | 50 | | Biography | 17 | | History | 6
 Romance | 62 | | Family | 45 | | Musical | 17 | | Sport | 6
 Action | 60 | | Crime | 34 | | Music | 16 | | Western | 2
 
-**Note 2**: The ratings in `mpa` fall into these categories:
+**Note 2**: The ratings in `mpa` fall into these categories (one category per movie):
 
 `mpa` | PG-13 | R | PG | Not Rated | G | Approved | TV-G | TV-14 | TV-MA | TV-PG 
 :-----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | 
