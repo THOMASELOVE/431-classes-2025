@@ -2,7 +2,7 @@
 
 ## Your Task(s) for Today
 
-You'll have about 20 minutes to accomplish the following tasks.
+After we look at this page together, you'll have about 20 minutes to accomplish these five tasks.
 
 1. Form a group of 4-5 people, ideally including at least person you don't know yet. Come up with a group name that each of you will still remember in a week.
 2. One person in your group will report the results of your work using the Google Form found at <https://bit.ly/431-2025-movies-1> (**TO COME**). 
