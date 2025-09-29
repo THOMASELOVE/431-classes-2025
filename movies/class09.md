@@ -5,14 +5,14 @@
 After we look at this page together, you'll have about 20 minutes to accomplish these five tasks.
 
 1. Form a group of 4-5 people, ideally including at least person you don't know yet. Come up with a group name that each of you will still remember in a week.
-2. One person in your group will report the results of your work using the Google Form found at <https://bit.ly/431-2025-movies-1> (**TO COME**). 
+2. One person in your group will report the results of your work using the Google Form found at <https://bit.ly/431-2025-movies-1>. 
 3. As a group, you will identify **two** exploratory questions about films in this sample that could be addressed using the six key variables (`year`, `imdb_categories`, `imdb_ratings`, `imdb_stars`, `length` and `mpa`) listed above.
     - A good question (a) explores relationships involving two or more variables from the data set (b) lets us use data from all (or almost all) of the films and (c) ends with a question mark.
     - As an example that fits at least (a) and (c), we might ask "Do dramas last longer than comedy films?" which could be answered using the `length` and `imdb_categories` variables, although (b) is a problem since some films are not listed as either Drama or Comedy.
     - The current version (dated 2025-09-30) of the movies data is available in our Shared Google Drive folder, or you can [download the Excel version here](https://github.com/THOMASELOVE/431-classes-2025/raw/refs/heads/main/movies/movies_2025-09-30.xlsx).
 4. Look at this [list of movies](movie_list.md). Alphabetically, what is the first movie (i.e., lowest `mov_id` value) that **all** of the members of your breakout group have seen? 
-    - [The form](https://bit.ly/431-2025-movies-1) (**TO COME**) asks you to type in that movie's `mov_id` value and name. If there isn't a movie on the list that you've all seen, you'll type in "We couldn't find one."
-5. Ensure that your group's reporter has completed [the Google Form](https://bit.ly/431-2025-movies-1) (**TO COME**)to report your group's results and has submitted the form successfully (they should receive an email confirmation.)
+    - [The form](https://bit.ly/431-2025-movies-1) asks you to type in that movie's `mov_id` value and name. If there isn't a movie on the list that you've all seen, you'll type in "We couldn't find one."
+5. Ensure that your group's reporter has completed [the Google Form](https://bit.ly/431-2025-movies-1) to report your group's results and has submitted the form successfully (they should receive an email confirmation.)
 
 ## The Six Variables We're Focusing On Today
 
@@ -26,7 +26,7 @@ Variable | Sample Value | Explanation
 **`length`** | 149 | length of movie (in minutes)
 **`imdb_genres`** | Adventure, Sci-Fi | Movie Genre Categories specified by IMDB (between 1 and 8 genres are listed, [see below](#about-imdb_genres))
 **`imdb_ratings`** | 764,000 | Number of Star Ratings (IMDB)
-**`imdb_stars`** | 8.3 | Weighted Average Rating (IMDB)
+**`imdb_stars`** | 8.3 | Weighted Average Star Rating (IMDB) between 1.0 (worst) and 10.0 (best)
 **`mpa`** | G | Rating by the [Motion Picture Association](https://www.motionpictures.org/); [see below](#about-mpa).
 
 The other variables found in `movies_2025-09-30` are...
@@ -61,3 +61,6 @@ Each of the 260 movies fits in one (and only one) of the 10 **`mpa`** categories
 :-----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | 
 Count | 84 | 80 | 67 | 14 | 8 | 2 | 2 | 1 | 1 | 1
 
+## Other Questions You Might Have
+
+- [Why does IMDB publish Weighted Average Ratings?](https://help.imdb.com/article/imdb/track-movies-tv/weighted-average-ratings/GWT2DSBYVT2F25SK?ref_=ttrt_wtavg#)
