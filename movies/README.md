@@ -4,6 +4,10 @@
 
 - `movies_2025-09-30`
 
+The list of the 260 movies is found [here](movie_list.md)
+
+
+
 ## Breakout Sessions So Far
 
 1. [Class 08 mini-breakout](class08.md)
