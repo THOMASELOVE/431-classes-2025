@@ -61,6 +61,8 @@ Each of the 260 movies fits in one (and only one) of the 10 **`mpa`** categories
 :-----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | 
 Count | 84 | 80 | 67 | 14 | 8 | 2 | 2 | 1 | 1 | 1
 
-## Other Questions You Might Have
+### Other Questions You Might Have
 
 - [Why does IMDB publish Weighted Average Ratings?](https://help.imdb.com/article/imdb/track-movies-tv/weighted-average-ratings/GWT2DSBYVT2F25SK?ref_=ttrt_wtavg#)
+- How much missing data is in the key six variables today, across the 260 films?
+    - None, unless you treat Not Rated as missing in `mpa` (I'm not saying you should), in which case those 14 values would be "missing".
