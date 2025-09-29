@@ -18,9 +18,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
         - We have new slides 43-46, to use `stan_glm()` for the Bayesian fit. This changes results shown in slides 43-44 and 46, and also requires the addition of a line of code to the `mutate()` statement in defining the `con_bay` tibble in slide 45.
     - I updated the [Project A Plan instructions](https://thomaselove.github.io/431-projectA-2025/plan.html) to consistently indicate **3089** (not 3088) rows and **95** (not 90) columns as the size of the original `chr_2025_raw` tibble in [Section 5.2](https://thomaselove.github.io/431-projectA-2025/plan.html#section-2.-data-ingest) and [Section 7.1.4.](https://thomaselove.github.io/431-projectA-2025/plan.html#element-d.-plan-section-2.-data-ingest)
     - **I have edited** [Section 9.9 of the Course Book](https://thomaselove.github.io/431-book/09_transmore.html#pairwise-comparisons-of-means) to reflect correct simultaneous CIs for the Bonferroni and Tukey methods as will be presented in today's slides
-    - **I have edited** the [Calendar page's descriptions](https://thomaselove.github.io/431-2025/calendar.html) of classes 8-10 to better reflect what we're actually doing.
+    - I have edited the [Calendar page's descriptions](https://thomaselove.github.io/431-2025/calendar.html) of classes 8-10 to better reflect what we're actually doing.
 2. Your Project A Plan is due tomorrow (Wednesday 2025-10-01) at noon. Please ensure that you submit all required elements to [Canvas](https://canvas.case.edu/).
-3. There is no Minute Paper this week. The next Minute Paper is after Class 11.
+3. There is no [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025) this week. The next Minute Paper is after Class 11.
+4. [Lab 3](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3) is the next assignment after the Project A Plan. It's due next Wednesday 2025-10-08. You have everything you need from me to do it now.
 
 ## Theming ggplots
 
@@ -33,4 +34,5 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Reminders
 
 1. Your Project A Plan is due tomorrow (Wednesday 2025-10-01) at noon. Please ensure that you submit all required elements to [Canvas](https://canvas.case.edu/).
-2. [Lab 3](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3) is the next assignment after the Project A Plan. It's due when the [Calendar](https://thomaselove.github.io/431-2025/calendar.html) says it is. You can do it now.
+2. [Lab 3](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3) is the next assignment after the Project A Plan.
+3. We hope that by Class 11 (next Tuesday 2025-10-07) you'll have caught up on your reading, including Chapter 8 of Spiegelhalter.
