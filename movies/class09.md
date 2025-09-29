@@ -43,7 +43,7 @@ Action | 60 | | Crime | 34 | | Music | 16 | | Western | 2
 
 ### About `mpa`
 
-Each of the 260 movies fits in one (and only one) of the 10 categories listed here:
+Each of the 260 movies fits in one (and only one) of the 10 **`mpa`** categories listed here:
 
 `mpa` | PG-13 | R | PG | Not Rated | G | Approved | TV-G | TV-14 | TV-MA | TV-PG 
 :-----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | 
@@ -53,7 +53,7 @@ Count | 84 | 80 | 67 | 14 | 8 | 2 | 2 | 1 | 1 | 1
 
 You'll have about 20 minutes to accomplish the following tasks.
 
-1. Form a group of 4-5 people, at least one of whom you don't know yet. Come up with a group name that each of you will still remember in a week.
+1. Form a group of 4-5 people, ideally including at least person you don't know yet. Come up with a group name that each of you will still remember in a week.
 2. One person in your group will report the results of your work using the Google Form found at <https://bit.ly/431-2025-movies-1> (**TO COME**). 
 3. As a group, you will identify **two** exploratory questions about films in this sample that could be addressed using the six key variables (`year`, `imdb_categories`, `imdb_ratings`, `imdb_stars`, `length` and `mpa`) listed above.
     - A good question (a) explores relationships involving two or more variables from the data set (b) lets us use data from all (or almost all) of the films and (c) ends with a question mark.
