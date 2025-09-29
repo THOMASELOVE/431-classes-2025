@@ -21,7 +21,9 @@ Variable | Sample Value | Explanation
 
 The **Variable Descriptions** tab in the Google Sheet has additional information on all of these variables.
 
-**Note 1**: Across the 260 movies, a total of 846 genres are listed in **`imdb_genres`**. Each movie has 1-8 genres listed, and 20 different genres are listed. Here are the counts of individual genres for these movies (remember the mean number of genres was 3.25, median was 3) from most common (Drama, listed for 153/260 (59%)) to least common (Western 2/160 (1%)).
+### About `imdb_genres`
+
+Across the 260 movies, a total of 846 genres are listed in **`imdb_genres`**. Each movie has 1-8 genres listed, and 20 different genres are listed. Here are the counts of individual genres for these movies (remember the mean number of genres was 3.25, median was 3) from most common (Drama, listed for 153/260 (59%)) to least common (Western 2/160 (1%)).
 
 Genre | Count | - | Genre | Count | - | Genre | Count | - | Genre | Count 
 ---------- | ---: | --- |  ---------- | ---: | --- | ---------- | ---: | --- | ---------- | ---:
@@ -31,7 +33,9 @@ Adventure | 87 | | Thriller | 50 | | Biography | 17 | | History | 6
 Romance | 62 | | Family | 45 | | Musical | 17 | | Sport | 6
 Action | 60 | | Crime | 34 | | Music | 16 | | Western | 2
 
-**Note 2**: The ratings in `mpa` fall into these categories (one category per movie):
+### About `mpa`
+
+Each of the 260 movies fits in one (and only one) of the 10 categories listed here:
 
 `mpa` | PG-13 | R | PG | Not Rated | G | Approved | TV-G | TV-14 | TV-MA | TV-PG 
 :-----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | 
