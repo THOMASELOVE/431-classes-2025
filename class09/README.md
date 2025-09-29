@@ -32,6 +32,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. There is no [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025) this week. The next Minute Paper is after Class 11.
 4. [Lab 3](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3) is the next assignment after the Project A Plan. It's due next Wednesday 2025-10-08. You have everything you need from me to do it now.
 
+## Favorite Movies
+
+Here's our [second breakout activity](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/class09.md). It uses the `movies_2025-09-30` version of the data found on our Shared Drive.
+
 ## Theming ggplots
 
 1. The main ggplot2 themes are demonstrated at <https://ggplot2.tidyverse.org/reference/ggtheme.html>. I use `theme_bw()` and `theme_light()`, mostly.
