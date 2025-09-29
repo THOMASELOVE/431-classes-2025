@@ -4,7 +4,7 @@ To be completed on 2025-09-30 (Class 09).
 
 ## The Six Variables We're Focusing On Today
 
-We will use the `movies_2025-09-30` data in the **Favorite Movies** directory in our Shared Drive Folder, which describes 260 films mentioned as "favorites" by students in 431 for 2020-2025. 
+We will use the `movies_2025-09-30` data in the **Favorite Movies** directory in our Shared Drive, which describes 260 films mentioned as "favorites" by students in 431 for 2020-2025. 
 
 There are six variables (`year`, `length`, `imdb_categories`, `imdb_ratings`, `imdb_stars` and `mpa`) that we will focus on today...
 
