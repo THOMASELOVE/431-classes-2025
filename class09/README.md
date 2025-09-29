@@ -28,7 +28,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - If you are working with a **partner**, **exactly** one of you should submit the materials listed above to Canvas, **and the other partner** should submit a text document (Word or PDF is fine) uploaded to Canvas that reads: "My name is [YOUR NAME]. I am working on Project A with [INSERT FULL NAME OF YOUR PARTNER], and they will submit the materials for the Plan."
     - Be sure to use spell check (just hit F7) on your Quarto file before rendering it, and review the HTML result carefully to ensure that no residual warnings or error messages remain in the document.
     - Be sure that your Plan includes your name (names if you are working with a partner) as the author in Quarto, and thus in HTML, as well as a [proper title](https://thomaselove.github.io/431-projectA-2025/plan.html#project-a-plan-title).
-    - Again, [here are the details](https://thomaselove.github.io/431-projectA-2025/plan.html#grading-the-project-a-plan) we will use to assess your Project A Plan.
+    - Again, [here are the details](https://thomaselove.github.io/431-projectA-2025/plan.html#grading-the-project-a-plan) on what we will be checking when we assess your Project A Plan.
 3. There is no [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025) this week. The next Minute Paper is after Class 11.
 4. [Lab 3](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3) is the next assignment after the Project A Plan. It's due next Wednesday 2025-10-08. You have everything you need from me to do it now.
 
