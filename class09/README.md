@@ -14,7 +14,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. Changes and fixes made since last class (with my thanks to the relevant alert students):
     - I have edited the [Calendar page's descriptions](https://thomaselove.github.io/431-2025/calendar.html) of classes 8-10 to better reflect what we're actually doing.
-    - I added the `DescTools` package to our [R packages installation list](https://github.com/THOMASELOVE/431-packages/tree/main). We'll use it today.
+    - I added the `DescTools` package to our [R packages installation list](https://github.com/THOMASELOVE/431-packages/tree/main). We'll use it today. See <https://andrisignorell.github.io/DescTools/> for more.
     - I also added today's `eurocare.csv` data file to the [431-data page](https://github.com/THOMASELOVE/431-data).
     - I updated (and shortened) the [Class 08 Slides](https://thomaselove.github.io/431-slides-2025/class08.html) including [the Quarto code](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class08.qmd) and [the Word version](https://thomaselove.github.io/431-slides-2025/class08w.docx). Specifically, I edited Slides 34-42 from the [Class 08 Slides](https://thomaselove.github.io/431-slides-2025/class08.html) to reflect correct simultaneous CIs for the Bonferroni method as well, and to use `stan_glm()` for the Bayesian ANOVA fit now found in slide 42. 
     - **I have edited** [Section 9.9 of the Course Book](https://thomaselove.github.io/431-book/09_transmore.html#pairwise-comparisons-of-means) to reflect correct simultaneous CIs for the Bonferroni and Tukey methods as will be presented in today's slides
