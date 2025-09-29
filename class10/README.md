@@ -19,3 +19,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. This section will appear in time for class. 
+
+## Other Reading?
+
+You may be interested in [The impact of sociodemographic factors on the utilisation of support services for family caregivers of elderly dependents – results from the German sample of the EUROFAMCARE study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488802/).
