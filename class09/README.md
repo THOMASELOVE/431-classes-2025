@@ -39,4 +39,4 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Reminders
 
 1. Your Project A Plan is due tomorrow (Wednesday 2025-10-01) at noon. Please ensure that you submit all required elements to [Canvas](https://canvas.case.edu/).
-2. [Lab 3] is the next assignment after the Project A Plan. It's due when the [Calendar](https://thomaselove.github.io/431-2025/calendar.html) says it is. You can do it now.
+2. [Lab 3](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3) is the next assignment after the Project A Plan. It's due when the [Calendar](https://thomaselove.github.io/431-2025/calendar.html) says it is. You can do it now.
