@@ -36,6 +36,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 5. Grades and feedback on Lab 2 are now available in our Grading Roster on the Shared Drive.
     - Here are a few of the [responses to Lab 2 Task 3](lab2task3.md) that we liked.
 
+--------
+
 ## Favorite Movies
 
 Here's our [second breakout activity](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/class09.md). It uses the `movies_2025-09-30` version of the data found on our Shared Drive.
