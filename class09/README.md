@@ -33,6 +33,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Again, [here are the details](https://thomaselove.github.io/431-projectA-2025/plan.html#grading-the-project-a-plan) on what we will be checking when we assess your [Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html).
 3. There is no [Minute Paper](https://github.com/THOMASELOVE/431-minute-2025) this week. The next Minute Paper is after Class 11.
 4. [Lab 3](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3) is the next assignment after the Project A Plan. It's due next Wednesday 2025-10-08. You have everything you need from me to do it now.
+5. Grades and feedback on Lab 2 are now available in our Grading Roster on the Shared Drive.
+    - Here are a few of the [responses to Lab 2 Task 3](lab2task3.md) that we liked.
 
 ## Favorite Movies
 
