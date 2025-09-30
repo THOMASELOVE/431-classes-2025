@@ -8,13 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
-11 | 2025-10-07 | Coming soon | Coming soon | Coming soon | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
-
-<!-- 
-
 11 | 2025-10-07 | **[Slides 11](https://thomaselove.github.io/431-slides-2025/class11.html)** | **[Word 11](https://thomaselove.github.io/431-slides-2025/class11w.docx)** | **[Code 11](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class11.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
-
--->
 
 ## Announcements
 
