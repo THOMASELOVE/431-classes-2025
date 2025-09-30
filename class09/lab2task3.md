@@ -1,5 +1,7 @@
 # Several Sample Lab 2 Task 3 responses we liked
 
+*We've left these respondents anonymous, but gave them a little class participation credit here, in addition to a good score on Task 3.*
+
 ## The Task (Lab 2 Task 3)
 
 > By now, you should have read a substantial chunk of David Spiegelhalter's *The Art of Statistics*, including the introduction and Chapters 1-3 and 5. Reflecting on Chapter 3 of *The Art of Statistics*, please write a brief essay (100-200 words) that discusses the process of inductive inference and how that influences the conclusions we can draw from our work in Task 2. A major issue to consider is how the sample was taken.
