@@ -1,3 +1,13 @@
+# Project A Plans
+
+## General Advice on Titles
+
+1. Titles are difficult to build, but are also very important, and I'd like to see your work start out as well as possible. Good luck in developing a solid revision including both a revised title and a meaningful subtitle as you build your portfolio. I believe that each of you can create a better title (which meets the maximum 80 characters limit) and subtitle (which should not exceed 150 characters) than you have submitted.
+2. Your title needs to distinguish your project well from the other project A submissions.
+3. A good strategy is to focus on one of your research questions in which you think your readers can be enticed (in a brief title of no more than 80 characters) to be actively interested in your results. This may be easier when you have completed your analyses in the portfolio.
+4. Information like the fact that you're using data from CHR 2025 (and CHR 2019) in your work or that you are using six states, or which six states they are can all be safely moved to a subtitle.
+5. Avoid the use of words like "Exploring" or "Assessing how" or "An Analysis of" or "A Study of" or "Relationships between" or "Associations between" or "Correlations between" or any other "throat clearing" phrases that don't actually communicate any meaningful information in your title or subtitle. They don't belong.
+
 ## Project A Plan Submissions
 
 Code | Investigator(s) | Submitted Title (first 80 characters)
@@ -50,3 +60,4 @@ A-43 | Helena Zhao | Exploring Health Inequality and Outcomes Across 6 U.S State
 
 - Thu Nguyen
 - Pooja Madan Mohan
+
