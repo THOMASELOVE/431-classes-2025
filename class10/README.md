@@ -12,7 +12,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. A list of submitted Project A Plans, with investigators and titles [is now available](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans.md). We anticipate getting feedback to you next week.
+2. 
 
 ## Other Reading?
 
