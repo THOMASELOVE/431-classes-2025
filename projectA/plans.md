@@ -2,7 +2,7 @@
 
 ## General Advice on Titles
 
-Titles are difficult to build, but are also very important, and I'd like to see your work start out as effectively as possible. I believe that each of you can create a more effective title (which meets the maximum 80 characters limit) and subtitle (which should not exceed 150 characters) than you have submitted, so I'll expect a new title and subtitle for each of you when you submit the Project A Portfolio. A few tips (which you will also find in our feedback, coming early next week.)
+Titles are difficult to build, but are also very important, and I'd like to see your work start out as effectively as possible. I believe that each of you can create a more effective title (which meets the maximum 80 characters limit) and subtitle (which should not exceed 150 characters) than you have submitted, so I'll expect a new title and subtitle when you submit the Project A Portfolio. A few tips (which you will also find in our feedback, coming early next week.)
 
 1. Your title needs to distinguish your project well from the other 44 project A submissions.
 2. A good strategy is to focus on one of your research questions in which you think your readers can be enticed (in a brief title of no more than 80 characters) to be actively interested in your results. This may be easier when you have completed your analyses in the portfolio.
