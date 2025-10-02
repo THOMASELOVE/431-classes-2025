@@ -22,5 +22,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - You may be interested in [The impact of sociodemographic factors on the utilisation of support services for family caregivers of elderly dependents – results from the German sample of the EUROFAMCARE study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3488802/).
 - Here is the [Baseball Reference page](https://www.baseball-reference.com/postseason/2025_ALWC1.shtml) for the Guardians - Tigers playoff series, which ends with today's 3:08 PM game.
 - Here is the [Baseball Savant page](https://baseballsavant.mlb.com/preview?game_pk=813073&game_date=2025-10-2) which previews today's game.
+- Here is the [Fangraphs page](https://www.fangraphs.com/teams/guardians) on the 2025 Guardians, as well.
+
+!![](alcentral2025.png)
 
 ![](guardians.png)
