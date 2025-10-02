@@ -54,9 +54,9 @@
 - (`imdb_stars`, `year`, `length`) *Longer and older movies have higher average IMDB ratings (imdb_stars) compared to more recent and shorter movies?*
     - In addition to the grammatical problems, you'd have to describe what "longer and older" means relative to "shorter and younger" in categories, I think.     
 
-## First Movie all of you have seen from [Our List](movie_1ist.md)
+## First Movie all of you have seen from [Our List](movie_list.md)
 
-Group | Members | First Movie on [Our List](movie_1ist.md) <br /> They've All Seen
+Group | Members | First Movie on [Our List](movie_list.md) <br /> They've All Seen
 :----------------: | :---: | :------------------------:
 Go Guardians! | 4 | M-012 Avatar
 LRSC | 4 | M-012 Avatar
