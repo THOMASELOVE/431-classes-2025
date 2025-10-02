@@ -60,9 +60,6 @@ A-40 | Jiakun Wang | Exploring Health Disparities in U.S. Counties
 A-41 | Cher Yuan | Use power of statistics to understand trends of health and education in 6 swing 
 A-42 | Lily Zhang | County-Level Analysis of Population Health: Factors Influencing Premature Mortal
 A-43 | Helena Zhao | Exploring Health Inequality and Outcomes Across 6 U.S States
+A-44 | Thu Nguyen | **awaiting submission**
 A-45 | Pooja Madan Mohan | Impact of Industrialization on Public Health
-
-## Awaiting Submission
-
-- Thu Nguyen (will be A-44)
 
