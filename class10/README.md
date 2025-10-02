@@ -24,6 +24,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - Here is the [Baseball Savant page](https://baseballsavant.mlb.com/preview?game_pk=813073&game_date=2025-10-2) which previews today's game.
 - Here is the [Fangraphs page](https://www.fangraphs.com/teams/guardians) on the 2025 Guardians, as well.
 
-!![](alcentral2025.png)
+![](alcentral2025.png)
 
 ![](guardians.png)
