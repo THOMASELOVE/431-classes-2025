@@ -23,4 +23,4 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - Here is the [Baseball Reference page](https://www.baseball-reference.com/postseason/2025_ALWC1.shtml) for the Guardians - Tigers playoff series, which ends with today's 3:08 PM game.
 - Here is the [Baseball Savant page](https://baseballsavant.mlb.com/preview?game_pk=813073&game_date=2025-10-2) which previews today's game.
 
-![](https://baseballsavant.mlb.com/illustrator/static?guid=9f4e0dcd-9b9a-4aae-a6e6-c81bea42226a&scale=true)
+<iframe src="https://baseballsavant.mlb.com/illustrator/static?guid=9f4e0dcd-9b9a-4aae-a6e6-c81bea42226a&scale=true"></iframe>
