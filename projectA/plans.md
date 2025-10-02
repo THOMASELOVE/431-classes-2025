@@ -1,5 +1,9 @@
 # Project A Plans
 
+## Reminder
+
+The [review elements list in the Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html#checklist-review-elements-for-the-project-a-plan) specifically mentions (twice) that it refers to 2024, and not 2025, and I also mentioned this in class. Yours will be similar but not identical, naturally. For example, you should be using R 4.5.1. and your dates should be something like 2025-10-01, etc.
+
 ## General Advice on Titles
 
 Titles are difficult to build, but are also very important, and I'd like to see your work start out as effectively as possible. I believe that each of you can create a more effective title (which meets the maximum 80 characters limit) and subtitle (which should not exceed 150 characters) than you have submitted, so I'll expect a new title and subtitle when you submit the Project A Portfolio. A few tips (which you will also find in our feedback, coming early next week.)
