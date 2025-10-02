@@ -10,6 +10,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 10 | 2025-10-02 | **[Slides 10](https://thomaselove.github.io/431-slides-2025/class10.html)** | **[Word 10](https://thomaselove.github.io/431-slides-2025/class10w.docx)** | **[Code 10](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class10.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/health_data.png) [Source](https://xkcd.com/2620)
+
 ## Announcements
 
 1. A list of submitted Project A Plans, with investigators and titles and some general advice on building better titles and subtitles [is now available](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans.md). We anticipate getting feedback to you early next week, at which point we'll let you know if we need to see a revision, or if you can move on to the Portfolio. There will be 45 Project As this term.
