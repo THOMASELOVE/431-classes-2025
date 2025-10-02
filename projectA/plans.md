@@ -11,7 +11,7 @@ Titles are difficult to build, but are also very important, and I'd like to see 
 1. Your title needs to distinguish your project well from the other 44 project A submissions.
 2. A good strategy is to focus on one of your research questions in which you think your readers can be enticed (in a brief title of no more than 80 characters) to be actively interested in your results. This may be easier when you have completed your analyses in the portfolio.
 3. Information like the fact that you're using data from CHR 2025 (and CHR 2019) in your work or that you are using six states, or which six states they are can all be safely moved to a subtitle.
-4. Avoid the use of words like "Exploring" or "Assessing how" or "An Analysis of" or "A Study of" or "Relationships between" or "Associations between" or "Correlations between" or any other "throat clearing" phrases that don't actually communicate any meaningful information in your title or subtitle. They don't belong.
+4. Avoid the use of words like "Exploring" or "Assessing how" or "An Analysis of" or "A Study of" or "Relationships between" or "Associations between" or "Correlations between" or "Impact of" or any other "throat clearing" phrases[^1] that don't actually communicate any meaningful information in your title or subtitle. They don't belong.
 
 ## Project A Plan Submissions
 
@@ -63,3 +63,4 @@ A-43 | Helena Zhao | Exploring Health Inequality and Outcomes Across 6 U.S State
 A-44 | Thu Nguyen | **awaiting submission**
 A-45 | Pooja Madan Mohan | Impact of Industrialization on Public Health
 
+[^1]: In writing, "throat-clearing" refers to unnecessary words or phrases at the beginning of a sentence or text that delay the main point. The best approach in scientific writing is to cut this material and build a stronger, more direct sentence.
