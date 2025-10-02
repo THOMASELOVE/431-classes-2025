@@ -13,7 +13,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. A list of submitted Project A Plans, with investigators and titles and some general advice on building better titles and subtitles [is now available](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans.md). We anticipate getting feedback to you early next week, at which point we'll let you know if we need to see a revision, or if you can move on to the Portfolio. There will be 45 Project As this term.
-2. 
+2. Some thoughts on the movies breakout activity from Class 9 [are here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/class09_results.md).
 
 ## Other Reading?
 
