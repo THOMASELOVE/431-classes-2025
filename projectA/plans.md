@@ -2,7 +2,7 @@
 
 ## Reminder
 
-The [review elements list in the Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html#checklist-review-elements-for-the-project-a-plan) specifically mentions (twice) that it refers to 2024, and not 2025, and I also mentioned this in class. Yours will be similar but not identical, naturally. For example, you should be using R 4.5.1. and your dates should be something like 2025-10-01, etc.
+The [review elements list in the Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html#checklist-review-elements-for-the-project-a-plan) specifically mentions (twice) that it refers to *2024*, and not 2025, and I also mentioned this in class. Yours will be similar but not identical, naturally. For example, you should be using R 4.5.1. and your dates should be something like 2025-10-01, etc.
 
 ## General Advice on Titles
 
