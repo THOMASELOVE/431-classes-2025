@@ -1,3 +1,9 @@
+## [`Love-431.R`](https://github.com/THOMASELOVE/431-data/blob/main/data/Love-431.R) script functions introduced in Class 11 (2025-10-07)
+
+1. [The `twobytwo()` function](#the-twobytwo-function-from-the-love-431r-script)
+2. [The `saifs_ci()` function](#the-saifs_ci-function-from-the-love-431r-script)
+
+
 ## The `twobytwo()` function from [the `Love-431.R` script](https://github.com/THOMASELOVE/431-data/blob/main/data/Love-431.R)
 
 The `twobytwo()` function is designed to take information from an existing 2x2 table and run [the Epi package's](https://bendixcarstensen.com/Epi/) **twoby2()** command to summarize key analytic results. Given a table (in *standard epidemiological format*) that looks like this:
