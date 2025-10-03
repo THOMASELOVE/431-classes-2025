@@ -16,3 +16,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. I fixed the [Class 10 slides, Word and Quarto files](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class10#todays-slides) to correct the sample size (*n* = 847, not 846) after dropping cases with missing data.
 3. More to come.
 
+## New Love-431.R script functions
+
+Additional discussion and demonstration of the two new functions from [the `Love-431.R` script](https://github.com/THOMASELOVE/431-data/blob/main/data/Love-431.R) that we'll introduce today [is found here](scripts.md). The functions are called `twobytwo()` and `saifs_ci()`.
