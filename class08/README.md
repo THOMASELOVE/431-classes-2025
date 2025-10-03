@@ -47,10 +47,10 @@ The link above describes some information about the `movies_2025-09-25` Google S
 - That sheet describes the **51** movies selected as a "favorite movie" by students in 431 in the Fall 2025 version of this course.
     - On Tuesday, we'll be looking at a larger set of data, including "favorite movies" from students in 2020-2024, as well.
 - In Class 07, I talked a little bit more about how I developed the data and variable descriptions and sources tabs in the sheet, mostly using [IMDB](https://www.imdb.com/).
-- In future classes (starting Tuesday), we'll augment this database in several ways, and we'll develop (and try to explore) some research questions.
+- In future classes, we'll augment this database in several ways, and we'll develop (and try to explore) some research questions.
 - In addition to [IMDB](https://www.imdb.com/), some other sites I have used in the past to gather data about movies include:
     - <https://www.rottentomatoes.com/>, <https://www.flickchart.com/> and <https://the-numbers.com/>
-    - **In class 11, I will be looking for you to help me identify other available public sources of interesting movie data, so you might want to give that some thought in spare hours.**
+    - **In class 12, I will be looking for you to help me identify other available public sources of interesting movie data, so you might want to give that some thought in spare hours.**
 
 ## Reminders (see [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for the final word on all deadlines)
 
