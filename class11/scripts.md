@@ -68,11 +68,19 @@ The `saifs_ci()` function calculates a *single augmentation with one failure and
 - Reed JF (2007) [Better Binomial Confidence Intervals](https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1132&context=jmasm) J Modern Applied Stat Methods 6:1.
 - Gelman A (2007) [(y+2)/(n+4) instead of y/n](https://statmodeling.stat.columbia.edu/2007/05/15/y1n2_instead_of/)
 
+As an illustration, suppose we have 20 "successes" in a sample of 100 observations.
+
+```
+> saifs_ci(x = 20, n = 100, conf.level = 0.95)
+# A tibble: 1 × 6
+  sample_x sample_n sample_p lower upper conf_level
+     <dbl>    <dbl>    <dbl> <dbl> <dbl>      <dbl>
+1       20      100      0.2 0.119 0.288       0.95
+```
+
 Estimates with and without the augmentation will be generally comparable, so long as:
 - the sample size is more than, say, 30 subjects, and/or
 - the sample probability of the outcome is between 0.1 and 0.9
-
-The Agresti-Coull method, for example, uses a similar scheme, but with a varying size of augmentation. There's an argument that is now the best choice.
 
 ```
 `saifs_ci` <- 
@@ -104,3 +112,19 @@ The Agresti-Coull method, for example, uses a similar scheme, but with a varying
   }
 ```
 
+The Agresti-Coull method, for example, uses a similar scheme, but with a varying size of augmentation (adding Z successes and Z failures to the data, where Z is the appropriate quantile for a standard Normal distribution (1.96 for a 95% CI)). There's an argument that Agresti-Coull is now the best choice for estimating a proportion based on a single sample, and as a result, it's the main one I use. One way to get that CI uses the **mosaic** package's `binom.test()` function:
+
+```
+mosaic::binom.test(x = 20, n = 100, p = 0.5, conf.level = 0.95, ci.method = "agresti-coull")
+
+	Exact binomial test (Agresti-Coull CI)
+
+data:  20 out of 100
+number of successes = 20, number of trials = 100, p-value = 1.116e-09
+alternative hypothesis: true probability of success is not equal to 0.5
+95 percent confidence interval:
+ 0.1326077 0.2895884
+sample estimates:
+probability of success 
+                   0.2 
+```
