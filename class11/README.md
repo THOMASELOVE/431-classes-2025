@@ -18,4 +18,4 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## New Love-431.R script functions
 
-Additional discussion and demonstration of the two new functions from [the `Love-431.R` script](https://github.com/THOMASELOVE/431-data/blob/main/data/Love-431.R) that we'll introduce today [is found here](scripts.md). The functions are called `twobytwo()` and `saifs_ci()`.
+Additional discussion and demonstration of two functions from [the `Love-431.R` script](https://github.com/THOMASELOVE/431-data/blob/main/data/Love-431.R) that we'll introduce today [is found here](scripts.md). The functions are called `twobytwo()` and `saifs_ci()`.
