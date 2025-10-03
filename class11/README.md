@@ -12,4 +12,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. There will be a Minute Paper after Class 11. Details to come.
+2. I fixed the Class 10 slides, Word and quarto files to correct the sample size (847, not 846) after dropping cases with missing data.
+3. More to come.
