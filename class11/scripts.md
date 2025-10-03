@@ -112,7 +112,10 @@ Estimates with and without the augmentation will be generally comparable, so lon
   }
 ```
 
-The Agresti-Coull method, for example, uses a similar scheme, but with a varying size of augmentation (adding Z successes and Z failures to the data, where Z is the appropriate quantile for a standard Normal distribution (1.96 for a 95% CI)). There's an argument that Agresti-Coull is now the best choice for estimating a proportion based on a single sample, and as a result, it's the main one I use. One way to get that CI uses the **mosaic** package's `binom.test()` function:
+The **Agresti-Coull method** uses a similar scheme, but with a varying size of augmentation depending on the desired confidence level (adding Z successes and Z failures to the data, where Z is the appropriate quantile for a standard Normal distribution (1.96 for a 95% CI)). 
+
+- There's an argument that Agresti-Coull is now the best choice for estimating a proportion based on a single sample, and as a result, it's the main one I use.
+- One way to get the Agresti-Coull CI uses [the **mosaic** package's](http://www.mosaic-web.org/) `binom.test()` function:
 
 ```
 mosaic::binom.test(x = 20, n = 100, p = 0.5, conf.level = 0.95, ci.method = "agresti-coull")
