@@ -15,8 +15,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. There will be a Minute Paper after Class 11. **Details to come.**
 2. [Lab 3](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3) is due Wednesday 2025-10-08 at noon.
 3. I fixed the [Class 10 slides, Word and Quarto files](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class10#todays-slides) to correct the sample size (*n* = 847, not 846) after dropping cases with missing data.
-4. By now, you should know your status on the Project A Plan. If Dr. Love asked you to revise your Plan, that is due at noon Wednesday 2025-10-08.
-5. More to come.
+4. By class time, you will have our feedback on your [Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html).
+    - If Dr. Love asked you to **REDO** your Plan, then that revision is due to Canvas at noon Wednesday 2025-10-08.
+    - If Dr. Love has **ACCEPTED** your Plan, then you should get to work on the [Analyses](https://thomaselove.github.io/431-projectA-2025/analyses.html) and [Portfolio](https://thomaselove.github.io/431-projectA-2025/portfolio.html) while, of course, incorporating our comments about your Plan.
 
 ## [Love-431.R script](https://github.com/THOMASELOVE/431-data/blob/main/data/Love-431.R) functions
 
