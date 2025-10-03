@@ -63,6 +63,17 @@ The script follows:
 
 ## The `saifs_ci()` function from [the `Love-431.R` script](https://github.com/THOMASELOVE/431-data/blob/main/data/Love-431.R)
 
+The `saifs_ci()` function calculates a *single augmentation with one failure and one success* estimated confidence interval for a proportion, based on a sample of size *n* which contains *x* successes. Useful references include:
+
+- Reed JF (2007) [Better Binomial Confidence Intervals](https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1132&context=jmasm) J Modern Applied Stat Methods 6:1.
+- Gelman A (2007) [(y+2)/(n+4) instead of y/n](https://statmodeling.stat.columbia.edu/2007/05/15/y1n2_instead_of/)
+
+Estimates with and without the augmentation will be generally comparable, so long as:
+- the sample size is more than, say, 30 subjects, and/or
+- the sample probability of the outcome is between 0.1 and 0.9
+
+The Agresti-Coull method, for example, uses a similar scheme, but with a varying size of augmentation. There's an argument that is now the best choice.
+
 ```
 `saifs_ci` <- 
   function(x, n, conf.level=0.95, dig=3)
