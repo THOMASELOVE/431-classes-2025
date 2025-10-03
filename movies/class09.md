@@ -18,7 +18,7 @@ After we look at this page together, you'll have about 20 minutes to accomplish 
 
 We will use the `movies_2025-09-30` data in the **Favorite Movies** directory in our Shared Drive, which describes 260 films mentioned as "favorites" by students in 431 for 2020-2025. 
 
-There are six variables (`year`, `length`, `imdb_categories`, `imdb_ratings`, `imdb_stars` and `mpa`) that we will focus on today...
+There are six variables (`year`, `length`, `imdb_genres`, `imdb_ratings`, `imdb_stars` and `mpa`) that we will focus on today...
 
 Variable | Sample Value | Explanation
 :--------: | :------------: | ------------------------------------------------------------------------
