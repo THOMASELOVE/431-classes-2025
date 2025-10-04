@@ -10,3 +10,4 @@
 1. [Class 08 mini-breakout](class08.md)
 2. [Class 09 activity](class09.md)
 3. Class 09 activity [results and feedback](class09_results.md)
+4. An Update (including analyses of questions posed in Class 09) available as [Quarto](movies_update1.qmd) or [HTML](movies_update1.html) for download.
