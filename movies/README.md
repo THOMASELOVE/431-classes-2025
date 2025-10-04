@@ -12,7 +12,7 @@
 2. [Class 09 activity](class09.md)
 3. Class 09 activity [results and feedback](class09_results.md)
 4. An Update posted 2025-10-04 (including analyses of questions posed in Class 09 using the `movies_2025-09-30` data on our Shared Drive) is now available as [Quarto](https://raw.githubusercontent.com/THOMASELOVE/431-classes-2025/refs/heads/main/movies/movies_update1.qmd) or [HTML](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/movies_update1.html) **for download**. You'll also find these files on our Shared Drive as `movies_update1.qmd` and `movies_update1.html`. Remember you need to download the HTML to your machine, then open it using your favorite browser.
-5. [Class 12 activity](class12.md)
+5. Here is our [Class 12 activity](class12.md), which we will introduce in Class 11.
 
 ## An Older Version of the Data (still on our Shared Drive) is `movies_2025-09-30`
 
