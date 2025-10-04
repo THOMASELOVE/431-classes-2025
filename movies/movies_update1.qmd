@@ -1,0 +1,1193 @@
+---
+title: "An Update on the Favorite Movies"
+subtitle: "Addressing Exploratory Questions developed by the 431 Class"
+author: "Thomas E. Love, Ph.D."
+date-modified: last-modified
+format: 
+  html:
+    toc: true
+    number-sections: true
+    date-format: iso
+    embed-resources: true
+    code-overflow: wrap
+    code-tools: true
+    theme: zephyr
+---
+
+# Questions This Work Addresses
+
+## Data Management Questions
+
+- How do we ingest data from a Google Sheet?
+- How do we clean up some of the favorite movies data?
+- How might we deal with a "check all that apply" item like `imdb_genres` from our favorite movies?
+
+## Analytic Questions
+
+1. Do movies released in 1940-2005 have more user ratings than movies released after 2005?
+2. Which MPA categories have higher average IMDB star ratings?
+3. How strong is the association between the number of IMDB user ratings (`imdb_ratings`) and the weighted average star rating (`imdb_stars`)?
+4. Which movie genres have the highest weighted average star ratings on IMDB?
+
+# R Setup
+
+```{r}
+#| message: false
+
+knitr::opts_chunk$set(comment = NA)
+
+library(janitor)
+library(naniar)
+
+library(googlesheets4) ## to read in data from shared Google Sheet
+library(knitr); library(kableExtra) ## to make prettier tables
+library(rstanarm) ## to fit Bayesian linear models
+library(MKinfer)  ## for bootstrap t tests
+library(infer)  ## for bootstrapping differences in medians
+library(DescTools) ## for post-hoc testing in ANOVA
+library(car) ## for boxCox
+library(xfun)  ## for session information
+
+library(easystats)
+library(tidyverse)
+
+theme_set(theme_bw())
+
+source("Love-431.R") ## for lovedist() function
+```
+
+
+# Ingesting the Data
+
+The Google Sheet containing the `movies_2025-09-30` data is found at the following URL:
+
+<https://docs.google.com/spreadsheets/d/1CnbaDAeFoTzvI_V7b3-C0Gy6c9sdNsFWztACLJ4PMAw/edit?usp=drive_link>
+
+```{r}
+gs4_deauth()
+
+url_movies <- "https://docs.google.com/spreadsheets/d/1CnbaDAeFoTzvI_V7b3-C0Gy6c9sdNsFWztACLJ4PMAw/edit?usp=drive_link"
+
+movies_raw <- read_sheet(url_movies) |> 
+  janitor::clean_names()
+
+dim(movies_raw)
+```
+
+This initial result should (and does) include 11 variables, and 260 movies.
+
+## Data Cleaning
+
+### Are there any missing values?
+
+```{r}
+n_miss(movies_raw) ## any missing values?
+```
+
+:::{.callout-note}
+
+If we had any missing values indicated above, we'd probably want to run `miss_var_summary()` and `miss_case_table()` to understand the situation better, but that's not necessary here.
+
+:::
+
+### Restricting to Key Variables and Minor Changes
+
+Here's a glimpse at our current tibble:
+
+```{r}
+glimpse(movies_raw)
+```
+
+We're going to focus on 6 variables in our analyses today, plus the two identifying variables (`mov_id` and `movie`). They are `year`, `length`, `imdb_genres`, `imdb_ratings`, `imdb_stars`, and `mpa`. We'll also:
+
+- rearrange the data a little, 
+- ignore the variables we're not using today,
+- look at `ratings100K`, which is the number of user ratings divided by 100,000, so that this is scaled more similarly to our other variables, and
+- represent the movie names as a character variable, rather than as a list, which is what R defaulted to when ingesting the data.
+
+```{r}
+movies_1 <- movies_raw |>
+  select(mov_id, year, length, imdb_ratings, imdb_stars, mpa, 
+         imdb_genres, movie) |>
+  mutate(ratings100K = imdb_ratings/100000) |>
+  mutate(movie = as.character(movie))
+
+glimpse(movies_1)
+```
+
+### Are the identifying variables distinct?
+
+We want to make sure we have a different value of `mov_id` and `movie` for each row of our data.
+
+```{r}
+nrow(movies_1)
+n_distinct(movies_1$mov_id)
+n_distinct(movies_1$movie)
+```
+
+OK. Each of these are 260, which is comforting.
+
+### Check Ranges of Quantities
+
+We have four quantitative variables here, so let's check the range of their values.
+
+```{r}
+movies_1 |> reframe(range(imdb_stars), range(ratings100K), 
+                range(length), range(year))
+```
+
+- `imdb_stars` (weighted average star rating) must be between 1 and 10 stars, and the range we see is (3.4, 9.3). That seems reasonable.
+- `ratings100K` ranges from 0.13 (or 1,300 users) to 31 (or 3,100,000 users) who've rated the movie. Fine.
+- `length` of the movie ranges from 70 to 207 minutes. Seems OK.
+- `year` movie was released covers the period from 1940 to 2024. Also seems reasonable.
+
+### `mpa` is categorical
+
+Let's assess the levels of `mpa` rating, and consider how to create a factor representation of that information in R.
+
+```{r}
+movies_1 |> count(mpa)
+```
+
+Since only PG, PG-13 and R have fairly large sample sizes, let's collapse all but the three most common categories together, and then create a four-level factor to represent `mpa` rating. 
+
+Fortunately, [the **forcats** package](https://forcats.tidyverse.org/) (part of the tidyverse) has a tool for this task.
+
+```{r}
+movies_1 <- movies_1 |>
+  mutate(mpa4 = fct_lump_n(mpa, n = 3, other_level = "Other"))
+```
+
+:::{.callout-note}
+
+`fct_lump_n()` with *n* = 3 collapses all `mpa` values that occur less often than the top 3 `mpa` values.
+
+Let's do a little sanity check to ensure that the relationship between `mpa` and `mpa4` matches what we expect.
+
+```{r}
+movies_1 |> tabyl(mpa, mpa4) |> 
+  adorn_totals(where = "row") |> adorn_title(placement = "combined")
+```
+
+Looks good.
+
+:::
+
+### Dealing with `imdb_genres`: A bigger task
+
+
+A *genre* is a category of a work of art defined by a particular set of shared conventions, content, form or style. These categories help organize and classify works based on common characteristics, allowing audiences and critics to understand what to expect from a piece.
+
+:::{.callout-note}
+
+As we discussed in [Class 09](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/class09.md#about-imdb_genres), each value in `imdb_genres` lists between 1 and 8 of the following 20 types of movie.
+
+- Action, Adventure, Animation, Biography, Comedy, Crime, Drama, Family, Fantasy, History, 
+- Horror, Mystery, Music, Musical, Romance, Sci-Fi, Sport, Thriller, War, Western
+
+:::
+
+```{r}
+movies_1 |> count(imdb_genres) |> arrange(desc(n))
+```
+
+In 260 movies, we see 145 different combinations of genres in the `imdb_genres` variable. As we see from this table, the most common result is that 13 movies list Drama and Romance, while, for example, 12 list only Drama.
+
+### Building Indicators for Genres
+
+To represent these data in a more useful way, I suggest building a set of 20 indicator variables (which take the value 1 or 0) to indicate the presence (1) or absence (0) of each of the 20 available genres for that movie. 
+
+One way to do this (admittedly, a tedious bit of coding) is to use the `str_detect()` function from the **stringr** package (part of the tidyverse) as follows:
+
+```{r}
+movies_1 <- movies_1 |>
+  mutate(action = as.numeric(str_detect(imdb_genres, fixed("Action"))),
+         adventure = as.numeric(str_detect(imdb_genres, fixed("Adventure"))),
+         animation = as.numeric(str_detect(imdb_genres, fixed("Animation"))),
+         biography = as.numeric(str_detect(imdb_genres, fixed("Biography"))),
+         comedy = as.numeric(str_detect(imdb_genres, fixed("Comedy"))),
+         crime = as.numeric(str_detect(imdb_genres, fixed("Crime"))),
+         drama = as.numeric(str_detect(imdb_genres, fixed("Drama"))),
+         family = as.numeric(str_detect(imdb_genres, fixed("Family"))),
+         fantasy = as.numeric(str_detect(imdb_genres, fixed("Fantasy"))),
+         history = as.numeric(str_detect(imdb_genres, fixed("History"))),
+         horror = as.numeric(str_detect(imdb_genres, fixed("Horror"))),
+         mystery = as.numeric(str_detect(imdb_genres, fixed("Mystery"))),
+         music = as.numeric(str_detect(imdb_genres, fixed("Music"))),
+         musical = as.numeric(str_detect(imdb_genres, fixed("Musical"))),
+         romance = as.numeric(str_detect(imdb_genres, fixed("Romance"))),
+         scifi = as.numeric(str_detect(imdb_genres, fixed("Sci-Fi"))),
+         sport = as.numeric(str_detect(imdb_genres, fixed("Sport"))),
+         thriller = as.numeric(str_detect(imdb_genres, fixed("Thriller"))),
+         war = as.numeric(str_detect(imdb_genres, fixed("War"))),
+         western = as.numeric(str_detect(imdb_genres, fixed("Western"))),
+  )
+```
+
+Let's use these new variables to obtain counts of the number of films associated with each of the 20 genres. Since each value is either 1 (if that genre is in the movie's list) or 0, we can sum up the columns to get these counts.
+
+```{r}
+movies_1 |> select(action:war) |> colSums()
+```
+
+Now, we can answer questions like:
+
+How many movies are categorized as both Drama and Mystery?
+
+```{r}
+movies_1 |> count(drama, mystery)
+```
+
+Can we list the 14 movies that are categorized as both Drama and Mystery (and perhaps other things)?
+
+```{r}
+movies_1 |> filter(drama == 1, mystery == 1) |> 
+  select(movie, imdb_stars, imdb_genres) 
+```
+
+Are there any movies that include Comedy, Romance and Thriller?
+
+```{r}
+movies_1 |> count(comedy, romance, thriller)
+```
+
+```{r}
+movies_1 |> filter(comedy == 1, romance == 1, thriller == 1) |> 
+  select(movie, imdb_stars, imdb_genres) 
+```
+
+:::{.callout-note}
+
+Suppose we wanted to build a tibble of the genre counts. Consider the following approach.
+
+```{r}
+genre_counts <- movies_1 |> 
+  select(action:western) |>
+  colSums() |> 
+  t() |> as_tibble() |> pivot_longer(action:western) |>
+  rename(genre = name, movies = value) |> 
+  arrange(desc(movies))
+
+genre_counts
+```
+
+:::
+
+
+## Numerical Summaries
+
+### `data_codebook` results
+
+Here's a brief description of each of the variables that we're now thinking about using in an analysis, leaving out the identifying variables, and the original versions of the `imdb_ratings`, `mpa` and `imdb_genres` variables.
+
+```{r}
+data_codebook(movies_1 |> 
+                select(-mov_id, -movie, -imdb_ratings, -mpa, -imdb_genres))
+```
+
+### `lovedist` results on quantities
+
+Let's look at some general numerical summaries for the four quantitative variables (not including the binary indicator variables) we are analyzing.
+
+```{r}
+dat1 <- bind_rows(
+  movies_1 |> reframe(lovedist(imdb_stars)),
+  movies_1 |> reframe(lovedist(ratings100K)),
+  movies_1 |> reframe(lovedist(length)),
+  movies_1 |> reframe(lovedist(year))
+)
+
+dat1 <- dat1 |> 
+  mutate(dat1, var_name = c("imdb_stars", "ratings100K", "length", "year")) |>
+  relocate(var_name)
+
+kable(dat1, digits = 1) 
+```
+
+# Question 1
+
+- Do movies released in 1940-2005 have more user ratings than movies released after 2005?
+
+Let's build an appropriate factor called `release` to identify the two groups of movies being compared here, then obtain some numeric summaries of `ratings100K` (hundreds of thousands of user ratings) in each `release` group.
+
+```{r}
+movies_1 <- movies_1 |>
+  mutate(release = fct_recode(factor(year > 2005),
+                            After2005 = "TRUE", Older = "FALSE"))
+
+movies_1 |> group_by(release) |> reframe(lovedist(ratings100K)) |>
+  kable(digits = 1)
+```
+
+We see we have a balanced design here, with 130 movies in each `release` category. Let's draw a picture to compare these independent samples.
+
+```{r}
+ggplot(movies_1, aes(x = release, y = ratings100K)) +
+  geom_violin(aes(fill = release)) +
+  geom_boxplot(width = 0.2, notch = TRUE) + 
+  stat_summary(fun = mean, geom = "point", size = 3, col = "red") +
+  scale_fill_oi() +
+  guides(fill = "none") +
+  labs(title = "Favorite Movies (2020-2025)",
+       x = "Release Category", y = "Hundreds of Thousands of IMDB User Ratings") +
+  coord_flip()
+```
+
+Each distribution looks strongly right-skewed. So we have several available options for our analysis.
+
+## Transform the outcome
+
+In an attempt to reduce the skew, I'd be interested in transforming the original count of user ratings to establish a new outcome. Let's try that picture with a log transformation.
+
+### Logarithmic transformation?
+
+```{r}
+ggplot(movies_1, aes(x = release, y = log(imdb_ratings))) +
+  geom_violin(aes(fill = release)) +
+  geom_boxplot(width = 0.2, notch = TRUE) + 
+  stat_summary(fun = mean, geom = "point", size = 3, col = "red") +
+  scale_fill_oi() +
+  guides(fill = "none") +
+  labs(title = "Favorite Movies (2020-2025)",
+       x = "Release Category", y = "Logarithm of the # of IMDB User Ratings") +
+  coord_flip()
+```
+
+Hmmmm... this looks a little disappointing. Have we transformed too much? Should we instead consider the square root of the number of IMDB ratings?
+
+### Square root transformation?
+
+```{r}
+ggplot(movies_1, aes(x = release, y = sqrt(imdb_ratings))) +
+  geom_violin(aes(fill = release)) +
+  geom_boxplot(width = 0.2, notch = TRUE) + 
+  stat_summary(fun = mean, geom = "point", size = 3, col = "red") +
+  scale_fill_oi() +
+  guides(fill = "none") +
+  labs(title = "Favorite Movies (2020-2025)",
+       x = "Release Category", y = "Square Root of # of IMDB User Ratings") +
+  coord_flip()
+```
+
+Well, that seems much closer to a pair of distributions that could be reasonably well approximated by the Normal distribution.
+
+## Pooled t-test / linear model on sqrt(imdb_ratings)
+
+So, let's go ahead and run a linear model to obtain an appropriate two-sample pooled t test comparing the means of sqrt(ratings) across the two release groups.
+
+```{r}
+fit1 <- lm(sqrt(imdb_ratings) ~ release, data = movies_1)
+
+model_parameters(fit1, ci = 0.95, pretty_names = FALSE) 
+```
+
+For a movie released after 2005, our model `fit1` estimates that this movie's square root of number of IMDB user ratings will be, on average, 45.11 smaller than for a movie released in 1940-2005. There's no concern here about using a pooled t approach (as opposed to the Welch t approach) given the balanced design.
+
+Suppose we assume that the population of interest is "all favorite movies for students at CWRU in any class between 2020 and 2025" and we're willing to believe that our sample of 260 movies is a representative (though not random) sample from that population. When we generalize beyond the movies selected here to the population of interest, **and** we assume that our model `fit1` is correct, then our sample data are compatible (at the 95% confidence level) with differences in the square root of number of IMDB user ratings between 132.77 smaller in the "after 2005" group up to 42.55 larger in the "after 2025" group.
+
+The frustrating point here is that we're now talking about the square root of rankings, rather than just rankings. Hence, we might want to make some average predictions for each group, back on our original scale.
+
+```{r}
+estimate_means(fit1, by = "release", ci = 0.95, transform = TRUE)
+```
+
+So that's a point estimate using this model back-transformed (by taking the square of the mean) out of the square root transformation which yield the estimates: 
+
+- 490,000 user ratings on average in the "Older" group with 95% CI (407,000, 580,000)
+- and 429,000 user ratings on average in the "After 2005" group with 95% CI (351,000, 514,000).
+
+## Bayesian linear model?
+
+We could have run a Bayesian model instead here, although it has the same issues with assumptions and the transformation as our `fit1` model.
+
+```{r}
+set.seed(43101)
+fit1b <- stan_glm(sqrt(imdb_ratings) ~ release, 
+                  data = movies_1, refresh = 0 )
+
+model_parameters(fit1b, ci = 0.95, pretty_names = FALSE)
+estimate_means(fit1b, by = "release", ci = 0.95, transform = TRUE)
+```
+
+Does this look like a meaningfully different set of results than we obtained with `fit1`? No, as it probably shouldn't, given our choice of a weakly informative prior.
+
+## Use the bootstrap
+
+Given the skew in the original data, we might consider applying the bootstrap if we still wanted to compare means. We'll pool the variance estimates here with `var.equal = TRUE`, since we have a balanced design.
+
+```{r}
+fit2 <- boot.t.test(imdb_ratings ~ release, data = movies_1, 
+                    var.equal = TRUE, conf.level = 0.95)
+
+fit2
+```
+
+For a movie released in 1940-2005 (the "older" period), our bootstrap `fit2` estimates that this movie's number of IMDB user ratings will be, on average, 80063 larger than for a movie released after 2005. 
+
+Suppose we assume again that the population of interest is "all favorite movies for students at CWRU in any class between 2020 and 2025" and we're willing to believe that our sample of 260 movies is a representative (though not random) sample from that population. 
+
+When we generalize beyond the movies selected here to the population of interest, **and** we assume that our model `fit2` is correct, then our sample data are compatible (at the 95% confidence level) with differences in the mean of IMDB user ratings between 62,947 smaller in the "older" group up to 223,437 larger in the "older" group.
+
+This is appealing because it's still an estimate about the mean of IMDB user ratings, but it's debatable that the skew in our data lets us interpret the mean as the "center" of the distribution. We might prefer to look at a bootstrap confidence interval comparing the *medians* of the two groups.
+
+The sample median `imdb_ratings` within the two groups are:
+
+```{r}
+movies_1 |> group_by(release) |> 
+  summarize(n = n(), median(imdb_ratings), mean(imdb_ratings))
+```
+
+So I'll set this interval up to look at the positive difference (399500 - 368000) obtained from "After2005" - "Older" comparing medians. Note that the sample means show the opposite sign as compared to this difference in medians.
+
+```{r}
+set.seed(431)
+
+sample_diff_in_meds <- movies_1 |>
+  specify(imdb_ratings ~ release) |>
+  calculate(stat = "diff in medians", 
+            order = c("After2005", "Older") )
+
+fit3 <- movies_1 |>
+  specify(imdb_ratings ~ release) |>
+  generate(reps = 2000, type = "bootstrap") |>
+  calculate(stat = "diff in medians", 
+            order = c("After2005", "Older") ) |>
+  get_ci(level = 0.95, type = "percentile") 
+
+fit3 <- fit3 |> 
+  mutate(point_est = sample_diff_in_meds) |>
+  relocate(point_est)
+
+fit3
+```
+
+Across movies released after 2005, our bootstrap `fit3` estimates that the median number of IMDB user ratings will be, on average, 31,500 larger than the median for movies released between 1940 and 2005 (the "older" period.) 
+
+Suppose we assume once again that the population of interest is "all favorite movies for students at CWRU in any class between 2020 and 2025" and we're willing to believe that our sample of 260 movies is a representative (though not random) sample from that population. 
+
+When we generalize beyond the movies selected here to the population of interest, **and** we assume that our model `fit3` is correct, then our sample data are compatible (at the 95% confidence level) with differences in the median of IMDB user ratings between 111,025 smaller in the "After2005" group up to 187,012 larger in the "After2005" group.
+
+If we needed it, we could estimate a *p* value here with:
+
+```{r}
+movies_1 |>
+  specify(imdb_ratings ~ release) |>
+  generate(reps = 2000, type = "bootstrap") |>
+  calculate(stat = "diff in medians", 
+            order = c("After2005", "Older") ) |>
+  get_pvalue(obs_stat = sample_diff_in_meds, direction = "both") 
+```
+
+## Use a non-parametric Wilcoxon rank sum test
+
+Yet another approach we might consider here is a Wilcoxon rank sum test. This test compares the locations without using either the mean or the median of the original differences, but instead first ranks the observed `imdb_ratings` values regardless of `release` group, and then compares the centers (locations) of those distributions.
+
+```{r}
+wilcox.test(imdb_ratings ~ release, data = movies_1, 
+            exact = FALSE, conf.int = TRUE, conf.level = 0.95)
+```
+
+Of course, these results don't describe either the difference in means or the difference in medians of the `release` groups on our outcome (`imdb_ratings`), so they’re meaningfully harder to think about, unless you're only concerned with the *p* value, which is also pretty large, as we saw with the other methods shown above.
+
+The table below shows point estimates and confidence intervals for the After2005 - Older difference in the statistic being compared:
+
+Method | Point Estimate | 95% CI | *p* value
+:-------------------------------: | :-------: | :----------: | :---------:
+Compare means of **square root** of `imdb_ratings` | -45.11 | (-133, 43) | 0.312
+Bootstrap t test on **means** of `imdb_ratings` with equal variances assumed | -80678 | (-222142, 62460) | 0.268
+Pooled t test on **means** of `imdb_ratings` | -80678 | (-223258, 62487) | 0.269
+Bootstrap on **medians** of `imdb_ratings` | 31500 | (-111025, 187012) | 0.985
+Wilcoxon rank sum test comparing **locations** of `imdb_ratings` | 31000 | (-53000, 123000) | 0.431
+
+## Answering Question 1
+
+We have some conflicting results. Comparing sample means suggests that the older movies have slightly higher numbers of ratings, while comparing sample medians suggest that the movies released after 2005 have a few more ratings. In either case, though, the difference between the older and more recent movies after modeling appears to be small, relative to the variation in our data.
+
+# Question 2
+
+- Which MPA categories have higher average IMDB star ratings? (`mpa4` and `imdb_stars`)
+
+We'll restrict ourselves to our 4-category description of the `mpa` categories, and here's a numerical summary of `imdb_stars` within each of those categories.
+
+```{r}
+movies_1 |> group_by(mpa4) |> reframe(lovedist(imdb_stars)) |>
+  kable(digits = 2)
+```
+
+So we don't have a balanced design here. Let's draw a comparison boxplot.
+
+```{r}
+ggplot(movies_1, aes(x = mpa4, y = imdb_stars)) +
+  geom_violin(aes(fill = mpa4)) +
+  geom_boxplot(width = 0.2, notch = TRUE) + 
+  stat_summary(fun = mean, geom = "point", size = 3, col = "red") +
+  scale_fill_viridis_d(alpha = 0.4) +
+  guides(fill = "none") +
+  labs(title = "Favorite Movies (2020-2025)",
+       x = "MPA Category", y = "IMDB Star Rating") 
+```
+
+## Analysis of Variance model
+
+Let's run an ANOVA model to compare the mean star ratings in each of these four `mpa4` categories. Notice that the `anova()` and `aov()` functions provide some of the same information, just arranged differently.
+
+```{r}
+fit4 <- lm(imdb_stars ~ mpa4, data = movies_1)
+
+anova(fit4)
+
+aov(fit4)
+
+eta_squared(fit4)
+```
+
+Model `fit4` estimates that the proportion of variation in `imdb_stars` explained by the `mpa4` ranking category is only 4%, which doesn't sound like much, even though the ANOVA F test has a relatively small *p* value.
+
+### Model Equation yields the Sample Means
+
+In light of these results, let's dig a little more deeply into this ANOVA model. 
+
+```{r}
+model_parameters(fit4, ci = 0.95, pretty_names = FALSE)
+estimate_means(fit4, ci = 0.95, by = "mpa4")
+```
+
+We see that the model reproduces the sample means of the four groups, as it should, and that R has the highest sample mean while Other has the lowest across these four groups.
+
+### Contrasts
+
+We can run contrasts to compare all pairs of means **if we're not concerned about the multiple comparisons problem** like this.
+
+```{r}
+estimate_contrasts(fit4, ci = 0.95, contrast = "mpa4")
+```
+
+### Model Performance
+
+```{r}
+model_performance(fit4)
+```
+
+As mentioned previously, the $\eta^2$ ("eta-squared" or, more generally, R-squared) in this ANOVA model is only 3.8%, and we can see that the $\sigma$ value is 0.842, implying that about 68% of this model's predicted `imdb_stars` results should be within 0.842 of the actual `imdb_stars` value, and about 95% of the predictions should be within (0.842 x 2) = 1.684 stars. That also doesn't sound great, in light of the fact that 75% of the movies have star ratings between 7.1 and 9.3, for example.
+
+```{r}
+movies_1 |> reframe(lovedist(imdb_stars)) |> kable(digits = 2)
+```
+
+## Post-Hoc Bonferroni comparisons
+
+Here are the family-wise 95% Bonferroni confidence intervals for each pairwise difference of means. 
+
+```{r}
+PostHocTest(aov(fit4), method = "bonferroni", conf.level = 0.95)
+```
+
+Here's a plot of those confidence intervals.
+
+```{r}
+par(mar=c(3,6,3,3), las = 1)
+plot(PostHocTest(aov(fit4), method = "bonferroni", conf.level = 0.95))
+```
+
+It appears that the comparison of R vs. PG-13 is the only one with a confidence interval here that doesn't include 0.
+
+## Post-Hoc Tukey HSD comparisons
+
+A Tukey HSD approach is hard to justify here, since the design isn't even close to being balanced. We can still run it, but I would likely use the Bonferroni intervals here.
+
+```{r}
+PostHocTest(aov(fit4), method = "hsd", conf.level = 0.95)
+```
+
+```{r}
+par(mar=c(3,6,3,3), las = 1)
+plot(PostHocTest(aov(fit4), method = "hsd", conf.level = 0.95))
+```
+
+Based on the Tukey HSD approach, it again appears that the comparison of R vs. PG-13 is the only one with a confidence interval here that doesn't include 0.
+
+## Assessing ANOVA assumptions
+
+The ANOVA assumptions are the same as any linear model, so we can run that complete set of diagnostic plots and see what's happening.
+
+```{r}
+#| fig-height: 8
+
+check_model(fit4, detrend = FALSE)
+```
+
+
+- The **posterior predictive check** isn't terrible, but our model is predicting fewer results in the 8 to 8.5 star range than we see in the data, and more results above 9.0.
+- The **linearity** plot shows no issues with this one-factor ANOVA.
+- The **homogeneity of variance** plot suggests a potential issue with the group having fitted values (remember this is just a sample mean) below 7.4 (so that's the "Other" group) showing a bit more variation than the other groups. We saw this earlier in the sample standard deviations in each group (and remember that "Other" also has many fewer movies than the other three groups.)
+- There are no highly **influential observations** affecting this ANOVA model.
+- The **Normality** of the ANOVA residuals looks like our biggest problem, with some left skew, especially shown by the dip below the line on the left of the plot.
+
+On the whole, though, I'd be inclined to stick with this model for now. The fundamental conclusion here is that the `mpa4` groups, by themselves, do a poor job of predicting `imdb_stars`.
+
+## Bayesian model?
+
+We could have run a Bayesian model instead here, although it has the same issues with assumptions and the transformation as our `fit4` model.
+
+```{r}
+set.seed(43104)
+fit4b <- stan_glm(imdb_stars ~ mpa4, 
+                  data = movies_1, refresh = 0)
+
+model_parameters(fit4b, ci = 0.95, pretty_names = FALSE)
+```
+
+Does this look like a meaningfully different set of results than we obtained with `fit4`? No, and we don't (yet) have an easy way to even get an ANOVA table in this case.
+
+## Answering Question 2
+
+Answering the question for our sample, though, it looks like the R-rated movies have slightly higher mean `imdb_stars` than do the PG-13 movies, using a 95% Bonferroni comparison, although the model is not strong at all.
+
+# Question 3
+
+How strong is the association between hundreds of thousands of user ratings (`ratings100K`) and the weighted average star rating (`imdb_stars`)?
+
+```{r}
+dat2 <- bind_rows(
+  movies_1 |> reframe(lovedist(imdb_stars)),
+  movies_1 |> reframe(lovedist(ratings100K))
+)
+
+dat2 <- dat2 |> 
+  mutate(dat2, var_name = c("imdb_stars", "ratings100K")) |>
+  relocate(var_name)
+
+kable(dat2, digits = 1) 
+```
+
+Let's look at `imdb_stars` (on the y axis) and `ratings100K` (hundreds of thousands of IMDB user ratings) on the x axis.
+
+```{r}
+ggplot(movies_1, aes(x = ratings100K, y = imdb_stars)) +
+  geom_point() +
+  geom_smooth(method = "loess", 
+              formula = y ~ x, se = FALSE, col = "blue") +
+  geom_smooth(method = "lm", 
+              formula = y ~ x, se = TRUE, col = "red") +
+  labs(x = "Hundreds of Thousands of IMDB ratings",
+       y = "Weighted average star rating")
+```
+
+The linear model (in red) looks like it might work pretty well, once we get between 500,000 and 2,000,000 IMDB ratings, but isn't doing as well at the low and high ends of that variable.
+
+## Pearson correlation
+
+The Pearson correlation coefficient might also help.
+
+```{r}
+movies_1 |> select(ratings100K, imdb_stars) |> correlation()
+```
+
+It looks like the Pearson correlation is 0.62 in our sample.
+
+## Simple Regression Model and its Equation
+
+The reason I am focusing on `ratings100K` instead of `imdb_ratings` is as follows:
+
+```{r}
+fit5 <- lm(imdb_stars ~ imdb_ratings, data = movies_1)
+
+model_parameters(fit5, ci = 0.95, pretty_names = FALSE)
+```
+
+It is very hard to conceptualize $9.01 \times 10^{−7}$ in any practical context, plus the 95% CI for the slope of `imdb_ratings` is now 0. That's not helping me understand what's going on.
+
+```{r}
+fit6 <- lm(imdb_stars ~ ratings100K, data = movies_1)
+
+model_parameters(fit6, ci = 0.95, pretty_names = FALSE)
+```
+
+Actually, I'd like to get another decimal place here.
+
+```{r}
+model_parameters(fit6, ci = 0.95, pretty_names = FALSE, digits = 3)
+```
+
+This is a little more interpretible. If we have two movies, one of whom has 100,000 more IMDB user ratings than the other, then this model `fit6` estimates that the movie with more ratings will have a weighted average stars rating (`imdb_stars`) that is 0.09 higher than the less rated movie.
+
+Suppose again we assume that the population of interest is "all favorite movies for students at CWRU in any class between 2020 and 2025" and we're willing to believe that our sample of 260 movies is a representative (though not random) sample from that population. 
+
+When we generalize beyond the movies selected here to this population of interest, then our sample data are compatible (at the 95% confidence level) with slopes for the relationship between `imdb_stars` and `ratings100K` ranging from 0.076 to 0.104, assuming our `fit6` model is correct.
+
+## Model Performance
+
+Let's look at the model's performance.
+
+```{r}
+model_performance(fit6)
+```
+
+- The $R^2$ tells us that the `fit6` model accounts for 38.1% of the variation in `imdb_stars` using `ratings100K` as a predictor.
+
+- We also see $\sigma = 0.673$. This suggests that about 68% of our predictions of `imdb_stars` will be within $\pm 0.673$ of the observed `imdb_stars`, and that about 95% will be within $\pm 1.346$. This is better than we did with our ANOVA model in Question 2 (looking at `mpa4`) but still not terrific, given that the top 75% of our movies all fall in the range of 7.1 to 9.3 stars.
+
+## Assumption Checking
+
+Let's check our assumptions with diagnostic plots.
+
+```{r}
+#| fig-height: 8
+
+check_model(fit6, detrend = FALSE)
+```
+
+- The **posterior predictive check** is a bit off. This `fit6` model is predicting fewer results in the 7,5 to 8.5 star range than we see in the data, and more results below 7.5 and above 8.75, it seems.
+- The **linearity** plot shows a bit of a curve in the reference line.
+- The **homogeneity of variance** plot suggests a fairly substantial issue as well, as the line is curved, rather than flat and horizontal.
+- There are no highly **influential observations** affecting this ANOVA model.
+- The **Normality** of the ANOVA residuals also indicates some fairly substantial left skew.
+
+## Bayesian linear model?
+
+Do we obtain meaningfully different results from a Bayesian version of this model, with a (default) weakly informative prior?
+
+```{r}
+#| fig-height: 8
+fit6b <- stan_glm(imdb_stars ~ ratings100K, 
+                  data = movies_1, refresh = 0)
+
+model_parameters(fit6b, ci = 0.95, pretty_names = FALSE, digits = 3)
+
+model_performance(fit6b)
+
+check_model(fit6b, detrend = FALSE)
+```
+
+The `fit6` and `fit6b` models are pretty similar in terms of estimated parameters, performance metrics and diagnostic checks. I'm going to conclude that the Bayesian model here looks pretty much like our ordinary least squares model, so I'll move on. 
+
+## Considering a Transformation
+
+Could a transformation of our outcome be helpful here?
+
+```{r}
+boxCox(fit6)
+```
+
+The Box-Cox plot is a little cut off on the right side. Can we fix that?
+
+```{r}
+boxCox(fit6, lambda = seq(-2, 10, 1/5))
+```
+
+This seems to suggest that we take the `imdb_stars` value to about the 5th power. That seems ridiculous - in practical work, I would never use a power higher than 3 on an outcome.
+
+Suppose we instead just cube the `imdb_stars`. How's that scatterplot look?
+
+```{r}
+ggplot(movies_1, aes(x = ratings100K, y = (imdb_stars^3))) +
+  geom_point() +
+  geom_smooth(method = "loess", 
+              formula = y ~ x, se = FALSE, col = "blue") +
+  geom_smooth(method = "lm", 
+              formula = y ~ x, se = TRUE, col = "red") +
+  labs(x = "Hundreds of Thousands of IMDB ratings",
+       y = "Cube of Weighted average star rating")
+```
+
+It's not obvious to me that this is going to be a meaningful improvement, but we can check it.
+
+## New model for transformed outcome
+
+Here's the new model:
+
+```{r}
+fit7 <- lm(imdb_stars^3 ~ ratings100K, data = movies_1)
+
+model_parameters(fit7)
+```
+
+We might consider summaries of its performance (remember, though, we changed the outcome to the square of `imdb_stars` so these results, like the estimated coefficients, $R^2$ and $\sigma$ are NOT comparable to the values we got for model `fit6`.)
+
+```{r}
+model_performance(fit7)
+```
+
+Perhaps the most important thing to do here is see if the transformation meaningfully improved our adherence to the assumptions of a linear model. Let's focus on that.
+
+```{r}
+#| fig-height: 8
+
+check_model(fit7, detrend = FALSE)
+```
+
+If anything, this looks meaningfully worse, in terms of the posterior predictive check, so it doesn't look like a simple transformation of the outcome is going to fix our problem.
+
+## What if we transformed both Y and X?
+
+See [Section 11.6 of our Course Book](https://thomaselove.github.io/431-book/11_transassoc.html#log-log-regression-model) for another example of a log-log model like this, and its interpretation.
+
+```{r}
+ggplot(movies_1, aes(x = log(ratings100K), y = log(imdb_stars))) +
+  geom_point() +
+  geom_smooth(method = "loess", 
+              formula = y ~ x, se = FALSE, col = "blue") +
+  geom_smooth(method = "lm", 
+              formula = y ~ x, se = TRUE, col = "red") +
+  labs(x = "Logarithm of Hundreds of Thousands of IMDB ratings",
+       y = "Logarithm of Weighted average star rating")
+```
+
+Does this log-log pair of transformations fare any better, in terms of assumptions?
+
+```{r}
+#| fig-height: 8
+
+fit8 <- lm(log(imdb_stars) ~ log(ratings100K), data = movies_1)
+model_parameters(fit8, ci = 0.95, pretty_names = FALSE)
+model_performance(fit8)
+check_model(fit8, detrend = FALSE)
+```
+
+Nope. This is worse than what we started with.
+
+## Answering Question 3
+
+Our regression model `fit6` without any transformations explained about 38.1% of the variation in `imdb_stars` using `ratings100K` as a predictor. That looks to be our best option right now to answer our question 3.
+
+# Question 4
+
+- Which movie genres have the highest weighted average star ratings on IMDB?
+
+## Creating a New Data Set
+
+Some of my least interesting programming follows.
+
+```{r}
+row01 <- movies_1 |> 
+  filter(action == 1) |>
+  summarise(genre = "action", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row02 <- movies_1 |> 
+  filter(adventure == 1) |>
+  summarise(genre = "adventure", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row03 <- movies_1 |> 
+  filter(animation == 1) |>
+  summarise(genre = "animation", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row04 <- movies_1 |> 
+  filter(biography == 1) |>
+  summarise(genre = "biography", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row05 <- movies_1 |> 
+  filter(comedy == 1) |>
+  summarise(genre = "comedy", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row06 <- movies_1 |> 
+  filter(crime == 1) |>
+  summarise(genre = "crime", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row07 <- movies_1 |> 
+  filter(drama == 1) |>
+  summarise(genre = "drama", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row08 <- movies_1 |> 
+  filter(family == 1) |>
+  summarise(genre = "family", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row09 <- movies_1 |> 
+  filter(fantasy == 1) |>
+  summarise(genre = "fantasy", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row10 <- movies_1 |> 
+  filter(history == 1) |>
+  summarise(genre = "history", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row11 <- movies_1 |> 
+  filter(horror == 1) |>
+  summarise(genre = "horror", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row12 <- movies_1 |> 
+  filter(mystery == 1) |>
+  summarise(genre = "mystery", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row13 <- movies_1 |> 
+  filter(music == 1) |>
+  summarise(genre = "music", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row14 <- movies_1 |> 
+  filter(musical == 1) |>
+  summarise(genre = "musical", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row15 <- movies_1 |> 
+  filter(romance == 1) |>
+  summarise(genre = "romance", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row16 <- movies_1 |> 
+  filter(scifi == 1) |>
+  summarise(genre = "scifi", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row17 <- movies_1 |> 
+  filter(sport == 1) |>
+  summarise(genre = "sport", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row18 <- movies_1 |> 
+  filter(thriller == 1) |>
+  summarise(genre = "thriller", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row19 <- movies_1 |> 
+  filter(war == 1) |>
+  summarise(genre = "war", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+row20 <- movies_1 |> 
+  filter(western == 1) |>
+  summarise(genre = "western", 
+            n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            q25_stars = quantile(imdb_stars, 0.25),
+            q75_stars = quantile(imdb_stars, 0.75))
+```
+
+```{r}
+mov1_summary <- bind_rows(row01, row02, row03, row04,
+                          row05, row06, row07, row08,
+                          row09, row10, row11, row12,
+                          row13, row14, row15, row16,
+                          row17, row18, row19, row20)
+```
+
+```{r}
+mov1_summary |> arrange(desc(mean_stars)) |>
+  kable()
+```
+
+## What about overlap?
+
+Of course, I've completely ignored the issue of movies with multiple genres here.
+
+For example, suppose we're interested in comedies and dramas, plus the movies that are both, and those that are neither. We'd need a summary like this.
+
+```{r}
+movies_1 |> group_by(comedy, drama) |>
+  summarize(n = n(), 
+            mean_stars = mean(imdb_stars), 
+            sd_stars = sd(imdb_stars),
+            median_stars = median(imdb_stars),
+            mad_stars = mad(imdb_stars),
+            .groups = "keep") |>
+  kable(digits = 2)
+```
+
+## A Cleveland dot plot
+
+Here is a Cleveland dot plot of the summarized data on the individual genres. Cleveland dot plots are an alternative to bar graphs that reduce visual clutter and may be easier to read.
+
+```{r}
+ggplot(data = mov1_summary, aes(x = mean_stars, y = genre)) +
+  geom_point()
+```
+
+Here is a fancier version, based on the recipe in [Section 3.10 of the R Graphics Cookbook](https://r-graphics.org/RECIPE-BAR-GRAPH-DOT-PLOT.html)...
+
+```{r}
+ggplot(data = mov1_summary, 
+       aes(x = mean_stars, y = reorder(genre, mean_stars))) +
+  geom_point(size = 3) +
+  theme(
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor.x = element_blank(),
+    panel.grid.major.y = element_line(colour = "grey60", linetype = "dashed")
+  ) +
+  labs(y = "Movie Genre", x = "Mean Star Rating on IMDB")
+```
+
+Here is a plot of the median, 25th and 75th percentiles of star ratings for each `genre` instead.
+
+```{r}
+ggplot(data = mov1_summary, 
+       aes(x = median_stars, y = reorder(genre, median_stars))) +
+  geom_pointrange(aes(xmin = q25_stars, xmax = q75_stars)) +
+  labs(y = "Movie Genre", x = "Median (and Q25, Q75) of Star Rating on IMDB")
+```
+
+Note that there are only two *western* movies in our data, so calculating the percentiles is a problem.
+
+
+
+
+# Session Information
+
+```{r}
+session_info()
+```
+
