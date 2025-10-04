@@ -23,6 +23,47 @@ You'll have 20-25 minutes to accomplish the following tasks.
 
 ## Variables Included In `movies_2025-10-06`
 
-The current codebook for the data set called **movies_2025-10-06**, is listed below. A more detailed version is in the Variable Descriptions tab in the **movies_2025-10-06** sheet available in our Shared folder on Google Drive.
+The current codebook for the data set called **movies_2025-10-06**, is listed below. Additional information is in the *Variable Descriptions and Sources* tab in the **movies_2025-10-06** sheet available in our Shared Drive.
 
-**List to come.**
+Variable | Description
+:------------ | :-----------------------------------------------------------------------------------------------------
+mov_id | Code # (Mxxx) - alphabetical with #s first; sequels after originals
+movie | Name of Movie
+year | Year Movie was Released
+mpa | Motion Picture Association rating
+length | Length of Movie (minutes)
+imdb_ratings | # of IMDB public ratings as of September 2025
+imdb_stars | # of stars (1-10) in IMDB public rating as of September 2025
+imdb_pct10 | % of 10-star public ratings in IMDB as of September 2025
+metascore | Metascore (0-100 scale) from critic reviews at Metacritic.com
+critic_revs | # of critic reviews gathered at IMDB as of September 2025
+oscars | # of Oscar (Academy Award) wins according to IMDB
+awards | # of awards (wins) according to IMDB as of September 2025
+imdb_genres | Movie's list of Genres (up to 10) as identified by IMDB
+genre_count | Number of Genres identified by IMDB
+director | Name of director(s) of film
+star_1 | Name of first listed actor (star) in film
+gen_1 | Gender of star_1 (M or F)
+star_2 | Name of second listed actor (star) in film
+gen_2 | Gender of star_2 (M or F)
+star_3 | Name of third listed actor (star) in film
+gen_3 | Gender of star_3 (M or F)
+origin | Country (Countries) of Origin
+lang_1 | Primary language used in the Movie
+budget | Estimated Budget via IMDB (in $)
+gross_northa | Gross Revenue in US and Canada ($)
+gross_world | Gross Revenue Worldwide ($)
+pct_na | % of gross_world from US and Canada
+imdb_synopsis | Synopsis from IMDB Front Page
+color | Color or Black and White movie (a few list both)
+imdb_link | Link to IMDB public page for movie
+imdb_id | IMDB Film ID # (just a useful and numeric code)
+dr_love | Has Dr. Love seen this movie? (Yes or No) as of September 2025
+mentions | # of times movie mentioned by 431 students in 2020-2025
+list_20 | # of 431 students who mentioned this movie in Fall 2020
+list_21 | # of 431 students who mentioned this movie in Fall 2021
+list_22 | # of 431 students who mentioned this movie in Fall 2022
+list_23 | # of 431 students who mentioned this movie in Fall 2023
+list_24 | # of 431 students who mentioned this movie in Fall 2024
+list_25 | # of 431 students who mentioned this movie in Fall 2025
+
