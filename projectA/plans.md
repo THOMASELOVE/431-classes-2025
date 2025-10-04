@@ -60,7 +60,7 @@ A-40 | Jiakun Wang | Exploring Health Disparities in U.S. Counties
 A-41 | Cher Yuan | Use power of statistics to understand trends of health and education in 6 swing 
 A-42 | Lily Zhang | County-Level Analysis of Population Health: Factors Influencing Premature Mortal
 A-43 | Helena Zhao | Exploring Health Inequality and Outcomes Across 6 U.S States
-A-44 | Thu Nguyen | **awaiting submission**
+A-44 | Thu Nguyen | Submitted, but will build a new title for portfolio
 A-45 | Pooja Madan Mohan | Impact of Industrialization on Public Health
 
 [^1]: In writing, "throat-clearing" refers to unnecessary words or phrases at the beginning of a sentence or text that delay the main point. The best approach in scientific writing is to cut this material and build a stronger, more direct sentence.
