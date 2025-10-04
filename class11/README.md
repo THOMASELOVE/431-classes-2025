@@ -28,7 +28,7 @@ Additional discussion and demonstration of two functions from [the `Love-431.R` 
 
 ## Introducing the "Favorite Movies" activity for Class 12 (Thursday)
 
-We'll spend a few moments today introducing [this breakout activity about the "favorite movies" data](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/class12.md), which we will execute on Thursday, 2025-10-09, as part of Class 12.
+We'll spend a few moments today introducing [this breakout activity about the "favorite movies" data](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/class12.md), which we will actually do this Thursday, 2025-10-09, as part of Class 12.
 
 ## Reminders
 
