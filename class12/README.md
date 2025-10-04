@@ -13,3 +13,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. This section will appear in time for class. 
+
+## Favorite Movies
+
+Here is our [Class 12 activity](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/class12.md), which we introduced in Class 11.
+
