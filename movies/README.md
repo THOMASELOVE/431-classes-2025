@@ -10,4 +10,4 @@
 1. [Class 08 mini-breakout](class08.md)
 2. [Class 09 activity](class09.md)
 3. Class 09 activity [results and feedback](class09_results.md)
-4. An Update (including analyses of questions posed in Class 09) available as [Quarto](movies_update1.qmd) or [HTML](movies_update1.html) for download.
+4. An Update (including analyses of questions posed in Class 09) available as [Quarto](https://raw.githubusercontent.com/THOMASELOVE/431-classes-2025/refs/heads/main/movies/movies_update1.qmd) or [HTML](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/movies_update1.html) **for download**. You'll also find these files on our Shared Drive as `movies_update1.qmd` and `movies_update1.html`.
