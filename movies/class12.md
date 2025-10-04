@@ -21,8 +21,8 @@ You'll have 20-25 minutes to accomplish the following tasks.
         - In this work, we'll require a quantitative variable to be any quantity that has at minimum 11 different observed values in our set of films. Eleven is too small a count, really, to declare something "quantitative" in practice, but we'll make the best of it.
 4. Ensure that your group's reporter has completed **[the Google Form]** to report your group's response and has submitted the form successfully (they should receive an email confirmation.)
 
-## Variables Included In `movies_2025-10-07`
+## Variables Included In `movies_2025-10-06`
 
-The current codebook for the data set called **movies_2025-10-07**, is listed below. A more detailed version is in the Variable Descriptions tab in the **movies_2025-10-07** sheet available in our Shared folder on Google Drive.
+The current codebook for the data set called **movies_2025-10-06**, is listed below. A more detailed version is in the Variable Descriptions tab in the **movies_2025-10-06** sheet available in our Shared folder on Google Drive.
 
 **List to come.**
