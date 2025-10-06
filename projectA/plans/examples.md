@@ -1,17 +1,18 @@
 # Project A Plan Examples and General Comments
 
 - [General Advice on Titles](#general-advice-on-titles)
-- [Section 1](#section-1) R Packages
-- [Section 2](#section-2) Data Ingest
-- [Section 3](#section-3) State Selection
-- Section 4 Variable Selection
-- Section 6 Creating the Analysis 2 Predictor
-- Section 7 Adding 2019 Data for the Analysis 3 Outcome
-- Section 8 Arranging and Saving the Analytic Tibble
-- [Section 9](#section-9) Print the Tibble
-- Section 10 Numerical Summaries
-- [Section 11](#section-11) The Codebook
-- [Sections 14 and 15](#sections-14-and-15) AI Usage and Session Information
+- What should this section look like?
+  - [Section 1](#section-1) R Packages
+  - [Section 2](#section-2) Data Ingest
+  - [Section 3](#section-3) State Selection
+  - Section 4 Variable Selection
+  - Section 6 Creating the Analysis 2 Predictor
+  - Section 7 Adding 2019 Data for the Analysis 3 Outcome
+  - Section 8 Arranging and Saving the Analytic Tibble
+  - [Section 9](#section-9) Print the Tibble
+  - Section 10 Numerical Summaries
+  - [Section 11](#section-11) The Codebook
+  - [Sections 14 and 15](#sections-14-and-15) AI Usage and Session Information
 
 ## Reminder about the Review Elements List from 2024 that I provided
 
