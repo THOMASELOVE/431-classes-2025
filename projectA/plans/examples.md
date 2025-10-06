@@ -4,6 +4,7 @@
 - A note on [Variable Names](#on-variable-names)
 - Reminder that the instructions provided the [2024, not 2025 elements](#reminder-about-the-review-elements-list-from-2024-that-i-provided).
 - What should this section look like?
+  - Note that the only sections that don't need complete sentences explaining what you're doing in the Project A Plan are sections 1, 9 and 15.
   - [Section 1](#section-1) R Packages
   - [Section 2](#section-2) Data Ingest
   - [Section 3](#section-3) State Selection
