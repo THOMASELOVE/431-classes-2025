@@ -3,6 +3,7 @@
 - [General Advice on Titles](#general-advice-on-titles)
 - A note on [Variable Names](#on-variable-names)
 - Reminder that the Project A instructions provide the [2024, not 2025 elements](#reminder-about-the-review-elements-list-from-2024-that-i-provided).
+- [How I scored the Project A Plans](#scoring-the-plans)
 - What should this section look like?
   - Every section in the Project A Plan (except 1, 9, and 15) needs complete sentences in text explaining what you're doing.
   - [Section 1](#section-1) R Packages
@@ -33,7 +34,24 @@ Titles are difficult to build, but are also very important, and I'd like to see 
 3. Information like the fact that you're using data from CHR 2025 (and CHR 2019) in your work or that you are using six states, or which six states they are can all be safely moved to a subtitle.
 4. Avoid the use of words like "Exploring" or "Assessing how" or "An Analysis of" or "A Study of" or "Relationships between" or "Associations between" or "Correlations between" or "Impact of" or any other "throat clearing" phrases[^1] that don't actually communicate any meaningful information in your title or subtitle. They don't belong.
 
+## Scoring the Plans
 
+Look at the grid of material I emailed you on Monday 2025-10-06.
+
+1. There are 16 rows highlighted in yellow. Count the number of those which say "OK" as opposed to something else (usually "Problem") and multiply that total by 2.5 points. (The count of the # of OKs is shown in the grid.)
+2. The three research questions are each graded on a scale from 0 = Poor to 3 = OK to 5 = Excellent. Sum those three to get the RQ Score (out of 15) shown near the bottom of the grid.
+3. The Reflection is scored on three elements (identified issue, how they overcame, and writing quality) at 5 points each. Those are summed to get a score out of 15, shown as the Reflection Score near the bottom of the grid.
+4. Add up the points from 1-3 above to get a score out of a possible 70 points.
+5. The "Total % Satisfactory" is the percentage out of 70 points you received in the previous line.
+6. The ACCEPT or REDO decision is not made solely on the basis of these scores.
+
+If your first version was accepted, then your actual score (out of 20 points) for Project A on the Proposal will be:
+- 20, if your "Total % Satisfactory" was 78% or higher.
+- 19, if your "Total % Satisfactory" was 67% or higher, but lower than 78%.
+- 18, if your "Total % Satisfactory" was 55% or higher, but lower than 67%.
+- 17, if your "Total % Satisfactory" was below 55%.
+
+If your first version requires **revision**, then your actual score (out of 20 points) for Project A on the Proposal will fall somewhere between 14 and 18 points, and that will be determined after that revision is complete.
 
 ## Section 1
 
