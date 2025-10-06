@@ -74,7 +74,7 @@ Here's an example of an excellent Section 9 of the HTML for the Project A Plan.
 
 Here's an example of the start of an excellent Section 11 of the HTML for the Project A Plan. 
 
-Note: **Many** people developed variable names that were excellent in terms of clearly indicating what was going on. However, some of those names were so long that they will be really problematic down the line as you work on the portfolio. Ideally, all of your variable names in your codebook other than `county_clustered` will be **no more than 12 characters long**, while still describing what the reader needs to know effectively. Please try to accomplish this for the portfolio, as you move forward. For instance, the name `income_inequality` is 17 characters long.
+*Note*: **Many** people developed variable names that were excellent in terms of clearly indicating what was going on. However, some of those names were so long that they will be really problematic down the line as you work on the portfolio. Ideally, all of your variable names in your codebook other than `county_clustered` will be **no more than 12 characters long**, while still describing what the reader needs to know effectively. Please try to accomplish this for the portfolio, as you move forward. For instance, the name `income_inequality` is 17 characters long.
 
 ![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/projA_plan_section11.png)
 
