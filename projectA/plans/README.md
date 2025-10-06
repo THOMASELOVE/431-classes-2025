@@ -2,8 +2,6 @@
 
 2025-10-06: Some [examples and general comments](examples.md) related to the Project A Plan that **everyone** should take a look at [are found here](examples.md)
 
-## Project A Plan Submissions
-
 ## Plans Needing Revision (due to Canvas Friday 2025-10-10 at 10 AM)
 
 Code | Investigator(s) | Submitted Title (first 80 characters)
@@ -21,7 +19,7 @@ A-43 | Helena Zhao | Exploring Health Inequality and Outcomes Across 6 U.S State
 A-44 | Thu Nguyen | Submitted, but will build a new title for portfolio
 A-45 | Pooja Madan Mohan | Impact of Industrialization on Public Health
 
-## Plans Dr. Love Has Approved based on the first draft
+## Plans Dr. Love has Approved based on the first submission
 
 Code | Investigator(s) | Submitted Title (first 80 characters)
 :---- | :---------------- | :---------------------------------------------------------------------------------------------
