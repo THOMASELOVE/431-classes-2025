@@ -13,7 +13,8 @@
   - [Section 8](#section-8) Arranging and Saving the Analytic Tibble
   - [Section 9](#section-9) Print the Tibble
   - [Section 11](#section-11) The Codebook
-  - [Sections 14 and 15](#sections-14-and-15) AI Usage and Session Information
+  - [Section 14](#sections-14-and-15) AI Usage
+  - [Section 15](#sections-14-and-15) Session Information
 
 ## On Variable Names
 
