@@ -66,7 +66,7 @@ Here's an example of an excellent Section 5 of the HTML for the Project A Plan.
 
 ## Section 8
 
-Here's an example of an excellent Section 8 of the HTML for the Project A Plan.
+Here's an example of a very good Section 8 of the HTML for the Project A Plan. It would be even better if it started with a complete sentence describing what Section 8 is doing.
 
 ![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/projA_plan_section8.png)
 
