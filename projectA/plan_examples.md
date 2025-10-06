@@ -1,5 +1,9 @@
 # Project A Plan Examples
 
+- [Section 1](#section-1)
+- [Section 9](#section-9)
+- [Sections 14 and 15](#sections-14-and-15)
+
 ## Section 1
 
 Here's an example of an excellent Section 1 of the HTML for the Project A Plan.
