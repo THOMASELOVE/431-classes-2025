@@ -1,6 +1,8 @@
 # Project A Plan Examples and General Comments
 
 - [General Advice on Titles](#general-advice-on-titles)
+- A note on [Variable Names](#on-variable-names)
+- Reminder that the instructions provided the [2024, not 2025 elements](#reminder-about-the-review-elements-list-from-2024-that-i-provided).
 - What should this section look like?
   - [Section 1](#section-1) R Packages
   - [Section 2](#section-2) Data Ingest
@@ -12,6 +14,10 @@
   - Section 10 Numerical Summaries
   - [Section 11](#section-11) The Codebook
   - [Sections 14 and 15](#sections-14-and-15) AI Usage and Session Information
+
+## On Variable Names
+
+**Many** people developed variable names that were excellent in terms of clearly indicating what was going on. However, some of those names were so long that they will be really problematic down the line as you work on the portfolio. Ideally, all of your variable names in your codebook other than `county_clustered` will be **no more than 12 characters long**, while still describing what the reader needs to know effectively. Please try to accomplish this for the portfolio, as you move forward. For instance, the name `income_inequality` is 17 characters long.
 
 ## Reminder about the Review Elements List from 2024 that I provided
 
@@ -71,10 +77,6 @@ Here's an example of an excellent Section 9 of the HTML for the Project A Plan.
 ![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/projA_plan_section9.png)
 
 ## Section 11
-
-### A Note on Variable Names
-
-**Many** people developed variable names that were excellent in terms of clearly indicating what was going on. However, some of those names were so long that they will be really problematic down the line as you work on the portfolio. Ideally, all of your variable names in your codebook other than `county_clustered` will be **no more than 12 characters long**, while still describing what the reader needs to know effectively. Please try to accomplish this for the portfolio, as you move forward. For instance, the name `income_inequality` is 17 characters long.
 
 Here's an example of the start of an excellent Section 11 of the HTML for the Project A Plan. 
 
