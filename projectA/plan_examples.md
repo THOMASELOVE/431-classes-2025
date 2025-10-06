@@ -25,6 +25,13 @@ Here's an example of an excellent Section 9 of the HTML for the Project A Plan.
 
 ![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/projA_plan_section9.png)
 
+## Section 11
+
+Here's an example of the start of an excellent Section 11 of the HTML for the Project A Plan.
+
+![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/projA_plan_section11.png)
+
+
 ## Sections 14 and 15
 
 Here's an example of an excellent Section 14 and start of Section 15 of the HTML for the Project A Plan.
