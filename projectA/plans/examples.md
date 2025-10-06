@@ -6,9 +6,8 @@
   - [Section 2](#section-2) Data Ingest
   - [Section 3](#section-3) State Selection
   - [Section 4](#section-4) Variable Selection
-  - Section 6 Creating the Analysis 2 Predictor
-  - Section 7 Adding 2019 Data for the Analysis 3 Outcome
-  - Section 8 Arranging and Saving the Analytic Tibble
+  - [Section 5](#section-5) Variable Cleaning and Renaming
+  - [Section 8](#section-8) Arranging and Saving the Analytic Tibble
   - [Section 9](#section-9) Print the Tibble
   - Section 10 Numerical Summaries
   - [Section 11](#section-11) The Codebook
@@ -52,6 +51,18 @@ Here's an example of an excellent Section 3 of the HTML for the Project A Plan.
 Here's an example of an excellent Section 4 of the HTML for the Project A Plan.
 
 ![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/projA_plan_section4.png)
+
+## Section 5
+
+Here's an example of an excellent Section 5 of the HTML for the Project A Plan.
+
+![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/projA_plan_section5.png)
+
+## Section 9
+
+Here's an example of an excellent Section 8 of the HTML for the Project A Plan.
+
+![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/projA_plan_section8.png)
 
 ## Section 9
 
