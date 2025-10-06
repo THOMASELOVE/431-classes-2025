@@ -1,7 +1,16 @@
 # Project A Plan Examples
 
 - [Section 1](#section-1)
+- Section 2
+- Section 3
+- Section 4
+- Section 5
+- Section 6
+- Section 7
+- Section 8
 - [Section 9](#section-9)
+- Section 10
+- Section 11
 - [Sections 14 and 15](#sections-14-and-15)
 
 ## Section 1
