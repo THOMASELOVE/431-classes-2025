@@ -1,5 +1,7 @@
 # Project A Plans
 
+2025-10-06: Some examples and general comments that everyone should take a look at [are found here](examples.md)
+
 ## Project A Plan Submissions
 
 Code | Investigator(s) | Submitted Title (first 80 characters)
