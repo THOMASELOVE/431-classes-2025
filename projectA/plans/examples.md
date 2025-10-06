@@ -11,7 +11,6 @@
   - [Section 5](#section-5) Variable Cleaning and Renaming
   - [Section 8](#section-8) Arranging and Saving the Analytic Tibble
   - [Section 9](#section-9) Print the Tibble
-  - Section 10 Numerical Summaries
   - [Section 11](#section-11) The Codebook
   - [Sections 14 and 15](#sections-14-and-15) AI Usage and Session Information
 
