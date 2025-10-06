@@ -58,7 +58,7 @@ Here's an example of an excellent Section 5 of the HTML for the Project A Plan.
 
 ![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/projA_plan_section5.png)
 
-## Section 9
+## Section 8
 
 Here's an example of an excellent Section 8 of the HTML for the Project A Plan.
 
