@@ -2,7 +2,7 @@
 
 - [General Advice on Titles](#general-advice-on-titles)
 - A note on [Variable Names](#on-variable-names)
-- Reminder that the instructions provide the [2024, not 2025 elements](#reminder-about-the-review-elements-list-from-2024-that-i-provided).
+- Reminder that the Project A instructions provide the [2024, not 2025 elements](#reminder-about-the-review-elements-list-from-2024-that-i-provided).
 - What should this section look like?
   - Every section in the Project A Plan (except 1, 9 and 15) needs complete sentences in text explaining what you're doing.
   - [Section 1](#section-1) R Packages
