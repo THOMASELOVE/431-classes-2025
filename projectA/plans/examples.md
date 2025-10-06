@@ -3,7 +3,7 @@
 - [General Advice on Titles](#general-advice-on-titles)
 - [Section 1](#section-1) R Packages
 - Section 2 Data Ingest
-- Section 3 State Selection
+- [Section 3](#section-3) State Selection
 - Section 4 Variable Selection
 - Section 6 Creating the Analysis 2 Predictor
 - Section 7 Adding 2019 Data for the Analysis 3 Outcome
@@ -33,6 +33,12 @@ Titles are difficult to build, but are also very important, and I'd like to see 
 Here's an example of an excellent Section 1 of the HTML for the Project A Plan.
 
 ![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/projA_plan_section1.png)
+
+## Section 3
+
+Here's an example of a solid Section 3 of the HTML for the Project A Plan.
+
+![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/projA_plan_section3.png)
 
 ## Section 9
 
