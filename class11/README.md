@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
-![]()  [Source](https://phdcomics.com/comics/archive.php?comicid=1921)
+![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class11/phdcomics_1921.png)  [Source](https://phdcomics.com/comics/archive.php?comicid=1921)
 
 ## Today's Slides
 
