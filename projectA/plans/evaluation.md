@@ -1,5 +1,26 @@
 # How the Project A Plans Were Evaluated
 
+## Scoring the Plans
+
+Look at the grid of material I emailed you on Monday 2025-10-06.
+
+1. There are 16 rows highlighted in yellow. Count the number of those which say "OK" as opposed to something else (usually "Problem") and multiply that total by 2.5 points. (The count of the # of OKs is shown in the grid.)
+2. The three research questions are each graded on a scale from 0 = Poor to 3 = OK to 5 = Excellent. Sum those three to get the RQ Score (out of 15) shown near the bottom of the grid.
+3. The Reflection is scored on three elements (identified issue, how they overcame, and writing quality) at 5 points each. Those are summed to get a score out of 15, shown as the Reflection Score near the bottom of the grid.
+4. Add up the points from 1-3 above to get a score out of a possible 70 points.
+5. The "Total % Satisfactory" is the percentage out of 70 points you received in the previous line.
+6. The ACCEPT or REDO decision is not made solely on the basis of these scores.
+
+If your first version was **ACCEPT**ed, then your actual score (out of 20 points) for Project A on the Proposal will be:
+- 20, if your "Total % Satisfactory" was 78% or higher.
+- 19, if your "Total % Satisfactory" was 67% or higher, but lower than 78%.
+- 18, if your "Total % Satisfactory" was 55% or higher, but lower than 67%.
+- 17, if your "Total % Satisfactory" was below 55%.
+
+If your first version requires a **REDO**, then your actual score (out of 20 points) for Project A on the Proposal will fall somewhere between 14 and 18 points, and that will be determined after that revision is complete.
+
+## Describing "The Grid"
+
 Label | Description
 :------------ | :--------------------------------------------------------------------------------------
 Project A Group | Code (A-xx) for this project
