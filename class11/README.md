@@ -26,7 +26,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
         - Thu Nguyen (change Analysis 3 outcome)
         - Noha Orabi (change Analysis 1 predictor)
         - Helena Zhao (change Analysis 3 outcome).
-6. A Favorite Movies Update (including analyses of questions posed in Class 09) available as [Quarto](https://raw.githubusercontent.com/THOMASELOVE/431-classes-2025/refs/heads/main/movies/movies_update1.qmd) or [HTML](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/movies_update1.html) **for download**. You'll also find these files on our Shared Drive as `movies_update1.qmd` and `movies_update1.html`.
+6. A Favorite Movies Update (including analyses of questions posed in Class 09) is now available as [Quarto](https://raw.githubusercontent.com/THOMASELOVE/431-classes-2025/refs/heads/main/movies/movies_update1.qmd) or [HTML](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/movies_update1.html) **for download**. You'll also find these files on our Shared Drive as `movies_update1.qmd` and `movies_update1.html`.
 
 ## [Love-431.R script](https://github.com/THOMASELOVE/431-data/blob/main/data/Love-431.R) functions
 
