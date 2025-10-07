@@ -1,6 +1,6 @@
 # Project A Plan Examples and General Comments
 
-- [How I scored the Project A Plans](#scoring-the-plans) including how to interpret key rows in the grid I emailed to you on 2025-10-06.
+- [How I scored the Project A Plans](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/evaluation.md) including how to interpret key rows in the grid I emailed to you on 2025-10-06.
 - [General Advice on Titles](#general-advice-on-titles)
 - A note on [Variable Names](#on-variable-names)
 - Reminder that the Project A instructions provide the [2024, not 2025 elements](#reminder-about-the-review-elements-list-from-2024-that-i-provided).
@@ -17,25 +17,6 @@
   - [Section 14](#sections-14-and-15) AI Usage
   - [Section 15](#sections-14-and-15) Session Information
 - [Trivia](#trivia)
-
-## Scoring the Plans
-
-Look at the grid of material I emailed you on Monday 2025-10-06.
-
-1. There are 16 rows highlighted in yellow. Count the number of those which say "OK" as opposed to something else (usually "Problem") and multiply that total by 2.5 points. (The count of the # of OKs is shown in the grid.)
-2. The three research questions are each graded on a scale from 0 = Poor to 3 = OK to 5 = Excellent. Sum those three to get the RQ Score (out of 15) shown near the bottom of the grid.
-3. The Reflection is scored on three elements (identified issue, how they overcame, and writing quality) at 5 points each. Those are summed to get a score out of 15, shown as the Reflection Score near the bottom of the grid.
-4. Add up the points from 1-3 above to get a score out of a possible 70 points.
-5. The "Total % Satisfactory" is the percentage out of 70 points you received in the previous line.
-6. The ACCEPT or REDO decision is not made solely on the basis of these scores.
-
-If your first version was **ACCEPT**ed, then your actual score (out of 20 points) for Project A on the Proposal will be:
-- 20, if your "Total % Satisfactory" was 78% or higher.
-- 19, if your "Total % Satisfactory" was 67% or higher, but lower than 78%.
-- 18, if your "Total % Satisfactory" was 55% or higher, but lower than 67%.
-- 17, if your "Total % Satisfactory" was below 55%.
-
-If your first version requires a **REDO**, then your actual score (out of 20 points) for Project A on the Proposal will fall somewhere between 14 and 18 points, and that will be determined after that revision is complete.
 
 ## On Variable Names
 
