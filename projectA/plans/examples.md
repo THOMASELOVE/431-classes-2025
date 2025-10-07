@@ -113,6 +113,8 @@ Here's an example of an excellent Section 14 and start of Section 15 of the HTML
 
 ### States Selected
 
+No group selected MS (Mississippi)'s 82 counties, or SD (South Dakota)'s 62 counties, or TN (Tennessee)'s 95 counties.
+
 ```
 45 OH
 20 PA
@@ -131,9 +133,7 @@ Here's an example of an excellent Section 14 and start of Section 15 of the HTML
  1 AR AZ CT MA MO ND SC VA WY
 ```
 
-No group selected MS (Mississippi)'s 82 counties, or SD (South Dakota)'s 62 counties, or TN (Tennessee)'s 95 counties.
-
-### County Counts
+### County Counts (required to fall between 300 and 800)
 
 Mean = 492, Median = 505, SD = 90
 
@@ -155,6 +155,8 @@ Mean = 492, Median = 505, SD = 90
 
 #### Analysis 1 Outcomes
 
+- Of the available 20 choices for an Analysis 1 outcome, no group selected `v036` (Poor physical health days), `v044` (Income inequality), `v067` (Driving alone to work), `v139` (Food insecurity), or `v166` (Broadband access).
+
 ```
 8 v042 (Poor mental health days)
 6 v002 (Poor or fair health)
@@ -167,17 +169,19 @@ Mean = 492, Median = 505, SD = 90
 
 #### Analysis 1 Predictors
 
+- Two groups (who selected `v037` and `v190`) will need to change (see my email to you this AM).
+
 ```
 6 v023 (Unemployment)
 4 v063 v085
 3 v011 v058 v155
 2 v009 v067 v070 v125 v139 v143
 1 v001 v036 v044 v049 v057 v059 v060 v168
-
-Two (v037 and v190) that will need to change (see my email to you this AM)
 ```
 
 #### Analysis 2 Outcomes
+
+- The group that selected `v226` will need to change (see my email to you this AM).
 
 ```
 6 v042 (Poor mental health days)
@@ -185,8 +189,6 @@ Two (v037 and v190) that will need to change (see my email to you this AM)
 3 v002 v127 v155
 2 v009 v139 v143 
 1 v001 v034 v044 v050 v060 v067 v070 v125 v128 v136 v140 v166
-
-One (v226) that will need to change (see my email to you this AM)
 ```
 
 #### Analysis 2 Predictors
@@ -201,6 +203,9 @@ One (v226) that will need to change (see my email to you this AM)
 
 #### Analysis 3 Outcomes
 
+- All ten available choices for Analysis 3 are being used by at least two groups.
+- Three groups (that selected `v001`, `v063` and `v201`) will need to change (see my email to you this AM).
+
 ```
 10 v143 (Insufficient sleep)
  6 v042 (Poor mental health days)
@@ -209,9 +214,7 @@ One (v226) that will need to change (see my email to you this AM)
  3 v009 v011 v036 v049 v139
  2 v127
  
-Three (v001, v063 and v201) that will need to change (see my email to you this AM)
 ```
-
 
 [^1]: In writing, "throat-clearing" refers to unnecessary words or phrases at the beginning of a sentence or text that delay the main point. The best approach in scientific writing is to cut this material and build a stronger, more direct sentence.
 
