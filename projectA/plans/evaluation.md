@@ -21,6 +21,8 @@ If your first version requires a **REDO**, then your actual score (out of 20 poi
 
 ## Describing "The Grid"
 
+*Note*: I will complete this table after class today.
+
 Label | Description
 :------------ | :--------------------------------------------------------------------------------------
 Project A Group | Code (A-xx) for this project
@@ -66,45 +68,44 @@ state 6 | OH
 Section 3 county count | How many counties are specified in Section 3?
 Why these states? | Is this described in complete sentences in Section 3?
 **3. State Selection** | OK if Section 3 looks OK overall (see [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-3)
-A1 outcome
-A1 predictor
-A2 outcome
-A2 predictor
-A3 outcome
-Name of Rds file
-Rds file: rows
-Rds file: columns
-4, 5, 8: Variables Setup
-9. Print Tibble
-10.1 tabyl
-10.2 describe_distribution
-10.3 data_codebook
-10.4 distinct check
-10. Numerical Summaries
-11. Codebook
-12.1 Research Question 1
-12.1 RQ 1 matches Task 1?
-"12.1 RQ Pre-Analysis
-Direction OK?"
-12.1 Score (0-5) on RQ1
-12.2 Research Question 2
-12.2 RQ 2 matches Task 2?
-12.2 Score (0-5) on RQ2
-12.3 Research Question 3
-12.3 RQ 3 matches Task 3?
-12.3 Score (0-5) on RQ3
-Reflection Word Count
-13. Identified Issue (0-5)
-13. How they overcame (0-5)
-13. Writing Quality (0-5)
-13. Reflection Score (0-15)
-14. AI Usage
-15. R version
-15. Running System...
-15. Session Information
-# of OKs (out of 16) in the yellow columns
-RQ Score (out of 15)
-Reflection Score (out of 15)
-Total Score (out of 70)
-Total % Satisfactory
-Plan version 1 Status (ACCEPT or REDO)
+A1 outcome |
+A1 predictor |
+A2 outcome |
+A2 predictor |
+A3 outcome | 
+Name of Rds file |
+Rds file: rows |
+Rds file: columns | 
+4, 5, 8: | OK if Sections 4, 5 and 8 look OK overall (see Example [Section 4](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-4), [Section 5]((https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-5) and [Section 8](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-8))
+9 Print Tibble | OK if Section 9 looks OK overall (see [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-9)
+10.1 tabyl |
+10.2 describe_distribution |
+10.3 data_codebook |
+10.4 distinct check |
+10 Numerical Summaries |
+11 Codebook |
+12.1 Research Question 1 |
+12.1 RQ 1 matches Task 1? |
+12.1 RQ Pre-Analysis Direction OK? |
+12.1 Score (0-5) on RQ1 |
+12.2 Research Question 2 |
+12.2 RQ 2 matches Task 2? |
+12.2 Score (0-5) on RQ2 |
+12.3 Research Question 3 |
+12.3 RQ 3 matches Task 3? |
+12.3 Score (0-5) on RQ3 |
+Reflection Word Count |
+13 Identified Issue (0-5) |
+13 How they overcame (0-5) |
+13 Writing Quality (0-5) |
+13 Reflection Score (0-15) |
+14 AI Usage |
+15 R version |
+15 Running System... |
+15 Session Information |
+OKs (out of 16) | in the yellow rows
+RQ Score (out of 15) |
+Reflection Score (out of 15) |
+Total Score (out of 70) |
+Total % Satisfactory |
+Plan version 1 Status | (ACCEPT or REDO)
