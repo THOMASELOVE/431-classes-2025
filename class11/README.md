@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+![](https://phdcomics.com/comics/archive.php?comicid=1921)
+
 ## Today's Slides
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
