@@ -16,9 +16,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. [Lab 3](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3) is also due Wednesday 2025-10-08 at noon.
 3. I fixed the [Class 10 slides, Word and Quarto files](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class10#todays-slides) to correct the sample size (*n* = 847, not 846) after dropping cases with missing data.
 4. By class time, you will have our feedback on your [Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html).
-    - If Dr. Love asked you to **REDO** your Plan, then that revision is due to Canvas at noon Wednesday 2025-10-08.
-    - If Dr. Love has **ACCEPTED** your Plan, then you should get to work on the [Analyses](https://thomaselove.github.io/431-projectA-2025/analyses.html) and [Portfolio](https://thomaselove.github.io/431-projectA-2025/portfolio.html) while, of course, incorporating our comments about your Plan.
-5. An Update (including analyses of questions posed in Class 09) available as [Quarto](https://raw.githubusercontent.com/THOMASELOVE/431-classes-2025/refs/heads/main/movies/movies_update1.qmd) or [HTML](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/movies_update1.html) **for download**. You'll also find these files on our Shared Drive as `movies_update1.qmd` and `movies_update1.html`.
+    - We will visit [this page of examples and other feedback](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md) in class today, along with [this list of Project A Plans](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/README.md).
+    - If Dr. Love asked you to **REDO** your Plan, then that revision is due to Canvas at **10 AM on Friday 2025-10-10**.
+    - If Dr. Love has **ACCEPTED** your Plan, then you should get to work on the [Analyses](https://thomaselove.github.io/431-projectA-2025/analyses.html) and [Portfolio](https://thomaselove.github.io/431-projectA-2025/portfolio.html) while, of course, incorporating our comments about your Plan in the feedback you received via email on Monday 2025-10-06.
+6. A Favorite Movies Update (including analyses of questions posed in Class 09) available as [Quarto](https://raw.githubusercontent.com/THOMASELOVE/431-classes-2025/refs/heads/main/movies/movies_update1.qmd) or [HTML](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/movies_update1.html) **for download**. You'll also find these files on our Shared Drive as `movies_update1.qmd` and `movies_update1.html`.
 
 ## [Love-431.R script](https://github.com/THOMASELOVE/431-data/blob/main/data/Love-431.R) functions
 
