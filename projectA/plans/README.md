@@ -1,6 +1,7 @@
 # Project A Plans
 
 2025-10-06: Some [examples and general comments](examples.md) related to the Project A Plan that **everyone** should take a look at [are found here](examples.md)
+
 2025-10-07: [How we evaluated the Project A Plans](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/evaluation.md)
 
 ## Plans Needing Revision (due to Canvas Friday 2025-10-10 at 10 AM)
