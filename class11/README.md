@@ -21,7 +21,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - We will visit [this page of examples and other feedback](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md) in class today, along with [this list of Project A Plans](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/README.md).
     - If Dr. Love asked you to **REDO** your Plan, then that revision is due to Canvas at **10 AM on Friday 2025-10-10**.
     - If Dr. Love has **ACCEPTED** your Plan, then you should get to work on the [Analyses](https://thomaselove.github.io/431-projectA-2025/analyses.html) and [Portfolio](https://thomaselove.github.io/431-projectA-2025/portfolio.html) while, of course, incorporating our comments about your Plan in the feedback you received via email on Monday 2025-10-06.
-    - The following students had problems with their codebooks or selected variables, and I sent them an additional email about this today. Please make sure you review that email. Rules on what variables you can use, and in what analyses [remain here](https://thomaselove.github.io/431-projectA-2025/data.html#variables-for-each-analysis).
+    - The following students had problems with the variables they selected, and I sent them an additional email about this today. Please make sure you review that email. Rules on what variables you can use, and in what analyses [remain here](https://thomaselove.github.io/431-projectA-2025/data.html#variables-for-each-analysis).
         - Isabela Drumond Fonseca and Renu Jadhav (change Analysis 1 predictor, and Analysis 2 and 3 outcomes)
         - Thu Nguyen (change Analysis 3 outcome)
         - Noha Orabi (change Analysis 1 predictor)
