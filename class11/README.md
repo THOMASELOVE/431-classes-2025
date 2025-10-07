@@ -37,5 +37,6 @@ We'll spend a few moments today introducing [this breakout activity about the "f
 2. [Lab 4](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab4) is due at noon next Wednesday 2025-10-15, and there will also be a minute paper due that day.
 3. You will receive [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2025/blob/main/README.md) by 3 PM on Thursday 2025-10-16, and it is due Wednesday 2025-10-22 at noon.
 4. Once your [Project A Plan](https://thomaselove.github.io/431-projectA-2025/plan.html) has been approved, you should be working on the [Project A Portfolio](https://thomaselove.github.io/431-projectA-2025/portfolio.html), due Wednesday 2025-10-29 at noon. In particular, you should be working on completing the [Project A Analyses](https://thomaselove.github.io/431-projectA-2025/analyses.html) now.
+    - Those of you who were asked to complete a revision, submit it to [Canvas](https://canvas.case.edu/) by 10 AM on Friday 2025-10-10.
 5. If you need more to work on, it's always a good idea to complete [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) earlier in the semester.
 
