@@ -22,7 +22,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - If Dr. Love asked you to **REDO** your Plan, then that revision is due to Canvas at **10 AM on Friday 2025-10-10**.
     - If Dr. Love has **ACCEPTED** your Plan, then you should get to work on the [Analyses](https://thomaselove.github.io/431-projectA-2025/analyses.html) and [Portfolio](https://thomaselove.github.io/431-projectA-2025/portfolio.html) while, of course, incorporating our comments about your Plan in the feedback you received via email on Monday 2025-10-06.
     - The following students had problems with their codebooks or selected variables, and I sent you an additional email about this today. Please make sure you review that email. Rules on what variables you can use, and in what analyses [remain here](https://thomaselove.github.io/431-projectA-2025/data.html#variables-for-each-analysis).
-        - **Isabela Drumond Fonseca and Renu Jadhav (change Analysis 1 predictor, and Analysis 2 and 3 outcomes), Thu Nguyen (change Analysis 3 outcome), Noha Orabi (change Analysis 1 predictor) and Helena Zhao (change Analysis 3 outcome).
+        - Isabela Drumond Fonseca and Renu Jadhav (change Analysis 1 predictor, and Analysis 2 and 3 outcomes)
+        - Thu Nguyen (change Analysis 3 outcome)
+        - Noha Orabi (change Analysis 1 predictor)
+        - Helena Zhao (change Analysis 3 outcome).
 6. A Favorite Movies Update (including analyses of questions posed in Class 09) available as [Quarto](https://raw.githubusercontent.com/THOMASELOVE/431-classes-2025/refs/heads/main/movies/movies_update1.qmd) or [HTML](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/movies_update1.html) **for download**. You'll also find these files on our Shared Drive as `movies_update1.qmd` and `movies_update1.html`.
 
 ## [Love-431.R script](https://github.com/THOMASELOVE/431-data/blob/main/data/Love-431.R) functions
