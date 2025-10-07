@@ -16,6 +16,7 @@
   - [Section 11](#section-11) The Codebook
   - [Section 14](#sections-14-and-15) AI Usage
   - [Section 15](#sections-14-and-15) Session Information
+- [Trivia](#trivia)
 
 ## Scoring the Plans
 
@@ -108,5 +109,107 @@ Here's an example of an excellent Section 14 and start of Section 15 of the HTML
 
 ![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/projA_plan_section14.png)
 
+## Trivia
+
+### States Selected
+
+```
+45 OH
+20 PA
+19 CA
+18 MI
+17 IL IN
+14 NY
+10 FL
+ 9 MN TX WI
+ 8 GA WV
+ 7 KY MD
+ 6 CO
+ 4 IA NJ OR WA
+ 3 ID KS
+ 2 AL LA MT NC NE NM OK UT
+ 1 AR AZ CT MA MO ND SC VA WY
+```
+
+### County Counts
+
+Mean = 492, Median = 505, SD = 90
+
+- 505 Counties: IN KY MI PA WV OH
+- 524 Counties: IL IN	MI MN WI OH 
+
+```
+6 50 77 79
+6 20 48
+5 56 64 69 73
+5 04 **05 05 05 05 05** 06 11 **24 24 24 24 24** 27 36 39
+4 73 76 81 87 90 94 97
+4 10 21 22 28 49
+3 52 62 64 86 91
+3 02 20 33
+```
+
+### Variables Selected
+
+#### Analysis 1 Outcomes
+
+```
+8 v042
+6 v002
+5 v001 v011 v127
+4 v060
+3 v009
+2 v155
+1 v049 v050 v070 v125 v136 v140 v143
+```
+
+#### Analysis 1 Predictors
+
+```
+6 v023
+4 v063 v085
+3 v011 v058 v155
+2 v009 v067 v070 v125 v139 v143
+1 v001 v036 v044 v049 v057 v059 v060 v168
+
+Two (v037 and v190) that will need to change (see my email to you this AM)
+```
+
+#### Analysis 2 Outcomes
+
+```
+6 v042
+4 v011 v036 v049
+3 v002 v127 v155
+2 v009 v139 v143 
+1 v001 v034 v044 v050 v060 v067 v070 v125 v128 v136 v140 v166
+
+One (v226) that will need to change (see my email to you this AM)
+```
+
+#### Analysis 2 Predictors
+
+```
+6 v063 v168
+4 v023
+3 v058 v085 v136 v139 v140
+2 v049 v070
+1 v042 v044 v057 v059 v060 v067 v125 v143 v151 v155
+```
+
+#### Analysis 3 Outcomes
+
+```
+10 v143
+ 6 v042
+ 5 v070
+ 4 v060
+ 3 v009 v011 v036 v049 v139
+ 2 v127
+ 
+Three (v001, v063 and v201) that will need to change (see my email to you this AM)
+```
+
 
 [^1]: In writing, "throat-clearing" refers to unnecessary words or phrases at the beginning of a sentence or text that delay the main point. The best approach in scientific writing is to cut this material and build a stronger, more direct sentence.
+
