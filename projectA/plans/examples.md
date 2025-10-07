@@ -154,8 +154,8 @@ Mean = 492, Median = 505, SD = 90
 #### Analysis 1 Outcomes
 
 ```
-8 v042
-6 v002
+8 v042 (Poor mental health days)
+6 v002 (Poor or fair health)
 5 v001 v011 v127
 4 v060
 3 v009
@@ -166,7 +166,7 @@ Mean = 492, Median = 505, SD = 90
 #### Analysis 1 Predictors
 
 ```
-6 v023
+6 v023 (Unemployment)
 4 v063 v085
 3 v011 v058 v155
 2 v009 v067 v070 v125 v139 v143
@@ -178,7 +178,7 @@ Two (v037 and v190) that will need to change (see my email to you this AM)
 #### Analysis 2 Outcomes
 
 ```
-6 v042
+6 v042 (Poor mental health days)
 4 v011 v036 v049
 3 v002 v127 v155
 2 v009 v139 v143 
@@ -190,7 +190,7 @@ One (v226) that will need to change (see my email to you this AM)
 #### Analysis 2 Predictors
 
 ```
-6 v063 v168
+6 v063 v168 (Diabetes prevalence and High School completion)
 4 v023
 3 v058 v085 v136 v139 v140
 2 v049 v070
@@ -200,9 +200,9 @@ One (v226) that will need to change (see my email to you this AM)
 #### Analysis 3 Outcomes
 
 ```
-10 v143
- 6 v042
- 5 v070
+10 v143 (Insufficient sleep)
+ 6 v042 (Poor mental health days)
+ 5 v070 (Physical inactivity)
  4 v060
  3 v009 v011 v036 v049 v139
  2 v127
