@@ -131,6 +131,8 @@ Here's an example of an excellent Section 14 and start of Section 15 of the HTML
  1 AR AZ CT MA MO ND SC VA WY
 ```
 
+No group selected MS (Mississippi)'s 82 counties, or SD (South Dakota)'s 62 counties, or TN (Tennessee)'s 95 counties.
+
 ### County Counts
 
 Mean = 492, Median = 505, SD = 90
