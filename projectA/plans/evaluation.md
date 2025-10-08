@@ -97,10 +97,10 @@ Reflection Word Count | Number of words in your reflection (this should have bee
 13 How they overcame (0-5) | Score for how clearly they explained how they overcame that issue in preparing the Plan. We used 0 = not acceptable or skipped, 1 = Poor, 2 = Fair 3 = OK, 4 = Good, 5 = Excellent.
 13 Writing Quality (0-5) | Score for how well section 13 is written. We used 0 = not acceptable or skipped, 1 = Poor, 2 = Fair 3 = OK, 4 = Good, 5 = Excellent.
 13 Reflection Score (0-15) | Sum of three previous (marked 13) rows.
-**14 AI Usage** | OK if what is written is in complete sentences with appropriate use of grammar and syntax, and appropriately describes their AI usage. If you claimed not to have used AI, we reminded you that "spell check" and "using RStudio to suggest completions for code" are likely to have been used by everyone and should be indicated. See [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-14).
+**14 AI Usage** | OK if what is written is in complete sentences with appropriate use of grammar and syntax, and appropriately describes their AI usage. If you claimed not to have used AI, we reminded you that "spell check" and "using RStudio to suggest completions for code" are likely to have been used by everyone and should be indicated. See [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#sections-14-and-15).
 15 R version | R Version you're running (should be 4.5.1)
 15 Running System... | System you are running according to your session information
-**15 Session Information** | OK if Session Information section is correct and complete. See [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-14).
+**15 Session Information** | OK if Session Information section is correct and complete. See [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#sections-14-and-15).
 OKs  | Count of OKs out of a possible 16 in the yellow rows on the grid (indicated **in bold** in this table)
 RQ Score | Research Question score out of 15 points, summing the 0-5 scores for each of the three Questions
 Reflection Score | Reflection Score, out of 15 points, from above
