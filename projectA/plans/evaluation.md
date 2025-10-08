@@ -65,7 +65,7 @@ state 5 | Fifth state (alphabetically by [two-letter abbreviation](https://www.y
 state 6 | OH
 Section 3 county count | How many counties are specified in Section 3?
 Why these states? | Is this described in complete sentences in Section 3?
-**3. State Selection** | OK if Section 3 looks OK overall (see [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-3)
+**3. State Selection** | OK if Section 3 looks OK overall (see [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-3))
 A1 outcome | Analysis 1 outcome
 A1 predictor | Analysis 1 predictor
 A2 outcome | Analysis 2 outcome
@@ -74,14 +74,14 @@ A3 outcome | Analysis 3 outcome
 Name of Rds file | Name of your Rds file
 Rds file: rows | Rows in your Rds file
 Rds file: columns | Columns in your Rds file
-**4, 5, 8: Variables** | OK if Sections 4, 5 and 8 look OK overall (see Example [Section 4](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-4), [Section 5]((https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-5) and [Section 8](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-8))
-**9 Print Tibble** | OK if Section 9 looks OK overall (see [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-9)
+**4, 5, 8: Variables** | OK if Sections 4, 5 and 8 look OK overall (see Example [Section 4](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-4)), [Section 5]((https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-5)) and [Section 8](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-8))
+**9 Print Tibble** | OK if Section 9 looks OK overall (see [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-9))
 10.1 `tabyl` | OK if you've run code successfully to do what is asked of you (Table of States by Binary Factor). In particular, you’ve used `tabyl()` properly, and shown row and column marginal totals, including for missing values of your binary predictor. Explanatory text is welcome but not required in this section. 
 10.2 `describe_distribution` | OK if you've run `describe_distribution()` properly on the entire tibble. For all variables except the two factors, this will allow us to see (among other things) that the minimum and maximum values that make sense, and also that each of your variables shows the appropriate number of counties. 
 10.3 `data_codebook` | OK if you've run `data_codebook()` properly on the whole data set, using the settings max_values = 6, range_at = 15) without any errors or warnings happening, [as detailed here](https://thomaselove.github.io/431-projectA-2025/plan.html#section-10.3-data_codebook-results), AND you also included at least one English sentence to verify the issues described there, specifically regarding whether the minimum and maximum values of the quantitative data elements make sense, and that the amount of missingness meets our requirements for each variable.
 10.4 distinct check | OK if you've provided counts of distinct values, as requested and we can see the results for all eleven variables. You also have a sentence or two showing that you have checked for distinct `fipscode`s (a unique code for each row) and that you have at least 15 unique values for each outcome and the quantitative predictor. 
 **10 Numerical Summaries** | If rows for 10.1, 10.2, 10.3, and 10.4 are all OK, then this is OK.
-**11 Codebook** | OK if the submission meets these requirements: (1) The student(s) have a sentence stating the number of counties (should be 300-800) and variables (should be eleven) in your tibble. This should match what's in the printout of the tibble in section 9. and (2) You have an attractively formatted, readable codebook that looks nice in your HTML which contains each variable’s (1) name in your tibble, (2) its role, (3) its original vXXX code, (4) the definition (including units) and (5) the year(s) in which the variable was measured. 
+**11 Codebook** | OK if the submission meets these requirements: (1) The student(s) have a sentence stating the number of counties (should be 300-800) and variables (should be eleven) in your tibble. This should match what's in the printout of the tibble in section 9. and (2) You have an attractively formatted, readable codebook that looks nice in your HTML which contains each variable’s (1) name in your tibble, (2) its role, (3) its original vXXX code, (4) the definition (including units) and (5) the year(s) in which the variable was measured. See [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-11).
 12.1 Research Question 1 | Your first research question, verbatim.
 **12.1 RQ 1 matches Task 1?** | Is the first research question proposed here something you will be able to answer (or at least respond to effectively) after your Analysis 1 is complete?
 **12.1 RQ Pre-Analysis Direction OK?** | OK if student(s), after listing the first Research Question, provided some brief speculation in complete sentences as to the nature of the relationship they anticipate finding based on their hypotheses about their Analysis 1 variables. 
@@ -97,10 +97,10 @@ Reflection Word Count | Number of words in your reflection (this should have bee
 13 How they overcame (0-5) | Score for how clearly they explained how they overcame that issue in preparing the Plan. We used 0 = not acceptable or skipped, 1 = Poor, 2 = Fair 3 = OK, 4 = Good, 5 = Excellent.
 13 Writing Quality (0-5) | Score for how well section 13 is written. We used 0 = not acceptable or skipped, 1 = Poor, 2 = Fair 3 = OK, 4 = Good, 5 = Excellent.
 13 Reflection Score (0-15) | Sum of three previous (marked 13) rows.
-**14 AI Usage** | OK if what is written is in complete sentences with appropriate use of grammar and syntax, and appropriately describes their AI usage. If you claimed not to have used AI, we reminded you that "spell check" and "using RStudio to suggest completions for code" are likely to have been used by everyone and should be indicated. 
+**14 AI Usage** | OK if what is written is in complete sentences with appropriate use of grammar and syntax, and appropriately describes their AI usage. If you claimed not to have used AI, we reminded you that "spell check" and "using RStudio to suggest completions for code" are likely to have been used by everyone and should be indicated. See [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-14).
 15 R version | R Version you're running (should be 4.5.1)
 15 Running System... | System you are running according to your session information
-**15 Session Information** | OK if Session Information section is correct and complete.
+**15 Session Information** | OK if Session Information section is correct and complete. See [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-14).
 OKs  | Count of OKs out of a possible 16 in the yellow rows on the grid (indicated **in bold** in this table)
 RQ Score | Research Question score out of 15 points, summing the 0-5 scores for each of the three Questions
 Reflection Score | Reflection Score, out of 15 points, from above
