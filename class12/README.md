@@ -12,9 +12,11 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. I have completed the document on [How the Project A Plans Were Evaluated](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/evaluation.md).
+2. More to come.
 
 ## Favorite Movies
 
 Here is our [Class 12 activity](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/class12.md), which we introduced in Class 11.
 
+Also, I remind you that: A Favorite Movies Update (including analyses of questions posed in Class 09) is now available as [Quarto](https://raw.githubusercontent.com/THOMASELOVE/431-classes-2025/refs/heads/main/movies/movies_update1.qmd) or [HTML](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/movies_update1.html) **for download**. You'll also find these files on our Shared Drive as `movies_update1.qmd` and `movies_update1.html`.
