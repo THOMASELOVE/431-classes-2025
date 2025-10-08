@@ -12,7 +12,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. I have completed the document on [How the Project A Plans Were Evaluated](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/evaluation.md).
+1. I have completed the description of [How the Project A Plans Were Evaluated](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/evaluation.md). This will also be the approach we take in reviewing Project A Plan revisions.
 2. More to come.
 
 ## On Sample Size Requirements for Estimating and Comparing Proportions
