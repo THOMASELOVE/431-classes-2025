@@ -56,7 +56,7 @@ tidyverse loaded last | Is tidyverse the last package loaded?
 ggplots theme | ggplots theme chosen (most picked `theme_bw()`)
 package messages | Are these silenced properly in Section 1?
 **1. R Packages** | OK if Section 1 looks OK overall (see [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-1))
-**2. Data Ingest** | OK if Section 2 looks OK overall (see [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-2)
+**2. Data Ingest** | OK if Section 2 looks OK overall (see [Example](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md#section-2))
 state 1 | First state (alphabetically by [two-letter abbreviation](https://www.youtube.com/watch?v=dLECCmKnrys)) chosen other than OH
 state 2 | Second state (alphabetically by [two-letter abbreviation](https://www.youtube.com/watch?v=dLECCmKnrys)) chosen other than OH
 state 3 | Third state (alphabetically by [two-letter abbreviation](https://www.youtube.com/watch?v=dLECCmKnrys)) chosen other than OH
