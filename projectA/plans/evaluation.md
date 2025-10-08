@@ -47,8 +47,8 @@ Quarto Spell Check | How many problems were identified by running Spell Check in
 Quarto Blank Lines | Did you have trouble including blank lines before and after each code chunk, paragraph and heading?
 Quarto Line Count | Lines of Quarto Code
 **C. Quarto Overall** | OK if Quarto file (previous lines here) are all OK
-comment = NA in Section 1 | Is `comment=NA` correctly set with `knitr` options in Section 1?
-library only in Section 1 | Are any packages loaded after Section 1?
+comment = NA | Is `comment=NA` correctly set with `knitr` options in Section 1?
+library only | We want to be sure that no packages are loaded after Section 1
 R package count | Count of R packages loaded
 loads main 5 packages | Does project load janitor, naniar, xfun, easystats, tidyverse?
 other packages loaded | Other loaded packages, (things that are in [easystats](https://easystats.github.io/easystats/) or [core tidyverse](https://www.tidyverse.org/packages/) are problems)
