@@ -98,12 +98,21 @@ Reflection Word Count | Number of words in your reflection (this should have bee
 13 Writing Quality (0-5) | Score for how well section 13 is written. We used 0 = not acceptable or skipped, 1 = Poor, 2 = Fair 3 = OK, 4 = Good, 5 = Excellent.
 13 Reflection Score (0-15) | Sum of three previous (marked 13) rows.
 **14 AI Usage** | OK if what is written is in complete sentences with appropriate use of grammar and syntax, and appropriately describes their AI usage. If you claimed not to have used AI, we reminded you that "spell check" and "using RStudio to suggest completions for code" are likely to have been used by everyone and should be indicated. 
-15 R version |
-15 Running System... |
-**15 Session Information** |
-OKs  | out of a possible 16 in the yellow rows on the grid (indicated **in bold** in this table)
-RQ Score | out of 15 points, from above
-Reflection Score | out of 15 points, from above
-Total Score | 2.5 for each OK (out of 16) + RQ Score + Reflection Score (maximum possible score = 70)
-Total % Satisfactory | Total Score, expressed as a percentage of those 70 maximum points
+15 R version | R Version you're running (should be 4.5.1)
+15 Running System... | System you are running according to your session information
+**15 Session Information** | OK if Session Information section is correct and complete.
+OKs  | Count of OKs out of a possible 16 in the yellow rows on the grid (indicated **in bold** in this table)
+RQ Score | Research Question score out of 15 points, summing the 0-5 scores for each of the three Questions
+Reflection Score | Reflection Score, out of 15 points, from above
+Total Score | from previous three rows: 2.5 for each OK (out of 16) + RQ Score + Reflection Score (maximum possible score = 70)
+Total % Satisfactory | Total Score from previous row, expressed as a percentage of those 70 maximum points
 Plan version 1 Status | ACCEPT or REDO
+
+Repeating: If your first version was **ACCEPT**ed, then your actual score (out of 20 points) for Project A on the Proposal will be:
+- 20, if your "Total % Satisfactory" was 78% or higher.
+- 19, if your "Total % Satisfactory" was 67% or higher, but lower than 78%.
+- 18, if your "Total % Satisfactory" was 55% or higher, but lower than 67%.
+- 17, if your "Total % Satisfactory" was below 55%.
+
+If your first version requires a **REDO**, then your actual score (out of 20 points) for Project A on the Proposal will fall somewhere between 14 and 18 points, and that will be determined after that revision is complete.
+
