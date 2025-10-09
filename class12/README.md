@@ -14,6 +14,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. I have completed the description of [How the Project A Plans Were Evaluated](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/evaluation.md). This will also be the approach we take in reviewing Project A Plan revisions.
 2. Feedback on the Minute Paper after Class 11 will be posted by class time.
+3. A reminder that in writing a Quiz, a key thing I use is the list of responses to "What is the most important thing you've learned recently?" as presented in the Minute Papers to help me isolate things I want to ask about.
 
 ## On Sample Size Requirements for Estimating and Comparing Proportions
 
