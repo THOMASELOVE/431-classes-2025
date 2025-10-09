@@ -10,11 +10,13 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 12 | 2025-10-09 | **[Slides 12](https://thomaselove.github.io/431-slides-2025/class12.html)** | **[Word 12](https://thomaselove.github.io/431-slides-2025/class12w.docx)** | **[Code 12](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class12.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![]() [Source](https://phdcomics.com/comics/archive.php?comicid=1254)
+
 ## Announcements
 
 1. I have completed the description of [How the Project A Plans Were Evaluated](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/evaluation.md). This will also be the approach we take in reviewing Project A Plan revisions.
 2. Feedback on the Minute Paper after Class 11 is now available at <https://bit.ly/431-2025-min-11-feedback>.
-3. A reminder that in writing a Quiz, a key thing I use is the list of responses to "What is the most important thing you've learned recently?" as presented in the Minute Papers to help me isolate things I want to ask about.
+3. A reminder that in writing a [Quiz](https://github.com/THOMASELOVE/431-quizzes-2025), a key thing I use is the list of responses to "What is the most important thing you've learned recently?" as presented in the [Minute Papers](https://github.com/THOMASELOVE/431-minute-2025) to help me isolate things I want to ask about. I also reread all of your comments and my feedback reported in those [Minute Papers](https://github.com/THOMASELOVE/431-minute-2025) to help identify things I want to check on.
 
 ## On Sample Size Requirements for Estimating and Comparing Proportions
 
@@ -37,3 +39,16 @@ If the distribution of data is severely skewed, the Kruskal-wallis test could be
 Here is our [Class 12 activity](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/class12.md), which we introduced in Class 11.
 
 Also, I remind you that: A Favorite Movies Update (including analyses of questions posed in Class 09) is now available as [Quarto](https://raw.githubusercontent.com/THOMASELOVE/431-classes-2025/refs/heads/main/movies/movies_update1.qmd) or [HTML](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/movies_update1.html) **for download**. You'll also find these files on our Shared Drive as `movies_update1.qmd` and `movies_update1.html`.
+
+## Coming Up
+
+See [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for all deadlines.
+
+1. For 12 groups, revision of the [Project A Plan](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectA/plans) is due to [Canvas](https://canvas.case.edu/) tomorrow 2025-10-10 at 10 AM.
+2. [Lab 4](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab4) is due Wednesday 2025-10-15 at noon to [Canvas](https://canvas.case.edu/).
+    - The Lab asks questions that you can't really answer without being caught up in the reading of both [R for Data Science](https://r4ds.hadley.nz/), and Spiegelhalter's *The Art of Statistics*.
+3. There will also be a Minute Paper after Class 13 due Wednesday 2025-10-15 at noon.
+4. [Class 13](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class13) on Tuesday 2025-10-14 is entitled "What's Wrong with Statistical Significance?" It's a tough one to miss, since it's pretty important.
+5. You will receive [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2025/blob/main/README.md) by 3 PM on Thursday 2025-10-16. It is due Wednesday 2025-10-22 at noon. I will discuss logistics of the Quiz with you in class Thursday 2025-10-16 before I make it available.
+6. Fall Break (no TA office hours and no 431 class these two days) is Monday and Tuesday 2025-10-20 and 2025-10-21.
+
