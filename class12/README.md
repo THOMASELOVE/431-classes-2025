@@ -10,7 +10,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 12 | 2025-10-09 | **[Slides 12](https://thomaselove.github.io/431-slides-2025/class12.html)** | **[Word 12](https://thomaselove.github.io/431-slides-2025/class12w.docx)** | **[Code 12](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class12.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![]() [Source](https://phdcomics.com/comics/archive.php?comicid=1254)
+![](phdcomics_1254.png) [Source](https://phdcomics.com/comics/archive.php?comicid=1254)
 
 ## Announcements
 
