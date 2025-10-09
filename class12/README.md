@@ -16,7 +16,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. Feedback on the Minute Paper after Class 11 is now available at <https://bit.ly/431-2025-min-11-feedback>.
 3. I will post the grading rubric we're using for Lab 3 to our Shared Drive as soon as the last two people have submitted the Lab to [Canvas](https://canvas.case.edu/).
 4. A reminder that in writing a [Quiz](https://github.com/THOMASELOVE/431-quizzes-2025), a key thing I use is the list of responses to "What is the most important thing you've learned recently?" as presented in the [Minute Papers](https://github.com/THOMASELOVE/431-minute-2025) to help me isolate things I want to ask about. I also reread all of your comments and my feedback reported in those [Minute Papers](https://github.com/THOMASELOVE/431-minute-2025) to help identify things I want to check on.
-5. On 2025-10-09 at 11:20 AM, I added two hints for Task 3 in the pdf for [Lab 4](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab4/431-lab4.pdf).
+5. I added two hints for Task 3 in the [pdf of Lab 4 instructions](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab4/431-lab4.pdf).
 
 ## On Sample Size Requirements for Estimating and Comparing Proportions
 
