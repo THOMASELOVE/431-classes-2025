@@ -73,7 +73,7 @@ Here's an example of a very good Section 8 of the HTML for the Project A Plan. I
 
 ## Section 9
 
-Here's an example of an excellent Section 9 of the HTML for the Project A Plan.
+Here's an example of an excellent Section 9 of the HTML for the Project A Plan. If what you think is a tibble prints as more than 10 rows, then it's not [a tibble](https://tibble.tidyverse.org/reference/tibble.html) but a data frame, and you need to fix that. 
 
 ![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/projA_plan_section9.png)
 
