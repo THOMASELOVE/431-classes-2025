@@ -51,6 +51,7 @@ See [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for all
     - Thanks to the 3 groups who've already done this. We will get feedback to you on Monday 2025-10-13.
 2. [Lab 4](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab4) is due Wednesday 2025-10-15 at noon to [Canvas](https://canvas.case.edu/).
     - The Lab asks questions that you can't really answer without being caught up in the reading of both [R for Data Science](https://r4ds.hadley.nz/), and Spiegelhalter's *The Art of Statistics*.
+    - Make sure you use the updated [pdf of Lab 4 instructions](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab4/431-lab4.pdf) which contains two hints for Task 3.
 3. There will also be a Minute Paper after Class 13 due Wednesday 2025-10-15 at noon.
 4. [Class 13](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class13) on Tuesday 2025-10-14 is entitled "What's Wrong with Statistical Significance?" It's a tough one to miss, since it's pretty important.
 5. You will receive [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2025/blob/main/README.md) by 3 PM on Thursday 2025-10-16. It is due Wednesday 2025-10-22 at noon. I will discuss logistics of the Quiz with you in class Thursday 2025-10-16 before I make it available.
