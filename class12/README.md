@@ -14,7 +14,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. I have completed the description of [How the Project A Plans Were Evaluated](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/evaluation.md). This will also be the approach we take in reviewing Project A Plan revisions.
 2. Feedback on the Minute Paper after Class 11 is now available at <https://bit.ly/431-2025-min-11-feedback>.
-3. A reminder that in writing a [Quiz](https://github.com/THOMASELOVE/431-quizzes-2025), a key thing I use is the list of responses to "What is the most important thing you've learned recently?" as presented in the [Minute Papers](https://github.com/THOMASELOVE/431-minute-2025) to help me isolate things I want to ask about. I also reread all of your comments and my feedback reported in those [Minute Papers](https://github.com/THOMASELOVE/431-minute-2025) to help identify things I want to check on.
+3. I will post the grading rubric we're using for Lab 3 once 
+4. A reminder that in writing a [Quiz](https://github.com/THOMASELOVE/431-quizzes-2025), a key thing I use is the list of responses to "What is the most important thing you've learned recently?" as presented in the [Minute Papers](https://github.com/THOMASELOVE/431-minute-2025) to help me isolate things I want to ask about. I also reread all of your comments and my feedback reported in those [Minute Papers](https://github.com/THOMASELOVE/431-minute-2025) to help identify things I want to check on.
 
 ## On Sample Size Requirements for Estimating and Comparing Proportions
 
