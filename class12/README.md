@@ -10,8 +10,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 12 | 2025-10-09 | **[Slides 12](https://thomaselove.github.io/431-slides-2025/class12.html)** | **[Word 12](https://thomaselove.github.io/431-slides-2025/class12w.docx)** | **[Code 12](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class12.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](phdcomics_1254.png) [Source](https://phdcomics.com/comics/archive.php?comicid=1254)
-
 ## Announcements
 
 1. I have completed the description of [How the Project A Plans Were Evaluated](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/evaluation.md). This will also be the approach we take in reviewing Project A Plan revisions.
@@ -53,3 +51,8 @@ See [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for all
 5. You will receive [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2025/blob/main/README.md) by 3 PM on Thursday 2025-10-16. It is due Wednesday 2025-10-22 at noon. I will discuss logistics of the Quiz with you in class Thursday 2025-10-16 before I make it available.
 6. Fall Break (no TA office hours and no 431 class these two days) is Monday and Tuesday 2025-10-20 and 2025-10-21.
 
+## One Last Thing
+
+or ... why I type my feedback now, instead of hand-writing it.
+
+![](phdcomics_1254.png) [Source](https://phdcomics.com/comics/archive.php?comicid=1254)
