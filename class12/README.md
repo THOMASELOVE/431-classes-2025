@@ -34,7 +34,7 @@ If the distribution of data is severely skewed, the Kruskal-wallis test might be
 
 - The bootstrap could be used, a transformation of the outcome could be used, or a Wilcoxon-Mann-Whitney rank sum test could be used, as described in [Section 6.10](https://thomaselove.github.io/431-book/06_twogroups.html#wilcoxon-rank-sum-test) of our Course Book.
 - If we had severe skew in paired differences, we could similarly consider a bootstrap approach or a Wilcoxon signed rank test, as described in [Section 5.7](https://thomaselove.github.io/431-book/05_paired.html#wilcoxon-signed-rank-test) of our book, or a sign test, as described in [Section 5.8](https://thomaselove.github.io/431-book/05_paired.html#sign-test).
-- The main problem with all of these methods when building confidence intervals is that they no longer compare means, and they also don't compare medians, so it's hard to interpret their measures of location effectively. As a result, I de-emphasize them in 431.
+- The main problem with all of these methods when building confidence intervals is that they no longer compare means, and they also don't compare medians, so it's hard to interpret their measures of location effectively. As a result, I don't emphasize them in 431.
 
 ----------
 
