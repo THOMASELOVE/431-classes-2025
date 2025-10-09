@@ -13,7 +13,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. I have completed the description of [How the Project A Plans Were Evaluated](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/evaluation.md). This will also be the approach we take in reviewing Project A Plan revisions.
-2. More to come.
+2. Feedback on the Minute Paper after Class 11 will be posted by class time.
 
 ## On Sample Size Requirements for Estimating and Comparing Proportions
 
@@ -21,6 +21,15 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
   - If you have less than 5 observations of either "yes" or "no" and want to estimate the proportion of "yes" responses in a population, your interval won't be very good, no matter what method you use, and I would ask why you'd be trying to do statistical inference in that setting anyway.
 - For a 2x2 table, we use `twoby2()` from Epi or `twobytwo()` from `Love-431.R` regardless of sample size to get tentative results, but the assumption of a 2x2 table is that you have a reasonable sample size (10 is a better minimum than 5 there) in each cell.
   - If you don't have at least 10 observations in each cell, no statistical method will be accurate (the Fisher exact test, for example, isn't better than the Pearson chi-square (asymptotic) test), and I would ask why you'd be trying to do statistical inference in that setting anyway.
+
+## On Non-Parametric (Rank-Based) Tests and Confidence Intervals
+
+If the distribution of data is severely skewed, the Kruskal-wallis test could be used for comparing the locations of multiple groups. What test can be used for two independent samples?
+    - The bootstrap could be used, a transformation of the outcome could be used, or a Wilcoxon-Mann-Whitney rank sum test could be used, as described in [Section 6.10](https://thomaselove.github.io/431-book/06_twogroups.html#wilcoxon-rank-sum-test) of our Course Book.
+    - If we had severe skew in paired differences, we could similarly consider a bootstrap approach or a Wilcoxon signed rank test, as described in [Section 5.7](https://thomaselove.github.io/431-book/05_paired.html#wilcoxon-signed-rank-test) of our book, or a sign test, as described in [Section 5.8](https://thomaselove.github.io/431-book/05_paired.html#sign-test).
+    - The main problem with all of these methods when building confidence intervals is that they no longer compare means, and they also don't compare medians, so it's hard to interpret their measures of location effectively. As a result, I de-emphasize them in 431.
+
+----------
 
 ## Favorite Movies
 
