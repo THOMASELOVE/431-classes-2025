@@ -45,7 +45,8 @@ Also, I remind you that: A Favorite Movies Update (including analyses of questio
 
 See [the Calendar](https://thomaselove.github.io/431-2025/calendar.html) for all deadlines.
 
-1. For 12 groups, revision of the [Project A Plan](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectA/plans) is due to [Canvas](https://canvas.case.edu/) tomorrow 2025-10-10 at 10 AM.
+1. For 12 Project A groups, revision of the [Project A Plan](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectA/plans) is due to [Canvas](https://canvas.case.edu/) tomorrow 2025-10-10 at 10 AM.
+    - Thanks to the 3 groups who've already done this. We will get feedback to you on Monday 2025-10-13.
 2. [Lab 4](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab4) is due Wednesday 2025-10-15 at noon to [Canvas](https://canvas.case.edu/).
     - The Lab asks questions that you can't really answer without being caught up in the reading of both [R for Data Science](https://r4ds.hadley.nz/), and Spiegelhalter's *The Art of Statistics*.
 3. There will also be a Minute Paper after Class 13 due Wednesday 2025-10-15 at noon.
