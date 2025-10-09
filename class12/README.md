@@ -27,10 +27,11 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## On Non-Parametric (Rank-Based) Tests and Confidence Intervals
 
-If the distribution of data is severely skewed, the Kruskal-wallis test could be used for comparing the locations of multiple groups. What test can be used for two independent samples?
-    - The bootstrap could be used, a transformation of the outcome could be used, or a Wilcoxon-Mann-Whitney rank sum test could be used, as described in [Section 6.10](https://thomaselove.github.io/431-book/06_twogroups.html#wilcoxon-rank-sum-test) of our Course Book.
-    - If we had severe skew in paired differences, we could similarly consider a bootstrap approach or a Wilcoxon signed rank test, as described in [Section 5.7](https://thomaselove.github.io/431-book/05_paired.html#wilcoxon-signed-rank-test) of our book, or a sign test, as described in [Section 5.8](https://thomaselove.github.io/431-book/05_paired.html#sign-test).
-    - The main problem with all of these methods when building confidence intervals is that they no longer compare means, and they also don't compare medians, so it's hard to interpret their measures of location effectively. As a result, I de-emphasize them in 431.
+If the distribution of data is severely skewed, the Kruskal-wallis test might be used for comparing the locations of multiple groups. What approach can be used for two independent samples where the data are severely skewed?
+
+- The bootstrap could be used, a transformation of the outcome could be used, or a Wilcoxon-Mann-Whitney rank sum test could be used, as described in [Section 6.10](https://thomaselove.github.io/431-book/06_twogroups.html#wilcoxon-rank-sum-test) of our Course Book.
+- If we had severe skew in paired differences, we could similarly consider a bootstrap approach or a Wilcoxon signed rank test, as described in [Section 5.7](https://thomaselove.github.io/431-book/05_paired.html#wilcoxon-signed-rank-test) of our book, or a sign test, as described in [Section 5.8](https://thomaselove.github.io/431-book/05_paired.html#sign-test).
+- The main problem with all of these methods when building confidence intervals is that they no longer compare means, and they also don't compare medians, so it's hard to interpret their measures of location effectively. As a result, I de-emphasize them in 431.
 
 ----------
 
