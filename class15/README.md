@@ -16,6 +16,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 -->
 
+![](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png) [Source](https://xkcd.com/1132/)
+
 ## Announcements
 
 1. This section will appear in time for class. 
