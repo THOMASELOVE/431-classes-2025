@@ -20,7 +20,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Favorite Movies Update
 
-To come.
+**To come.**
 
 ## Key Motivating Papers for Today
 
