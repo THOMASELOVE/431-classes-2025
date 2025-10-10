@@ -10,7 +10,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 14 | 2025-10-16 | Coming soon | Coming soon | Coming soon | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](tango_2023.png)
 
 <!-- 
 
@@ -18,6 +17,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 -->
 
+![](tango_2023.png)
+
 ## Announcements
 
 1. This section will appear in time for class. 
+
+## One Last Thing
+
+![](phdcomics_1064.png)
