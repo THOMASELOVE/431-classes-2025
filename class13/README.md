@@ -30,7 +30,9 @@ To come.
 [10.1080/00031305.2016.1154108](https://doi.org/10.1080/00031305.2016.1154108).
 - [The Growing Importance of Reproducibility and Responsible Workflow in the Data Science and Statistics Curriculum](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2141001) by Nicholas J. Horton, Rohan Alexander, Micaela Parker, Aneta Piekut & Colin Rundel (2022) *Journal of Statistics and Data Science Education*, 30:3, 207-208, DOI: 10.1080/26939169.2022.2141001
 
-### Some other resources for learning more
+### Learning More about Statistical Significance (and related issues)
+
+(Note that this material can also be found on our [Resources page](https://thomaselove.github.io/431-2025/resources.html)
 
 - Frank E. Harrell's [A Litany of Problems with *p*-values](https://www.fharrell.com/post/pval-litany/) blog post originally written in 2017, with more recent updates.
 - Jeffrey Leek and Roger Peng [P-values are just the tip of the iceberg](references/Leek_and_Peng_2015_Pvalues_Nature.pdf)
