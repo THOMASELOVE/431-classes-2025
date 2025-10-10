@@ -10,6 +10,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 13 | 2025-10-14 | **[Slides 13](https://thomaselove.github.io/431-slides-2025/class13.html)** | **[Word 13](https://thomaselove.github.io/431-slides-2025/class13w.docx)** | **[Code 13](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class13.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/p_values.png) [Source](https://xkcd.com/1478/)
+
 ## Announcements
 
 1. The grading rubric for Lab 3 was posted to our Shared Drive on Friday 2025-10-10.
