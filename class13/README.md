@@ -24,6 +24,8 @@ To come.
 
 ## Key Motivating Papers for Today
 
+All of this material is found on our [Resources page](https://thomaselove.github.io/431-2025/resources.html).
+
 - Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913), *The American Statistician*, 73:sup1, 1-19, DOI: [10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913). 
     - Ron gave a [one-hour talk you can watch here](https://t.co/GbQF01h4jU) on "[Helping to move to a world beyond p < 0.05](https://t.co/GbQF01h4jU)" which I cannot recommend enough.
 - Ronald L. Wasserstein & Nicole A. Lazar (2016) [The ASA's Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108), *The American Statistician*, 70:2, 129-133, DOI:
@@ -32,7 +34,7 @@ To come.
 
 ### Learning More about Statistical Significance (and related issues)
 
-(Note that this material can also be found on our [Resources page](https://thomaselove.github.io/431-2025/resources.html)
+All of this material is also found on our [Resources page](https://thomaselove.github.io/431-2025/resources.html).
 
 - Frank E. Harrell's [A Litany of Problems with *p*-values](https://www.fharrell.com/post/pval-litany/) blog post originally written in 2017, with more recent updates.
 - Jeffrey Leek and Roger Peng [P-values are just the tip of the iceberg](references/Leek_and_Peng_2015_Pvalues_Nature.pdf)
