@@ -10,6 +10,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 14 | 2025-10-16 | Coming soon | Coming soon | Coming soon | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](tango_2023.png)
+
 <!-- 
 
 14 | 2025-10-16 | **[Slides 14](https://thomaselove.github.io/431-slides-2025/class14.html)** | **[Word 14](https://thomaselove.github.io/431-slides-2025/class14w.docx)** | **[Code 14](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class14.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
