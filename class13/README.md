@@ -32,7 +32,7 @@ To come.
 
 ### Some other resources for learning more
 
-**NOTE**: Dr. Love still needs to add to this list, and correct some dead links. This will happen by class time.
+**NOTE**: Dr. Love still needs to add to this list, and correct some dead links. This will happen **by class time**.
 
 - Frank E. Harrell's [A Litany of Problems with *p*-values](https://www.fharrell.com/post/pval-litany/) blog post most recently updated in 2020.
 - William Briggs' [Everything Wrong with P-values Under One Roof](http://wmbriggs.com/post/26125/) which links to a detailed article on the subject.
