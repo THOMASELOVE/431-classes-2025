@@ -16,6 +16,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 -->
 
+![](https://imgs.xkcd.com/comics/replication_crisis.png) [Source](https://xkcd.com/3117/)
+
 ## Announcements
 
 1. This section will appear in time for class. 
