@@ -12,4 +12,19 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. The grading rubric for Lab 3 was posted to our Shared Drive on Friday 2025-10-10.
+2. **By class time**, students who submitted Project A Plan revisions should have our feedback via email from me.
+3. **By class time**, the Minute Paper after Class 13 (due Wednesday 2025-10-15, at noon) will be posted.
+4. Remember that [Lab 4](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab4) is due tomorrow (Wednesday 2025-10-15) at noon, as well.
+5. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2025) will be posted [to this link](https://github.com/THOMASELOVE/431-quizzes-2025) by 3 PM Thursday 2025-10-16. It is due at noon Wednesday 2025-10-22.
+
+## Favorite Movies Update
+
+To come.
+
+## References from Today's Slides
+
+To come.
+
+
+
