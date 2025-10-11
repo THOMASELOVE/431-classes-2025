@@ -20,7 +20,7 @@ Here are the quantitative variables you suggested, along with *lightly edited* v
 
 Group | Quantitative Variable | Exploratory Question
 :----------: | :-----------------: | :-----------------------------------------------------------------------------------
-The Stats Cubs | [Letterboxd] users | Are films that are mentioned more frequently by 431 students over the past 5 years reported as being seen more often on Letterboxd? 
+The Stats Cubs | [Letterboxd](https://letterboxd.com/welcome/) users | Are films that are mentioned more frequently by 431 students over the past 5 years reported as being seen more often on Letterboxd? 
 Owala Koalas | [List of Deaths Wiki](https://listofdeaths.fandom.com/wiki/List_of_Deaths_Wiki) | Do movies released before 2005 have more deaths than movies released after 2005?
 MLRAS | Popcornmeter from [Rotten Tomatoes](https://www.rottentomatoes.com/) | Do movies with a higher Rotten Tomatoes Popcornmeter score also have a higher Metascore, from IMDB?
 Go CAVS! | Popcornmeter from [Rotten Tomatoes](https://www.rottentomatoes.com/) | For horror movies, is the popcornmeter score higher than the Metascore, from IMDB?
