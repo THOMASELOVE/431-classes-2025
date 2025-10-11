@@ -28,7 +28,7 @@ Movie Raters | Popcornmeter from [Rotten Tomatoes](https://www.rottentomatoes.co
 100% Fresh | Audience Rating at [Rotten Tomatoes](https://www.rottentomatoes.com/) | How strong is the association between the Rotten Tomatoes audience score and gross worldwide revenue?
 Blanked-out | Number of critic reviews at [Rotten Tomatoes](https://www.rottentomatoes.com/) | How strong is the association between the number of critic reviews on Rotten Tomatoes and IMDB (Metacritic)?
 Fresh Tomatoes | First day revenues from [The Numbers](https://www.the-numbers.com/) | Do movies with higher budgets gross higher on the first day released? 
-Clueless | Bankability from [The Numbers](https://www.the-numbers.com/) | Does the country of origin impact the worth of the actor?
+Clueless | Bankability[^5] from [The Numbers](https://www.the-numbers.com/) | Does the country of origin impact the worth of the actor?
 
 ### Notes
 
@@ -39,3 +39,5 @@ Clueless | Bankability from [The Numbers](https://www.the-numbers.com/) | Does t
 [^3]: A movie’s overall CinemaScore can range from A+ to F, but we plan to collapse + and - into one letter category to reduce the number of levels.
 
 [^4]: The "Production Method" falls into one of the following seven categories, it seems: Live Action, Animation/Live Action, Digital Animation, Hand Animation, Stop-Motion Animation, Multiple Production Methods, Rotoscoping.
+
+[^5]: "Bankability" is a measure at the actor level, rather than the movie level. It also changes over time, although this is not available in the data.
