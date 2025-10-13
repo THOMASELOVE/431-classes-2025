@@ -18,7 +18,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. All Project A Plans are now accepted. Students who submitted Project A Plan revisions should have our feedback in an email from me on 2025-10-13.
 3. The [Minute Paper after Class 13](https://bit.ly/431-2025-minute-13) (due Wednesday 2025-10-15, at noon) is available.
 4. Remember that [Lab 4](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab4) is due tomorrow (Wednesday 2025-10-15) at noon, as well.
-5. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2025) will appear [at this link](https://github.com/THOMASELOVE/431-quizzes-2025) by 3 PM Thursday 2025-10-16. Quiz 1 is due at noon Wednesday 2025-10-22, and the Google Form of responses you will submit will close **at 12:30 PM**.
+5. Some [Quiz 1 information](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz1) is now available for your review. The remainder will appear by 3 PM Thursday 2025-10-16. Quiz 1 is due at noon Wednesday 2025-10-22, and the Google Form of responses you will submit will close shortly after that deadline, and will not re-open.
 
 ## Favorite Movies Survey
 
