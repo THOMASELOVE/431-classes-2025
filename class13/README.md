@@ -20,9 +20,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 4. Remember that [Lab 4](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab4) is due tomorrow (Wednesday 2025-10-15) at noon, as well.
 5. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2025) will appear [at this link](https://github.com/THOMASELOVE/431-quizzes-2025) by 3 PM Thursday 2025-10-16. Quiz 1 is due at noon Wednesday 2025-10-22, and the Google Form of responses you will submit will close **at 12:30 PM**.
 
-## Favorite Movies Update
+## Favorite Movies Survey
 
-**To come.**
+I have posted a "[Favorite Movies Survey](https://bit.ly/431-2025-movies-survey)". This (admittedly tedious) survey is required of all 431 students, and you will receive a couple of points of class participation credit for completing it. There are five questions, each with about 10 movies listed. Please complete this survey before **10 AM on Friday 2025-10-24**.
 
 ## Key Motivating Papers for Today
 
