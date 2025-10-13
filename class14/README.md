@@ -23,6 +23,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. This section will appear in time for class. 
 
+## Favorite Movies Survey
+
+I have posted a "[Favorite Movies Survey](https://bit.ly/431-2025-movies-survey)". This (admittedly tedious) survey is required of all 431 students, and you will receive a couple of points of class participation credit for completing it. There are five questions, each with about 10 movies listed. Please complete this survey before **10 AM on Friday 2025-10-24**.
+
 ## One Last Thing
 
 ![](phdcomics_1064.png)
