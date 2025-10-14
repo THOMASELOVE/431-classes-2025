@@ -4,7 +4,7 @@
 
 2025-10-07: [How we evaluated the Project A Plans](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/evaluation.md)
 
-2025-10-14: Reposted list of plans, below, some with revised titles. All plans have now been accepted.
+2025-10-14: Reposted [list of plans](#approved-project-a-plans), below, some with revised titles. All plans have now been accepted.
 
 ## Approved Project A Plans
 
