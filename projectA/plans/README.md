@@ -6,7 +6,7 @@
 
 2025-10-14: Reposted list of plans, below, some with revised titles. All plans have now been accepted.
 
-## Plans Dr. Love has Approved based on the first submission
+## Approved Project A Plans
 
 Code | Investigator(s) | Submitted Title (first 80 characters)
 :---- | :---------------- | :---------------------------------------------------------------------------------------------
