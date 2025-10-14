@@ -21,7 +21,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Details to come.
+1. Some [Quiz 1 information](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz1) is now available.
+    - The remainder will appear [on the Quiz 1 page](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz1) at 3 PM Thursday 2025-10-16. 
+2. We will post the Lab 4 answer sketch and grading rubric on Friday 2025-10-17 at noon. Grades and detailed feedback will be posted as soon as it is available.
+3. More to come.
 
 ## Today's First Activity
 
