@@ -21,7 +21,15 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. We'll watch [So, What's A P-Value?](https://www.facebook.com/watch/?v=1014409165269579) at the start of class today, I hope. This video was originally part of [Not Even Scientists Can Easily Explain P-values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/) published 2015-11-24 by Christie Aschwanden at the now-dead 538 website. Here's the start of that piece:
+
+> P-values have taken quite a beating lately. These widely used and commonly misapplied statistics have been blamed for giving a [veneer of legitimacy to dodgy study results](https://fivethirtyeight.com/features/ignore-the-headlines-we-dont-know-if-e-cigs-lead-kids-to-real-cigs/), encouraging [bad research practices](https://fivethirtyeight.com/features/science-isnt-broken/#part2) and promoting [false-positive study results](https://fivethirtyeight.com/features/psychology-is-starting-to-deal-with-its-replication-problem/).
+
+> But after writing about p-values again and again, and recently issuing a correction on a [nearly year-old story](https://fivethirtyeight.com/features/we-may-never-know-how-well-cloud-seeding-works/) over some erroneous information regarding a study's p-value (which I’d taken from the scientists themselves and their report, I’ve come to think that the most fundamental problem with p-values is that no one can really say what they are.
+
+> Last week, I attended the inaugural [METRICS conference at Stanford](http://metrics.stanford.edu/), which brought together some of the world’s leading experts on meta-science, or the study of studies. I figured that if anyone could explain p-values in plain English, these folks could. I was wrong.
+
+2. 
 
 ## Favorite Movies Survey
 
