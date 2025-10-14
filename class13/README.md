@@ -14,8 +14,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Grades and feedback on Lab 3, as well as our grading rubric, are posted to our Shared Drive.
-2. I've accepted all 45 Project A Plans. I sent email feedback on Project A Plan revisions on Monday 2025-10-13.
+1. Grades and feedback on [Lab 3](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab3), as well as our grading rubric, are posted to our Shared Drive.
+2. I've accepted [all 45 Project A Plans](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/README.md). I sent email feedback on Project A Plan revisions on Monday 2025-10-13.
 3. The [Minute Paper after Class 13](https://bit.ly/431-2025-minute-13) (due Wednesday 2025-10-15, at noon) is available.
 4. Remember that [Lab 4](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab4) is due tomorrow (Wednesday 2025-10-15) at noon, as well.
 5. Some [Quiz 1 information](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz1) is now available.
