@@ -18,6 +18,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - The remainder will appear [on the Quiz 1 page](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz1) at 3 PM Thursday 2025-10-16. 
 2. The [Lab 4](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab4) answer sketch and grading rubric is now in our Shared Drive. Grades and detailed feedback will be posted after the Quiz.
 3. [Here is my Feedback](https://bit.ly/431-2025-min-13-feedback) on the Minute Paper after Class 13.
+4. A reminder that Fall Break is Monday and Tuesday. 431 TA office hours and class are cancelled for those two days. I will respond to any email questions twice daily while Quiz 1 is out.
 
 ## Today's First Activity
 
