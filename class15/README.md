@@ -33,3 +33,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - Here's another version of [The 5 Cs](https://academic.oup.com/book/60686/chapter-abstract/526938324?redirectedFrom=fulltext) by Goutham Rao, that might be helpful to you. This chapter introduces readers to a slightly different paradigm for effective scientific writing in the biomedical professionals including conciseness, clarity, cogency, commonness, and consistency.
 - Many past students have benefited from CWRU's [Writing Resource Center](https://case.edu/writing/resources/writing-resource-center)
     > The Writing Resource Center (WRC) provides support for writers across the university. We offer in-house programming, such as general campus workshops and student/faculty writing groups, and we conduct classroom visits and writing-oriented programs across campus. Our writing consultants provide individualized, hands-on instruction specific to each writer’s goals. We encourage visits from writers at any stage of the writing process, from understanding contexts for writing and interpreting assignment prompts, to organizing and revising ideas. And, we work with all campus writers, including undergraduate students working on course assignments, graduate students working on theses and dissertations, post-doctoral and faculty writers composing grant applications and specialized genres, and staff members working on personal and professional projects. For more information, email us at `writingcenter` at `case` dot `edu`.
+
+## Cats
+
+![](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class15/images/two_cats_2025-10-19.png)
+
+That's Rosie on the left, and Josie on the right.
