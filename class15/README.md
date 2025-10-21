@@ -18,10 +18,17 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ![](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png) [Source](https://xkcd.com/1132/)
 
-## Announcements
+## Announcements and Reminders
 
-1. This section will appear in time for class. 
+1. Today's class meets exclusively through Zoom. I will not be in our classroom during the session, so there's no point in going there for you, either. The Zoom link **will be emailed** to all students, and is also available on [Canvas](https://canvas.case.edu/).
+2. I have posted a "[Favorite Movies Survey](https://bit.ly/431-2025-movies-survey)". This (admittedly tedious) survey is required of all 431 students, and you will receive a **bonus** (equal to a minute paper's worth of credit) for completing this before **10 AM on Friday 2025-10-24** (tomorrow).
+3. The [Project A Portfolio](https://thomaselove.github.io/431-projectA-2025/) is due next Wednesday, at noon.
+4. We are collecting [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) results that we've accepted [at this link](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md) so you can see what other students have done. Remember that [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is something you can work on at any time, and is due in early December.
+5. **By class time**, students should have feedback on Quiz 1 from Dr. Love in their email, as well as a complete Answer Sketch and Grading Rubric available to them in our Shared Drive.
 
-## Favorite Movies Survey
+## Writing challenges?
 
-I have posted a "[Favorite Movies Survey](https://bit.ly/431-2025-movies-survey)". This (admittedly tedious) survey is required of all 431 students, and you will receive a minute paper's worth of credit for doing it on time. There are five questions, each with about 10 movies listed. Please complete this survey before **10 AM tomorrow 2025-10-24**.
+- Here's one version of [The 5 Cs](https://edtechbooks.org/rapidwriting/5Cs) by R. Kimmons, focused on "Prioritizing Principles for Good Academic Writing." These 5Cs include Clarity, Cogency, Conventionality, Completeness, and Concision, and explain them in more depth.
+- Here's another version of [The 5 Cs](https://academic.oup.com/book/60686/chapter-abstract/526938324?redirectedFrom=fulltext) by Goutham Rao, that might be helpful to you. This chapter introduces readers to a slightly different paradigm for effective scientific writing in the biomedical professionals including conciseness, clarity, cogency, commonness, and consistency.
+- Many past students have benefited from CWRU's [Writing Resource Center](https://case.edu/writing/resources/writing-resource-center)
+    > The Writing Resource Center (WRC) provides support for writers across the university. We offer in-house programming, such as general campus workshops and student/faculty writing groups, and we conduct classroom visits and writing-oriented programs across campus. Our writing consultants provide individualized, hands-on instruction specific to each writer’s goals. We encourage visits from writers at any stage of the writing process, from understanding contexts for writing and interpreting assignment prompts, to organizing and revising ideas. And, we work with all campus writers, including undergraduate students working on course assignments, graduate students working on theses and dissertations, post-doctoral and faculty writers composing grant applications and specialized genres, and staff members working on personal and professional projects. For more information, email us at `writingcenter` at `case` dot `edu`.
