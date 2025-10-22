@@ -26,7 +26,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 4. The [Project A Portfolio](https://thomaselove.github.io/431-projectA-2025/) is due next Wednesday, at noon.
 5. We are collecting [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) results that we've accepted [at this link](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md) so you can see what other students have done. Remember that [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is something you can work on at any time, and is due in early December.
 6. I updated [Chapter 9 of our Course Book](https://thomaselove.github.io/431-book/09_transmore.html) to fix a typo in [Section 9.9.3](https://thomaselove.github.io/431-book/09_transmore.html#tukey-hsd-approach), and clean up the formatting of an equation in [Section 9.8](https://thomaselove.github.io/431-book/09_transmore.html#back-transforming-predictions).
-7. **By class time**, students should have feedback on Quiz 1 from Dr. Love in their email, as well as a complete Answer Sketch and Grading Rubric available to them in our Shared Drive.
+7. **Research Study** The [PTSD Research and Treatment Program](https://caslabs.case.edu/ptsdlab/) is conducting a study of international students ages 18 and older from China currently enrolled at CWRU. The study explores their experience away from their home and family.  Specifically, it focuses on the associations between filial piety, depression, and acculturative stress in Chinese international students.
+    - If you are interested in participating in the Filial Piety study or want more information about it, please contact `cxc1338` at `case` dot `edu`. Thank you.
+9. **By class time**, students should have feedback on Quiz 1 from Dr. Love in their email, as well as a complete Answer Sketch and Grading Rubric available to them in our Shared Drive.
 
 ## Writing challenges?
 
