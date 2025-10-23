@@ -24,6 +24,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
  
 1. I have posted a "[Favorite Movies Survey](https://bit.ly/431-2025-movies-survey)". This (admittedly tedious) survey is required of all 431 students, and you will receive a **bonus** (equal to a minute paper's worth of credit) for completing this before **10 AM on Friday 2025-10-24** (tomorrow). At least 35/53 of you have done this already - thank you!
 2. The [Project A Portfolio](https://thomaselove.github.io/431-projectA-2025/) is due next Wednesday 2025-10-29, at noon.
+    - I opened the Project A Self-Evaluation Form at <https://bit.ly/431-projectA-self-evaluation-2025> a few minutes ago. (I was overly pessimistic in today's slides.)
 3. [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) is due the following Wednesday 2025-11-05 at noon. I have already discussed in class everything you need to do Lab 5.
 4. We are collecting [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) results that we've accepted [at this link](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md) so you can see what other students have done. Remember that [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is something you can work on at any time, and is due in early December.
 
@@ -31,7 +32,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. All students should now have feedback on Quiz 1 from Dr. Love in their email sent this morning, with the subject line **431 - important notes (please read) on today's class (including Zoom information) and on Quiz 1**.
 2. A complete **Answer Sketch and Grading Rubric for Quiz 1** is available now in the 431 Quiz 1 folder in our Shared Drive. This 40+ page PDF document explains my answers and class responses for each of the questions on the Quiz in detail, and also provides the information you need in order to interpret your performance on the Quiz. Please review that document carefully **before** you ask any further questions about the Quiz.
-3. I will accept emailed questions about Quiz 1 **grading** starting after class today and continuing through the rest of October. On 2025-11-01, I will consider Quiz 1 closed.
+3. We will discuss the Quiz in the first part of today's class.
+4. I will accept emailed questions about Quiz 1 **grading** starting after class today and continuing through the rest of October. On 2025-11-01, I will consider Quiz 1 closed.
 
 ## Writing challenges?
 
