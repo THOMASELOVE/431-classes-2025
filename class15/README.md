@@ -31,7 +31,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Quiz 1
 
 1. All students should now have feedback on Quiz 1 from Dr. Love in their email sent this morning, with the subject line **431 - important notes (please read) on today's class (including Zoom information) and on Quiz 1**.
-2. A complete **Answer Sketch and Grading Rubric for Quiz 1** is available now in the 431 Quiz 1 folder in our Shared Drive. This 40+ page PDF document explains my answers and class responses for each of the questions on the Quiz in detail, and also provides the information you need in order to interpret your performance on the Quiz. Please review that document carefully **before** you ask any further questions about the Quiz.
+2. A complete **Answer Sketch and Grading Rubric for Quiz 1** (updated at 12:59 today) is available now in the 431 Quiz 1 folder in our Shared Drive. This 43 page PDF document explains my answers and class responses for each of the questions on the Quiz in detail, and also provides the information you need in order to interpret your performance on the Quiz. Please review that document carefully **before** you ask any further questions about the Quiz.
 3. We will discuss the Quiz in the first part of today's class.
 4. I will accept emailed questions about Quiz 1 **grading** starting after class today and continuing through the rest of October. On 2025-11-01, I will consider Quiz 1 closed.
 
