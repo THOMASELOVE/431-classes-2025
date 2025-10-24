@@ -83,21 +83,34 @@ B for Busy (Al qing shen hua) | 1 | 51 | 1 | 1.9 | 1.9 | B for Busy (Al qing she
 
 ## Summary by Student
 
-Using the % Yes / (Yes + No) approach, we have:
+Using the % Yes / (Yes + No) approach (ignoring Unsure), we have:
 
 - 13 students who have seen between 51.0% and 70.6% of these 51 movies.
 - 26 students who have seen between 29.2% and 48.0% of these 51 movies.
 - 14 students who have seen less than 25.0% of these 51 movies.
 
+Out of the 51 movies on the list, here are the counts of "Unsure" across our 53 students...
+
+```
+00000 00000 00000 00000 00000 00000 0
+11111 11111 1
+2222
+33
+4
+55
+6
+7
+```
+
 Out of the 51 movies on the list, here are the counts of "Yes" across our 53 students...
 
 ```
 3 | 6
-3 | 000122
-2 | 567788
-2 | 0012234
-1 | 5556677777888899
-1 | 000222224
+3 | 00012 2
+2 | 56778 8
+2 | 00122 34
+1 | 55566 77777 88889 9
+1 | 00022 2224
 0 | 68888
 0 | 1
 ```
