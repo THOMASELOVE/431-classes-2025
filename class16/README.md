@@ -20,4 +20,5 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. Results from the [small movies survey](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/small_survey.md) (Yes/No/Unsure) for the 51 movies listed as "favorite" this year are now available.
+2. More to come.
