@@ -2,7 +2,7 @@
 
 ## Summary by Movie
 
-The 51 movies listed below are those identified by students in the 431 class of 2025 as their favorite.
+The 51 movies listed below are those identified by the 53 students in the 431 class of 2025 as their favorite.
   - Two movies (Inception, and Good Will Hunting) were each identified by two 2025 students as their favorite.
 
 Codes:
