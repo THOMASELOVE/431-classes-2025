@@ -21,4 +21,5 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. Results from the [small movies survey](https://github.com/THOMASELOVE/431-classes-2025/blob/main/movies/small_survey.md) (Yes/No/Unsure) for the 51 movies listed as "favorite" this year are now available.
-2. More to come.
+2. On 2025-10-25, I adjusted [the Lab 5 instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) very slightly on 2025-10-25 to add a couple of necessary packages (`Epi` and either `MKinfer` or `infer`.)
+3. More to come.
