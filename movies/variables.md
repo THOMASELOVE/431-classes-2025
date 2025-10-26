@@ -1,9 +1,9 @@
 # List of Variables in `movies_2025-10-28`
 
 Variable | Description | Source | Comment
-:-----------: | :----------------------------------------------------- | :----------: | :-------------------------------------------------
-mov_id | Code # (Mxxx) - alphabetical with #s first; sequels after originals | Dr. Love | New Variables
-movie | Name of Movie | IMDB | Old Variables
+:-----------: | :---------------------------------------------------------- | :----------: | :-------------------------------------------------
+mov_id | Code # (Mxxx) - alphabetical with #s first; sequels after originals | Dr. Love | 
+movie | Name of Movie | IMDB | 
 year | Year Movie was Released | IMDB | 
 mpa | Motion Picture Association rating | IMDB | 
 length | Length of Movie (minutes) | IMDB | 
