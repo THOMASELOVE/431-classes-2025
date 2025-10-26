@@ -1,10 +1,9 @@
 # Favorite Movies
 
-## The current version of the data is `movies_2025-10-06`
+## The current version of the data is `movies_2025-10-28`
 
-- These data **are available now on our Shared Drive**.
+- These data **are available now on our Shared Drive**. For each of the 260 movies, we now have 72 variables.
 - A list of the 260 movies remains [here](movie_list.md)
-
 
 ## Breakout Sessions (and results) So Far
 
@@ -16,7 +15,8 @@
 6. Here are the [results from the Class 12 activity](class12_results.md)
 7. Results from our [small survey (seen? Yes/No/Unsure)](small_survey.md) of the 51 movies "favorited" this year, completed 2025-10-24.
 
-## An Older Version of the Data (still on our Shared Drive) is `movies_2025-09-30`
+
+## Older Versions of the Data (still on our Shared Drive)
 
 - An Excel file for `movies_2025-09-30` can be [downloaded here](https://github.com/THOMASELOVE/431-classes-2025/raw/refs/heads/main/movies/movies_2025-09-30.xlsx)
-
+- The `movies_2025-10-06` sheet remains available on our Shared Drive.
