@@ -63,9 +63,9 @@ rt_link | Link to movie at Rotten Tomatoes | [Rotten Tomatoes](https://www.rotte
 dogdie | Yes or No, from 2025-10 "Does the dog die" question | [doesthedogdie.com](https://www.doesthedogdie.com/) | Shows whether there were more Yes or No votes (NA if even)
 jumpscare | Yes or No, from 2025-10 "There are jump scares" question | [doesthedogdie.com](https://www.doesthedogdie.com/) | Shows whether there were more Yes or No votes (NA if even)
 addiction | Yes or No, from 2025-10 "Addiction" category with >=1 Yes | [doesthedogdie.com](https://www.doesthedogdie.com/) | Any of: (1) Someone uses drugs or (2) Alcohol abuse or (3) There's addiction
-triggers | # of Potential Triggering Event Categories with Yes in 2025-10 | [doesthedogdie.com](https://www.doesthedogdie.com/) | https://www.doesthedogdie.com/categories details the 37 categories
+triggers | # of Potential Triggering Event Categories with Yes in 2025-10 | Here are [the 37 categories](https://www.doesthedogdie.com/categories)
 dd_votes | # of votes for "Does the dog die" question in 2025-10 | [doesthedogdie.com](https://www.doesthedogdie.com/) | If dd_votes < 2, then other doesthedogdie results are NA, other than link
-dd_link | Does the Dog Die Link | [doesthedogdie.com](https://www.doesthedogdie.com/) | Here are [the 37 categories](https://www.doesthedogdie.com/categories)
+dd_link | Does the Dog Die Link | [doesthedogdie.com](https://www.doesthedogdie.com/) |
 kim_sn | Kids-In-Mind Sex & Nudity rating (1 - 10, higher = more) | [kids-in-mind.com](https://kids-in-mind.com/) | 1 to 10 rating, with higher ratings = more sex and nudity
 kim_vg | Kids-In-Mind Violence & Gore rating (1 - 10, higher = more) | [kids-in-mind.com](https://kids-in-mind.com/) | 1 to 10 rating, with higher ratings = more violence and gore
 kim_lang | Kids-In-Mind Language rating (1 - 10, higher = more) | [kids-in-mind.com](https://kids-in-mind.com/) | 1 to 10 rating, with higher ratings = more troubling language
