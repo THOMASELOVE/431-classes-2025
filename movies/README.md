@@ -2,8 +2,9 @@
 
 ## The current version of the data is `movies_2025-10-28`
 
-- These data **are available now on our Shared Drive**. For each of the 260 movies, we now have 72 variables.
-- A list of the 260 movies remains [here](movie_list.md).
+- These data **are available now on our Shared Drive**.
+  - For each of the 260 movies, we now have [these 72 variables](variables.md).
+  - A list of the 260 movies remains [here](movie_list.md).
 
 ## Breakout Sessions (and results) So Far
 
