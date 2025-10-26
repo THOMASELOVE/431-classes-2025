@@ -1,7 +1,7 @@
 # List of Variables in `movies_2025-10-28`
 
 Variable | Description | Source | Comment
-:-----------: | :---------------------------------------------------------- | :----------: | :-------------------------------------------------
+:-----------: | :---------------------------------------------------------- | :----------: | :---------------------------
 mov_id | Code # (Mxxx) - alphabetical with #s first; sequels after originals | Dr. Love | 
 movie | Name of Movie | IMDB | 
 year | Year Movie was Released | IMDB | 
@@ -14,8 +14,11 @@ metascore | Metascore (0-100 scale) from critic reviews at Metacritic.com | IMDB
 critic_revs | # of critic reviews gathered at IMDB as of 2025-09 | IMDB | 
 oscars | # of Oscar (Academy Award) wins according to IMDB | IMDB | 
 awards | # of awards (wins) according to IMDB as of 2025-09 | IMDB | 
-imdb_genres | Movie's list of Genres (up to 10) as identified by IMDB | IMDB | There are 20 different imdb_genres. See this link for counts, and list.
-genre_count | Number of Genres identified by IMDB | IMDB | There are 20 different imdb_genres. See this link for counts, and list.
+
+Variable | Description | Source | Comment
+:-----------: | :---------------------------------------------------------- | :----------: | :---------------------------
+imdb_genres | Movie's list of Genres (up to 10) as identified by IMDB | IMDB | There are 20 different imdb_genres.
+genre_count | Number of Genres identified by IMDB | IMDB | There are 20 different imdb_genres.
 director | Name of director(s) of movie | IMDB | 
 star_1 | Name of first listed actor (star) in movie | IMDB | 
 gen_1 | Gender of star_1 (M or F) in movie | Dr. Love | 
@@ -33,7 +36,10 @@ box_off_m | Box Office Multiple | IMDB | gross_world / budget
 color | Color or Black and White movie | IMDB | Color, BW and two movies list both Color & BW
 imdb_link | Link to IMDB public page for movie | IMDB | 
 imdb_id | IMDB movie ID #  | IMDB | Useful numeric code for some APIs
-dr_love | Has Dr. Love seen this movie? (Yes or No) as of 2025-10 | Dr. Love | Movie on this list that I saw most recently: Parasite
+
+Variable | Description | Source | Comment
+:-----------: | :---------------------------------------------------------- | :----------: | :---------------------------
+dr_love | Has Dr. Love seen this movie? (Yes or No) as of 2025-10 | Dr. Love | Movie I saw most recently: Parasite
 mentions | # of times movie mentioned by 431 students in 2020-2025 | Dr. Love | 
 list_20 | # of 431 students who mentioned this movie in Fall 2020 | Dr. Love | 
 list_21 | # of 431 students who mentioned this movie in Fall 2021 | Dr. Love | 
@@ -44,6 +50,9 @@ list_25 | # of 431 students who mentioned this movie in Fall 2025 | Dr. Love |
 stu_Yes | # of 431 students in 2025 who said they had seen this movie | Small Class Survey | NA for all movies not listed as a favorite by at least one student in 2025
 stu_No | # of 431 students in 2025 who said they had not seen this movie | Small Class Survey | NA for all movies not listed as a favorite by at least one student in 2025
 stu_Unsure | # of 431 students in 2025 unsure if they had seen this movie | Small Class Survey | NA for all movies not listed as a favorite by at least one student in 2025
+
+Variable | Description | Source | Comment
+:-----------: | :---------------------------------------------------------- | :----------: | :---------------------------
 bw_rating | Bechdel-Wallace Test Criteria Met (0-3) | bechdeltest.com | Criteria: (1) two women in movie who (2) talk to each other about (3) something besides a man. Pass = 3, Fail < 3
 ebert | Movie Review (from Roger Ebert or other reviewer) rating (1-4 stars) | RogerEbert.com | 1 = worst, 4 = best
 cinemascore | CinemaScore rating | cinemascore.com | Movies that open in less than 1,500 screens are not polled or reported
@@ -60,6 +69,9 @@ dd_link | Does the Dog Die Link | doesthedogdie.com | https://www.doesthedogdie.
 kim_sn | Kids-In-Mind Sex & Nudity rating (1 - 10, higher = more) | kids-in-mind.com | 1 to 10 rating, with higher ratings = more sex and nudity
 kim_vg | Kids-In-Mind Violence & Gore rating (1 - 10, higher = more) | kids-in-mind.com | 1 to 10 rating, with higher ratings = more violence and gore
 kim_lang | Kids-In-Mind Language rating (1 - 10, higher = more) | kids-in-mind.com | 1 to 10 rating, with higher ratings = more troubling language
+
+Variable | Description | Source | Comment
+:-----------: | :---------------------------------------------------------- | :----------: | :---------------------------
 deaths | Human Deaths during the Movie (total) | List of deaths wiki | 
 lb_rating | Letterboxd Rating as of 2025-10 | letterboxd.com | Average rating (1 to 5 stars = best)
 lb_fans | Letterboxd Fans who have given Ratings as of 2025-10 | letterboxd.com | 
