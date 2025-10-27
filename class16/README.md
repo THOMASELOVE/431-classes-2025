@@ -36,6 +36,6 @@ Deadline | Item(s)
 2025-12-03 at noon | (10) [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) is due (Google Form). <br> [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) will be made available to you by 3 PM on Thursday 2025-11-20.
 30 minutes on <br> December <br> 3, 4, 5, 8 or 9 | (11) Project B presentation with me (either in person or over Zoom) <br> You will express your schedule preferences as part of the Project B registration form. <br> The presentation schedule will be posted on 2025-11-14.
 2025-12-10 at noon | (12) **Final Deadline**: All Project B Materials are due. <br> (13) [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due. <br> (optional) (14) [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) is due.
-mid-December | (15) Course Evaluation of 431 for CWRU (exact date and web link TBA)
+Around December 10 | (15) Course Evaluation of 431 for CWRU (exact date and web link TBA)
 
 **Note**: There will also be at least two more opportunities for bonus credit. Neither is yet published.
