@@ -21,17 +21,17 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 4. A new (possibly final) [version of the favorite movies data](https://github.com/THOMASELOVE/431-classes-2025/tree/main/movies#the-current-version-of-the-data-is-movies_2025-10-28), called `movies_2025-10-28`, is available on our Shared Drive.
 5. There is a Minute Paper after Class 16, due tomorrow (Wednesday 2025-10-29). The link will be **provided soon**.
 
-## There are 14 Remaining Deliverables for 431 This Semester
+## There are 15 Remaining Deliverables for 431 This Semester
 
 As things stand, here is the complete list. See the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html) for more details, and updates will appear there, if needed. All dates are **WEDNESDAYS**, unless indicated otherwise.
 
 Deadline | Item(s)
 :-----------------: | :----------------------------------------------------------------------------------------------------------
-2025-10-29 at noon | (1) [Project A](https://thomaselove.github.io/431-projectA-2025/) [Portfolio](https://thomaselove.github.io/431-projectA-2025/portfolio.html) (including Quarto, HTML, Rds files, Video file (.mp4) to [Canvas](https://canvas.case.edu/), plus [Self-Evaluation Form](https://bit.ly/431-projectA-self-evaluation-2025)) due. <br> (2) [Minute Paper after Class 16](https://github.com/THOMASELOVE/431-minute-2025) due. (**To appear soon**)
-2025-11-05 at noon | (3) [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) is due to [Canvas](https://canvas.case.edu/). <br> (4) [Minute Paper after Class 18](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
-2025-11-12 at noon | (5) Project B registration form will be due. (Google Form) <br> **Project B instructions** should be available by 2025-11-01. <br> (6) [Minute Paper after Class 20](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
-2025-11-19 at noon | (7) [Lab 6](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6) is due to [Canvas](https://canvas.case.edu/). <br> (8) [Minute Paper after Class 22](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
-2025-12-03 at noon | (9) [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) is due (Google Form). <br> [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) will be made available to you by 3 PM on Thursday 2025-11-20.
-December 3-5 <br> December 8-9 | (10) Project B presentation with me (either in person or over Zoom) on **December 3, 4, 5, 8 or 9** <br> You will express your schedule preferences as part of the Project B registration form. <br> The presentation schedule will be posted on 2025-11-14.
-2025-12-10 at noon | (11) **Final Deadline**: All Project B Materials are due, <br> (12) [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due <br> (optional) (13) [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) is due.
-mid-December | (14) You'll do a Course Evaluation of 431 for CWRU (exact date and web link TBA)
+2025-10-29 at noon | (1) [Project A](https://thomaselove.github.io/431-projectA-2025/) [Portfolio](https://thomaselove.github.io/431-projectA-2025/portfolio.html) (including Quarto, HTML, Rds files, Video file (.mp4)) to [Canvas](https://canvas.case.edu/) <br> (2) Project A [Self-Evaluation Form](https://bit.ly/431-projectA-self-evaluation-2025)) due. <br> (3) [Minute Paper after Class 16](https://github.com/THOMASELOVE/431-minute-2025) due. (**To appear soon**)
+2025-11-05 at noon | (4) [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) is due to [Canvas](https://canvas.case.edu/). <br> (5) [Minute Paper after Class 18](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
+2025-11-12 at noon | (6) Project B registration form will be due. (Google Form) <br> **Project B instructions** should be available by 2025-11-01. <br> (7) [Minute Paper after Class 20](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
+2025-11-19 at noon | (8) [Lab 6](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6) is due to [Canvas](https://canvas.case.edu/). <br> (9) [Minute Paper after Class 22](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
+2025-12-03 at noon | (10) [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) is due (Google Form). <br> [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) will be made available to you by 3 PM on Thursday 2025-11-20.
+December 3-5 <br> December 8-9 | (11) Project B presentation with me (either in person or over Zoom) on **December 3, 4, 5, 8 or 9** <br> You will express your schedule preferences as part of the Project B registration form. <br> The presentation schedule will be posted on 2025-11-14.
+2025-12-10 at noon | (12) **Final Deadline**: All Project B Materials are due, <br> (13) [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due <br> (optional) (14) [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) is due.
+mid-December | (15) You'll do a Course Evaluation of 431 for CWRU (exact date and web link TBA)
