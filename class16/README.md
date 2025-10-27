@@ -21,6 +21,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 4. A new (possibly final) [version of the favorite movies data](https://github.com/THOMASELOVE/431-classes-2025/tree/main/movies#the-current-version-of-the-data-is-movies_2025-10-28), called `movies_2025-10-28`, is available on our Shared Drive.
 5. There is a Minute Paper after Class 16, due tomorrow (Wednesday 2025-10-29). The link will be **provided soon**.
 
+----------
+
 ## There are 15 Remaining Deliverables for 431 This Semester
 
 As things stand, here is the complete list. See the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html) for more details, and updates will appear there, if needed. All dates are **WEDNESDAYS**, unless indicated otherwise.
