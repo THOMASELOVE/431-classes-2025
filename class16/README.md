@@ -43,4 +43,4 @@ Deadline | Item(s)
 2025-12-10 at noon | (12) **Final Deadline**: All Project B Materials are due. <br> (13) [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due. <br> (optional) (14) [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) is due.
 Around December 10 | (15) Course Evaluation of 431 for CWRU (exact date and web link TBA)
 
-**Note**: There will also be at least two more opportunities for bonus credit this semester. Neither has been published yet.
+**Note**: There will also be at least two more opportunities for bonus credit this semester, with deadlines after Thanksgiving Break. Neither has been published yet.
