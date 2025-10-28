@@ -30,7 +30,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## There are 15 Remaining Deliverables for 431 This Semester
 
-As things stand, here is the complete list. See the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html) for more details, and updates will appear there, if needed. All dates are **WEDNESDAYS**, unless indicated otherwise.
+As things stand, here is the complete list. See the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html) for more details, and updates will appear there, if needed. All dates are **WEDNESDAYS**, except for the Project B presentation dates.
 
 Deadline | Item(s)
 :-----------------: | :----------------------------------------------------------------------------------------------------------
