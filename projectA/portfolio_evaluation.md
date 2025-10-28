@@ -51,14 +51,14 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------- | :--------: | :---------------------: | :---------:
 A-26 | Leland Metheny | 
 A-27 | Andrew Morris | 10-28 <br> 10:40 am | Rds, qmd, html, mp4 | OK
-A-28 | Janette Brundage <br> and **Leah Nez** | 10-19 <br> 1:45 pm | Rds, qmd, html, mp4 (+ note) |
+A-28 | Janette Brundage <br> and **Leah Nez** | 10-19 <br> 1:45 pm | Rds, qmd, html, mp4 <br> (+ partner note) |
 A-29 | Noha Orabi | 
 A-30 | Scout Osborne | 
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------- | :--------: | :---------------------: | :---------:
 A-31 | Paulina Gonzalez <br> and Vennila Ramasubramanian | 
-A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | 10-27 <br> 8:09 pm | Rds, qmd, html, mp4 (+ note) | Both: OK
+A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | 10-27 <br> 8:09 pm | Rds, qmd, html, mp4 <br> (+ partner note) | Both: OK
 A-33 | Amjad Samara | 
 A-34 | Erin San Valentin | 
 A-35 | Lauren Sapienza | 
