@@ -6,6 +6,7 @@
 2. In Canvas Contents, what you're looking for is Rds, qmd, html, mp4.
     - That means that we have all of those items and your HTML is properly rendered.
     - It doesn't mean we've done anything else with it yet.
+    - If you have a partner, you also want to be sure that (+ partner note) is there.
 3. In Self-Eval.: OK means that Dr. Love has your self-evaluation form, and there are no blanks.
 
 ## Submission Status
