@@ -2,7 +2,7 @@
 
 ## Notes
 
-1. For partnerships, the partner who submitted the bulk of the work to Canvas is in bold.
+1. For partnerships, the partner who submitted the bulk of the work to Canvas is **in bold**.
 2. In Self-Eval.: OK means that Dr. Love has your self-evaluation form, and there are no blanks.
 
 ## Submission Status
