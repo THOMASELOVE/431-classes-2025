@@ -3,7 +3,9 @@
 ## Notes
 
 1. For partnerships, the partner who submitted the bulk of the work to Canvas is **in bold**.
-2. In Self-Eval.: OK means that Dr. Love has your self-evaluation form, and there are no blanks.
+2. In Canvas Contents, what you're looking for is Rds, qmd, html, mp4.
+    - That means that we have all of those items and your HTML is properly rendered. It doesn't mean we've done anything else with it yet.
+3. In Self-Eval.: OK means that Dr. Love has your self-evaluation form, and there are no blanks.
 
 ## Submission Status
 
