@@ -30,15 +30,15 @@ A-10 | Emma Chio |
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-11 | Andrew Crawford | 
-A-12 | Isabela Drumond Fonseca <br> and Renu Jadhav | 
+A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | 10-29 <br> 4:26 am | Rds, qmd, html, mp4 <br> (+ partner note) | Both: OK
 A-13 | Shufei Fang | 
 A-14 | Moses Fleischman | | *needs to re-submit* <br> *to fix HTML rendering* | OK
-A-15 | Wilson Hsu <br> and Ching-Wen Mai | 
+A-15 | Wilson Hsu <br> and Ching-Wen Mai | 10-28 <br> 11:21 pm | Rds, qmd, html, mp4 <br> each submitted one mp4 | CM: OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-16 | John Huff | 
-A-17 | Hannah Iqbal <br> and Comelia Soltanirad | 
+A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | 10-29 <br> 7:48 am | Rds, qmd, html, Two mp4 <br> (+ partner's note) | HI: OK
 A-18 | Swati Jha <br> and Noni Pinales | 
 A-19 | Dana Kleinman | 10-28 <br> 8:42 pm | Rds, qmd, html, mp4 | OK
 A-20 | Alex Krammer | 
@@ -46,15 +46,15 @@ A-20 | Alex Krammer |
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-21 | Ben Kwiatkowski | 10-28 <br> 1:04 pm | Rds, qmd, html, mp4 | OK
-A-22 | Valerie Lam | 
+A-22 | Valerie Lam | 10-29 <br> 1:04 am | Rds, qmd, html, mp4 | OK
 A-23 | Subin Lee | 10-28 <br> 4:58 pm | Rds, qmd, html, mp4 | OK
 A-24 | Eric Liu | 10-28 <br> 10:07 pm | Rds, qmd, html, mp4 | OK 
-A-25 | Simon Lynn | 
+A-25 | Simon Lynn | | Need to resubmit <br> also including Rds | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-26 | Leland Metheny | 
-A-27 | Andrew Morris | 10-28 <br> 10:40 am | Rds, qmd, html, mp4 | OK
+A-27 | Andrew Morris | 10-29 <br> 5:38 am | Rds, qmd, html, mp4 | OK
 A-28 | Janette Brundage <br> and **Leah Nez** | 10-19 <br> 1:45 pm | Rds, qmd, html, mp4 <br> (+ partner note) |
 A-29 | Noha Orabi | 
 A-30 | Scout Osborne | 
@@ -64,16 +64,16 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 A-31 | Paulina Gonzalez <br> and **Vennila Ramasubramanian** | 10-28 <br> 7:14 pm | Rds, qmd, html, mp4 <br> (+ partner note) | Both: OK
 A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | 10-28 <br> 6:01 pm | Rds, qmd, html, mp4 <br> (+ partner note) | Both: OK
 A-33 | Amjad Samara | 10-28 <br> 8:55 pm | Rds, qmd, html, mp4 | OK 
-A-34 | Erin San Valentin | 
+A-34 | Erin San Valentin | 10-29 <br> 12:48 am | Rds, qmd, html, mp4 | OK
 A-35 | Lauren Sapienza | 10-28 <br> 8:27 pm | Rds, qmd, html, mp4 | OK 
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-36 | Hana Sato | 10-28 <br> 5:36 pm | Rds, qmd, html, mp4 | OK 
-A-37 | Josh Silalahi | 
+A-37 | Josh Silalahi | 10-29 <br> 5:24 am | Rds, qmd, html <br> awaiting mp4 | OK
 A-38 | Jiayi Sun | 
-A-39 | Allison Thirion-Blasius | 
-A-40 | Jiakun Wang | 10-28 <br> 11:08 pm | Rds, qmd, html, mp4 
+A-39 | Allison Thirion-Blasius | 10-29 <br> 8:41 am | Rds, qmd, html, mp4 | OK
+A-40 | Jiakun Wang | 10-28 <br> 11:08 pm | Rds, qmd, html, mp4 | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
