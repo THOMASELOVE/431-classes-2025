@@ -15,14 +15,14 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-01 | Sadia Ahmed | 10-28 <br> 6:42 pm | Rds, qmd, html, mp4 | OK 
 A-02 | Madison Albert | 10-28 <br> 10:01 pm | Rds, qmd, html, mp4 | OK
-A-03 | Fai Albuainain <br> and **Avianna Thompson** | | <br> (+ partner note) | Both: OK 
+A-03 | Fai Albuainain <br> and **Avianna Thompson** | qmd, html, mp4 <br> *awaiting Rds* | <br> (+ partner note) | Both: OK 
 A-04 | Amanda Barabas | 10-28 <br> 4:45 pm | Rds, qmd, html, mp4 | OK 
 A-05 | Alex Bergendorf | 10-28 <br> 5:27 pm | Rds, qmd, html, mp4 | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-06 | Dayanna Bohorquez | 
-A-07 | Arjun Chatterjee | | | OK
+A-07 | Arjun Chatterjee | 10-29 <br> 12:05 pm | Rds, qmd, html, mp4 | OK
 A-08 | Linda Chen | 
 A-09 | Ruoying Chen | 10-28 <br> 8:30 pm | Rds, qmd, html, mp4 | OK
 A-10 | Emma Chio | 10-29 <br> 11:56 am | Rds, qmd, html, mp4 | OK
