@@ -18,7 +18,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper after Class 16 will appear **by class time**.
+1. Feedback on the Minute Paper after Class 16 is now available at <https://bit.ly/431-2025-min-16-feedback>.
 2. The [Project B instructions](https://thomaselove.github.io/431-projectB-2025/) are now available.
 
 ----
