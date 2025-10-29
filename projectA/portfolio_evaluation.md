@@ -49,7 +49,7 @@ A-21 | Ben Kwiatkowski | 10-28 <br> 1:04 pm | Rds, qmd, html, mp4 | OK
 A-22 | Valerie Lam | 10-29 <br> 1:04 am | Rds, qmd, html, mp4 | OK
 A-23 | Subin Lee | 10-28 <br> 4:58 pm | Rds, qmd, html, mp4 | OK
 A-24 | Eric Liu | 10-28 <br> 10:07 pm | Rds, qmd, html, mp4 | OK 
-A-25 | Simon Lynn | 10-29 <br> 3:41 am| qmd, html, mp4 <br> *awaiting Rds* | OK
+A-25 | Simon Lynn | 10-29 <br> 9:49 am | Rds, qmd, html, mp4 | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
