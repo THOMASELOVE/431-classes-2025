@@ -19,7 +19,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 16 is now available at <https://bit.ly/431-2025-min-16-feedback>.
-2. The [Project B instructions](https://thomaselove.github.io/431-projectB-2025/) are now available.
+2. You can track your Project A submission and evaluation details as we review them at [this link](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/portfolio_evaluation.md).
+3. The [Project B instructions](https://thomaselove.github.io/431-projectB-2025/) are now available.
 
 ----
 
