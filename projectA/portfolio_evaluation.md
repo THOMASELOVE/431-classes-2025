@@ -41,7 +41,7 @@ A-16 | John Huff |
 A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | 10-29 <br> 7:48 am | Rds, qmd, html, Two mp4 <br> (+ partner note) | Both: OK
 A-18 | Swati Jha <br> and Noni Pinales | 
 A-19 | Dana Kleinman | 10-28 <br> 8:42 pm | Rds, qmd, html, mp4 | OK
-A-20 | Alex Krammer | 
+A-20 | Alex Krammer | 10-29 <br> 10:24 am | Rds, qmd, html, mp4 | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
