@@ -1,6 +1,8 @@
 # Project A Portfolios
 
-## Notes
+## Submission Status
+
+### Notes
 
 1. For partnerships, the partner who submitted the bulk of the work to Canvas is **in bold**.
 2. In Canvas Contents, what you're looking for is Rds, qmd, html, mp4.
@@ -8,8 +10,6 @@
     - It doesn't mean we've done anything else with it yet.
     - If you have a partner, you also want to be sure that (+ partner note) is there.
 3. In Self-Eval.: OK means that Dr. Love has your self-evaluation form, and there are no blanks.
-
-## Submission Status
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
