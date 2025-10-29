@@ -25,7 +25,7 @@ A-06 | Dayanna Bohorquez |
 A-07 | Arjun Chatterjee | | | OK
 A-08 | Linda Chen | 
 A-09 | Ruoying Chen | 10-28 <br> 8:30 pm | Rds, qmd, html, mp4 | OK
-A-10 | Emma Chio | 10-29 <br> 11:45 am | qmd, html, mp4 <br> *must submit Rds* | OK
+A-10 | Emma Chio | 10-29 <br> 11:56 am | Rds, qmd, html, mp4 | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
@@ -37,9 +37,9 @@ A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | 10-28 <br> 11:21 pm | Rds, qmd, h
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
-A-16 | John Huff | 
+A-16 | John Huff | 10-29 <br> 12:00 pm | Rds, qmd, html, mp4 | OK
 A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | 10-29 <br> 7:48 am | Rds, qmd, html, Two mp4 <br> (+ partner note) | Both: OK
-A-18 | Swati Jha <br> and **Noni Pinales** | 10-29 <br> 11:47 am | qmd, html, mp4 <br> *must submit Rds*  | Both: OK
+A-18 | Swati Jha <br> and **Noni Pinales** | 10-29 <br> 12:01 pm | Rds, qmd, html, mp4 <br> *no partner's note* | Both: OK
 A-19 | Dana Kleinman | 10-28 <br> 8:42 pm | Rds, qmd, html, mp4 | OK
 A-20 | Alex Krammer | 10-29 <br> 10:24 am | Rds, qmd, html, mp4 | OK
 
