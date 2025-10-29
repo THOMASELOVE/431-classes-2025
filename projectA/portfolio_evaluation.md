@@ -21,15 +21,15 @@ A-05 | Alex Bergendorf | 10-28 <br> 5:27 pm | Rds, qmd, html, mp4 | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
-A-06 | Dayanna Bohorquez | 10-29 <br> 2:04 pm | Rds, qmd, html, mov | 
+A-06 | Dayanna Bohorquez | 10-29 <br> 2:04 pm | Rds, qmd, html, mov | OK
 A-07 | Arjun Chatterjee | 10-29 <br> 12:05 pm | Rds, qmd, html, mp4 | OK
-A-08 | Linda Chen | 10-29 <br> 12:58 pm | Rds, qmd, mp4 <br> **_must resubmit HTML_** | 
+A-08 | Linda Chen | 10-29 <br> 12:58 pm | Rds, qmd, mp4 <br> **_must resubmit HTML_** | OK
 A-09 | Ruoying Chen | 10-28 <br> 8:30 pm | Rds, qmd, html, mp4 | OK
 A-10 | Emma Chio | 10-29 <br> 11:56 am | Rds, qmd, html, mp4 | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
-A-11 | Andrew Crawford | 10-29 <br> 12:37 pm | Rds, qmd, html, mp4 |
+A-11 | Andrew Crawford | 10-29 <br> 12:37 pm | Rds, qmd, html, mp4 | OK
 A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | 10-29 <br> 4:26 am | Rds, qmd, html, mp4 <br> (+ partner note) | Both: OK
 A-13 | Shufei Fang | 10-29 <br> 9:22 am | Rds, qmd, html, mp4 | OK
 A-14 | Moses Fleischman | 10-29 <br> 11:21 am | Rds, qmd, html, mp4 | OK
@@ -55,7 +55,7 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-26 | Leland Metheny | 10-29 <br> 11:03 am | Rds, qmd, html, mp4 | OK
 A-27 | Andrew Morris | 10-29 <br> 5:38 am | Rds, qmd, html, mp4 | OK
-A-28 | Janette Brundage <br> and **Leah Nez** | 10-29 <br> 12:29 pm | Rds, qmd, html, mp4 <br> (+ partner note) |
+A-28 | Janette Brundage <br> and **Leah Nez** | 10-29 <br> 12:29 pm | Rds, qmd, html, mp4 <br> (+ partner note) | Both: OK
 A-29 | Noha Orabi | | **_NO SUBMISSION_** <br> as of 10-29 at 2 pm |
 A-30 | Scout Osborne | 10-29 <br> 11:09 am | Rds, qmd, html, mp4 | OK
 
@@ -81,4 +81,4 @@ A-41 | Cher Yuan | 10-23 <br> 10:20 pm | Rds, qmd, html, mp4 | OK
 A-42 | Lily Zhang | 10-28 <br> 5:19 pm | Rds, qmd, html, mp4 | OK
 A-43 | Helena Zhao | 10-28 <br> 11:15 pm | Rds, qmd, html, mp4 | OK
 A-44 | Thu Nguyen | | **_NO SUBMISSION_** <br> as of 10-29 at 2 pm | 
-A-45 | Pooja Madan Mohan | | **__NO SUBMISSION_** <br> as of 10-29 at 2 pm | 
+A-45 | Pooja Madan Mohan | | **__NO SUBMISSION_** <br> as of 10-29 at 2 pm | OK
