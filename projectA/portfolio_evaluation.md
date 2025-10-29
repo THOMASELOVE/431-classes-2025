@@ -14,7 +14,7 @@
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-01 | Sadia Ahmed | 10-28 <br> 6:42 pm | Rds, qmd, html, mp4 | OK 
-A-02 | Madison Albert | 
+A-02 | Madison Albert | 10-28 <br> 10:01 pm | Rds, qmd, html, mp4 | OK
 A-03 | Fai Albuainain <br> and **Avianna Thompson** | | <br> (+ partner note) | FA: OK 
 A-04 | Amanda Barabas | 10-28 <br> 4:45 pm | Rds, qmd, html, mp4 | OK 
 A-05 | Alex Bergendorf | 10-28 <br> 5:27 pm | Rds, qmd, html, mp4 | OK
@@ -48,7 +48,7 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 A-21 | Ben Kwiatkowski | 10-28 <br> 1:04 pm | Rds, qmd, html, mp4 | OK
 A-22 | Valerie Lam | 
 A-23 | Subin Lee | 10-28 <br> 4:58 pm | Rds, qmd, html, mp4 | OK
-A-24 | Eric Liu | | | OK 
+A-24 | Eric Liu | 10-28 <br> 10:07 pm | Rds, qmd, html, mp4 | OK 
 A-25 | Simon Lynn | 
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
