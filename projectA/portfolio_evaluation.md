@@ -22,10 +22,10 @@ A-05 | Alex Bergendorf | 10-28 <br> 5:27 pm | Rds, qmd, html, mp4 | OK
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-06 | Dayanna Bohorquez | 
-A-07 | Arjun Chatterjee | 
+A-07 | Arjun Chatterjee | | | OK
 A-08 | Linda Chen | 
 A-09 | Ruoying Chen | 10-28 <br> 8:30 pm | Rds, qmd, html, mp4 | OK
-A-10 | Emma Chio | 
+A-10 | Emma Chio | | | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
@@ -53,7 +53,7 @@ A-25 | Simon Lynn | 10-29 <br> 9:49 am | Rds, qmd, html, mp4 | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
-A-26 | Leland Metheny | 10-29 <br> 11:03 am | Rds, qmd, html, mp4 |
+A-26 | Leland Metheny | 10-29 <br> 11:03 am | Rds, qmd, html, mp4 | OK
 A-27 | Andrew Morris | 10-29 <br> 5:38 am | Rds, qmd, html, mp4 | OK
 A-28 | Janette Brundage <br> and **Leah Nez** | 10-19 <br> 1:45 pm | Rds, qmd, html, mp4 <br> (+ partner note) |
 A-29 | Noha Orabi | 
