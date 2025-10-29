@@ -33,7 +33,7 @@ A-11 | Andrew Crawford |
 A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | 10-29 <br> 4:26 am | Rds, qmd, html, mp4 <br> (+ partner note) | Both: OK
 A-13 | Shufei Fang | 10-29 <br> 9:22 am | Rds, qmd, html, mp4 | OK
 A-14 | Moses Fleischman | 10-28 <br> 4:00 pm | Rds, qmd, mp4 <br> *awaiting HTML* | OK
-A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | 10-28 <br> 11:21 pm | Rds, qmd, html, Two mp4s <br> CWM video 1, WH video 2 | CM: OK
+A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | 10-28 <br> 11:21 pm | Rds, qmd, html, Two mp4s <br> CWM video 1, WH video 2 | Both: OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
