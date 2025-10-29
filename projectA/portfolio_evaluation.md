@@ -56,7 +56,7 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 A-26 | Leland Metheny | 10-29 <br> 11:03 am | Rds, qmd, html, mp4 | OK
 A-27 | Andrew Morris | 10-29 <br> 5:38 am | Rds, qmd, html, mp4 | OK
 A-28 | Janette Brundage <br> and **Leah Nez** | 10-29 <br> 12:29 pm | Rds, qmd, html, mp4 <br> (+ partner note) | Both: OK
-A-29 | Noha Orabi | | **_NO SUBMISSION_** <br> as of 10-29 at 2 pm |
+A-29 | Noha Orabi | | **_NO SUBMISSION_** <br> as of 10-29 at 2 pm | **_NO SUBMISSION_** <br> as of 10-29 at 2 pm
 A-30 | Scout Osborne | 10-29 <br> 11:09 am | Rds, qmd, html, mp4 | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
@@ -80,5 +80,5 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 A-41 | Cher Yuan | 10-23 <br> 10:20 pm | Rds, qmd, html, mp4 | OK
 A-42 | Lily Zhang | 10-28 <br> 5:19 pm | Rds, qmd, html, mp4 | OK
 A-43 | Helena Zhao | 10-28 <br> 11:15 pm | Rds, qmd, html, mp4 | OK
-A-44 | Thu Nguyen | | **_NO SUBMISSION_** <br> as of 10-29 at 2 pm | 
+A-44 | Thu Nguyen | | **_NO SUBMISSION_** <br> as of 10-29 at 2 pm | **_NO SUBMISSION_** <br> as of 10-29 at 2 pm
 A-45 | Pooja Madan Mohan | | **__NO SUBMISSION_** <br> as of 10-29 at 2 pm | OK
