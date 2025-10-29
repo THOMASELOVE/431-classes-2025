@@ -32,7 +32,7 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 A-11 | Andrew Crawford | 
 A-12 | Isabela Drumond Fonseca <br> and Renu Jadhav | 
 A-13 | Shufei Fang | 
-A-14 | Moses Fleischman | | needs to re-submit <br> to fix HTML rendering | OK
+A-14 | Moses Fleischman | | *needs to re-submit* <br> *to fix HTML rendering* | OK
 A-15 | Wilson Hsu <br> and Ching-Wen Mai | 
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
@@ -79,6 +79,6 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-41 | Cher Yuan | 10-23 <br> 10:20 pm | Rds, qmd, html, mp4 |
 A-42 | Lily Zhang | 10-28 <br> 5:19 pm | Rds, qmd, html, mp4 | OK
-A-43 | Helena Zhao | | needs to re-submit <br> to add R data set |
+A-43 | Helena Zhao | | *needs to re-submit* <br> *to add R data set* |
 A-44 | Thu Nguyen | 
 A-45 | Pooja Madan Mohan | 
