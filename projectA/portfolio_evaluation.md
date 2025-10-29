@@ -33,7 +33,7 @@ A-11 | Andrew Crawford |
 A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | 10-29 <br> 4:26 am | Rds, qmd, html, mp4 <br> (+ partner note) | Both: OK
 A-13 | Shufei Fang | 
 A-14 | Moses Fleischman | | *needs to re-submit* <br> *to fix HTML rendering* | OK
-A-15 | Wilson Hsu <br> and Ching-Wen Mai | 10-28 <br> 11:21 pm | Rds, qmd, html, mp4 <br> each submitted one mp4 | CM: OK
+A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | 10-28 <br> 11:21 pm | Rds, qmd, html, mp4 <br> each submitted one mp4 | CM: OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
@@ -70,7 +70,7 @@ A-35 | Lauren Sapienza | 10-28 <br> 8:27 pm | Rds, qmd, html, mp4 | OK
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-36 | Hana Sato | 10-28 <br> 5:36 pm | Rds, qmd, html, mp4 | OK 
-A-37 | Josh Silalahi | 10-29 <br> 5:24 am | Rds, qmd, html <br> awaiting mp4 | OK
+A-37 | Josh Silalahi | 10-29 <br> 5:24 am | Rds, qmd, html <br> *awaiting mp4* | OK
 A-38 | Jiayi Sun | 
 A-39 | Allison Thirion-Blasius | 10-29 <br> 8:41 am | Rds, qmd, html, mp4 | OK
 A-40 | Jiakun Wang | 10-28 <br> 11:08 pm | Rds, qmd, html, mp4 | OK
