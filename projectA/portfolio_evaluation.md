@@ -73,7 +73,7 @@ A-36 | Hana Sato | 10-28 <br> 5:36 pm | Rds, qmd, html, mp4 | OK
 A-37 | Josh Silalahi | 
 A-38 | Jiayi Sun | 
 A-39 | Allison Thirion-Blasius | 
-A-40 | Jiakun Wang | 
+A-40 | Jiakun Wang | 10-28 <br> 11:08 pm | Rds, qmd, html, mp4 
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
