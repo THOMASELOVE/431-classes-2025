@@ -32,8 +32,8 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 A-11 | Andrew Crawford | 
 A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | 10-29 <br> 4:26 am | Rds, qmd, html, mp4 <br> (+ partner note) | Both: OK
 A-13 | Shufei Fang | 10-29 <br> 9:22 am | Rds, qmd, html, mp4 | 
-A-14 | Moses Fleischman | 10-28 <br> 4:00 pm | Rds, qmd, mp4 <br> <span style="color:red;">fix HTML rendering</span> | OK
-A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | 10-28 <br> 11:21 pm | Rds, qmd, html, mp4 <br> each submitted one mp4 | CM: OK
+A-14 | Moses Fleischman | 10-28 <br> 4:00 pm | Rds, qmd, mp4 <br> *fix HTML rendering* | OK
+A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | 10-28 <br> 11:21 pm | Rds, qmd, html, mp4 <br> *each submitted one mp4* | CM: OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
@@ -49,7 +49,7 @@ A-21 | Ben Kwiatkowski | 10-28 <br> 1:04 pm | Rds, qmd, html, mp4 | OK
 A-22 | Valerie Lam | 10-29 <br> 1:04 am | Rds, qmd, html, mp4 | OK
 A-23 | Subin Lee | 10-28 <br> 4:58 pm | Rds, qmd, html, mp4 | OK
 A-24 | Eric Liu | 10-28 <br> 10:07 pm | Rds, qmd, html, mp4 | OK 
-A-25 | Simon Lynn | | Need to resubmit <br> also including Rds | OK
+A-25 | Simon Lynn | 10-29 <br> 3:41 am| qmd, html, mp4 <br> *awaiting Rds* | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
