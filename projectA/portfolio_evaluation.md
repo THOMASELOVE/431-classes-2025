@@ -23,7 +23,7 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-06 | Dayanna Bohorquez | 10-29 <br> 2:04 pm | Rds, qmd, html, mov | 
 A-07 | Arjun Chatterjee | 10-29 <br> 12:05 pm | Rds, qmd, html, mp4 | OK
-A-08 | Linda Chen | 10-29 <br> 12:58 pm | Rds, qmd, mp4 <br> **_resubmit HTML_** | 
+A-08 | Linda Chen | 10-29 <br> 12:58 pm | Rds, qmd, mp4 <br> **_must resubmit HTML_** | 
 A-09 | Ruoying Chen | 10-28 <br> 8:30 pm | Rds, qmd, html, mp4 | OK
 A-10 | Emma Chio | 10-29 <br> 11:56 am | Rds, qmd, html, mp4 | OK
 
@@ -70,7 +70,7 @@ A-35 | Lauren Sapienza | 10-28 <br> 8:27 pm | Rds, qmd, html, mp4 | OK
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-36 | Hana Sato | 10-28 <br> 5:36 pm | Rds, qmd, html, mp4 | OK 
-A-37 | Josh Silalahi | 10-29 <br> 5:24 am | Rds, qmd, html <br> **_awaiting mp4_** | OK
+A-37 | Josh Silalahi | 10-29 <br> 5:24 am | Rds, qmd, html <br> **_must submit mp4_** | OK
 A-38 | Jiayi Sun | 10-29 <br> 11:46 am | Rds, qmd, html, mp4 | OK
 A-39 | Allison Thirion-Blasius | 10-29 <br> 8:41 am | Rds, qmd, html, mp4 | OK
 A-40 | Jiakun Wang | 10-28 <br> 11:08 pm | Rds, qmd, html, mp4 | OK
