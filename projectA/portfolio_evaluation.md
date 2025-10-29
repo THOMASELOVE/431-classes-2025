@@ -15,7 +15,7 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-01 | Sadia Ahmed | 10-28 <br> 6:42 pm | Rds, qmd, html, mp4 | OK 
 A-02 | Madison Albert | 10-28 <br> 10:01 pm | Rds, qmd, html, mp4 | OK
-A-03 | Fai Albuainain <br> and **Avianna Thompson** | | <br> (+ partner note) | FA: OK 
+A-03 | Fai Albuainain <br> and **Avianna Thompson** | | <br> (+ partner note) | Both: OK 
 A-04 | Amanda Barabas | 10-28 <br> 4:45 pm | Rds, qmd, html, mp4 | OK 
 A-05 | Alex Bergendorf | 10-28 <br> 5:27 pm | Rds, qmd, html, mp4 | OK
 
@@ -25,7 +25,7 @@ A-06 | Dayanna Bohorquez |
 A-07 | Arjun Chatterjee | | | OK
 A-08 | Linda Chen | 
 A-09 | Ruoying Chen | 10-28 <br> 8:30 pm | Rds, qmd, html, mp4 | OK
-A-10 | Emma Chio | | | OK
+A-10 | Emma Chio | 10-29 <br> 11:45 am | qmd, html, mp4 <br> *must submit Rds* | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
@@ -39,7 +39,7 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-16 | John Huff | 
 A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | 10-29 <br> 7:48 am | Rds, qmd, html, Two mp4 <br> (+ partner note) | Both: OK
-A-18 | Swati Jha <br> and Noni Pinales | 
+A-18 | Swati Jha <br> and **Noni Pinales** | 10-29 <br> 11:47 am | qmd, html, mp4 <br> *must submit Rds*  | SJ: OK
 A-19 | Dana Kleinman | 10-28 <br> 8:42 pm | Rds, qmd, html, mp4 | OK
 A-20 | Alex Krammer | 10-29 <br> 10:24 am | Rds, qmd, html, mp4 | OK
 
@@ -57,7 +57,7 @@ A-26 | Leland Metheny | 10-29 <br> 11:03 am | Rds, qmd, html, mp4 | OK
 A-27 | Andrew Morris | 10-29 <br> 5:38 am | Rds, qmd, html, mp4 | OK
 A-28 | Janette Brundage <br> and **Leah Nez** | 10-19 <br> 1:45 pm | Rds, qmd, html, mp4 <br> (+ partner note) |
 A-29 | Noha Orabi | 
-A-30 | Scout Osborne | 10-29 <br> 11:09 am | Rds, qmd, html, mp4 | 
+A-30 | Scout Osborne | 10-29 <br> 11:09 am | Rds, qmd, html, mp4 | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
@@ -71,7 +71,7 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-36 | Hana Sato | 10-28 <br> 5:36 pm | Rds, qmd, html, mp4 | OK 
 A-37 | Josh Silalahi | 10-29 <br> 5:24 am | Rds, qmd, html <br> *awaiting mp4* | OK
-A-38 | Jiayi Sun | 
+A-38 | Jiayi Sun | 10-29 <br> 11:46 am | Rds, qmd, html, mp4 | OK
 A-39 | Allison Thirion-Blasius | 10-29 <br> 8:41 am | Rds, qmd, html, mp4 | OK
 A-40 | Jiakun Wang | 10-28 <br> 11:08 pm | Rds, qmd, html, mp4 | OK
 
