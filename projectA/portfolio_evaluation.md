@@ -31,14 +31,14 @@ Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-11 | Andrew Crawford | 
 A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | 10-29 <br> 4:26 am | Rds, qmd, html, mp4 <br> (+ partner note) | Both: OK
-A-13 | Shufei Fang | 10-29 <br> 9:22 am | Rds, qmd, html, mp4 | 
+A-13 | Shufei Fang | 10-29 <br> 9:22 am | Rds, qmd, html, mp4 | OK
 A-14 | Moses Fleischman | 10-28 <br> 4:00 pm | Rds, qmd, mp4 <br> *awaiting HTML* | OK
-A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | 10-28 <br> 11:21 pm | Rds, qmd, html, mp4 <br> *each submitted one mp4* | CM: OK
+A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | 10-28 <br> 11:21 pm | Rds, qmd, html, Two mp4s <br> CWM video 1, WH video 2 | CM: OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
 A-16 | John Huff | 
-A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | 10-29 <br> 7:48 am | Rds, qmd, html, Two mp4 <br> (+ partner's note) | HI: OK
+A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | 10-29 <br> 7:48 am | Rds, qmd, html, Two mp4 <br> (+ partner's note) | Both: OK
 A-18 | Swati Jha <br> and Noni Pinales | 
 A-19 | Dana Kleinman | 10-28 <br> 8:42 pm | Rds, qmd, html, mp4 | OK
 A-20 | Alex Krammer | 
@@ -77,7 +77,7 @@ A-40 | Jiakun Wang | 10-28 <br> 11:08 pm | Rds, qmd, html, mp4 | OK
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval.
 :----: | :----------------: | :--------: | :---------------------: | :---------:
-A-41 | Cher Yuan | 10-23 <br> 10:20 pm | Rds, qmd, html, mp4 |
+A-41 | Cher Yuan | 10-23 <br> 10:20 pm | Rds, qmd, html, mp4 | OK
 A-42 | Lily Zhang | 10-28 <br> 5:19 pm | Rds, qmd, html, mp4 | OK
 A-43 | Helena Zhao | 10-28 <br> 11:15 pm | Rds, qmd, html, mp4 | OK
 A-44 | Thu Nguyen | 
