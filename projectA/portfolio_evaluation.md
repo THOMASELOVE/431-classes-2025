@@ -6,12 +6,12 @@
 
 1. [x] Dr Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18)
 2. Dr Love: Evaluation of Rds and Video files (general submission checks)
-3. Dr Love: Evaluation of Quarto files (initial checks)
-4. TAs: Analysis 1 Review (2 TAs) + Dr Love (later)
-5. TAs: Analysis 2 Review (2 TAs) + Dr Love (later)
-6. TAs: Analysis 3 Review (2 TAs) + Dr Love (later)
-7. TAs: Reflection Review (2 TAs) + Dr Love (later)
-8. TAs: Video Review (3 TAs) + Dr Love (later)
+3. Dr Love: Evaluation of Quarto files
+4. TAs: Analysis 1 Review (2 TAs) and then Dr Love will follow-up
+5. TAs: Analysis 2 Review (2 TAs) and then Dr Love will follow-up
+6. TAs: Analysis 3 Review (2 TAs) and then Dr Love will follow-up
+7. TAs: Reflection Review (2 TAs) and then Dr Love will follow-up
+8. TAs: Video Review (3 TAs) and then Dr Love will follow-up
 9. Dr Love: Other HTML pieces not covered previously
 
 ## Incomplete Submissions
@@ -34,16 +34,16 @@ We have received complete submissions for the other 42 projects, listed below.
 
 Code | Investigator(s) | Submission | Completed <br> [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :----------------:
-A-01 | Sadia Ahmed | On Time | 1 2
-A-02 | Madison Albert | On Time | 1 2 
-A-03 | Fai Albuainain <br> and **Avianna Thompson** | On Time | 1 2
-A-04 | Amanda Barabas | On Time | 1 2
-A-05 | Alex Bergendorf | On Time | 1 2
-A-06 | Dayanna Bohorquez | On Time | 1 2
-A-07 | Arjun Chatterjee | On Time | 1 2
-A-08 | Linda Chen | On Time | 1 2
-A-09 | Ruoying Chen | On Time | 1 2
-A-10 | Emma Chio | On Time | 1 2
+A-01 | Sadia Ahmed | On Time | 1 2 3
+A-02 | Madison Albert | On Time | 1 2 3
+A-03 | Fai Albuainain <br> and **Avianna Thompson** | On Time | 1 2 3
+A-04 | Amanda Barabas | On Time | 1 2 3
+A-05 | Alex Bergendorf | On Time | 1 2 3
+A-06 | Dayanna Bohorquez | On Time | 1 2 3
+A-07 | Arjun Chatterjee | On Time | 1 2 3
+A-08 | Linda Chen | On Time | 1 2 3
+A-09 | Ruoying Chen | On Time | 1 2 3
+A-10 | Emma Chio | On Time | 1 2 3
 
 ### Projects A-11 through A-20
 
