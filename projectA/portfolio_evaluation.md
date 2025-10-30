@@ -81,7 +81,7 @@ A-38 | Jiayi Sun | On Time | Yes
 A-39 | Allison Thirion-Blasius | On Time | Yes
 A-40 | Jiakun Wang | On Time | Yes
 
-Code | Investigator(s) | Date/Time | Submit OK?
+Code | Investigator(s) | On Time? | Submit OK?
 :----: | :----------------: | :-----------: | :-----:
 A-41 | Cher Yuan | On Time | Yes
 A-42 | Lily Zhang | On Time | Yes
