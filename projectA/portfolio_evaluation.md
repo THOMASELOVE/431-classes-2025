@@ -18,7 +18,7 @@
 
 2 projects are not yet complete.
 
-Code | Investigator(s) | What is still needed? | Completed Evaluation Forms
+Code | Investigator(s) | What is still needed? | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :----------------: | :----------------:
 A-29 | Noha Orabi | **_must submit Rds_**  | 1
 A-37 | Josh Silalahi | **_must submit mp4_** | 1
@@ -30,7 +30,7 @@ We have received complete submissions for the other 42 projects, listed below.
 - For partnerships, the partner who submitted the bulk of the work to Canvas is **in bold**.
 - Under Completed Evaluation Forms, you will see which of our 9 evaluation forms are complete.
 
-Code | Investigator(s) | On Time? | Completed Evaluation Forms
+Code | Investigator(s) | On Time? | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :----------------:
 A-01 | Sadia Ahmed | On Time | 1 2
 A-02 | Madison Albert | On Time | 1 2 
