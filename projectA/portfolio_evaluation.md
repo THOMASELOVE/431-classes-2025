@@ -15,24 +15,31 @@ We have received complete submissions for the other 42 projects, listed below.
 
 ### Complete Submissions
 
-- If it says "Yes" under "Submit OK?", then we have everything we need at this time.
 - For partnerships, the partner who submitted the bulk of the work to Canvas is **in bold**.
+- Under Completed Evaluation Forms, you will see which of our 9 evaluation forms are complete.
+  1. Dr Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18)
+  2. Dr Love: Evaluation of Rds and Video files (simple checks)
+  3. Dr Love: Evaluation of Quarto files (simple checks)
+  4. TAs: Analysis 1 Review (2 TAs) + Dr Love (later)
+  5. TAs: Analysis 2 Review (2 TAs) + Dr Love (later)
+  6. TAs: Analysis 3 Review (2 TAs) + Dr Love (later)
+  7. TAs: Reflection Review (2 TAs) + Dr Love (later)
+  8. TAs: Video Review (3 TAs) + Dr Love (later)
+  9. Dr Love: Other HTML pieces not covered previously
+- We are hoping to provide you detailed feedback on Thursday 2025-11-06, but that target may slip back a bit.
 
-Code | Investigator(s) | On Time? | Submit OK?
-:----: | :----------------: | :-----------: | :-----:
-A-01 | Sadia Ahmed | On Time | Yes
-A-02 | Madison Albert | On Time | Yes
-A-03 | Fai Albuainain <br> and **Avianna Thompson** | On Time | Yes
-A-04 | Amanda Barabas | On Time | Yes
-A-05 | Alex Bergendorf | On Time | Yes
-
-Code | Investigator(s) | On Time? | Submit OK?
-:----: | :----------------: | :-----------: | :-----:
-A-06 | Dayanna Bohorquez | On Time | Yes
-A-07 | Arjun Chatterjee | On Time | Yes
-A-08 | Linda Chen | On Time | Yes
-A-09 | Ruoying Chen | On Time | Yes
-A-10 | Emma Chio | On Time | Yes
+Code | Investigator(s) | On Time? | Completed Evaluation Forms
+:----: | :----------------: | :-----------: | :----------------:
+A-01 | Sadia Ahmed | On Time | 12
+A-02 | Madison Albert | On Time | 12 
+A-03 | Fai Albuainain <br> and **Avianna Thompson** | On Time | 12
+A-04 | Amanda Barabas | On Time | 12
+A-05 | Alex Bergendorf | On Time | 12
+A-06 | Dayanna Bohorquez | On Time | 12
+A-07 | Arjun Chatterjee | On Time | 12
+A-08 | Linda Chen | On Time | 12
+A-09 | Ruoying Chen | On Time | 12
+A-10 | Emma Chio | On Time | 12
 
 Code | Investigator(s) | On Time? | Submit OK?
 :----: | :----------------: | :-----------: | :-----:
@@ -85,4 +92,4 @@ Code | Investigator(s) | On Time? | Submit OK?
 A-41 | Cher Yuan | On Time | Yes
 A-42 | Lily Zhang | On Time | Yes
 A-43 | Helena Zhao | On Time | Yes
-A-45 | Pooja Madan Mohan | Late | Yes
+A-45 | Pooja Madan Mohan | **Late** | Yes
