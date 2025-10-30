@@ -4,15 +4,14 @@
 
 ### Incomplete Submissions
 
-3 projects are not yet complete.
+2 projects are not yet complete.
 
 Code | Investigator(s) | What is still needed?
 :----: | :----------------: | :----------------: 
 A-29 | Noha Orabi | **_must submit Rds_**  
 A-37 | Josh Silalahi | **_must submit mp4_** 
-A-45 | Pooja Madan Mohan | **_must submit mp4_** 
 
-We have received complete submissions for the other 41 projects, listed below.
+We have received complete submissions for the other 42 projects, listed below.
 
 ### Complete Submissions
 
@@ -86,4 +85,4 @@ Code | Investigator(s) | On Time? | Submit OK?
 A-41 | Cher Yuan | On Time | Yes
 A-42 | Lily Zhang | On Time | Yes
 A-43 | Helena Zhao | On Time | Yes
-
+A-45 | Pooja Madan Mohan | Late | Yes
