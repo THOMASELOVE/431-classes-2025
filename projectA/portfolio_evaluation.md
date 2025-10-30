@@ -30,7 +30,7 @@ We have received complete submissions for the other 42 projects, listed below.
 - For partnerships, the partner who submitted the bulk of the work to Canvas is **in bold**.
 - Under Completed Evaluation Forms, you will see which of our 9 evaluation forms are complete.
 
-Code | Investigator(s) | On Time? | Completed [Evaluation Forms](#evaluation-forms)
+Code | Investigator(s) | Submission | Completed <br> [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :----------------:
 A-01 | Sadia Ahmed | On Time | 1 2
 A-02 | Madison Albert | On Time | 1 2 
@@ -43,7 +43,7 @@ A-08 | Linda Chen | On Time | 1 2
 A-09 | Ruoying Chen | On Time | 1 2
 A-10 | Emma Chio | On Time | 1 2
 
-Code | Investigator(s) | On Time? | Completed Evaluation Forms
+Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :----------------:
 A-11 | Andrew Crawford | On Time | 1 2
 A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | On Time | 1 2
@@ -56,7 +56,7 @@ A-18 | Swati Jha <br> and **Noni Pinales** | On Time | 1 2
 A-19 | Dana Kleinman | On Time | 1 2
 A-20 | Alex Krammer | On Time | 1 2
 
-Code | Investigator(s) | On Time? | Completed Evaluation Forms
+Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :----------------:
 A-21 | Ben Kwiatkowski | On Time | 1 2
 A-22 | Valerie Lam | On Time | 1 2
@@ -68,7 +68,7 @@ A-27 | Andrew Morris | On Time | 1 2
 A-28 | Janette Brundage <br> and **Leah Nez** | On Time | 1 2
 A-30 | Scout Osborne | On Time | 1 2
 
-Code | Investigator(s) | On Time? | Completed Evaluation Forms
+Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :----------------:
 A-31 | Paulina Gonzalez <br> and **Vennila Ramasubramanian** | On Time | 1 2
 A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time | 1 2
@@ -80,7 +80,7 @@ A-38 | Jiayi Sun | On Time | 1 2
 A-39 | Allison Thirion-Blasius | On Time | 1 2
 A-40 | Jiakun Wang | On Time | 1 2
 
-Code | Investigator(s) | On Time? | Completed Evaluation Forms
+Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :----------------:
 A-41 | Cher Yuan | On Time | 1 2
 A-42 | Lily Zhang | On Time | 1 2
