@@ -4,7 +4,7 @@
 
 ### Incomplete Submissions
 
-The following 5 projects are not yet complete.
+3 projects are not yet complete.
 
 - In Canvas Contents, what you're looking for is Rds, qmd, html, mp4.
     - That means that we have all of those items and your HTML is properly rendered.
@@ -12,13 +12,11 @@ The following 5 projects are not yet complete.
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval. 
 :----: | :----------------: | :--------: | :---------------------: | :---------: 
-A-08 | Linda Chen | 10-29 <br> 12:58 pm | Rds, qmd, mp4 <br> **_must resubmit HTML_** | OK 
 A-29 | Noha Orabi | | **_NO SUBMISSION_** | **_NO SUBMISSION_**  
 A-37 | Josh Silalahi | 10-29 <br> 5:24 am | Rds, qmd, html <br> **_must submit mp4_** | OK 
-A-44 | Thu Nguyen | | **_NO SUBMISSION_** | **_NO SUBMISSION_** 
 A-45 | Pooja Madan Mohan | | **_NO SUBMISSION_** | OK 
 
-We have received complete submissions for the other 40 projects, listed below.
+We have received complete submissions for the other 41 projects, listed below.
 
 ### Complete Submissions
 
@@ -37,6 +35,7 @@ Code | Investigator(s) | Date/Time | Submit OK?
 :----: | :----------------: | :-----------: | :-----:
 A-06 | Dayanna Bohorquez | 10-29 <br> 2:04 pm | Yes
 A-07 | Arjun Chatterjee | 10-29 <br> 12:05 pm | Yes
+A-08 | Linda Chen | 10-29 <br> 12:58 pm | Yes
 A-09 | Ruoying Chen | 10-28 <br> 8:30 pm | Yes
 A-10 | Emma Chio | 10-29 <br> 11:56 am | Yes
 
