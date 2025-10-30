@@ -19,71 +19,71 @@ We have received complete submissions for the other 41 projects, listed below.
 - If it says "Yes" under "Submit OK?", then we have everything we need at this time.
 - For partnerships, the partner who submitted the bulk of the work to Canvas is **in bold**.
 
-Code | Investigator(s) | Date/Time | Submit OK?
+Code | Investigator(s) | On Time? | Submit OK?
 :----: | :----------------: | :-----------: | :-----:
-A-01 | Sadia Ahmed | 10-28 <br> 6:42 pm | Yes
-A-02 | Madison Albert | 10-28 <br> 10:01 pm | Yes
-A-03 | Fai Albuainain <br> and **Avianna Thompson** | 10-29 <br> 12:42 pm | Yes
-A-04 | Amanda Barabas | 10-28 <br> 4:45 pm | Yes
-A-05 | Alex Bergendorf | 10-28 <br> 5:27 pm | Yes
+A-01 | Sadia Ahmed | On Time | Yes
+A-02 | Madison Albert | On Time | Yes
+A-03 | Fai Albuainain <br> and **Avianna Thompson** | On Time | Yes
+A-04 | Amanda Barabas | On Time | Yes
+A-05 | Alex Bergendorf | On Time | Yes
+
+Code | Investigator(s) | On Time? | Submit OK?
+:----: | :----------------: | :-----------: | :-----:
+A-06 | Dayanna Bohorquez | On Time | Yes
+A-07 | Arjun Chatterjee | On Time | Yes
+A-08 | Linda Chen | On Time | Yes
+A-09 | Ruoying Chen | On Time | Yes
+A-10 | Emma Chio | On Time | Yes
+
+Code | Investigator(s) | On Time? | Submit OK?
+:----: | :----------------: | :-----------: | :-----:
+A-11 | Andrew Crawford | On Time | Yes
+A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | On Time | Yes
+A-13 | Shufei Fang | On Time | Yes
+A-14 | Moses Fleischman | On Time | Yes
+A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | On Time | Yes
+
+Code | Investigator(s) | On Time? | Submit OK?
+:----: | :----------------: | :-----------: | :-----:
+A-16 | John Huff | On Time | Yes
+A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | On Time | Yes
+A-18 | Swati Jha <br> and **Noni Pinales** | On Time | Yes
+A-19 | Dana Kleinman | On Time | Yes
+A-20 | Alex Krammer | On Time | Yes 
+
+Code | Investigator(s) | On Time? | Submit OK?
+:----: | :----------------: | :-----------: | :-----:
+A-21 | Ben Kwiatkowski | On Time | Yes
+A-22 | Valerie Lam | On Time | Yes
+A-23 | Subin Lee | On Time | Yes
+A-24 | Eric Liu | On Time | Yes
+A-25 | Simon Lynn | On Time | Yes
+
+Code | Investigator(s) | On Time? | Submit OK?
+:----: | :----------------: | :-----------: | :-----:
+A-26 | Leland Metheny | On Time | Yes
+A-27 | Andrew Morris | On Time | Yes
+A-28 | Janette Brundage <br> and **Leah Nez** | On Time | Yes
+A-30 | Scout Osborne | On Time | Yes
+
+Code | Investigator(s) | On Time? | Submit OK?
+:----: | :----------------: | :-----------: | :-----:
+A-31 | Paulina Gonzalez <br> and **Vennila Ramasubramanian** | On Time | Yes
+A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time | Yes
+A-33 | Amjad Samara | On Time | Yes
+A-34 | Erin San Valentin | On Time | Yes
+A-35 | Lauren Sapienza | On Time | Yes
+
+Code | Investigator(s) | On Time? | Submit OK?
+:----: | :----------------: | :-----------: | :-----:
+A-36 | Hana Sato | On Time | Yes
+A-38 | Jiayi Sun | On Time | Yes
+A-39 | Allison Thirion-Blasius | On Time | Yes
+A-40 | Jiakun Wang | On Time | Yes
 
 Code | Investigator(s) | Date/Time | Submit OK?
 :----: | :----------------: | :-----------: | :-----:
-A-06 | Dayanna Bohorquez | 10-29 <br> 2:04 pm | Yes
-A-07 | Arjun Chatterjee | 10-29 <br> 12:05 pm | Yes
-A-08 | Linda Chen | 10-29 <br> 12:58 pm | Yes
-A-09 | Ruoying Chen | 10-28 <br> 8:30 pm | Yes
-A-10 | Emma Chio | 10-29 <br> 11:56 am | Yes
-
-Code | Investigator(s) | Date/Time | Submit OK?
-:----: | :----------------: | :-----------: | :-----:
-A-11 | Andrew Crawford | 10-29 <br> 12:37 pm | Yes
-A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | 10-29 <br> 4:26 am | Yes
-A-13 | Shufei Fang | 10-29 <br> 9:22 am | Yes
-A-14 | Moses Fleischman | 10-29 <br> 11:21 am | Yes
-A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | 10-28 <br> 11:21 pm | Yes
-
-Code | Investigator(s) | Date/Time | Submit OK?
-:----: | :----------------: | :-----------: | :-----:
-A-16 | John Huff | 10-29 <br> 12:00 pm | Yes
-A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | 10-29 <br> 7:48 am | Yes
-A-18 | Swati Jha <br> and **Noni Pinales** | 10-29 <br> 12:01 pm | Yes
-A-19 | Dana Kleinman | 10-28 <br> 8:42 pm | Yes
-A-20 | Alex Krammer | 10-29 <br> 10:24 am | Yes
-
-Code | Investigator(s) | Date/Time | Submit OK?
-:----: | :----------------: | :-----------: | :-----:
-A-21 | Ben Kwiatkowski | 10-28 <br> 1:04 pm | Yes
-A-22 | Valerie Lam | 10-29 <br> 1:04 am | Yes
-A-23 | Subin Lee | 10-28 <br> 4:58 pm | Yes
-A-24 | Eric Liu | 10-28 <br> 10:07 pm | Yes
-A-25 | Simon Lynn | 10-29 <br> 9:49 am | Yes
-
-Code | Investigator(s) | Date/Time | Submit OK?
-:----: | :----------------: | :-----------: | :-----:
-A-26 | Leland Metheny | 10-29 <br> 11:03 am | Yes
-A-27 | Andrew Morris | 10-29 <br> 5:38 am | Yes
-A-28 | Janette Brundage <br> and **Leah Nez** | 10-29 <br> 12:29 pm | Yes
-A-30 | Scout Osborne | 10-29 <br> 11:09 am | Yes
-
-Code | Investigator(s) | Date/Time | Submit OK?
-:----: | :----------------: | :-----------: | :-----:
-A-31 | Paulina Gonzalez <br> and **Vennila Ramasubramanian** | 10-28 <br> 7:14 pm | Yes
-A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | 10-28 <br> 6:01 pm | Yes
-A-33 | Amjad Samara | 10-28 <br> 8:55 pm | Yes
-A-34 | Erin San Valentin | 10-29 <br> 12:48 am | Yes
-A-35 | Lauren Sapienza | 10-28 <br> 8:27 pm | Yes
-
-Code | Investigator(s) | Date/Time | Submit OK?
-:----: | :----------------: | :-----------: | :-----:
-A-36 | Hana Sato | 10-28 <br> 5:36 pm | Yes
-A-38 | Jiayi Sun | 10-29 <br> 11:46 am | Yes
-A-39 | Allison Thirion-Blasius | 10-29 <br> 8:41 am | Yes
-A-40 | Jiakun Wang | 10-28 <br> 11:08 pm | Yes
-
-Code | Investigator(s) | Date/Time | Submit OK?
-:----: | :----------------: | :-----------: | :-----:
-A-41 | Cher Yuan | 10-23 <br> 10:20 pm | Yes
-A-42 | Lily Zhang | 10-28 <br> 5:19 pm | Yes
-A-43 | Helena Zhao | 10-28 <br> 11:15 pm | Yes
+A-41 | Cher Yuan | On Time | Yes
+A-42 | Lily Zhang | On Time | Yes
+A-43 | Helena Zhao | On Time | Yes
 
