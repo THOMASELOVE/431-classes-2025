@@ -12,9 +12,9 @@
 
 Code | Investigator(s) | Date/Time | Canvas Contents | Self-Eval. 
 :----: | :----------------: | :--------: | :---------------------: | :---------: 
-A-29 | Noha Orabi | | **_NO SUBMISSION_** | **_NO SUBMISSION_**  
+A-29 | Noha Orabi | 10-30 <br> 7:19 am | qmd, html, mov <br> **_must submit Rds_** | **_NO SUBMISSION_**  
 A-37 | Josh Silalahi | 10-29 <br> 5:24 am | Rds, qmd, html <br> **_must submit mp4_** | OK 
-A-45 | Pooja Madan Mohan | | **_NO SUBMISSION_** | OK 
+A-45 | Pooja Madan Mohan | 10-30 <br> 4:47 am | *Rds, qmd, html <br> **_must submit mp4_** | OK 
 
 We have received complete submissions for the other 41 projects, listed below.
 
