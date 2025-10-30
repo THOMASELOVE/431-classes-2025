@@ -7,7 +7,7 @@
 3 projects are not yet complete.
 
 Code | Investigator(s) | What is still needed?
-:----: | :----------------: | :--------: | :---------------------: | :---------: 
+:----: | :----------------: | :----------------: 
 A-29 | Noha Orabi | **_must submit Rds_**  
 A-37 | Josh Silalahi | **_must submit mp4_** 
 A-45 | Pooja Madan Mohan | **_must submit mp4_** 
