@@ -20,7 +20,7 @@
 
 Code | Investigator(s) | What is still needed? | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :----------------: | :----------------:
-A-29 | Noha Orabi | **_must submit Rds_**  | 1
+A-29 | Noha Orabi | **_must submit Rds_**  | 1 3
 
 We have received complete submissions for the other 43 projects, listed below.
 
@@ -92,7 +92,7 @@ A-40 | Jiakun Wang | On Time | 1 2
 
 Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :----------------:
-A-41 | Cher Yuan | On Time | 1 2
-A-42 | Lily Zhang | On Time | 1 2
-A-43 | Helena Zhao | On Time | 1 2
-A-45 | Pooja Madan Mohan | **Late** | 1 2
+A-41 | Cher Yuan | On Time | 1 2 3
+A-42 | Lily Zhang | On Time | 1 2 3
+A-43 | Helena Zhao | On Time | 1 2 3
+A-45 | Pooja Madan Mohan | **Late** | 1 2 3
