@@ -4,7 +4,7 @@
 
 - We are hoping to provide you grades and detailed feedback by the end of the day on Thursday 2025-11-06, but that target may slip back a bit.
 
-1. [x] Dr Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18)
+1. Dr Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18) [x]
 2. Dr Love: Evaluation of Rds and Video files (general submission checks)
 3. Dr Love: Evaluation of Quarto files
 4. TAs: Analysis 1 Review (2 TAs) and then Dr Love will follow-up
