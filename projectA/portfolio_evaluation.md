@@ -83,7 +83,7 @@ A-33 | Amjad Samara | On Time | 1 2
 A-34 | Erin San Valentin | On Time | 1 2
 A-35 | Lauren Sapienza | On Time | 1 2
 A-36 | Hana Sato | On Time | 1 2
-A-37 | Josh Silalahi | **Late** | 1
+A-37 | Josh Silalahi | **Late** | 1 2
 A-38 | Jiayi Sun | On Time | 1 2
 A-39 | Allison Thirion-Blasius | On Time | 1 2
 A-40 | Jiakun Wang | On Time | 1 2
