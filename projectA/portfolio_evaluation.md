@@ -68,25 +68,25 @@ A-22 | Valerie Lam | On Time | 1 2
 A-23 | Subin Lee | On Time | 1 2
 A-24 | Eric Liu | On Time | 1 2
 A-25 | Simon Lynn | On Time | 1 2
-A-26 | Leland Metheny | On Time | 1 2
-A-27 | Andrew Morris | On Time | 1 2
-A-28 | Janette Brundage <br> and **Leah Nez** | On Time | 1 2
-A-30 | Scout Osborne | On Time | 1 2
+A-26 | Leland Metheny | On Time | 1 2 3
+A-27 | Andrew Morris | On Time | 1 2 3
+A-28 | Janette Brundage <br> and **Leah Nez** | On Time | 1 2 3
+A-30 | Scout Osborne | On Time | 1 2 3
 
 ### Projects A-31 through A-40
 
 Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :----------------:
-A-31 | Paulina Gonzalez <br> and **Vennila Ramasubramanian** | On Time | 1 2
-A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time | 1 2
-A-33 | Amjad Samara | On Time | 1 2
-A-34 | Erin San Valentin | On Time | 1 2
-A-35 | Lauren Sapienza | On Time | 1 2
-A-36 | Hana Sato | On Time | 1 2
-A-37 | Josh Silalahi | **Late** | 1 2
-A-38 | Jiayi Sun | On Time | 1 2
-A-39 | Allison Thirion-Blasius | On Time | 1 2
-A-40 | Jiakun Wang | On Time | 1 2
+A-31 | Paulina Gonzalez <br> and **Vennila Ramasubramanian** | On Time | 1 2 3
+A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time | 1 2 3
+A-33 | Amjad Samara | On Time | 1 2 3
+A-34 | Erin San Valentin | On Time | 1 2 3
+A-35 | Lauren Sapienza | On Time | 1 2 3
+A-36 | Hana Sato | On Time | 1 2 3
+A-37 | Josh Silalahi | **Late** | 1 2 3
+A-38 | Jiayi Sun | On Time | 1 2 3
+A-39 | Allison Thirion-Blasius | On Time | 1 2 3
+A-40 | Jiakun Wang | On Time | 1 2 3
 
 ### Projects A-41 through A-45
 
