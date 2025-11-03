@@ -30,6 +30,14 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 -----------------
 
+## One Last Thing (reminders of remaining deliverables are below)
+
+[Source](https://x.com/StatisticUrban/status/1982995821655405017/photo/1)
+
+![](male_heights_2025-10-27.png)
+
+-----------------
+
 ## There are 12 Remaining Deliverables for 431 This Semester
 
 As things stand, here is the complete list. See the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html) for more details, and updates will appear there, if needed. All dates are **WEDNESDAYS**, unless indicated otherwise.
