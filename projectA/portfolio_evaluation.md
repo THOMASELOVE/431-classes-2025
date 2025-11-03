@@ -7,11 +7,11 @@
 1. [x] Form 1: Dr Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18)
 2. [x] Form 2: Dr Love: Evaluation of Rds and Video files (general submission checks)
 3. Dr Love: Evaluation of Quarto files
-4. TAs: Analysis 1 Review (2 TAs) and then Dr Love will follow-up
-5. TAs: Analysis 2 Review (2 TAs) and then Dr Love will follow-up
-6. TAs: Analysis 3 Review (2 TAs) and then Dr Love will follow-up
-7. TAs: Reflection Review (2 TAs) and then Dr Love will follow-up
-8. TAs: Video Review (3 TAs) and then Dr Love will follow-up
+4. TAs: Analysis 1 Review by 2 TAs (4a, 4b) and then Dr Love will follow-up (4c)
+5. TAs: Analysis 2 Review by 2 TAs (5a, 5b) and then Dr Love will follow-up (5c)
+6. TAs: Analysis 3 Review by 2 TAs (6a, 6b) and then Dr Love will follow-up (6c)
+7. TAs: Reflection Review by 2 TAs (7a, 7b) and then Dr Love will follow-up (7c)
+8. TAs: Video Review (8a, 8b, 8c) and then Dr Love will follow-up (8d)
 9. Dr Love: Other HTML pieces not covered previously
 
 We have received complete submissions for all 44 projects, listed below.
