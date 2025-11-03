@@ -6,7 +6,7 @@
 
 1. [x] Form 1: Dr Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18) **completed**
 2. [x] Form 2: Dr Love: Evaluation of Rds and Video files (general submission checks) **completed**
-3. Dr Love: Evaluation of Quarto files
+3. [x] Form 3: Dr Love: Evaluation of Quarto files
 4. TAs: Analysis 1 Review by 2 TAs (4a, 4b) and then Dr Love will follow-up (4c)
 5. TAs: Analysis 2 Review by 2 TAs (5a, 5b) and then Dr Love will follow-up (5c)
 6. TAs: Analysis 3 Review by 2 TAs (6a, 6b) and then Dr Love will follow-up (6c)
@@ -55,11 +55,11 @@ A-20 | Alex Krammer | On Time | `1 2 3 4a   5ab  6ab  7a   8abc `
 
 Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
-A-21 | Ben Kwiatkowski | On Time | `1 2   4a   5ab  6ab  7a   8abc `
-A-22 | Valerie Lam | On Time | `1 2   4a   5ab  6ab  7a   8abc `
-A-23 | Subin Lee | On Time | `1 2   4a   5ab  6ab  7a   8abc `
-A-24 | Eric Liu | On Time | `1 2   4ab  5ab  6ab  7ab  8abc `
-A-25 | Simon Lynn | On Time | `1 2   4ab  5ab  6ab  7ab  8abc `
+A-21 | Ben Kwiatkowski | On Time | `1 2 3 4a   5ab  6ab  7a   8abc `
+A-22 | Valerie Lam | On Time | `1 2 3 4a   5ab  6ab  7a   8abc `
+A-23 | Subin Lee | On Time | `1 2 3 4a   5ab  6ab  7a   8abc `
+A-24 | Eric Liu | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
+A-25 | Simon Lynn | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
 A-26 | Leland Metheny | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
 A-27 | Andrew Morris | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
 A-28 | Janette Brundage <br> and **Leah Nez** | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
