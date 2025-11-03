@@ -16,9 +16,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) is due tomorrow (Wednesday 2025-11-05) at noon. I repaired the [PDF of the Lab instructions](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab5/431-lab5.pdf) on Sunday evening (specifically Question 1) to fix two broken links to descriptions of questionnaires in NHANES 2001-02.
 2. There is a [Minute Paper after Class 18](https://bit.ly/431-2025-minute-18), also due tomorrow at noon.
-3. You can track your Project A [evaluation details as we review them here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/portfolio_evaluation.md).
+3. **Project A evaluations** You can track your Project A [evaluation details as we review them here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/portfolio_evaluation.md).
 4. **Lab 6 Data** I added the `lab6_lindner800.csv` data set that you need to do [Lab 6](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6) to [our 431-data page]((https://github.com/THOMASELOVE/431-data)). Sorry it wasn't there earlier.
-5. I've started permitting people into 432. If you're in 431 now, and get an A or B, then you'll get into 432 this Spring.
+5. **Taking 432** I've started permitting people into 432 (and 500). If you're in 431 now, and get an A or B, then you'll get into 432 this Spring.
 
 ## Reminder to Dr. Love
 
@@ -27,9 +27,9 @@ Don't forget to incorporate a **standing break** today.
 ## Project B
 
 1. The [Project B registration](https://thomaselove.github.io/431-projectB-2025/register.html) Google Form due 2025-11-12 is now open.
-2. **NHANES: Insurance in In Project B**. A student asked about insurance groups in NHANES.
+2. **NHANES: Insurance in Project B**. 
     - A problem is that you will have people who are listed as covered by multiple types of insurance, so you'll have to decide on what to do about that, since your categories need to be collectively exhaustive and mutually exclusive. I encourage you to create a four-level categorical variable for insurance type.
-    - I built [a small example (PDF)](nhanes_insurance.pdf) to create this variable using the 2017-18 NHANES data, and then also ran it for 2017-March 2020 and for 8/21 - 8/23 data so you can check your work if you decide to do this.
+    - I built [a small example (PDF)](nhanes_insurance.pdf) to create this variable using the 2017-18 NHANES data, and then also ran it for 2017-March 2020 and for 8/21 - 8/23 data so you can check your work should you decide to use NHANES data for Project B.
 
 ## Taking Other Courses With Me
 
