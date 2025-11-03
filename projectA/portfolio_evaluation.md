@@ -6,9 +6,9 @@
 
 1. [x] Form 1: Dr Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18) **completed**
 2. [x] Form 2: Dr Love: Evaluation of Rds and Video files (general submission checks) **completed**
-3. [x] Form 3: Dr Love: Evaluation of Quarto files
+3. [x] Form 3: Dr Love: Evaluation of Quarto files **completed**
 4. TAs: Analysis 1 Review by 2 TAs (4a, 4b) and then Dr Love will follow-up (4c)
-5. TAs: Analysis 2 Review by 2 TAs (5a, 5b) and then Dr Love will follow-up (5c)
+5. TAs: Analysis 2 Review by 2 TAs (5a, 5b) **completed** and then Dr Love will follow-up (5c)
 6. TAs: Analysis 3 Review by 2 TAs (6a, 6b) and then Dr Love will follow-up (6c)
 7. TAs: Reflection Review by 2 TAs (7a, 7b) and then Dr Love will follow-up (7c)
 8. TAs: Video Review (8a, 8b, 8c) and then Dr Love will follow-up (8d)
