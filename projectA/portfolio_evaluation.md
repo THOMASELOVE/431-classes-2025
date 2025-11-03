@@ -14,15 +14,7 @@
 8. TAs: Video Review (3 TAs) and then Dr Love will follow-up
 9. Dr Love: Other HTML pieces not covered previously
 
-## Incomplete Submissions
-
-1 project is not yet complete.
-
-Code | Investigator(s) | What is still needed? | Completed [Evaluation Forms](#evaluation-forms)
-:----: | :----------------: | :----------------: | :----------------:
-A-29 | Noha Orabi | **_must submit Rds_**  | 1 3
-
-We have received complete submissions for the other 43 projects, listed below.
+We have received complete submissions for all 44 projects, listed below.
 
 ## Complete Submissions
 
@@ -71,6 +63,7 @@ A-25 | Simon Lynn | On Time | 1 2
 A-26 | Leland Metheny | On Time | 1 2 3
 A-27 | Andrew Morris | On Time | 1 2 3
 A-28 | Janette Brundage <br> and **Leah Nez** | On Time | 1 2 3
+A-29 | Noha Orabi | **Late** | 1 3
 A-30 | Scout Osborne | On Time | 1 2 3
 
 ### Projects A-31 through A-40
