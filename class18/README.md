@@ -10,6 +10,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 18 | 2025-11-04 | **[Slides 18](https://thomaselove.github.io/431-slides-2025/class18.html)** | **[Word 18](https://thomaselove.github.io/431-slides-2025/class18w.docx)** | **[Code 18](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class18.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/effect_size.png) [Source](https://xkcd.com/2755)
+
 ## Announcements
 
 1. [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) is due tomorrow (Wednesday 2025-11-05) at noon. I repaired the [PDF of the Lab instructions](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab5/431-lab5.pdf) on Sunday evening (specifically Question 1) to fix two broken links to descriptions of questionnaires in NHANES 2001-02.
