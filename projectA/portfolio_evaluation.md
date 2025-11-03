@@ -23,7 +23,7 @@ We have received complete submissions for all 44 projects, listed below.
 
 ### Projects A-01 through A-10
 
-Code | Investigator(s) | Submission | Completed <br> [Evaluation Forms](#evaluation-forms)
+Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
 A-01 | Sadia Ahmed | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
 A-02 | Madison Albert | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
@@ -38,7 +38,7 @@ A-10 | Emma Chio | On Time | `1 2 3 4ab  5ab  6a   7ab  8abc `
 
 ### Projects A-11 through A-20
 
-Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
+Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
 A-11 | Andrew Crawford | On Time | `1 2 3 4ab  5ab  6a   7ab  8abc `
 A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | On Time | `1 2 3 4ab  5ab  6a   7ab  8abc `
@@ -53,7 +53,7 @@ A-20 | Alex Krammer | On Time | `1 2 3 4a   5ab  6ab  7a   8abc `
 
 ### Projects A-21 through A-30
 
-Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
+Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
 A-21 | Ben Kwiatkowski | On Time | `1 2 3 4a   5ab  6ab  7a   8abc `
 A-22 | Valerie Lam | On Time | `1 2 3 4a   5ab  6ab  7a   8abc `
@@ -68,7 +68,7 @@ A-30 | Scout Osborne | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
 
 ### Projects A-31 through A-40
 
-Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
+Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
 A-31 | Paulina Gonzalez <br> and **Vennila Ramasubramanian** | On Time | `1 2 3 4ab  5ab  6a   7ab  8abc `
 A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time | `1 2 3 4ab  5ab  6a   7ab  8abc `
@@ -83,7 +83,7 @@ A-40 | Jiakun Wang | On Time | `1 2 3 4a   5ab  6a  7a  8ab  `
 
 ### Projects A-41 through A-45
 
-Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
+Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
 A-41 | Cher Yuan | On Time | `1 2 3 4a   5ab   6a   7a   8ab  `
 A-42 | Lily Zhang | On Time | `1 2 3 4a   5ab  6a   7a   8ab  `
