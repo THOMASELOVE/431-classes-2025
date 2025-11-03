@@ -12,7 +12,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) is due tomorrow (Wednesday 2025-11-05) at noon.
+1. [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) is due tomorrow (Wednesday 2025-11-05) at noon. I repaired the [PDF of the Lab instructions](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab5/431-lab5.pdf) on Sunday evening (specifically Question 1) to fix two broken links to descriptions of questionnaires in NHANES 2001-02.
 2. There will be a Minute Paper after Class 18 (**link to come**), also due tomorrow at noon.
 3. You can track your Project A submission and evaluation details as we review them at [this link](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/portfolio_evaluation.md).
 4. I added the data set you need to do [Lab 6](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6) to [our 431-data page]((https://github.com/THOMASELOVE/431-data)). Sorry it wasn't there before now.
