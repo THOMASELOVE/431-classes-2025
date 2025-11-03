@@ -85,7 +85,7 @@ A-40 | Jiakun Wang | On Time | `1 2 3 4a   5ab  6a  7a  8ab  `
 
 Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
-A-41 | Cher Yuan | On Time | `1 2 3 4a  5ab   6a   7a   8ab  `
+A-41 | Cher Yuan | On Time | `1 2 3 4a   5ab   6a   7a   8ab  `
 A-42 | Lily Zhang | On Time | `1 2 3 4a   5ab  6a   7a   8ab  `
 A-43 | Helena Zhao | On Time | `1 2 3 4a   5ab  6a   7a   8ab  `
 A-45 | Pooja Madan Mohan | **Late** | `1 2 3 4a   5ab  6a   7a   8ab `
