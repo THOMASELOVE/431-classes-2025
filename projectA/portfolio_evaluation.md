@@ -4,8 +4,8 @@
 
 - We are hoping to provide you grades and detailed feedback by the end of the day on Thursday 2025-11-06, but that target may slip back a bit.
 
-1. [x] Form 1: Dr Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18)
-2. [x] Form 2: Dr Love: Evaluation of Rds and Video files (general submission checks)
+1. [x] Form 1: Dr Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18) **completed**
+2. [x] Form 2: Dr Love: Evaluation of Rds and Video files (general submission checks) **completed**
 3. Dr Love: Evaluation of Quarto files
 4. TAs: Analysis 1 Review by 2 TAs (4a, 4b) and then Dr Love will follow-up (4c)
 5. TAs: Analysis 2 Review by 2 TAs (5a, 5b) and then Dr Love will follow-up (5c)
