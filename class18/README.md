@@ -15,7 +15,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) is due tomorrow (Wednesday 2025-11-05) at noon. I repaired the [PDF of the Lab instructions](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab5/431-lab5.pdf) on Sunday evening (specifically Question 1) to fix two broken links to descriptions of questionnaires in NHANES 2001-02.
-2. There will be a Minute Paper after Class 18 (**link to come**), also due tomorrow at noon.
+2. There is a [Minute Paper after Class 18](https://bit.ly/431-2025-minute-18), also due tomorrow at noon.
 3. You can track your Project A submission and evaluation details as we review them at [this link](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/portfolio_evaluation.md).
 4. The [Project B registration](https://thomaselove.github.io/431-projectB-2025/register.html) Google Form due 2025-11-12 is now open.
 5. I added the data set you need to do [Lab 6](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6) to [our 431-data page]((https://github.com/THOMASELOVE/431-data)). Sorry it wasn't there before now.
@@ -46,7 +46,7 @@ As things stand, here is the complete list. See the [Course Calendar](https://th
 
 Deadline | Item(s)
 :-----------------: | :----------------------------------------------------------------------------------------------------------
-2025-11-05 at noon | (1) [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) is due to [Canvas](https://canvas.case.edu/). <br> (2) [Minute Paper after Class 18](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
+2025-11-05 at noon | (1) [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) is due to [Canvas](https://canvas.case.edu/). <br> (2) [Minute Paper after Class 18](https://bit.ly/431-2025-minute-18)
 2025-11-12 at noon | (3) [Project B registration and scheduling form will be due.](https://thomaselove.github.io/431-projectB-2025/register.html) (Google Form) <br> (4) [Minute Paper after Class 20](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
 2025-11-19 at noon | (5) [Lab 6](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6) is due to [Canvas](https://canvas.case.edu/). <br> (6) [Minute Paper after Class 22](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
 2025-12-03 at noon | (7) [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) is due (Google Form). <br> [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) will be made available to you by 3 PM on Thursday 2025-11-20.
