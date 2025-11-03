@@ -63,7 +63,7 @@ A-25 | Simon Lynn | On Time | 1 2
 A-26 | Leland Metheny | On Time | 1 2 3
 A-27 | Andrew Morris | On Time | 1 2 3
 A-28 | Janette Brundage <br> and **Leah Nez** | On Time | 1 2 3
-A-29 | Noha Orabi | **Late** | 1 3
+A-29 | Noha Orabi | **Late** | 1 2 3
 A-30 | Scout Osborne | On Time | 1 2 3
 
 ### Projects A-31 through A-40
