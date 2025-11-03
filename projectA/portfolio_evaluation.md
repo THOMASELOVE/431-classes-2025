@@ -24,68 +24,68 @@ We have received complete submissions for all 44 projects, listed below.
 ### Projects A-01 through A-10
 
 Code | Investigator(s) | Submission | Completed <br> [Evaluation Forms](#evaluation-forms)
-:----: | :----------------: | :-----------: | :----------------:
-A-01 | Sadia Ahmed | On Time | 1 2 3 4ab 5ab 6ab 7ab 8abc
-A-02 | Madison Albert | On Time | 1 2 3 4ab 5ab 6ab 7ab 8abc
-A-03 | Fai Albuainain <br> and **Avianna Thompson** | On Time | 1 2 3 4ab 5ab 6ab 7ab 8abc
-A-04 | Amanda Barabas | On Time | 1 2 3 4ab 5ab 6ab 7ab 8abc
-A-05 | Alex Bergendorf | On Time | 1 2 3 4ab 5ab 6a 7ab 8abc
-A-06 | Dayanna Bohorquez | On Time | 1 2 3 4ab 5ab 6a 7ab 8abc
-A-07 | Arjun Chatterjee | On Time | 1 2 3 4ab 5ab 6a 7ab 8abc
-A-08 | Linda Chen | On Time | 1 2 3 4ab 5ab 6a 7ab 8abc
-A-09 | Ruoying Chen | On Time | 1 2 3 4ab 5ab 6a 7ab 8abc
-A-10 | Emma Chio | On Time | 1 2 3 4ab 5ab 6a 7ab 8abc
+:----: | :----------------: | :-----------: | :------------------------------
+A-01 | Sadia Ahmed | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
+A-02 | Madison Albert | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
+A-03 | Fai Albuainain <br> and **Avianna Thompson** | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
+A-04 | Amanda Barabas | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
+A-05 | Alex Bergendorf | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
+A-06 | Dayanna Bohorquez | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
+A-07 | Arjun Chatterjee | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
+A-08 | Linda Chen | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
+A-09 | Ruoying Chen | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
+A-10 | Emma Chio | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc `
 
 ### Projects A-11 through A-20
 
 Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
-:----: | :----------------: | :-----------: | :----------------:
-A-11 | Andrew Crawford | On Time | 1 2 4ab 5ab 6a 7ab 8abc
-A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | On Time | 1 2 4ab 5ab 6a 7ab 8abc
-A-13 | Shufei Fang | On Time | 1 2 4a 5ab 6a 7a 8abc
-A-14 | Moses Fleischman | On Time | 1 2 4a 5ab 6a 7a 8abc
-A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | On Time | 1 2 4a 5ab 6a 7a 8abc
-A-16 | John Huff | On Time | 1 2 4a 5ab 6ab 7a 8abc
-A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | On Time | 1 2 4a 5ab 6ab 7a 8abc
-A-18 | Swati Jha <br> and **Noni Pinales** | On Time | 1 2 4a 5ab 6ab 7a 8abc
-A-19 | Dana Kleinman | On Time | 1 2 4a 5ab 6ab 7a 8abc
-A-20 | Alex Krammer | On Time | 1 2 4a 5ab 6ab 7a 8abc
+:----: | :----------------: | :-----------: | :------------------------------
+A-11 | Andrew Crawford | On Time | `1 2   4ab  5ab  6a   7ab  8abc `
+A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | On Time | `1 2  4ab  5ab  6a   7ab  8abc `
+A-13 | Shufei Fang | On Time | `1 2   4a   5ab  6a   7a   8abc `
+A-14 | Moses Fleischman | On Time | `1 2   4a   5ab  6a   7a   8abc `
+A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | On Time | `1 2   4a   5ab  6a   7a   8abc `
+A-16 | John Huff | On Time | `1 2   4a   5ab  6ab  7a   8abc `
+A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | On Time | `1 2   4a   5ab  6ab  7a   8abc `
+A-18 | Swati Jha <br> and **Noni Pinales** | On Time | `1 2   4a   5ab  6ab  7a   8abc `
+A-19 | Dana Kleinman | On Time | `1 2   4a   5ab  6ab  7a   8abc `
+A-20 | Alex Krammer | On Time | `1 2   4a   5ab  6ab  7a   8abc `
 
 ### Projects A-21 through A-30
 
 Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
-:----: | :----------------: | :-----------: | :----------------:
-A-21 | Ben Kwiatkowski | On Time | 1 2 4a 5ab 6ab 7a 8abc
-A-22 | Valerie Lam | On Time | 1 2 4a 5ab 6ab 7a 8abc
-A-23 | Subin Lee | On Time | 1 2 4a 5ab 6ab 7a 8abc
-A-24 | Eric Liu | On Time | 1 2 4ab 5ab 6ab 7ab 8abc
-A-25 | Simon Lynn | On Time | 1 2 4ab 5ab 6ab 7ab 8abc
-A-26 | Leland Metheny | On Time | 1 2 3 4ab 5ab 6ab 7ab 8abc
-A-27 | Andrew Morris | On Time | 1 2 3 4ab 5ab 6ab 7ab 8abc
-A-28 | Janette Brundage <br> and **Leah Nez** | On Time | 1 2 3 4ab 5ab 6ab 7ab 8abc
-A-29 | Noha Orabi | **Late** | 1 2 3 4ab 5ab 6ab 7ab 8abc
-A-30 | Scout Osborne | On Time | 1 2 3 4ab 5ab 6ab 7ab 8abc
+:----: | :----------------: | :-----------: | :------------------------------
+A-21 | Ben Kwiatkowski | On Time | `1 2 4a 5ab 6ab 7a 8abc`
+A-22 | Valerie Lam | On Time | `1 2 4a 5ab 6ab 7a 8abc`
+A-23 | Subin Lee | On Time | `1 2 4a 5ab 6ab 7a 8abc`
+A-24 | Eric Liu | On Time | `1 2 4ab 5ab 6ab 7ab 8abc`
+A-25 | Simon Lynn | On Time | `1 2 4ab 5ab 6ab 7ab 8abc`
+A-26 | Leland Metheny | On Time | `1 2 3 4ab 5ab 6ab 7ab 8abc`
+A-27 | Andrew Morris | On Time | `1 2 3 4ab 5ab 6ab 7ab 8abc`
+A-28 | Janette Brundage <br> and **Leah Nez** | On Time | `1 2 3 4ab 5ab 6ab 7ab 8abc`
+A-29 | Noha Orabi | **Late** | `1 2 3 4ab 5ab 6ab 7ab 8abc`
+A-30 | Scout Osborne | On Time | `1 2 3 4ab 5ab 6ab 7ab 8abc`
 
 ### Projects A-31 through A-40
 
 Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
-:----: | :----------------: | :-----------: | :----------------:
-A-31 | Paulina Gonzalez <br> and **Vennila Ramasubramanian** | On Time | 1 2 3 4ab 5ab 6a 7ab 8abc
-A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time | 1 2 3 4ab 5ab 6a 7ab 8abc
-A-33 | Amjad Samara | On Time | 1 2 3 4ab 5ab 6a 7ab 8abc
-A-34 | Erin San Valentin | On Time | 1 2 3 4ab 5ab 6a 7ab 8abc
-A-35 | Lauren Sapienza | On Time | 1 2 3 4ab 5ab 6a 7a 8ab
-A-36 | Hana Sato | On Time | 1 2 3 4ab 5ab 6a 7a 8ab
-A-37 | Josh Silalahi | **Late** | 1 2 3 4ab 5ab 6a 7a 8ab
-A-38 | Jiayi Sun | On Time | 1 2 3 4ab 5ab 6a 7a 8ab
-A-39 | Allison Thirion-Blasius | On Time | 1 2 3 4ab 5ab 6a 7a 8ab
-A-40 | Jiakun Wang | On Time | 1 2 3 4ab 5ab 6a 7a 8ab
+:----: | :----------------: | :-----------: | :------------------------------
+A-31 | Paulina Gonzalez <br> and **Vennila Ramasubramanian** | On Time | `1 2 3 4ab 5ab 6a 7ab 8abc`
+A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time | `1 2 3 4ab 5ab 6a 7ab 8abc`
+A-33 | Amjad Samara | On Time | `1 2 3 4ab 5ab 6a 7ab 8abc`
+A-34 | Erin San Valentin | On Time | `1 2 3 4ab 5ab 6a 7ab 8abc`
+A-35 | Lauren Sapienza | On Time | `1 2 3 4ab 5ab 6a 7a 8ab`
+A-36 | Hana Sato | On Time | `1 2 3 4ab 5ab 6a 7a 8ab`
+A-37 | Josh Silalahi | **Late** | `1 2 3 4ab 5ab 6a 7a 8ab`
+A-38 | Jiayi Sun | On Time | `1 2 3 4ab 5ab 6a 7a 8ab`
+A-39 | Allison Thirion-Blasius | On Time | `1 2 3 4ab 5ab 6a 7a 8ab`
+A-40 | Jiakun Wang | On Time | `1 2 3 4ab 5ab 6a 7a 8ab`
 
 ### Projects A-41 through A-45
 
 Code | Investigator(s) | On Time? | Completed <br> [Evaluation Forms](#evaluation-forms)
-:----: | :----------------: | :-----------: | :----------------:
-A-41 | Cher Yuan | On Time | 1 2 3 4ab 5ab 6a 7a 8ab
-A-42 | Lily Zhang | On Time | 1 2 3 4ab 5ab 6a 7ab 8ab
-A-43 | Helena Zhao | On Time | 1 2 3 4ab 5ab 6a 7ab 8ab
-A-45 | Pooja Madan Mohan | **Late** | 1 2 3 4ab 5ab 6a 7a 8ab
+:----: | :----------------: | :-----------: | :------------------------------
+A-41 | Cher Yuan | On Time | `1 2 3 4ab 5ab 6a 7a 8ab`
+A-42 | Lily Zhang | On Time | `1 2 3 4ab 5ab 6a 7ab 8ab`
+A-43 | Helena Zhao | On Time | `1 2 3 4ab 5ab 6a 7ab 8ab`
+A-45 | Pooja Madan Mohan | **Late** | `1 2 3 4ab 5ab 6a 7a 8ab`
