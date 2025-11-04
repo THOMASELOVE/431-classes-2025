@@ -30,7 +30,7 @@ A-02 | Madison Albert | On Time |                               `1 2 3 4ab- 5ab-
 A-03 | Fai Albuainain <br> and **Avianna Thompson** | On Time | `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-04 | Amanda Barabas | On Time |                               `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-05 | Alex Bergendorf | On Time |                              `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
-A-06 | Dayanna Bohorquez | On Time |                            `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
+A-06 | Dayanna Bohorquez | On Time |                            `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-07 | Arjun Chatterjee | On Time |                             `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
 A-08 | Linda Chen | On Time |                                   `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
 A-09 | Ruoying Chen | On Time |                                 `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
