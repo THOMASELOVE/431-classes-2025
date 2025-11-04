@@ -17,6 +17,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) is due tomorrow (Wednesday 2025-11-05) at noon. I repaired the [PDF of the Lab instructions](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab5/431-lab5.pdf) on Sunday evening (specifically Question 1) to fix two broken links to descriptions of questionnaires in NHANES 2001-02.
 2. There is a [Minute Paper after Class 18](https://bit.ly/431-2025-minute-18), also due tomorrow at noon.
 3. **Project A evaluations** You can track your Project A [evaluation details as we review them here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/portfolio_evaluation.md).
+    - Just a small comment: Those of you who found the instructions for Project A overwhelming, I understand, but just wait until you read the instructions when applying for funding.
 4. **Lab 6 Data** I added the `lab6_lindner800.csv` data set that you need to do [Lab 6](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6) to [our 431-data page]((https://github.com/THOMASELOVE/431-data)). Sorry it wasn't there earlier.
 5. **Writing R-squared in Quarto** - the two best options are `$R^2$` or `R^2^` - so use one of those going forward when you have to insert the symbol for R-squared into your text. Thanks!
 6. **Taking 432** I've started permitting people into 432 (and 500). If you're in 431 now, and get an A or B, then you'll get into 432 this Spring.
