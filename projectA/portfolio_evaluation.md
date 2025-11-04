@@ -55,8 +55,8 @@ A-20 | Alex Krammer | On Time |                                     `1 2 3 4a-- 
 
 Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
-A-21 | Ben Kwiatkowski | On Time |                        `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- -`
-A-22 | Valerie Lam | On Time |                            `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- -`
+A-21 | Ben Kwiatkowski | On Time |                        `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- 9`
+A-22 | Valerie Lam | On Time |                            `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- 9`
 A-23 | Subin Lee | On Time |                              `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- 9`
 A-24 | Eric Liu | On Time |                               `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-25 | Simon Lynn | On Time |                             `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
