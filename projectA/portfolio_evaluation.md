@@ -47,7 +47,7 @@ A-14 | Moses Fleischman | On Time |                                 `1 2 3 4ab- 
 A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | On Time |            `1 2 3 4ab- 5ab- 6ab- 7a-- 8abc- -`
 A-16 | John Huff | On Time |                                        `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- -`
 A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | On Time |     `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- -`
-A-18 | Swati Jha <br> and **Noni Pinales** | On Time |              `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- -`
+A-18 | Swati Jha <br> and **Noni Pinales** | On Time |              `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- 9`
 A-19 | Dana Kleinman | On Time |                                    `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- -`
 A-20 | Alex Krammer | On Time |                                     `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- 9`
 
