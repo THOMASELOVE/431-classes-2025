@@ -74,18 +74,18 @@ A-31 | Paulina Gonzalez and <br> **Vennila Ramasubramanian** | On Time | `1 2 3 
 A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time |    `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc 9`
 A-33 | Amjad Samara | On Time |                                          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc 9`
 A-34 | Erin San Valentin | On Time |                                     `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc 9`
-A-35 | Lauren Sapienza | On Time |                                       `1 2 3 4ab- 5ab- 6ab- 7a-- 8ab- 9`
-A-36 | Hana Sato | On Time |                                             `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
-A-37 | Josh Silalahi | **Late** |                                        `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
-A-38 | Jiayi Sun | On Time |                                             `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
-A-39 | Allison Thirion-Blasius | On Time |                               `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
-A-40 | Jiakun Wang | On Time |                                           `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
+A-35 | Lauren Sapienza | On Time |                                       `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc 9`
+A-36 | Hana Sato | On Time |                                             `1 2 3 4ab- 5ab- 6a-- 7ab- 8ab- 9`
+A-37 | Josh Silalahi | **Late** |                                        `1 2 3 4ab- 5ab- 6a-- 7ab- 8ab- 9`
+A-38 | Jiayi Sun | On Time |                                             `1 2 3 4ab- 5ab- 6a-- 7ab- 8ab- 9`
+A-39 | Allison Thirion-Blasius | On Time |                               `1 2 3 4ab- 5ab- 6a-- 7ab- 8ab- 9`
+A-40 | Jiakun Wang | On Time |                                           `1 2 3 4ab- 5ab- 6a-- 7ab- 8ab- 9`
 
 ### Projects A-41 through A-45
 
 Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
-A-41 | Cher Yuan | On Time |          `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
-A-42 | Lily Zhang | On Time |         `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
-A-43 | Helena Zhao | On Time |        `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
-A-45 | Pooja Madan Mohan | **Late** | `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
+A-41 | Cher Yuan | On Time |          `1 2 3 4a-- 5ab- 6a-- 7ab- 8ab- 9`
+A-42 | Lily Zhang | On Time |         `1 2 3 4a-- 5ab- 6a-- 7ab- 8ab- 9`
+A-43 | Helena Zhao | On Time |        `1 2 3 4a-- 5ab- 6a-- 7ab- 8ab- 9`
+A-45 | Pooja Madan Mohan | **Late** | `1 2 3 4a-- 5ab- 6a-- 7ab- 8ab- 9`
