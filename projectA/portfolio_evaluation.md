@@ -64,13 +64,13 @@ A-26 | Leland Metheny | On Time |                         `1 2 3 4ab- 5ab- 6ab- 
 A-27 | Andrew Morris | On Time |                          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
 A-28 | Janette Brundage <br> and **Leah Nez** | On Time | `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
 A-29 | Noha Orabi | **Late** |                            `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
-A-30 | Scout Osborne | On Time |                          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
+A-30 | Scout Osborne | On Time |                          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 
 ### Projects A-31 through A-40
 
 Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
-A-31 | Paulina Gonzalez and <br> **Vennila Ramasubramanian** | On Time | `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc - `
+A-31 | Paulina Gonzalez and <br> **Vennila Ramasubramanian** | On Time | `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc 9`
 A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time |    `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc -`
 A-33 | Amjad Samara | On Time |                                          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc -`
 A-34 | Erin San Valentin | On Time |                                     `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc -`
