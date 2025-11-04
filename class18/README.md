@@ -54,8 +54,8 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
 ## Taking Other Courses about Statistics/Data Science and related fields
 
 - Andrew Morris, a student in this class now, is Assistant Director of our MPH program, and so has extensive experience helping advise students about classes. Andrew would be happy to talk with you if that would be helpful. His email is `arm161` at `case` dot `edu`.
-- Our TAs are a better resource than I am for advice on this issue, so we have created a Google Doc called "TA Advice on Other Courses" posted to your Shared Drive.
-- If I receive other useful information, I will add it to that document. Take a look.
+- Our TAs are a better resource than I am for advice on this issue, so we have created a Google Doc called "TA Advice on Other Courses" posted to your Shared Drive. To it, we've added several general comments and links to find more information.
+- If I receive other useful information, I will add it to the Shared Document. Please take a look.
 
 -------
 
