@@ -41,10 +41,10 @@ A-10 | Emma Chio | On Time |                                    `1 2 3 4ab- 5ab-
 Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
 A-11 | Andrew Crawford | On Time |                                  `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
-A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | On Time | `1 2 3 4ab- 5ab- 6a-- 7ab- 8abc- -`
-A-13 | Shufei Fang | On Time |                                      `1 2 3 4ab- 5ab- 6a-- 7a-- 8abc- -`
-A-14 | Moses Fleischman | On Time |                                 `1 2 3 4ab- 5ab- 6a-- 7a-- 8abc- -`
-A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | On Time |            `1 2 3 4a-- 5ab- 6a-- 7a-- 8abc- -`
+A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | On Time | `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
+A-13 | Shufei Fang | On Time |                                      `1 2 3 4ab- 5ab- 6ab- 7a-- 8abc- -`
+A-14 | Moses Fleischman | On Time |                                 `1 2 3 4ab- 5ab- 6ab- 7a-- 8abc- -`
+A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | On Time |            `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- -`
 A-16 | John Huff | On Time |                                        `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- -`
 A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | On Time |     `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- -`
 A-18 | Swati Jha <br> and **Noni Pinales** | On Time |              `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- -`
@@ -70,10 +70,10 @@ A-30 | Scout Osborne | On Time |                          `1 2 3 4ab- 5ab- 6ab- 
 
 Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
-A-31 | Paulina Gonzalez and <br> **Vennila Ramasubramanian** | On Time | `1 2 3 4ab- 5ab- 6a-- 7ab- 8abc - `
-A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time |    `1 2 3 4ab- 5ab- 6a-- 7ab- 8abc -`
-A-33 | Amjad Samara | On Time |                                          `1 2 3 4ab- 5ab- 6a-- 7ab- 8abc -`
-A-34 | Erin San Valentin | On Time |                                     `1 2 3 4ab- 5ab- 6a-- 7ab- 8abc -`
+A-31 | Paulina Gonzalez and <br> **Vennila Ramasubramanian** | On Time | `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc - `
+A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time |    `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc -`
+A-33 | Amjad Samara | On Time |                                          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc -`
+A-34 | Erin San Valentin | On Time |                                     `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc -`
 A-35 | Lauren Sapienza | On Time |                                       `1 2 3 4ab- 5ab- 6a-- 7a-- 8ab- -`
 A-36 | Hana Sato | On Time |                                             `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
 A-37 | Josh Silalahi | **Late** |                                        `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
