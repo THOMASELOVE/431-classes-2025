@@ -73,8 +73,8 @@ Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-f
 A-31 | Paulina Gonzalez and <br> **Vennila Ramasubramanian** | On Time | `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc 9`
 A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time |    `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc 9`
 A-33 | Amjad Samara | On Time |                                          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc 9`
-A-34 | Erin San Valentin | On Time |                                     `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc -`
-A-35 | Lauren Sapienza | On Time |                                       `1 2 3 4ab- 5ab- 6a-- 7a-- 8ab- -`
+A-34 | Erin San Valentin | On Time |                                     `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc 9`
+A-35 | Lauren Sapienza | On Time |                                       `1 2 3 4ab- 5ab- 6a-- 7a-- 8ab- 9`
 A-36 | Hana Sato | On Time |                                             `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
 A-37 | Josh Silalahi | **Late** |                                        `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
 A-38 | Jiayi Sun | On Time |                                             `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
