@@ -58,11 +58,11 @@ Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-f
 A-21 | Ben Kwiatkowski | On Time |                        `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- -`
 A-22 | Valerie Lam | On Time |                            `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- -`
 A-23 | Subin Lee | On Time |                              `1 2 3 4a-- 5ab- 6ab- 7a-- 8abc- 9`
-A-24 | Eric Liu | On Time |                               `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
-A-25 | Simon Lynn | On Time |                             `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
-A-26 | Leland Metheny | On Time |                         `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
-A-27 | Andrew Morris | On Time |                          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
-A-28 | Janette Brundage <br> and **Leah Nez** | On Time | `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
+A-24 | Eric Liu | On Time |                               `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
+A-25 | Simon Lynn | On Time |                             `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
+A-26 | Leland Metheny | On Time |                         `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
+A-27 | Andrew Morris | On Time |                          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
+A-28 | Janette Brundage <br> and **Leah Nez** | On Time | `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-29 | Noha Orabi | **Late** |                            `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-30 | Scout Osborne | On Time |                          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 
