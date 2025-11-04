@@ -2,7 +2,7 @@
 
 ## Evaluation Forms
 
-- We still hope to provide grades and detailed feedback sometime Thursday 2025-11-06, but that deadline may slip.
+- We hope to provide grades and detailed feedback sometime Thursday 2025-11-06, but that deadline may slip.
 
 1. [x] Form 1: Dr Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18) **completed**
 2. [x] Form 2: Dr Love: Evaluation of Rds and Video files (general submission checks) **completed**
