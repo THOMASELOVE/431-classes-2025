@@ -50,6 +50,10 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
         2. too much of me at one time can be overwhelming
     - If Spring 2026 is your best opportunity to take 500, then I will certainly permit you to do so. Send me an email anytime if you want to discuss this.
 
+## Taking Other Courses about Statistics/Data Science and related fields
+
+Our TAs are a better resource than I am for advice on this issue. We have created a Google Doc called "TA Advice on Other Courses" posted to your Shared Drive. Take a look.
+
 -------
 
 ## References That Might Interest You
