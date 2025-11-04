@@ -71,8 +71,8 @@ A-30 | Scout Osborne | On Time |                          `1 2 3 4ab- 5ab- 6ab- 
 Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
 A-31 | Paulina Gonzalez and <br> **Vennila Ramasubramanian** | On Time | `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc 9`
-A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time |    `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc -`
-A-33 | Amjad Samara | On Time |                                          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc -`
+A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | On Time |    `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc 9`
+A-33 | Amjad Samara | On Time |                                          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc 9`
 A-34 | Erin San Valentin | On Time |                                     `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc -`
 A-35 | Lauren Sapienza | On Time |                                       `1 2 3 4ab- 5ab- 6a-- 7a-- 8ab- -`
 A-36 | Hana Sato | On Time |                                             `1 2 3 4a-- 5ab- 6a-- 7a-- 8ab- 9`
