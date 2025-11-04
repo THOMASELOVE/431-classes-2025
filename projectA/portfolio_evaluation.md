@@ -78,8 +78,8 @@ A-35 | Lauren Sapienza | On Time | `1 2 3 4ab  5ab  6a   7a   8ab  `
 A-36 | Hana Sato | On Time | `1 2 3 4a   5ab  6a   7a   8ab  `
 A-37 | Josh Silalahi | **Late** | `1 2 3 4a   5ab  6a   7a   8ab   9`
 A-38 | Jiayi Sun | On Time | `1 2 3 4a   5ab  6a   7a   8ab  `
-A-39 | Allison Thirion-Blasius | On Time | `1 2 3 4a   5ab  6a  7a  8ab  `
-A-40 | Jiakun Wang | On Time | `1 2 3 4a   5ab  6a  7a  8ab  `
+A-39 | Allison Thirion-Blasius | On Time | `1 2 3 4a   5ab  6a   7a  8ab  `
+A-40 | Jiakun Wang | On Time | `1 2 3 4a   5ab  6a   7a  8ab  `
 
 ### Projects A-41 through A-45
 
