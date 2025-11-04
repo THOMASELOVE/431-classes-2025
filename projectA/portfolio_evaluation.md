@@ -25,7 +25,7 @@ We have received complete submissions for all 44 projects, listed below.
 
 Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
-A-01 | Sadia Ahmed | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc  9`
+A-01 | Sadia Ahmed | On Time | `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-02 | Madison Albert | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc  9`
 A-03 | Fai Albuainain <br> and **Avianna Thompson** | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc  9`
 A-04 | Amanda Barabas | On Time | `1 2 3 4ab  5ab  6ab  7ab  8abc  9`
