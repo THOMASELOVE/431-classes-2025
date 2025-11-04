@@ -11,7 +11,7 @@
 5. TAs: Analysis 2 Review by 2 TAs (5a, 5b) **completed** and then Dr Love will follow-up (5c)
 6. TAs: Analysis 3 Review by 2 TAs (6a, 6b) **completed** and then Dr Love will follow-up (6c)
 7. TAs: Reflection Review by 2 TAs (7a, 7b) **completed** and then Dr Love will follow-up (7c)
-8. TAs: Video Review (8a, 8b, 8c) and then Dr Love will follow-up (8d)
+8. TAs: Video Review (8a, 8b, 8c) **completed** and then Dr Love will follow-up (8d)
 9. Dr Love: Other HTML pieces not covered previously
 
 We have received complete submissions for all 44 projects, listed below.
@@ -88,4 +88,4 @@ Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-f
 A-41 | Cher Yuan | On Time |          `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-42 | Lily Zhang | On Time |         `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-43 | Helena Zhao | On Time |        `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
-A-45 | Pooja Madan Mohan | **Late** | `1 2 3 4ab- 5ab- 6ab- 7ab- 8ab-- 9`
+A-45 | Pooja Madan Mohan | **Late** | `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
