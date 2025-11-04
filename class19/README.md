@@ -12,7 +12,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. We created a Google Doc called "TA Advice on Other Courses" which is posted to your Shared Drive.
+2. Feedback on the Minute Paper after Class 18 will be available by class time.
 
 --------
 
