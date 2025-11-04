@@ -52,7 +52,8 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
 
 ## Taking Other Courses about Statistics/Data Science and related fields
 
-Our TAs are a better resource than I am for advice on this issue. We have created a Google Doc called "TA Advice on Other Courses" posted to your Shared Drive. Take a look.
+- Our TAs are a better resource than I am for advice on this issue, so we have created a Google Doc called "TA Advice on Other Courses" posted to your Shared Drive.
+- If I receive other useful information, I will add it to that document. Take a look.
 
 -------
 
