@@ -3,16 +3,18 @@
 ## Evaluation Forms
 
 - We hope to provide grades and detailed feedback sometime Thursday 2025-11-06, but that deadline may slip.
+- All of the TA work is complete. Now it's up to Dr. Love.
 
-1. [x] Form 1: Dr Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18) **completed**
-2. [x] Form 2: Dr Love: Evaluation of Rds and Video files (general submission checks) **completed**
-3. [x] Form 3: Dr Love: Evaluation of Quarto files **completed**
-4. TAs: Analysis 1 Review by 2 TAs (4a, 4b) and then Dr Love will follow-up (4c)
+1. [x] Form 1: Dr. Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18) **completed**
+2. [x] Form 2: Dr. Love: Evaluation of Rds and Video files (general submission checks) **completed**
+3. [x] Form 3: Dr. Love: Evaluation of Quarto files **completed**
+4. TAs: Analysis 1 Review by 2 TAs (4a, 4b) **completed** and then Dr Love will follow-up (4c)
 5. TAs: Analysis 2 Review by 2 TAs (5a, 5b) **completed** and then Dr Love will follow-up (5c)
 6. TAs: Analysis 3 Review by 2 TAs (6a, 6b) **completed** and then Dr Love will follow-up (6c)
 7. TAs: Reflection Review by 2 TAs (7a, 7b) **completed** and then Dr Love will follow-up (7c)
 8. TAs: Video Review (8a, 8b, 8c) **completed** and then Dr Love will follow-up (8d)
-9. [x] Form 9: Dr Love: Other HTML pieces not covered previously
+9. [x] Form 9: Dr. Love: Other HTML pieces not covered previously.
+10. Self-Evaluations: Dr Love will review (*not done on an evaluation form*)
 
 We have received complete submissions for all 44 projects, listed below.
 
@@ -47,17 +49,17 @@ A-14 | Moses Fleischman | On Time |                                 `1 2 3 4ab- 
 A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | On Time |            `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-16 | John Huff | On Time |                                        `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | On Time |     `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
-A-18 | Swati Jha <br> and **Noni Pinales** | On Time |              `1 2 3 4a-- 5ab- 6ab- 7ab- 8abc- 9`
-A-19 | Dana Kleinman | On Time |                                    `1 2 3 4a-- 5ab- 6ab- 7ab- 8abc- 9`
-A-20 | Alex Krammer | On Time |                                     `1 2 3 4a-- 5ab- 6ab- 7ab- 8abc- 9`
+A-18 | Swati Jha <br> and **Noni Pinales** | On Time |              `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
+A-19 | Dana Kleinman | On Time |                                    `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
+A-20 | Alex Krammer | On Time |                                     `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 
 ### Projects A-21 through A-30
 
 Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
-A-21 | Ben Kwiatkowski | On Time |                        `1 2 3 4a-- 5ab- 6ab- 7ab- 8abc- 9`
-A-22 | Valerie Lam | On Time |                            `1 2 3 4a-- 5ab- 6ab- 7ab- 8abc- 9`
-A-23 | Subin Lee | On Time |                              `1 2 3 4a-- 5ab- 6ab- 7ab- 8abc- 9`
+A-21 | Ben Kwiatkowski | On Time |                        `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
+A-22 | Valerie Lam | On Time |                            `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
+A-23 | Subin Lee | On Time |                              `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-24 | Eric Liu | On Time |                               `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-25 | Simon Lynn | On Time |                             `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-26 | Leland Metheny | On Time |                         `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
