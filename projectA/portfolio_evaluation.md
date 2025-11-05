@@ -13,7 +13,7 @@
 6. TAs: Analysis 3 Review by 2 TAs (6a, 6b) **completed** and then Dr Love will follow-up (6c)
 7. TAs: Reflection Review by 2 TAs (7a, 7b) **completed** and then Dr Love will follow-up (7c)
 8. TAs: Video Review (8a, 8b, 8c) **completed** and then Dr Love will follow-up (8d)
-9. [x] Form 9: Dr. Love: Other HTML pieces not covered previously.
+9. [x] Form 9: Dr. Love: Other HTML pieces not covered previously. **completed**
 10. Self-Evaluations: Dr Love will review (*not done on an evaluation form*)
 
 We have received complete submissions for all 44 projects, listed below.
