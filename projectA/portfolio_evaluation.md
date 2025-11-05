@@ -12,7 +12,7 @@
 6. TAs: Analysis 3 Review by 2 TAs (6a, 6b) **completed** and then Dr Love will follow-up (6c)
 7. TAs: Reflection Review by 2 TAs (7a, 7b) **completed** and then Dr Love will follow-up (7c)
 8. TAs: Video Review (8a, 8b, 8c) **completed** and then Dr Love will follow-up (8d)
-9. Dr Love: Other HTML pieces not covered previously
+9. [x] Form 9: Dr Love: Other HTML pieces not covered previously
 
 We have received complete submissions for all 44 projects, listed below.
 
@@ -32,7 +32,7 @@ A-04 | Amanda Barabas | On Time |                               `1 2 3 4ab- 5ab-
 A-05 | Alex Bergendorf | On Time |                              `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-06 | Dayanna Bohorquez | On Time |                            `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-07 | Arjun Chatterjee | On Time |                             `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
-A-08 | Linda Chen | On Time |                                   `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- -`
+A-08 | Linda Chen | On Time |                                   `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-09 | Ruoying Chen | On Time |                                 `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 A-10 | Emma Chio | On Time |                                    `1 2 3 4ab- 5ab- 6ab- 7ab- 8abc- 9`
 
