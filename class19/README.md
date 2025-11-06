@@ -19,7 +19,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. We created a Google Doc called "TA Advice on Other Courses" which is posted to your Shared Drive.
 2. Feedback on the Minute Paper after Class 18 [is now available](https://bit.ly/431-2025-min-18-feedback).
 3. Project A Evaluation continues, and you can [follow the progress here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/portfolio_evaluation.md). It's all on me now, and I have all the information I need and have done all of the reviewing (except for the self-evaluation) so the main issue now is putting all of the feedback together into a digestible form. Remaining pieces on that are Analysis 3, the Reflections, the second half of each Video and the Self-Evaluation. Feedback will come to you via your CWRU email when it is ready.
-4. Don't forget to remind me if we get to 1:45 and haven't taken a standing break. Perhaps we'll look at [this](https://imgs.xkcd.com/comics/good_and_bad_ideas.png) ([Source](https://xkcd.com/2929)) when we do.
+4. Don't forget to remind me if we get to 1:45 and haven't taken a standing break. Perhaps we'll look at [this](https://xkcd.com/2929) when we do.
 
 --------
 
