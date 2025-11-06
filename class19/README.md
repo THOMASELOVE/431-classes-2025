@@ -10,11 +10,16 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 19 | 2025-11-06 | **[Slides 19](https://thomaselove.github.io/431-slides-2025/class19.html)** | **[Word 19](https://thomaselove.github.io/431-slides-2025/class19w.docx)** | **[Code 19](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class19.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/tukey.png) [Source](https://xkcd.com/3104)
+
+- John Wilder Tukey, best known for the development of the Fast Fourier Transform algorithm and the boxplot, would have been 110 on 2025-06-16, just to clarify.
+
 ## Announcements
 
 1. We created a Google Doc called "TA Advice on Other Courses" which is posted to your Shared Drive.
 2. Feedback on the Minute Paper after Class 18 [is now available](https://bit.ly/431-2025-min-18-feedback).
-3. Project A Evaluation continues, and you can [follow the progress here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/portfolio_evaluation.md). It's all on me now, and I have all the information I need and have done all of the reviewing (except for the self-evaluation) so the main issue now is putting all of the feedback together into a digestible form. Remaining pieces on that are Analysis 3, the Reflections, the second half of each Video and the Self-Evaluation. 
+3. Project A Evaluation continues, and you can [follow the progress here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/portfolio_evaluation.md). It's all on me now, and I have all the information I need and have done all of the reviewing (except for the self-evaluation) so the main issue now is putting all of the feedback together into a digestible form. Remaining pieces on that are Analysis 3, the Reflections, the second half of each Video and the Self-Evaluation. Feedback will come to you via your CWRU email when it is ready.
+4. Don't forget to remind me if we get to 1:45 and haven't taken a standing break. Perhaps we'll look at [this](https://imgs.xkcd.com/comics/good_and_bad_ideas.png) ([Source](https://xkcd.com/2929)) when we do.
 
 --------
 
@@ -32,3 +37,7 @@ Deadline | Item(s)
 Around December 10 | (10) Course Evaluation of 431 for CWRU (exact date and web link TBA)
 
 **Note**: There will also be at least two more opportunities for bonus credit this semester - each of which will have deadlines after the Thanksgiving Break. So far, one has been published.
+
+## One Last Thing
+
+[The Invisible Curriculum: What Your PhD Programme Should Teach But Doesn't (or not directly...)](https://iain-jackson.beehiiv.com/p/010-the-invisible-curriculum-what-your-phd-programme-should-teach-but-doesn-t-or-not-directly) by Iain Jackson, published 2025-10-26 was an interesting read.
