@@ -16,7 +16,7 @@
 9. [x] Form 9: Dr. Love: Other HTML pieces not covered previously. **completed**
 10. Self-Evaluations: Dr Love will review (*not done on an evaluation form*)
 
-**After** that's all done, and I have done almost all of the reviewing (except for the self-evaluation and the second half of a few videos), so the main hurdle now is putting all of the feedback together into a digestible form. I've done that for most of the project for all students. Remaining pieces for that work are Analysis 3, the Reflections, the second half of each Video and the Self-Evaluation, then composing emails to each of you. I am pretty sure this will be done by mid-day Friday, but I hope it will be done sooner.
+**After** that's all done, and I have done almost all of the reviewing (except for the self-evaluation and the second half of a few videos), the main hurdle will be putting all of the feedback together into a digestible form. I've done that for most of the project (Sections 1-13, 17-18) for all students. Remaining pieces for that work are a little bit of Analysis 2, some Analysis 3, all of the Reflections, the second half of each Video and the Self-Evaluation, then composing emails to each of you. I am pretty sure this will be done and sent to you by noon Friday, but I hope it will be done sooner.
 
 We have received complete submissions for all 44 projects, listed below.
 
