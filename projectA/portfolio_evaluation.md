@@ -2,8 +2,8 @@
 
 ## Evaluation Forms
 
-- We hope to provide grades and detailed feedback sometime on Thursday 2025-11-06, but that deadline may slip to the next day.
-- All of the TA work is complete.
+- I have all the information I need from the TAs and from you.
+- I have reviewed the HTML, Quarto, R data set and video for everyone. I still need to review the Self-Evaluations, although that doesn't take long, because we don't give a lot of feedback on that piece.
 
 1. [x] Form 1: Dr. Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18) **completed**
 2. [x] Form 2: Dr. Love: Evaluation of Rds and Video files (general submission checks) **completed**
@@ -12,11 +12,16 @@
 5. [x] Form 5: TAs: Analysis 2 Review by 2 TAs (5a, 5b) and then Dr Love will follow-up (5c) **completed** 
 6. [x] Form 6: TAs: Analysis 3 Review by 2 TAs (6a, 6b) and then Dr Love will follow-up (6c) **completed**
 7. [x] Form 7: TAs: Reflection Review by 2 TAs (7a, 7b) and then Dr Love will follow-up (7c) **completed**
-8. TAs: Video Review (8a, 8b, 8c) **completed** and then Dr Love will follow-up (8d)
+8. [x] Form 8: TAs: Video Review (8a, 8b, 8c) and then Dr Love will follow-up (8d) **completed**
 9. [x] Form 9: Dr. Love: Other HTML pieces not covered previously. **completed**
 10. Self-Evaluations: Dr Love will review (*not done on an evaluation form*)
 
-**After** that's all done, and I have done almost all of the reviewing (except for the self-evaluation and the second half of a few videos), the main hurdle will be putting all of the feedback together into a digestible form. I've done that for most of the project (Sections 1-13, 17-18) for all students. Remaining pieces for that work are a little bit of Analysis 2, some Analysis 3, all of the Reflections, the second half of each Video and the Self-Evaluation, then composing emails to each of you. I am pretty sure this will be done and sent to you by noon Friday, but I hope it will be done sooner.
+- I am now working on gathering all of the feedback together into a digestible form.
+  - Remaining pieces for gathering and summarizing are Analysis 3 and the Reflections and then I'll add in the Self-Evaluation results.
+  - Then I need to turn that information into a set of tailored emails to you, which takes some time, and is challenging to do late in the day.
+  - So far, I have written (with TA help) 15,000 to 22,000 characters worth of feedback per project.
+    - That's at least 2500 words per project, or about five pages of feedback, and overall, I'm at almost 740,000 characters so far, which is over 100,000 words.
+  - Feedback will come to you via your CWRU email (and not via Canvas) when it is ready. That may be late Thursday but will probably be sometime Friday 11-07.
 
 We have received complete submissions for all 44 projects, listed below.
 
@@ -30,15 +35,15 @@ We have received complete submissions for all 44 projects, listed below.
 Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-forms)
 :----: | :----------------: | :-----------: | :-------------------------------------------
 A-01 | Sadia Ahmed | On Time |                                  `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
-A-02 | Madison Albert | On Time |                               `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
+A-02 | Madison Albert | On Time |                               `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-03 | Fai Albuainain <br> and **Avianna Thompson** | On Time | `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
-A-04 | Amanda Barabas | On Time |                               `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
-A-05 | Alex Bergendorf | On Time |                              `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
+A-04 | Amanda Barabas | On Time |                               `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
+A-05 | Alex Bergendorf | On Time |                              `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-06 | Dayanna Bohorquez | *Slightly Late* |                    `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-07 | Arjun Chatterjee | On Time |                             `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-08 | Linda Chen | *Slightly Late* |                           `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-09 | Ruoying Chen | On Time |                                 `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
-A-10 | Emma Chio | On Time |                                    `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
+A-10 | Emma Chio | On Time |                                    `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 
 ### Projects A-11 through A-20
 
@@ -46,14 +51,14 @@ Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-f
 :----: | :----------------: | :-----------: | :-------------------------------------------
 A-11 | Andrew Crawford | On Time |                                  `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-12 | Isabela Drumond Fonseca <br> and **Renu Jadhav** | On Time | `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
-A-13 | Shufei Fang | On Time |                                      `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
+A-13 | Shufei Fang | On Time |                                      `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-14 | Moses Fleischman | On Time |                                 `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-15 | **Wilson Hsu** <br> and Ching-Wen Mai | On Time |            `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-16 | John Huff | On Time |                                        `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-17 | **Hannah Iqbal** <br> and Comelia Soltanirad | On Time |     `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-18 | Swati Jha <br> and **Noni Pinales** | On Time |              `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
-A-19 | Dana Kleinman | On Time |                                    `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
-A-20 | Alex Krammer | On Time |                                     `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
+A-19 | Dana Kleinman | On Time |                                    `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
+A-20 | Alex Krammer | On Time |                                     `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 
 ### Projects A-21 through A-30
 
@@ -62,10 +67,10 @@ Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-f
 A-21 | Ben Kwiatkowski | On Time |                        `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-22 | Valerie Lam | On Time |                            `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-23 | Subin Lee | On Time |                              `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
-A-24 | Eric Liu | On Time |                               `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
-A-25 | Simon Lynn | On Time |                             `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
-A-26 | Leland Metheny | On Time |                         `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
-A-27 | Andrew Morris | On Time |                          `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
+A-24 | Eric Liu | On Time |                               `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
+A-25 | Simon Lynn | On Time |                             `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
+A-26 | Leland Metheny | On Time |                         `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
+A-27 | Andrew Morris | On Time |                          `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-28 | Janette Brundage <br> and **Leah Nez** | On Time | `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-29 | Noha Orabi | **Late** |                            `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-30 | Scout Osborne | On Time |                          `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
@@ -79,8 +84,8 @@ A-32 | Annabelle Elsner Pacheco <br> and **Phia Ribeiro** | *Slightly Late* |   
 A-33 | Amjad Samara | On Time |                                          `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-34 | Erin San Valentin | On Time |                                     `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-35 | Lauren Sapienza | On Time |                                       `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
-A-36 | Hana Sato | On Time |                                             `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
-A-37 | Josh Silalahi | **Late** |                                        `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
+A-36 | Hana Sato | On Time |                                             `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
+A-37 | Josh Silalahi | **Late** |                                        `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-38 | Jiayi Sun | On Time |                                             `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-39 | Allison Thirion-Blasius | On Time |                               `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-40 | Jiakun Wang | On Time |                                           `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
@@ -92,4 +97,4 @@ Code | Investigator(s) | Submission | Completed [Evaluation Forms](#evaluation-f
 A-41 | Cher Yuan | On Time |          `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-42 | Lily Zhang | On Time |         `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
 A-43 | Helena Zhao | On Time |        `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
-A-45 | Pooja Madan Mohan | **Late** | `1 2 3 4abc 5abc 6abc 7abc 8abc- 9`
+A-45 | Pooja Madan Mohan | **Late** | `1 2 3 4abc 5abc 6abc 7abc 8abcd 9`
