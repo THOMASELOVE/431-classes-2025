@@ -2,8 +2,8 @@
 
 ## Evaluation Forms
 
-- We hope to provide grades and detailed feedback sometime Thursday 2025-11-06, but that deadline may slip.
-- All of the TA work is complete. Now it's up to Dr. Love.
+- We hope to provide grades and detailed feedback sometime on Thursday 2025-11-06, but that deadline may slip to the next day.
+- All of the TA work is complete.
 
 1. [x] Form 1: Dr. Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18) **completed**
 2. [x] Form 2: Dr. Love: Evaluation of Rds and Video files (general submission checks) **completed**
@@ -15,6 +15,8 @@
 8. TAs: Video Review (8a, 8b, 8c) **completed** and then Dr Love will follow-up (8d)
 9. [x] Form 9: Dr. Love: Other HTML pieces not covered previously. **completed**
 10. Self-Evaluations: Dr Love will review (*not done on an evaluation form*)
+
+**After** that's all done, and I have done almost all of the reviewing (except for the self-evaluation and the second half of a few videos), so the main hurdle now is putting all of the feedback together into a digestible form. I've done that for most of the project for all students. Remaining pieces for that work are Analysis 3, the Reflections, the second half of each Video and the Self-Evaluation, then composing emails to each of you. I am pretty sure this will be done by mid-day Friday, but I hope it will be done sooner.
 
 We have received complete submissions for all 44 projects, listed below.
 
