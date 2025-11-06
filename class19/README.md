@@ -18,7 +18,14 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. We created a Google Doc called "TA Advice on Other Courses" which is posted to your Shared Drive.
 2. Feedback on the Minute Paper after Class 18 [is now available](https://bit.ly/431-2025-min-18-feedback).
-3. Project A Evaluation continues, and you can [follow the progress here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/portfolio_evaluation.md). It's all on me now, and I have all the information I need and have done all of the reviewing (except for the self-evaluation) so the main issue now is putting all of the feedback together into a digestible form. Remaining pieces on that are Analysis 3, the Reflections, the second half of each Video and the Self-Evaluation. Feedback will come to you via your CWRU email when it is ready.
+3. Project A Evaluation continues, and you can [follow the progress here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/portfolio_evaluation.md) but here are the highlights.
+    - I have all the information I need from the TAs and from you.
+    - I have reviewed the HTML, Quarto, R data set and video for everyone. I still need to review the Self-Evaluations, although that doesn't take long, because we don't give a lot of feedback on that piece.
+    - I am now working on gathering all of the feedback together into a digestible form.
+        - So far, I have written 15,000 to 22,000 characters worth of feedback on each project. So that's at least 2500 words per person, or about five pages of feedback.
+        - Remaining pieces for gathering and summarizing are Analysis 3 and the Reflections and then I'll add in the Self-Evaluation results.
+        - Then I need to turn that information into a set of tailored emails to you, which takes some time, and is challenging to do late in the day.
+        - So, feedback will come to you via your CWRU email (and not via Canvas) when it is ready. That may be late tonight but will probably be sometime tomorrow.
 4. Don't forget to remind me if we get to 1:45 and haven't taken a standing break. Perhaps we'll look at [this](https://xkcd.com/2929) when we do.
 
 --------
