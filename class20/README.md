@@ -20,8 +20,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. My [feedback on your questions and comments](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md) from the Project A Self-Evaluation is available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md).
 2. The [Project B Registration Form](https://bit.ly/431-projB-registration-2025) is due tomorrow (Wednesday 2025-11-12) at noon. Please get this in on time. Here are [instructions for Registering Project B]((https://thomaselove.github.io/431-projectB-2025/register.html))
-    - Dr. Love will respond to forms quickly as they appear are submitted, and will track submissions [here](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectB).
-    - The schedule for Project B presentations will be available to you on Friday 2025-11-14. I'll send email when [that link is live](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectB).
+    - Dr. Love will respond to these forms quickly as they are submitted, and tracks submissions [here](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectB).
+    - The schedule for Project B presentations will be available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) on Friday 2025-11-14.
 3. There is a Minute Paper after Class 20 also due tomorrow (Wednesday 2025-11-12) at noon. **Link to come.**
 4. More will appear here in time for class. 
 
@@ -59,3 +59,9 @@ Deadline | Item(s)
 Around December 10 | (10) Course Evaluation of 431 for CWRU (exact date and web link TBA)
 
 **Note**: There will also be at least two more opportunities for bonus credit this semester - each of which will have deadlines after the Thanksgiving Break. So far, one has been published.
+
+--- 
+
+## One Last Thing
+
+**To come**.
