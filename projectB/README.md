@@ -2,7 +2,7 @@
 
 ## Registration Details
 
-As each group's [Project B Registration Form] is submitted and accepted, I will list the investigators below.
+As each group's [Project B Registration Form](https://bit.ly/431-projB-registration-2025) is submitted and accepted, I will list the investigators below.
 
 ## Schedule for Project B Presentations
 
