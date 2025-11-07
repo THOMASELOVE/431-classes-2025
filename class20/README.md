@@ -18,9 +18,16 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. My [feedback on your questions and comments](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md) from the Project A Self-Evaluation is available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md).
+2. The [Project B Registration Form](https://bit.ly/431-projB-registration-2025) is due tomorrow (Wednesday 2025-11-12) at noon. Please get this in on time. Here are [instructions for Registering Project B]((https://thomaselove.github.io/431-projectB-2025/register.html))
+    - Dr. Love will respond to forms quickly as they appear are submitted, and will track submissions [here](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectB).
+    - The schedule for Project B presentations will be available to you on Friday 2025-11-14. I'll send email when [that link is live](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectB).
+3. There is a Minute Paper after Class 20 also due tomorrow (Wednesday 2025-11-12) at noon. **Link to come.**
+4. More will appear here in time for class. 
 
-## References from Class 19 (and also today's) Slides
+---
+
+## References from Slides in Classes 19 and 20
 
 - [Reflection on modern methods: Statistics education beyond ‘significance’: novel plain English interpretations to deepen understanding of statistics and to steer away from misinterpretations](https://academic.oup.com/ije/article/49/6/2083/5876177?login=false) by Hilary Watt
 - [Compare performance of different models](https://easystats.github.io/performance/reference/compare_performance.html) from the easystats framework.
@@ -35,3 +42,20 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - https://mdsr-book.github.io/mdsr2e/
     - https://bookdown.org/content/4857/
     - https://torkar.github.io/BDA_in_ESE/
+
+---
+
+## There are 10 Remaining Deliverables for 431 This Semester
+
+As things stand, here is the complete list. See the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html) for more details, and updates will appear there, if needed. All dates are **WEDNESDAYS**, unless indicated otherwise.
+
+Deadline | Item(s)
+:-----------------: | :----------------------------------------------------------------------------------------------------------
+2025-11-12 at noon | (1) [Project B registration and scheduling form will be due.](https://thomaselove.github.io/431-projectB-2025/register.html) (Google Form) <br> (2) [Minute Paper after Class 20](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
+2025-11-19 at noon | (3) [Lab 6](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6) is due to [Canvas](https://canvas.case.edu/). <br> (4) [Minute Paper after Class 22](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
+2025-12-03 at noon | (5) [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) is due (Google Form). <br> [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) will be made available to you by 3 PM on Thursday 2025-11-20.
+~30 minutes on <br> December <br> 3, 4, 5, 8 or 9 | (6) [Project B](https://thomaselove.github.io/431-projectB-2025/) presentation with me (either in person or over Zoom) <br> You will express your schedule preferences in the [Project B registration form](https://thomaselove.github.io/431-projectB-2025/register.html). <br> The presentation schedule will be posted on 2025-11-14.
+2025-12-10 at noon | (7) **Final Deadline**: All [Project B](https://thomaselove.github.io/431-projectB-2025/) Materials are due. <br> (8) [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due. <br> (optional) (9) [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) is due.
+Around December 10 | (10) Course Evaluation of 431 for CWRU (exact date and web link TBA)
+
+**Note**: There will also be at least two more opportunities for bonus credit this semester - each of which will have deadlines after the Thanksgiving Break. So far, one has been published.
