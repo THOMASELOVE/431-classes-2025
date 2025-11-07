@@ -4,3 +4,5 @@
 - 2025-10-06: A list of [examples and general comments](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md) on the Project A Plans that everyone should read [is found here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/plans/examples.md).
 - Submission and Evaluation Status for Project A Portfolios [will be found here](portfolio_evaluation.md)
 - Feedback on Your [Questions and Comments from the Self-Evaluations](self_eval_questions.md)
+
+**431 Project A Feedback** was sent to all students at their CWRU email between 3 and 4 PM on Friday 2025-11-07.
