@@ -23,6 +23,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## References from Class 19 (and also today's) Slides
 
 - [Reflection on modern methods: Statistics education beyond ‘significance’: novel plain English interpretations to deepen understanding of statistics and to steer away from misinterpretations](https://academic.oup.com/ije/article/49/6/2083/5876177?login=false) by Hilary Watt
+- [Compare performance of different models](https://easystats.github.io/performance/reference/compare_performance.html) from the easystats framework.
 - Main page for [Posit Cheat Sheets](https://rstudio.github.io/cheatsheets/)
     - [Posit's Data Transformation Cheat Sheet](https://rstudio.github.io/cheatsheets/html/data-transformation.html)
     - The [Joins chapter](https://r4ds.hadley.nz/joins) of R for Data Science
