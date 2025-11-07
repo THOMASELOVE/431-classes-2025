@@ -19,3 +19,18 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. This section will appear in time for class. 
+
+## References from Class 19 (and also today's) Slides
+
+- [Reflection on modern methods: Statistics education beyond ‘significance’: novel plain English interpretations to deepen understanding of statistics and to steer away from misinterpretations](https://academic.oup.com/ije/article/49/6/2083/5876177?login=false) by Hilary Watt
+- Main page for [Posit Cheat Sheets](https://rstudio.github.io/cheatsheets/)
+    - [Posit's Data Transformation Cheat Sheet](https://rstudio.github.io/cheatsheets/html/data-transformation.html)
+    - The [Joins chapter](https://r4ds.hadley.nz/joins) of R for Data Science
+- [Technical Writing](https://quarto.org/docs/visual-editor/technical.html) in Quarto, including information on including equations, citations, cross-references, footnotes, embedded code, and LaTeX, especially using Quarto's Visual Editor.
+- Were I to want to learn a little bit about informative priors, I'd look at places like the following:
+    - https://xcelab.net/rm/
+    - https://github.com/rmcelreath/stat_rethinking_2024?tab=readme-ov-file
+    - https://vincentarelbundock.github.io/rethinking2/
+    - https://mdsr-book.github.io/mdsr2e/
+    - https://bookdown.org/content/4857/
+    - https://torkar.github.io/BDA_in_ESE/
