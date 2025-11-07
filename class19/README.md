@@ -28,6 +28,21 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
         - So, feedback will come to you via your CWRU email (and not via Canvas) when it is ready. That may be late tonight but will probably be sometime tomorrow.
 4. Don't forget to remind me if we get to 1:45 and haven't taken a standing break. Perhaps we'll look at [this](https://xkcd.com/2929) when we do.
 
+## References from Today's Slides
+
+- [Reflection on modern methods: Statistics education beyond ‘significance’: novel plain English interpretations to deepen understanding of statistics and to steer away from misinterpretations](https://academic.oup.com/ije/article/49/6/2083/5876177?login=false) by Hilary Watt
+- Main page for [Posit Cheat Sheets](https://rstudio.github.io/cheatsheets/)
+    - [Posit's Data Transformation Cheat Sheet](https://rstudio.github.io/cheatsheets/html/data-transformation.html)
+    - The [Joins chapter](https://r4ds.hadley.nz/joins) of R for Data Science
+- [Technical Writing](https://quarto.org/docs/visual-editor/technical.html) in Quarto, including information on including equations, citations, cross-references, footnotes, embedded code, and LaTeX, especially using Quarto's Visual Editor.
+- Were I to want to learn a little bit about informative priors, I'd look at places like the following:
+    - https://xcelab.net/rm/
+    - https://github.com/rmcelreath/stat_rethinking_2024?tab=readme-ov-file
+    - https://vincentarelbundock.github.io/rethinking2/
+    - https://mdsr-book.github.io/mdsr2e/
+    - https://bookdown.org/content/4857/
+    - https://torkar.github.io/BDA_in_ESE/
+
 --------
 
 ## There are 10 Remaining Deliverables for 431 This Semester
