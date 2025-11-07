@@ -2,26 +2,7 @@
 
 ## Evaluation Forms
 
-- I have all the information I need from the TAs and from you.
-- I have reviewed the HTML, Quarto, R data set and video for everyone. I still need to review the Self-Evaluations, although that doesn't take long, because we don't give a lot of feedback on that piece.
-
-1. [x] Form 1: Dr. Love: Evaluation of Basic HTML requirements (sections 1, 3, 9, 11, 17, 18) **completed**
-2. [x] Form 2: Dr. Love: Evaluation of Rds and Video files (general submission checks) **completed**
-3. [x] Form 3: Dr. Love: Evaluation of Quarto files **completed**
-4. [x] Form 4: TAs: Analysis 1 Review by 2 TAs (4a, 4b) and then Dr Love will follow-up (4c) **completed** 
-5. [x] Form 5: TAs: Analysis 2 Review by 2 TAs (5a, 5b) and then Dr Love will follow-up (5c) **completed** 
-6. [x] Form 6: TAs: Analysis 3 Review by 2 TAs (6a, 6b) and then Dr Love will follow-up (6c) **completed**
-7. [x] Form 7: TAs: Reflection Review by 2 TAs (7a, 7b) and then Dr Love will follow-up (7c) **completed**
-8. [x] Form 8: TAs: Video Review (8a, 8b, 8c) and then Dr Love will follow-up (8d) **completed**
-9. [x] Form 9: Dr. Love: Other HTML pieces not covered previously. **completed**
-10. Self-Evaluations: Dr Love will review (*not done on an evaluation form*)
-
-- I am now working on gathering all of the feedback together into a digestible form.
-  - Remaining pieces for gathering and summarizing are Analysis 3 and the Reflections and then I'll add in the Self-Evaluation results.
-  - Then I need to turn that information into a set of tailored emails to you, which takes some time, and is challenging late in the day.
-  - So far, I have written (with TA help) 15,000 to 22,000 characters worth of feedback per project.
-    - That's at least 2500 words per project, or about five pages of feedback, and overall, I'm at almost 740,000 characters so far, which is over 100,000 words.
-  - Feedback will come to you via your CWRU email (and not via Canvas) when it is ready. That may be late Thursday but will probably be sometime Friday 11-07.
+- **431 Project A Feedback** was sent to all students at their CWRU email between 3 and 4 PM on Friday 2025-11-07.
 
 We have received complete submissions for all 44 projects, listed below.
 
