@@ -19,7 +19,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. My [feedback on your questions and comments](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md) from the Project A Self-Evaluation is available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md).
-2. The [Project B Registration Form](https://bit.ly/431-projB-registration-2025) is due tomorrow (Wednesday 2025-11-12) at noon. Please get this in on time. Here are [instructions for Registering Project B]((https://thomaselove.github.io/431-projectB-2025/register.html))
+2. The [Project B Registration Form](https://bit.ly/431-projB-registration-2025) is due tomorrow (Wednesday 2025-11-12) at noon. Please get this in on time. Here are [instructions for Registering Project B](https://thomaselove.github.io/431-projectB-2025/register.html).
     - Dr. Love will respond to these forms quickly as they are submitted, and tracks submissions [here](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectB).
     - The schedule for Project B presentations will be available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) on Friday 2025-11-14.
 3. The Lab 5 Answer Sketch and Grading Rubric appeared on 2025-11-07 on our Shared Drive. **Feedback should be available by class time.**
