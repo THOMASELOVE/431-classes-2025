@@ -14,15 +14,11 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :--------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
-❓ | Fai Albuainain | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work in past 12m | asthma episode/attack in past 12m | 1392
+❓ | Fai Albuainain[^1]. | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work in past 12m | asthma episode/attack in past 12m | 1392
 ❓ | Dana Kleinman. | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | # of diagnosed health conditions | cardiovascular physical activity (3 levels) | 1106
 
-- ❓ Fai: (a) Does the count of 1392 subjects refer specifically to 1392 subjects with a diagnosis of asthma? (b) I want to see a tabyl of the outcome variable and the key predictor (2 levels) before I'll give final approval.
+[^1]: Fai: (a) Does the count of 1392 subjects refer specifically to 1392 subjects with a diagnosis of asthma? (b) I want to see a tabyl of the outcome variable and the key predictor (2 levels) before I'll give final approval.
 - ❓ Dana: Diagnosed health conditions is a count, which for most people in your sample of 1106 will be either 0, 1, or 2. We need more variation than that in an outcome for this project, so I am concerned. (b) I want to see a tabyl of the outcome variable and the key predictor (3 levels) within your sample before I'll give final approval.
-
-Here is a simple footnote[^1].
-
-[^1]: My reference.
 
 ### NHANES Study Plans
 
