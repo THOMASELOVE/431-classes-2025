@@ -24,7 +24,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Dr. Love will respond to these forms quickly as they are submitted, and [tracks submissions here](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectB).
     - The schedule for Project B presentations will be available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) on Friday 2025-11-14.
 4. The Lab 5 Answer Sketch and Grading Rubric appeared on 2025-11-07 on our Shared Drive. **Feedback should be available by class time.**
-5. There is a Minute Paper after Class 20 also due tomorrow (Wednesday 2025-11-12) at noon. **Link to come.**
+5. There is a [Minute Paper after Class 20](https://bit.ly/431-2025-minute-20) also due tomorrow (Wednesday 2025-11-12) at noon.
 6. Several students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
 7. **More to come** in time for class. 
 
@@ -54,7 +54,7 @@ As things stand, here is the complete list. See the [Course Calendar](https://th
 
 Deadline | Item(s)
 :-----------------: | :----------------------------------------------------------------------------------------------------------
-2025-11-12 at noon | (1) [Project B registration and scheduling form will be due.](https://thomaselove.github.io/431-projectB-2025/register.html) (Google Form) <br> (2) [Minute Paper after Class 20](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
+2025-11-12 at noon | (1) [Project B registration and scheduling form will be due.](https://thomaselove.github.io/431-projectB-2025/register.html) (Google Form) <br> (2) [Minute Paper after Class 20](https://bit.ly/431-2025-minute-20) 
 2025-11-19 at noon | (3) [Lab 6](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6) is due to [Canvas](https://canvas.case.edu/). <br> (4) [Minute Paper after Class 22](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
 2025-12-03 at noon | (5) [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) is due (Google Form). <br> [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) will be made available to you by 3 PM on Thursday 2025-11-20.
 ~30 minutes on <br> December <br> 3, 4, 5, 8 or 9 | (6) [Project B](https://thomaselove.github.io/431-projectB-2025/) presentation with me (either in person or over Zoom) <br> You will express your schedule preferences in the [Project B registration form](https://thomaselove.github.io/431-projectB-2025/register.html). <br> The presentation schedule will be posted on 2025-11-14.
