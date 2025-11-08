@@ -11,7 +11,7 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 ### Important Notes
 
 1. In the **OK?** column, below...
-    - ✔️ means I have approved your plan, but check to see if I have a note (footnote) that you need to respond to.
+    - ✔️ means I have approved your plan, but check to see if I have a note (footnote) that you need to respond to. If there is a check and no footnote by your name, then you're all set.
     - ❓ means I might approve your plan, but the footnote will tell you what further information or clarification I need.
     - **NO** means I will not approve your plan as currently listed, and you will have to resubmit the form according to the requirements in my note to you.
 2. Other students *might* be allowed use our 431 Favorite Movies data, but only with my emailed permission **before** you submit the Project B Registration Form. Contact me by email now if you want me to consider letting you use these data. You will need to make a strong case to me that you are going to do something of interest to use these data.
@@ -20,10 +20,10 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
-❓ | Fai Albuainain[^Fai]. | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 1392
-❓ | Dana Kleinman[^Dana]. | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | # of diagnosed health conditions | cardiovascular physical  activity (3 levels) | 1106
+❓ | Fai Albuainain[^Fai] | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 1392
+❓ | Dana Kleinman[^Dana] | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | # of diagnosed health conditions | cardiovascular physical  activity (3 levels) | 1106
 **NO** | Subin Lee[^Subin] | [National Hospital Care Survey](https://www.cdc.gov/nchs/nhcs/data/index.html), 2021 | *needs to change* | *needs to change* |  TBD
-✔️ | Phia Ribeiro[^Phia] & Annabelle Elsner Pacheco | 431 Favorite Movies data from 2025-10-28 | Awards received | Rotten Tomatoes Critic's Score | 250
+✔️ | Phia Ribeiro & Annabelle Elsner Pacheco | 431 Favorite Movies data from 2025-10-28 | Awards received | Rotten Tomatoes Critic's Score | 250
 
 [^Fai]: Fai: (a) Does the count of 1392 subjects refer specifically to 1392 subjects with a diagnosis of asthma? (b) I want to see a tabyl of the outcome variable and the key predictor (2 levels) in an email to me before I'll give final approval.
 [^Dana]: Dana: (a) Diagnosed health conditions is a count, which for most people in your sample of 1106 will be either 0, 1, or 2. We need more variation than that in an outcome for this project, so I am concerned. (b) I want to see a tabyl of the outcome variable and the key predictor (3 levels) within your sample in an email to me before I'll give final approval.
