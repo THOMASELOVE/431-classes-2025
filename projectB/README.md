@@ -14,7 +14,7 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
     - ✔️ means I have approved your plan, but check to see if I have a note (footnote) that you need to respond to. If there is a check and no footnote by your name, then you're all set. Go and do the rest of Project B.
     - ❓ means I might approve your plan, but the footnote will tell you what further information or clarification I need (and how you should send it) before I approve your work.
     - **NO** means I will not approve your plan as currently listed, and you will have to edit your Registration form and resubmit it according to the requirements in my note to you.
-2. In general, I am not going to let students use the 431 Favorite Movies data. Other students *might* be allowed to use it, but only with my emailed permission **before** you submit the Project B Registration Form. Contact me by email now if you want me to consider letting you use these data. You will need to make a strong case to me that you are going to do something of interest to use these data.
+2. In general, I am not going to let students use the 431 Favorite Movies data. Other students *might* be allowed to use it, but only with my emailed permission **before** you submit the Project B Registration Form. Contact me by email now if you want me to consider letting you use these data. You will need to make a strong case to me that you are going to do something of interest to me that does not overlap with other projects in order to use these data.
 
 ### Non-NHANES Study Plans
 
