@@ -25,7 +25,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - The schedule for Project B presentations will be available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) on Friday 2025-11-14.
 4. The Lab 5 Answer Sketch and Grading Rubric appeared on 2025-11-07 on our Shared Drive. **Feedback should be available by class time.**
 5. There is a Minute Paper after Class 20 also due tomorrow (Wednesday 2025-11-12) at noon. **Link to come.**
-6. **More to come** in time for class. 
+6. Several students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
+7. **More to come** in time for class. 
 
 ---
 
