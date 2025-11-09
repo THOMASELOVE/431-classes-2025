@@ -38,7 +38,7 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
 ✔️ | Amanda Barabas | 8/2021 to 8/2023 | `LBXSATSI` Alanine Aminotransferase (ALT) (IU/l) | Are products used in the home to control insects? (yes/no) | 6,366
 ✔️ | Ben Kwiatkowski | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `KIQ481` Times per night waking to urinate (0-4 or 5+) | 4,843
-✔️ | Lily Zhang | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `PAD790Q` & `PAD790U` Times engaged in moderate leisure-time physical activity per week (5 groups) | 1,534
+✔️ | Lily Zhang | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `PAD790Q` & `PAD790U` Times engaged in moderate leisure-time physical activity per week (4 groups) | 1,531
 ✔️ | Shufei Fang & <br> Ruoying Chen | 8/2021 to 8/2023 | `LBXTC` Total cholesterol (mg/dl) | `LBXWBCSI` White blood cell count (1000 cells / μl) | 1,994
 ✔️ | Cher Yuan[^Cher] | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DMDMARTZ` Marital Status (3 levels) | 5,000
 ✔️ | Valerie Lam[^Valerie] | 2017-3/2020 | `LBXIN` insulin (μU/mL) | `BMXHIP` hip circumference (cm) | 4,433
