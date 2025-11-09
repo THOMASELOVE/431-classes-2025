@@ -22,9 +22,19 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 6. Several students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
 
 ---
+## References from Today's Slides in Class 19
 
-## References from Slides in Classes 19 and 20
+- [The naniar package](https://naniar.njtierney.com/) documentation includes [this `replace_with_na()` vignette](https://cran.r-project.org/web/packages/naniar/vignettes/replace-with-na.html).
+- The [tidyr package on `replace_na()`](https://tidyr.tidyverse.org/reference/replace_na.html). The [tidyr package](https://tidyr.tidyverse.org/) is part of [the core tidyverse](https://tidyverse.org/packages/).
+- The [broom](https://broom.tidymodels.org/) package, which is part of [the tidymodels framework](https://www.tidymodels.org/) we will see in 432
+- Bayesian modeling references, from Slides Set 20
+    - [Probability of Direction](https://easystats.github.io/bayestestR/reference/p_direction.html)
+    - [Rhat and ESS diagnostics](https://mc-stan.org/rstan/reference/Rhat.html)
+    - [Bayesian R-squared](https://easystats.github.io/performance/reference/r2_bayes.html)
+    - [Performance of Bayesian models](https://easystats.github.io/performance/reference/model_performance.stanreg.html)
 
+
+## References from Slides in Class 19
 
 - [Reflection on modern methods: Statistics education beyond ‘significance’: novel plain English interpretations to deepen understanding of statistics and to steer away from misinterpretations](https://academic.oup.com/ije/article/49/6/2083/5876177?login=false) by Hilary Watt
 - [Compare performance of different models](https://easystats.github.io/performance/reference/compare_performance.html) from the easystats framework.
@@ -39,12 +49,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - https://mdsr-book.github.io/mdsr2e/
     - https://bookdown.org/content/4857/
     - https://torkar.github.io/BDA_in_ESE/
-- The [broom](https://broom.tidymodels.org/) package, which is part of [the tidymodels framework](https://www.tidymodels.org/) we will see in 432
-- Bayesian modeling references, from Slides Set 20
-    - [Probability of Direction](https://easystats.github.io/bayestestR/reference/p_direction.html)
-    - [Rhat and ESS diagnostics](https://mc-stan.org/rstan/reference/Rhat.html)
-    - [Bayesian R-squared](https://easystats.github.io/performance/reference/r2_bayes.html)
-    - [Performance of Bayesian models](https://easystats.github.io/performance/reference/model_performance.stanreg.html)
 
 ---
 
