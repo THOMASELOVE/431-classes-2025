@@ -22,6 +22,7 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
 ✔️ | Dana Kleinman | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | average hours of sleep per night | cardiovascular physical activity (3 levels) | 1074
+✔️  | Moses Fleischman | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Days in past 30 when mental health was not good | Adult made the respondent feel safe/protected during childhood (5 levels) | 10,000
 ✔️ | Phia Ribeiro & Annabelle Elsner Pacheco | 431 Favorite Movies data from 2025-10-28 | Awards received | Rotten Tomatoes Critic's Score | 250
 ❓ | Fai Albuainain[^Fai] & Avianna Thompson | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 450
 **NO** | Subin Lee[^Subin] | [National Hospital Care Survey](https://www.cdc.gov/nchs/nhcs/data/index.html), 2021 | *needs to change* | *needs to change* |  TBD
