@@ -37,10 +37,10 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
 ✔️ | Amanda Barabas | 8/2021 to 8/2023 | `LBXSATSI` Alanine Aminotransferase (ALT) (IU/l) | Are products used in the home to control insects? (yes/no) | 6,366
-❓ | Lily Zhang[^Lily] | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `PAD790Q` Times engaged in moderate leisure-time physical activity per week | 1,099
 ✔️ | Ben Kwiatkowski[^Ben] | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `KIQ481` Times per night waking to urinate (0-4 or 5+) | 4,843
 ✔️ | Cher Yuan[^Cher] | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DMDMARTZ` Marital Status (3 levels) | 5,000
 ✔️ | Shufei Fang[^Shufei] & <br> Ruoying Chen | 8/2021 to 8/2023 | `LBXTC` Total cholesterol (mg/dl) | `LBXRBCSI` Red blood cell count (million cells / μl) | 5,669
+❓ | Lily Zhang[^Lily] | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `PAD790Q` Times engaged in moderate leisure-time physical activity per week | 1,099
 
 [^Lily]: Lily: You suggested that all `PAD790Q` values are 1 or more, but what about the zeros? Are you excluding them, and if so, why? Please contact me by email to explain.
 [^Ben]: Ben: I would treat the predictor as quantitative here, and assign 5 to all of the 5+ people. When possible, a quantitative key predictor is appealing for a variety of reasons. Approved.
