@@ -8,13 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
-20 | 2025-11-11 | Coming soon | Coming soon | Coming soon | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
-
-<!-- 
-
 20 | 2025-11-11 | **[Slides 20](https://thomaselove.github.io/431-slides-2025/class20.html)** | **[Word 20](https://thomaselove.github.io/431-slides-2025/class20w.docx)** | **[Code 20](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class20.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
-
--->
 
 ## Announcements
 
@@ -32,6 +26,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## References from Slides in Classes 19 and 20
 
+
 - [Reflection on modern methods: Statistics education beyond ‘significance’: novel plain English interpretations to deepen understanding of statistics and to steer away from misinterpretations](https://academic.oup.com/ije/article/49/6/2083/5876177?login=false) by Hilary Watt
 - [Compare performance of different models](https://easystats.github.io/performance/reference/compare_performance.html) from the easystats framework.
 - Main page for [Posit Cheat Sheets](https://rstudio.github.io/cheatsheets/)
@@ -45,6 +40,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - https://mdsr-book.github.io/mdsr2e/
     - https://bookdown.org/content/4857/
     - https://torkar.github.io/BDA_in_ESE/
+- The [broom](https://broom.tidymodels.org/) package, which is part of [the tidymodels framework](https://www.tidymodels.org/) we will see in 432
+- Bayesian modeling references, from Slides Set 20
+    - [Probability of Direction](https://easystats.github.io/bayestestR/reference/p_direction.html)
+    - [Rhat and ESS diagnostics](https://mc-stan.org/rstan/reference/Rhat.html)
+    - [Bayesian R-squared](https://easystats.github.io/performance/reference/r2_bayes.html)
+    - [Performance of Bayesian models](https://easystats.github.io/performance/reference/model_performance.stanreg.html)
 
 ---
 
