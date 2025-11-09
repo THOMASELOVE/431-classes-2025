@@ -40,9 +40,7 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Ben Kwiatkowski | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `KIQ481` Times per night waking to urinate (0-4 or 5+) | 4,843
 ✔️ | Lily Zhang | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `PAD790Q` & `PAD790U` Times engaged in moderate leisure-time physical activity per week (4 groups) | 1,531
 ✔️ | Shufei Fang & <br> Ruoying Chen | 8/2021 to 8/2023 | `LBXTC` Total cholesterol (mg/dl) | `LBXWBCSI` White blood cell count (1000 cells / μl) | 1,994
-✔️ | Cher Yuan[^Cher] | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DMDMARTZ` Marital Status (3 levels) | 5,000
+✔️ | Cher Yuan | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DMDMARTZ` Marital Status (3 levels) | 5,000
 ✔️ | Valerie Lam[^Valerie] | 2017-3/2020 | `LBXIN` insulin (μU/mL) | `BMXHIP` hip circumference (cm) | 4,433
 
-
-[^Cher]: Cher: (a) There are only three meaningful levels in your cardiovascular physical activity variable: levels 4 (Refused) and 5 (Don't Know) should be recoded as missing. (b) I assume your sample will be restricted to those with both a known `BMXBMI` and a `DMDMARTZ` in levels 1 (Married) 2 (No Longer Married) or 3 (Never Married). If that is correct, then let me know via email and I will then approve your project and remove this note. If not, please contact me via email to explain.
 [^Valerie]: Valerie: I strongly encourage you to look at male subjects ages 18-79 or 21-79, rather than at any age. Please email me to let me know you've seen this and give me the revised number of subjects, so I can then remove this note.
