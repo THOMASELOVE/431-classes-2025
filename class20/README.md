@@ -20,7 +20,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 4. The Lab 5 Answer Sketch and Grading Rubric appeared on 2025-11-07 on our Shared Drive. **Feedback should be available by class time.**
 5. There is a [Minute Paper after Class 20](https://bit.ly/431-2025-minute-20) also due tomorrow (Wednesday 2025-11-12) at noon.
 6. Several students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
-7. **More to come** in time for class. 
 
 ---
 
