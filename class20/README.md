@@ -14,12 +14,16 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. I sent **431 Project A Feedback** to you at your CWRU email between 3 and 4 PM on Friday 2025-11-07. Thanks for your patience.
 2. My [feedback on your questions and comments](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md) from the Project A Self-Evaluation is available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md).
-3. The [Project B Registration Form](https://bit.ly/431-projB-registration-2025) is due tomorrow (Wednesday 2025-11-12) at noon. Please get this in on time. Here are [instructions for Registering Project B](https://thomaselove.github.io/431-projectB-2025/register.html).
-    - Dr. Love will respond to these forms quickly as they are submitted, and [tracks submissions here](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectB).
+3. The [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) Answer Sketch and Grading Rubric is now on our Shared Drive.
+4. **Feedback on Lab 5 should be available by class time.**
+5. Several students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
+
+## Due Tomorrow (Wednesday 2025-11-12) at noon
+
+6. There is a [Minute Paper after Class 20](https://bit.ly/431-2025-minute-20) due **tomorrow** (Wednesday 2025-11-12) at noon.
+7. The [Project B Registration Form](https://bit.ly/431-projB-registration-2025) is also due **tomorrow** (Wednesday 2025-11-12) at noon. Please get this in on time. Here are [instructions for Registering Project B](https://thomaselove.github.io/431-projectB-2025/register.html).
+    - Dr. Love responds to these forms as they are submitted, and [tracks submissions here](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectB).
     - The schedule for Project B presentations will be available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) on Friday 2025-11-14.
-4. The Lab 5 Answer Sketch and Grading Rubric appeared on 2025-11-07 on our Shared Drive. **Feedback should be available by class time.**
-5. There is a [Minute Paper after Class 20](https://bit.ly/431-2025-minute-20) also due tomorrow (Wednesday 2025-11-12) at noon.
-6. Several students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
 
 ---
 ## References from Today's Slides in Class 19
