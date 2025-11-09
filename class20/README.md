@@ -17,6 +17,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. The [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) Answer Sketch and Grading Rubric is now on our Shared Drive.
 4. **Feedback on Lab 5 should be available by class time.**
 5. Several students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
+6. I added [the gtExtras package](https://jthomasmock.github.io/gtExtras/index.html) to our [list of packages to install](https://github.com/THOMASELOVE/431-packages/tree/main). I will use this next time, I believe.
 
 ## Due Tomorrow (Wednesday 2025-11-12) at noon
 
