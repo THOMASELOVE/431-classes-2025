@@ -26,7 +26,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - The schedule for Project B presentations will be available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) on Friday 2025-11-14.
 
 ---
-## References from Today's Slides in Class 19
+## References from Today's Slides (Class 20)
 
 - [The naniar package](https://naniar.njtierney.com/) documentation includes [this `replace_with_na()` vignette](https://cran.r-project.org/web/packages/naniar/vignettes/replace-with-na.html).
 - The [tidyr package on `replace_na()`](https://tidyr.tidyverse.org/reference/replace_na.html). The [tidyr package](https://tidyr.tidyverse.org/) is part of [the core tidyverse](https://tidyverse.org/packages/).
@@ -36,7 +36,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - [Rhat and ESS diagnostics](https://mc-stan.org/rstan/reference/Rhat.html)
     - [Bayesian R-squared](https://easystats.github.io/performance/reference/r2_bayes.html)
     - [Performance of Bayesian models](https://easystats.github.io/performance/reference/model_performance.stanreg.html)
-
 
 ## References from Slides in Class 19
 
