@@ -15,18 +15,18 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
     - ❓ means I might approve your plan, but the footnote will tell you what further information or clarification I need (and how you should send it) before I approve your work.
     - **NO** means I will not approve your plan as currently listed, and you will have to edit your Registration form and resubmit it according to the requirements in my note to you.
 2. In general, I am not going to let students use the **431 Favorite Movies** data. Other students *might* be allowed to use them, but only with my emailed permission **before** you submit the Project B Registration Form. Contact me by email now if you want me to consider letting you use these data. You will need to make a strong case to me that you are going to do something of interest to me that does not overlap with other projects in order to use these data.
+3. The count of complete cases we ask for is across **ALL** your variables to be used in Study 2, not just the outcome and key predictor. Be sure to get this right, including properly treating Refused and Don't Know as missing in all variables before making your count.
 
 ### Non-NHANES Study Plans
 
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
+✔️ | Dana Kleinman | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | average hours of sleep per night | cardiovascular physical activity (3 levels) | 1074
 ✔️ | Phia Ribeiro & Annabelle Elsner Pacheco | 431 Favorite Movies data from 2025-10-28 | Awards received | Rotten Tomatoes Critic's Score | 250
-❓ | Dana Kleinman[^Dana] | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | # of diagnosed health conditions | cardiovascular physical  activity (3 levels) | 1106
-❓ | Fai Albuainain[^Fai] | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 1392
+❓ | Fai Albuainain[^Fai] & Avianna Thompson | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 450
 **NO** | Subin Lee[^Subin] | [National Hospital Care Survey](https://www.cdc.gov/nchs/nhcs/data/index.html), 2021 | *needs to change* | *needs to change* |  TBD
 
-[^Dana]: Dana: (a) Diagnosed health conditions is a count, which for most people in your sample of 1106 will be either 0, 1, or 2. We need more variation than that in an outcome for this project, so I am concerned. (b) I want to see a tabyl of the outcome variable and the key predictor (3 levels) within your sample in an email to me before I'll give final approval.
-[^Fai]: Fai: (a) Does the count of 1392 subjects refer specifically to 1392 subjects with a diagnosis of asthma? (b) I want to see a tabyl of the outcome variable and the key predictor (2 levels) in an email to me before I'll give final approval.
+[^Fai]: Fai and Avianna: (a) Does the count of 1392 subjects refer specifically to 1392 subjects with a diagnosis of asthma? (b) I want to see a tabyl of the outcome variable and the key predictor (2 levels) in an email to me before I'll give final approval.
 [^Subin]: Subin: You suggest the data describe individual people (which I think is correct) but the Study 2 outcome you propose (in-hospital mortality) is binary if it is about individual people. You need a quantitative outcome in Study 2, not a categorical one. Also, your proposed key predictor is age, which you propose to categorize. Do not do this (at least not in Study 2.) You want a quantitative key predictor if at all possible, so age is fine, but not categorized. You will need to restrict to adults, I think, so specify what that age range will be. So I cannot accept this, as you've planned it, and you'll need to try again to specify a proper quantitative outcome and key predictor, then identify the sample size again. Edit your registration form accordingly, address my comments here, and then resubmit.
 
 ### NHANES Study Plans
