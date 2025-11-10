@@ -45,4 +45,4 @@ Around December 10 | (8) Course Evaluation of 431 for CWRU (exact date and web l
 
 - from [Red State Workers Could Lose Out on Disability Benefits as Trump Administration Rewrites Eligibility Rules](https://www.propublica.org/article/social-security-disability-eligibility-trump-red-states) by Eli Hager at Propublica, 2025-10-31.
 
-![](disability-worker-benefits.png)
+![](disability-benefits.png)
