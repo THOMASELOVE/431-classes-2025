@@ -75,4 +75,4 @@ Around December 10 | (10) Course Evaluation of 431 for CWRU (exact date and web 
 
 ## One Last Thing
 
-**To come**.
+[What They Forgot to Teach You About R](https://rstats.wtf/) by Jennifer Bryan, Jim Hester, Shannon Pileggi and E. David Aja (The stuff you need to know about R, besides data analysis.) - this is *work in progress*...
