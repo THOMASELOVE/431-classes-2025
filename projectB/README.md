@@ -38,7 +38,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
-✔️ | Alex[^Alex] Bergendorf | 8/2021 to 8/2023 | `LBXHSCRP` HS C-reactive protein (mg/dl) | `PUQ100` Are products used in the home to control insects? (yes/no) | 2,268
+✔️ | Alex Bergendorf | 8/2021 to 8/2023 | `LBXHSCRP` HS C-reactive protein (mg/dl) | `PUQ100` Are products used in the home to control insects? (yes/no) | 2,268
 ✔️ | Amanda Barabas | 8/2021 to 8/2023 | `LBXSATSI` Alanine Aminotransferase (ALT) (IU/l) | `PUQ100` Are products used in the home to control insects? (yes/no) | 6,366
 ✔️ | Amjad Samara[^Amjad] | 8/2021 to 8/2023 | `LBDLDL` LDL cholesterol (mg/dl) | `BMXBMI` body mass index (kg/m2) | 3,192
 ✔️ | Ben Kwiatkowski | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `KIQ481` Times per night waking to urinate (0-4 or 5+) | 4,843
@@ -48,11 +48,9 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Kuangtsan (Wilson) Hsu[^Kuangtsan] & Ching-Wen Mai | 8/2021 to 8/2023 | `LBXVIDMS` 25OHD2+25OHD3 (nmol/L) | `PAD680` Minutes of Sedentary Activity per day | 5,237
 ✔️ | Lily Zhang | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `PAD790Q` & `PAD790U` Times engaged in moderate leisure-time physical activity per week (4 groups) | 1,531
 ✔️ | Shufei Fang & <br> Ruoying Chen | 8/2021 to 8/2023 | `LBXTC` Total cholesterol (mg/dl) | `LBXWBCSI` White blood cell count (1000 cells / μl) | 1,994
-✔️ | Valerie Lam[^Valerie] | 2017 to 3/2020 | `LBXIN` insulin (μU/mL) | `BMXHIP` hip circumference (cm) | 4,433
+✔️ | Valerie Lam | 2017 to 3/2020 | `LBXIN` insulin (μU/mL) | `BMXHIP` hip circumference (cm) | 1,795 *women*
 
-[^Alex]: Alex: Use subjects with ages of 21-79, and not 80. Those with age 80 include and 80 and over, and I don't want them involved. Please email me to let me know you've seen this and give me the revised number of subjects, so I can then remove this note. 
 [^Amjad]: Amjad: Use subjects with ages of 21-79, and not 80. Those with age 80 include and 80 and over, and I don't want them involved. Please email me to let me know you've seen this and give me the revised number of subjects, so I can then remove this note.
 [^Helena]: Helena: Take a random sample of 4,000 of these subjects between the ages of 21 and 79 for your Project B, please. Please email me to let me know you've seen this and will do it, so I can correct the size above and then remove this note.
 [^Jiakun]: Jiakun: Take a random sample of 4,000 of these subjects between the ages of 21 and 79 for your Project B, please. Please email me to let me know you've seen this and will do it, so I can correct the size above and then remove this note.
 [^Kuangtsan]: Wilson and Ching-Wen: Take a random sample of 4,000 of these subjects between the ages of 21 and 79 for your Project B, please. Please email me to let me know you've seen this and will do it, so I can correct the size above and then remove this note.
-[^Valerie]: Valerie: I strongly encourage you to look at male subjects ages 18-79 or 21-79, rather than at any age. Please email me to let me know you've seen this and give me the revised number of subjects, so I can then remove this note.
