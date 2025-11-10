@@ -39,7 +39,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 **NO** | Noni Pinales[^Noni] & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | *needs to change* | *needs to change* | TBD
 
 [^Subin]: Subin: I will accept this plan, but want you to email me to let me know what year the data in your key outcome and key predictor describe. Is it 2024, or something else? It cannot be 2025, of course. So please email me that information, and I will then remove the footnote.
-[^Noni]: Noni and Swati: You could use age at first marriage and number of live births as predictors, certainly, but you need a different quantitative outcome. Replay to my email (2025-11-10) and then edit your form to address my comments, and then resubmit it.
+[^Noni]: Noni and Swati: You could use age at first marriage and number of live births and marital or cohabitating status as predictors, certainly, but you need a different quantitative outcome. Replay to my email (2025-11-10) and then edit your form to address my comments, and then resubmit it.
 
 ### NHANES Study Plans
 
