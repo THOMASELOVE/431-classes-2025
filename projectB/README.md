@@ -14,7 +14,7 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 
 1. In the **OK?** column, below...
     - ✔️ means I have approved your plan, but check to see if I have a note (footnote) that you need to respond to. If there is a check and no footnote by your name, then you're all set. Go and do the rest of Project B.
-    - ❓ means I might approve your plan, but the footnote will tell you what further information or clarification I need (and how you should send it) before I approve your work.
+    - ❓ means I am likely to approve your plan, but the footnote will tell you what further information or clarification I need (and how you should send it) before I formally approve your work.
     - **NO** means I will not approve your plan as currently listed, and you will have to edit your Registration form and resubmit it according to the requirements in my note to you.
 2. In general, I am not going to let students use the **431 Favorite Movies** data. Other students *might* be allowed to use them, but only with my emailed permission **before** you submit the Project B Registration Form. Contact me by email now if you want me to consider letting you use these data. You will need to make a strong case to me that you are going to do something of interest to me that does not overlap with other projects in order to use these data.
 3. The count of complete cases we ask for is across **ALL** your variables to be used in Study 2, not just the outcome and key predictor. Be sure to get this right, including properly treating Refused and Don't Know as missing in all variables before making your count.
@@ -35,7 +35,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
-✔️ | Subin Lee[^Subin] | [2025 Annual Social and Economic Supplements Data](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html) | Total medical out-of-pocket expenditure (in dollars) | Total family earnings (in dollars) |  1,354
+❓ | Subin Lee[^Subin] | [2025 Annual Social and Economic Supplements Data](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html) | Total medical out-of-pocket expenditure (in dollars) | Total family earnings (in dollars) |  1,354
 **NO** | Noni Pinales[^Noni] & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | *needs to change* | lived with intact family from birth to age 18 (yes/no) | TBD
 
 [^Subin]: Subin: I will accept this plan, but want you to email me to let me know what year the data in your key outcome and key predictor describe. Is it 2024, or something else? It cannot be 2025, of course. So please email me that information, and I will then remove the footnote.
@@ -60,9 +60,9 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
-✔️ | Amjad Samara[^Amjad] | 8/2021 to 8/2023 | `LBDLDL` LDL cholesterol (mg/dl) | `BMXBMI` body mass index (kg/m2) | 3,192
-✔️ | Jiakun Wang[^Jiakun] | 2017 to 3/2020 | mean of `BPXOSY1`, `BPXOSY2`, `BPXOSY3` systolic blood pressure (mm Hg) | `BMXBMI` body mass index (kg/m2) | 7,007
-✔️ | Kuangtsan (Wilson) Hsu[^Kuangtsan] & Ching-Wen Mai | 8/2021 to 8/2023 | `LBXVIDMS` 25OHD2+25OHD3 (nmol/L) | `PAD680` Minutes of Sedentary Activity per day | 5,237
+❓ | Amjad Samara[^Amjad] | 8/2021 to 8/2023 | `LBDLDL` LDL cholesterol (mg/dl) | `BMXBMI` body mass index (kg/m2) | 3,192
+❓ | Jiakun Wang[^Jiakun] | 2017 to 3/2020 | mean of `BPXOSY1`, `BPXOSY2`, `BPXOSY3` systolic blood pressure (mm Hg) | `BMXBMI` body mass index (kg/m2) | 7,007
+❓ | Kuangtsan (Wilson) Hsu[^Kuangtsan] & Ching-Wen Mai | 8/2021 to 8/2023 | `LBXVIDMS` 25OHD2+25OHD3 (nmol/L) | `PAD680` Minutes of Sedentary Activity per day | 5,237
 
 [^Amjad]: Amjad: Use subjects with ages of 21-79, and not 80. Those with age 80 include and 80 and over, and I don't want them involved. 
 [^Jiakun]: Jiakun: Either (a) take a random sample of 4,000 of these subjects between the ages of 21 and 79 for your Project B, please, or, if you prefer, (b) focus on a single sex, or a smaller age range, or some other inclusion criterion that focuses your sample on less than 4,000 subjects. Personally, I would prefer you to choose option (b). Please email me to let me know you've seen this and what you will do, so I can correct the size above and then remove this note.
