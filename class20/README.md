@@ -10,6 +10,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 20 | 2025-11-11 | **[Slides 20](https://thomaselove.github.io/431-slides-2025/class20.html)** | **[Word 20](https://thomaselove.github.io/431-slides-2025/class20w.docx)** | **[Code 20](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class20.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/health_stats.png)  [Source](https://xkcd.com/2581)
+
 ## Announcements
 
 1. I sent **431 Project A Feedback** to you at your CWRU email between 3 and 4 PM on Friday 2025-11-07. Thanks for your patience.
