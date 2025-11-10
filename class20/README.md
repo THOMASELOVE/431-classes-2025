@@ -18,8 +18,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 4. **Feedback on Lab 5 should be available by class time.**
 5. Several students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
 6. I added [the gtExtras package](https://jthomasmock.github.io/gtExtras/index.html) to our [list of packages to install](https://github.com/THOMASELOVE/431-packages/tree/main). I will use this next time, I believe.
-7. I have upgraded R to version **4.5.2.** We will accept work done with either 4.5.1 or 4.5.2 for the rest of 431.
-8. I have upgraded RStudio to version **2025.09.2+418**. We will accept work done with any 2025 version of RStudio for the rest of 431.
+7. I have upgraded R to version **4.5.2.** We will accept work done with either 4.5.1 or 4.5.2 for the rest of 431. I have also upgraded RStudio to version **2025.09.2+418**. We will accept work done with any 2025 version of RStudio for the rest of 431.
+    - See [our software page](https://thomaselove.github.io/431-2025/software.html) for reminders on installation of R and RStudio.
 
 ## Due Tomorrow (Wednesday 2025-11-12) at noon
 
