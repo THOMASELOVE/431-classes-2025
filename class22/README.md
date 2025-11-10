@@ -8,19 +8,17 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
-22 | 2025-11-18 | Coming soon | Coming soon | Coming soon | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
-
-<!-- 
-
 22 | 2025-11-18 | **[Slides 22](https://thomaselove.github.io/431-slides-2025/class22.html)** | **[Word 22](https://thomaselove.github.io/431-slides-2025/class22w.docx)** | **[Code 22](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class22.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
-
--->
 
 ![](words-never-said.png) [Source](https://phdcomics.com/comics/archive.php?comicid=2048)
 
 ## Announcements
 
 1. This section will appear in time for class.
+
+## References from Today's Slides
+
+
 
 ## Taking Other Courses With Me
 
