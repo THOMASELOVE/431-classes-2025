@@ -23,6 +23,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. Feedback on the Minute Paper after Class 20 will be available **by class time**
 3. More to come. 
 
+## References from the Slides
+
+- Gelman Andrew (2008) [Scaling regression inputs by dividing by two standard deviations](https://pubmed.ncbi.nlm.nih.gov/17960576/) *Statistics in Medicine* 27(15): 2865-73.
+
 ---
 
 ## There are 8 Remaining Deliverables for 431 This Semester
