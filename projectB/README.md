@@ -41,6 +41,12 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Cher Yuan | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DMDMARTZ` Marital Status (3 levels) | 5,000
 ✔️ | Lily Zhang | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `PAD790Q` & `PAD790U` Times engaged in moderate leisure-time physical activity per week (4 groups) | 1,531
 ✔️ | Shufei Fang & <br> Ruoying Chen | 8/2021 to 8/2023 | `LBXTC` Total cholesterol (mg/dl) | `LBXWBCSI` White blood cell count (1000 cells / μl) | 1,994
+✔️ | Amjad Samara[^Amjad] | 8/2021 to 8/2023 | `LBDLDL` LDL cholesterol (mg/dl) | `BMXBMI` body mass index (kg/m2) | 3,192
+✔️ | Helena Zhao[^Helena] | 8/2021 to 8/2023 | `BPXOSY1` systolic blood pressure (mm Hg), 1st reading | `BMXBMI` body mass index (kg/m2) | 5,500
+✔️ | Jiakun Wang[^Jiakun] | 2017-3/2020 | mean of `BPXOSY1`, `BPXOSY2`, `BPXOSY3` systolic blood pressure (mm Hg) | `BMXBMI` body mass index (kg/m2) | 7,007
 ✔️ | Valerie Lam[^Valerie] | 2017-3/2020 | `LBXIN` insulin (μU/mL) | `BMXHIP` hip circumference (cm) | 4,433
 
+[^Amjad]: Amjad: Use subjects with ages of 21-79, and not 80. Those with age 80 include and 80 and over, and I don't want them involved. Please email me to let me know you've seen this and give me the revised number of subjects, so I can then remove this note.
+[^Helena]: Helena: Take a random sample of 4,000 of these subjects between the ages of 21 and 79 for your Project B, please. Please email me to let me know you've seen this and will do it, so I can correct the size above and then remove this note.
+[^Jiakun]: Jiakun: Take a random sample of 4,000 of these subjects between the ages of 21 and 79 for your Project B, please. Please email me to let me know you've seen this and will do it, so I can correct the size above and then remove this note. 
 [^Valerie]: Valerie: I strongly encourage you to look at male subjects ages 18-79 or 21-79, rather than at any age. Please email me to let me know you've seen this and give me the revised number of subjects, so I can then remove this note.
