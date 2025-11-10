@@ -30,16 +30,15 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Fai Albuainain & Avianna Thompson | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 450
 ✔️ | Moses Fleischman | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Days in past 30 when mental health was not good | Adult made the respondent feel safe/protected during childhood (5 levels) | 10,000
 ✔️ | Phia Ribeiro & Annabelle Elsner Pacheco | 431 Favorite Movies data from 2025-10-28 | Awards received | Rotten Tomatoes Critic's Score | 250
+✔️ | Subin Lee | [2025 Annual Social and Economic Supplements Data](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html) | Total medical out-of-pocket expenditure ($) in 2024 | Total family earnings ($) in 2024 |  1,354
 
 #### Footnotes (and perhaps other issues) still to be resolved
 
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
-❓ | Subin Lee[^Subin] | [2025 Annual Social and Economic Supplements Data](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html) | Total medical out-of-pocket expenditure (in dollars) | Total family earnings (in dollars) |  1,354
 **NO** | Noni Pinales[^Noni] & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | *needs to change* | *needs to change* | TBD
 
-[^Subin]: Subin: I will accept this plan, but want you to email me to let me know what year the data in your key outcome and key predictor describe. Is it 2024, or something else? It cannot be 2025, of course. So please email me that information, and I will then remove the footnote.
-[^Noni]: Noni and Swati: You could use age at first marriage and number of live births and marital or cohabitating status as predictors, certainly, but you need a different quantitative outcome. Replay to my email (2025-11-10) and then edit your form to address my comments, and then resubmit it.
+[^Noni]: Noni and Swati: Thanks for your email. Please edit your form to change the outcome (as we've discussed) and key predictor and resulting sample size, then resubmit it.
 
 ### NHANES Study Plans
 
