@@ -33,6 +33,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - The schedule for Project B presentations will be available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) on Friday 2025-11-14.
 
 ---
+
 ## References from Today's Slides (Class 20)
 
 - [The naniar package](https://naniar.njtierney.com/) documentation includes [this `replace_with_na()` vignette](https://cran.r-project.org/web/packages/naniar/vignettes/replace-with-na.html).
@@ -59,6 +60,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - https://mdsr-book.github.io/mdsr2e/
     - https://bookdown.org/content/4857/
     - https://torkar.github.io/BDA_in_ESE/
+
+---
+
+## Taking Other Courses With Me
+
+In addition to 431, I teach two other semester-long courses, called **PQHS 432** and **PQHS 500**. I will teach both 432 and 500 in Spring 2026. My advice on these courses is found [in the Class 18 README](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class18#taking-other-courses-with-me).
 
 ---
 
