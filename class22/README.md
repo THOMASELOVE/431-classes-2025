@@ -14,11 +14,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class.
-
-## References from Today's Slides
-
-
+1. Today's Data Source is [NHANES 2013-14](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2013)
+2. More to come.
 
 ## Taking Other Courses With Me
 
