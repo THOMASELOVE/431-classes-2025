@@ -18,11 +18,13 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 4. **Feedback on Lab 5 should be available by class time.**
 5. Several students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
 6. I added [the gtExtras package](https://jthomasmock.github.io/gtExtras/index.html) to our [list of packages to install](https://github.com/THOMASELOVE/431-packages/tree/main). I will use this next time, I believe.
+7. I have upgraded R to version **4.5.2.** We will accept work done with either 4.5.1 or 4.5.2 for the rest of 431.
+8. I have upgraded RStudio to version **2025.09.2+418**. We will accept work done with any 2025 version of RStudio for the rest of 431.
 
 ## Due Tomorrow (Wednesday 2025-11-12) at noon
 
-6. There is a [Minute Paper after Class 20](https://bit.ly/431-2025-minute-20) due **tomorrow** (Wednesday 2025-11-12) at noon.
-7. The [Project B Registration Form](https://bit.ly/431-projB-registration-2025) is also due **tomorrow** (Wednesday 2025-11-12) at noon. Please get this in on time. Here are [instructions for Registering Project B](https://thomaselove.github.io/431-projectB-2025/register.html).
+8. There is a [Minute Paper after Class 20](https://bit.ly/431-2025-minute-20) due **tomorrow** (Wednesday 2025-11-12) at noon.
+9. The [Project B Registration Form](https://bit.ly/431-projB-registration-2025) is also due **tomorrow** (Wednesday 2025-11-12) at noon. Please get this in on time. Here are [instructions for Registering Project B](https://thomaselove.github.io/431-projectB-2025/register.html).
     - Dr. Love responds to these forms as they are submitted, and [tracks submissions here](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectB).
     - The schedule for Project B presentations will be available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) on Friday 2025-11-14.
 
