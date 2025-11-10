@@ -6,7 +6,7 @@ The schedule will be [posted here](https://github.com/THOMASELOVE/431-classes-20
 
 ## Registration Status
 
-As each group's [Project B Registration Form](https://bit.ly/431-projB-registration-2025) is submitted, I will list the investigators below. 
+As each group's [Project B Registration Form](https://bit.ly/431-projB-registration-2025) is submitted, I will list the investigators below. The deadline for the form is Wednesday 2025-11-12 at noon. Do not be late.
 
 ### Important Notes
 
