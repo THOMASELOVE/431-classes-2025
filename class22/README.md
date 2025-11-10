@@ -16,6 +16,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 -->
 
+![](words-never-said.png) [Source](https://phdcomics.com/comics/archive.php?comicid=2048)
+
 ## Announcements
 
 1. This section will appear in time for class.
