@@ -36,10 +36,10 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
 ❓ | Subin Lee[^Subin] | [2025 Annual Social and Economic Supplements Data](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html) | Total medical out-of-pocket expenditure (in dollars) | Total family earnings (in dollars) |  1,354
-**NO** | Noni Pinales[^Noni] & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | *needs to change* | lived with intact family from birth to age 18 (yes/no) | TBD
+**NO** | Noni Pinales[^Noni] & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | *needs to change* | *needs to change* | TBD
 
 [^Subin]: Subin: I will accept this plan, but want you to email me to let me know what year the data in your key outcome and key predictor describe. Is it 2024, or something else? It cannot be 2025, of course. So please email me that information, and I will then remove the footnote.
-[^Noni]: Noni and Swati: I will not allow you to use age at first marriage as an outcome, or any other "age" variable. You'll need a different quantitative outcome. Also, "refused" and "don't know" in your predictor must be treated as missing, changing your sample size, as will the change in outcome. Edit your form to address these comments, and then resubmit it.
+[^Noni]: Noni and Swati: You could use age at first marriage and number of live births as predictors, certainly, but you need a different quantitative outcome. Replay to my email (2025-11-10) and then edit your form to address my comments, and then resubmit it.
 
 ### NHANES Study Plans
 
