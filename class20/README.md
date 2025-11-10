@@ -15,14 +15,14 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. I sent **431 Project A Feedback** to you at your CWRU email between 3 and 4 PM on Friday 2025-11-07. Thanks for your patience.
-2. My [feedback on your questions and comments](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md) from the Project A Self-Evaluation is available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md).
+2. My [feedback on your questions and comments](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md) from the **Project A Self-Evaluation** is available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md).
 3. The [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) Answer Sketch and Grading Rubric is now on our Shared Drive.
 4. **Feedback on Lab 5 should be available by class time.**
-5. Several students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
-6. I updated the [Course Book](https://thomaselove.github.io/431-book/) to include a more complete Chapter 21, which will be the last Chapter this year. If you find any typos, or have any questions about the Book, please let me know.
-7. I upgraded R to version **4.5.2.** We will accept work done with either 4.5.1 or 4.5.2 for the rest of 431. I also upgraded RStudio to version **2025.09.2+418**. We will accept work done with any 2025 version of RStudio for the rest of 431.
+5. **Lab X**: Several students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
+6. **Course Book**: I updated the [Course Book](https://thomaselove.github.io/431-book/) to include a more complete Chapter 21, which will be the last Chapter this year. If you find any typos, or have any questions about the Book, please let me know.
+7. **New R and RStudio Versions**: I upgraded R to version **4.5.2.** We will accept work done with either 4.5.1 or 4.5.2 for the rest of 431. I also upgraded RStudio to version **2025.09.2+418**. We will accept work done with any 2025 version of RStudio for the rest of 431.
     - See [our software page](https://thomaselove.github.io/431-2025/software.html) for reminders on how to install of R and RStudio.
-8. I added [the gtExtras package](https://jthomasmock.github.io/gtExtras/index.html) to our [list of packages to install](https://github.com/THOMASELOVE/431-packages/tree/main). I will use this next time, I believe.
+8. **New (to us) R package** I added [the gtExtras package](https://jthomasmock.github.io/gtExtras/index.html) to our [list of packages to install](https://github.com/THOMASELOVE/431-packages/tree/main). I will use this next time, I believe.
 
 ## Due Tomorrow (Wednesday 2025-11-12) at noon
 
@@ -43,7 +43,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - [Bayesian R-squared](https://easystats.github.io/performance/reference/r2_bayes.html)
     - [Performance of Bayesian models](https://easystats.github.io/performance/reference/model_performance.stanreg.html)
 
-## References from Slides in Class 19
+## References from Slides in Class 19 (also now in [Class 19 README](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class19))
 
 - [Reflection on modern methods: Statistics education beyond ‘significance’: novel plain English interpretations to deepen understanding of statistics and to steer away from misinterpretations](https://academic.oup.com/ije/article/49/6/2083/5876177?login=false) by Hilary Watt
 - [Compare performance of different models](https://easystats.github.io/performance/reference/compare_performance.html) from the easystats framework.
