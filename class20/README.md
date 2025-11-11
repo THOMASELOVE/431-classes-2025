@@ -17,7 +17,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. I sent **431 Project A Feedback** to you at your CWRU email between 3 and 4 PM on Friday 2025-11-07. Thanks for your patience.
 2. My [feedback on your questions and comments](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md) from the **Project A Self-Evaluation** is available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectA/self_eval_questions.md).
 3. The [Lab 5](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab5) Answer Sketch and Grading Rubric is now on our Shared Drive.
-4. **Feedback on Lab 5 should be available by class time.**
+4. **Feedback on Lab 5 will be posted to our Shared Drive soon.**
 5. **Lab X**: Several students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
 6. **Project B instructions**: Thanks to an alert student, I corrected a mistake in [this part of the "Using NHANES data" section](https://thomaselove.github.io/431-projectB-2025/data2.html#which-variables-subjects-should-i-use) of the [Project B instructions](https://thomaselove.github.io/431-projectB-2025/). That location now accurately reflects the number of NHANES 8/2021 - 8/2023 subjects who are **below** the age of 80, as 8,335, while 525 subjects are 80 years or older.
 7. **Course Book**: I updated the [Course Book](https://thomaselove.github.io/431-book/) to include a more complete Chapter 21, which will be the last Chapter this year. If you find any typos, or have any questions about the Book, please let me know.
