@@ -21,6 +21,19 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 4. Anyone working with NHANES data should have an age restriction, either to **adults** (which can be ages 21-79 or 18-79 or some smaller group within that range) or **children** (which should be determined depending on how the data are gathered, and include only people under a certain age - and perhaps above one, too, like 6 to 17 years old, for example.)
 5. If you have more than the maximum allowable number of observations (10,000 for Non-NHANES studies, and 7,500 for NHANES studies), I encourage you to either (a) focus on a single sex (either females only or males only), or restrict the age range, or apply some other simply explained inclusion criterion that focuses your sample down below the maximum (maybe to about 4,000 subjects), or (b) *a less good solution* take a random sample of, say, 4,000 complete cases from your sample so that, again, you are well below the maximum possible sample size for your type of study.
 
+### Submitted Forms I will evaluate later this afternoon.
+
+- Vennila Ramasubramanian and Paula Gonzalez ([BRFSS 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html))
+- Madison Albert (NHANES 8/2021 - 8/2023)
+- Leah Nez (will partner with Janetta Brundage, who will send the full form)
+- Renu Madhuraj Jadhav (will partner with Isabela Drumond Fonseca, who will send the full form)
+- Hannah-Beth Iqbal and Comelia Soltanirad (NHANES 8/2021 - 8/2023)
+- Andrew Morris (NHANES 8/2021 - 8/2023)
+- Pooja Madan Mohan and Noha Orabi ([Global Coral Bleaching Database (NCEI Accession 0228498)](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498))
+- Sadia Ahmed and Erin San Valentin (NHANES 2017-3/2020)
+- Johnathan Huff ([NFL Statistics: Career_Stats_Defensive](https://www.kaggle.com/datasets/kendallgillies/nflstatistics?select=Career_Stats_Defensive.csv))
+- Lauren Sapienza (NHANES 8/2021 - 8/2023)
+
 ### Non-NHANES Study Plans
 
 #### All set - go on and do the rest of Project B
@@ -30,6 +43,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Dana Kleinman | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | average hours of sleep per night | cardiovascular physical activity (3 levels) | 1,074
 ✔️ | Fai Albuainain & Avianna Thompson | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 450
 ✔️ | Moses Fleischman | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Days in past 30 when mental health was not good | Adult made the respondent feel safe/protected during childhood (5 levels) | 10,000
+✔️ | Noni Pinales & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | Lifetime count: use of emergency contraception | Male parental figure status (3 levels) | 1,460 women ages 15-49
 ✔️ | Phia Ribeiro & Annabelle Elsner Pacheco | 431 Favorite Movies data from 2025-10-28 | Awards received | Rotten Tomatoes Critic's Score | 250
 ✔️ | Subin Lee | [2025 Annual Social and Economic Supplements Data](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html) | Total medical out-of-pocket expenditure ($) in 2024 | Total family earnings ($) in 2024 |  1,354
 
@@ -37,9 +51,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
-**NO** | Noni Pinales[^Noni] & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | *needs to change* | *needs to change* | TBD
-
-[^Noni]: Noni and Swati: Thanks for your email. Please edit your form to change the outcome (as we've discussed) and key predictor and resulting sample size, then resubmit it.
+- | -
 
 ### NHANES Study Plans
 
@@ -63,6 +75,8 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
 ❓ | Amjad Samara[^Amjad] | 8/2021 to 8/2023 | `LBDLDL` LDL cholesterol (mg/dl) | `BMXBMI` body mass index (kg/m2) | 3,192
 ❓ | Jiakun Wang[^Jiakun] | 2017 to 3/2020 | mean of `BPXOSY1`, `BPXOSY2`, `BPXOSY3` systolic blood pressure (mm Hg) | `BMXBMI` body mass index (kg/m2) | 7,007
+❓ | Jiayi Sun [^Jiayi] | 8/2021 to 8/2023 | `LBXVIDMS` Vitamin D: 25OHD2 + 25OHD3 (nmol/L) | `INDFMPIR` Ratio of family income to poverty | 549 *age 4 to 19*
 
 [^Amjad]: Amjad: Use subjects with ages of 21-79, and not 80. Those with age 80 include and 80 and over, and I don't want them involved. Email me so I know you have seen this, so I can correct the size above and then remove this note.
 [^Jiakun]: Jiakun: Either (a) take a random sample of 4,000 of these subjects between the ages of 21 and 79 for your Project B, please, or, if you prefer, (b) focus on a single sex, or a smaller age range, or some other inclusion criterion that focuses your sample on less than 4,000 subjects. Personally, I would prefer you to choose option (b). Please email me to let me know you've seen this and what you will do, so I can correct the size above and then remove this note.
+[^Jiayi]: Jiayi: How many of the 549 children between the ages of 4 and 19 you have identified have a value of 5 in `INDFMPIR`. I am worried the fraction will be very large. Send me an email with this information so I can think more about whether this is going to work as a key predictor.
