@@ -21,12 +21,12 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 4. Anyone working with NHANES data should have an age restriction, either to **adults** (which can be ages 21-79 or 18-79 or some smaller group within that range) or **children** (which should be determined depending on how the data are gathered, and include only people under a certain age - and perhaps above one, too, like 6 to 17 years old, for example.)
 5. If you have more than the maximum allowable number of observations (10,000 for Non-NHANES studies, and 7,500 for NHANES studies), I encourage you to either (a) focus on a single sex (either females only or males only), or restrict the age range, or apply some other simply explained inclusion criterion that focuses your sample down below the maximum (maybe to about 4,000 subjects), or (b) *a less good solution* take a random sample of, say, 4,000 complete cases from your sample so that, again, you are well below the maximum possible sample size for your type of study.
 
-### Submitted Forms I will evaluate later this afternoon.
+### Recently Submitted Forms I will evaluate later this afternoon.
 
 - Vennila Ramasubramanian and Paula Gonzalez ([BRFSS 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html))
 - Madison Albert (NHANES 8/2021 - 8/2023)
-- Leah Nez (will partner with Janetta Brundage, who will send the full form)
-- Renu Madhuraj Jadhav (will partner with Isabela Drumond Fonseca, who will send the full form)
+- Leah Nez (will partner with Janetta Brundage, who will send the full form, and then I can evaluate)
+- Renu Madhuraj Jadhav (will partner with Isabela Drumond Fonseca, who will send the full form, and then I can evaluate)
 - Hannah-Beth Iqbal and Comelia Soltanirad (NHANES 8/2021 - 8/2023)
 - Andrew Morris (NHANES 8/2021 - 8/2023)
 - Pooja Madan Mohan and Noha Orabi ([Global Coral Bleaching Database (NCEI Accession 0228498)](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498))
