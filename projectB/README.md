@@ -39,7 +39,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Phia Ribeiro & Annabelle Elsner Pacheco | [Portuguese student performance](https://archive.ics.uci.edu/dataset/320/student+performance) | Final grade in Mathematics | Final grade in Portuguese | 382
 ✔️ | Pooja Madan Mohan and Noha Orabi | ([Global Coral Bleaching Database (NCEI Accession 0228498)](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498)) | Percent bleached | Depth of site | 2,427 coral reef sites
 ✔️ | Subin Lee | [2025 Annual Social and Economic Supplements Data](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html) | Total medical out-of-pocket expenditure ($) in 2024 | Total family earnings ($) in 2024 |  1,354
-✔️ | Vennila Ramasubramanian and Paula Gonzalez | [BRFSS 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) | Body Mass Index | Educational Attainment (4 levels) | 8,859
+✔️ | Vennila Ramasubramanian and Paulina Gonzalez | [BRFSS 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) | Body Mass Index | Educational Attainment (4 levels) | 8,859
 
 #### Footnotes (and perhaps other issues) still to be resolved
 
