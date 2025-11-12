@@ -50,7 +50,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
 ❓ | Dayanna Bohorquez[^Dayanna] | [Medical Expenditure Panel Survey 2023](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247) | Out-of-pocket burden | Insurance type (2 levels) | 791 *subjects with cancer*
-❓ | Fangzhou Liu[^Fangzhou] | [Environmental Justice Index](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) | % of tract residents with a cancer diagnosis | % of racial/ethnic minority residents | 7,720 *US census tracts*
+❓ | Fangzhou Liu[^Fangzhou] | [Environmental Justice Index](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) | % of tract residents ages 16+ who are unemployed | % of racial/ethnic minority residents | 7,720 *US census tracts*
 ❓ | Hana Sato[^Hana] | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) | Family income ratio (vs. poverty) | Race in the household (6 levels) | 3,825 *people representing Midwest households*
 **NO** | Johnathan Huff[^Johnathan] | [NFL Statistics: Career_Stats_Defensive](https://www.kaggle.com/datasets/kendallgillies/nflstatistics?select=Career_Stats_Defensive.csv) | Tackles made in a season | Defensive Position | *will change*
 ❓ | Phia Ribeiro[^Phia] & Annabelle Elsner Pacheco | 431 Favorite Movies data from 2025-10-28 | Awards received | Rotten Tomatoes Critic's Score | 250
@@ -74,8 +74,10 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Ben Kwiatkowski | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `KIQ481` Times per night waking to urinate (0-4 or 5+) | 4,843
 ✔️ | Cher Yuan | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DMDMARTZ` Marital Status (3 levels) | 5,000
 ✔️ | Helena Zhao | 8/2021 to 8/2023 | `BPXOSY1` systolic blood pressure (mm Hg), 1st reading | `BMXBMI` body mass index (kg/m2) | 3,000
+✔️ | Janetta Brundage and Leah Nez | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `DMDMARTZ` Marital Status (3 levels) | 1,074
 ✔️ | Jiayi Sun | 8/2021 to 8/2023 | `LBXVIDMS` Vitamin D: 25OHD2 + 25OHD3 (nmol/L) | `INDFMPIR` Ratio of family income to poverty | 518 *age 4 to 19*
 ✔️ | Kuangtsan (Wilson) Hsu & Ching-Wen Mai | 8/2021 to 8/2023 | `LBXVIDMS` 25OHD2+25OHD3 (nmol/L) | `PAD680` Minutes of Sedentary Activity per day | 1,584 <br> *age 50-64*
+✔️ | Lauren Sapienza | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `DPQ020` feeling down, depressed, hopeless in past 2 weeks (4 levels) | 1,896
 ✔️ | Lily Zhang | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `PAD790Q` & `PAD790U` Times engaged in moderate leisure-time physical activity per week (4 groups) | 1,531
 ✔️ | Madison Albert | 8/2021 to 8/2023 | `LUXSMED` Median Liver Stiffness (kPa) | `BMXWAIST` Waist circumference (cm) | 3,226
 ✔️ | Shufei Fang & <br> Ruoying Chen | 8/2021 to 8/2023 | `LBXTC` Total cholesterol (mg/dl) | `LBXWBCSI` White blood cell count (1000 cells / μl) | 1,994
@@ -87,10 +89,10 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
 ❓ | Hannah-Beth Iqbal[^Hannah] and Comelia Soltanirad | 8/2021 to 8/2023 | `LBXTC` Total cholesterol (mg/dl) | `INDFMPIR` Ratio of family income to poverty | 5,751
 ❓ | Jiakun Wang[^Jiakun] | 2017 to 3/2020 | mean of `BPXOSY1`, `BPXOSY2`, `BPXOSY3` systolic blood pressure (mm Hg) | `BMXBMI` body mass index (kg/m2) | 7,007
--- | Janetta Brundage and Leah Nez | 8/2021 to 8/2023 | Assessing now...
--- | Lauren Sapienza | 8/2021 to 8/2023 | Assessing now...
--- | Leland Metheny | 8/2021 to 8/2023 | Assessing now...
--- | Sadia Ahmed and Erin San Valentin | 2017 to 3/2020 | Assessing now...
+❓ | Leland Metheny[^Leland] | 8/2021 to 8/2023 | `LBDNENO` Segmented neutrophils (1000 cell/μL) | *to be clarified* | 2,242
+❓ | Sadia Ahmed[^Sadia] and Erin San Valentin | 2017 to 3/2020 | `SLD012` and `SLD013` to calculate average hours of weekly sleep debt | `OCQ180` work hours last week | 4,015 
 
 [^Hannah]: Hannah-Beth and Comelia: I strongly encourage you to filter out the subjects who are listed with a value of your key predictor of 5. This is because that group includes not just the people with household income 5 times the poverty level, but also the people with household income 100 times the poverty level. So, email me (ideally by Wednesday at noon) to let me know how filtering away the "5"s in that variable changes your sample size, so that I can update it, and then approve your plan.
 [^Jiakun]: Jiakun: Either (a) take a random sample of 4,000 of these subjects between the ages of 21 and 79 for your Project B, please, or, if you prefer, (b) focus on a single sex, or a smaller age range, or some other inclusion criterion that focuses your sample on less than 4,000 subjects. Personally, I would prefer you to choose option (b). Please email me to let me know you've seen this and what you will do, so I can correct the size above and then remove this note.
+[^Leland]: Leland: You need to specify for me (1) exactly what variable you will use as your key predictor to describe alcohol use, and tell me (if it is categorical) how many levels it has (outside of things that should be treated as missing) or (if it is quantitative) what the range is, and how this affects your number of subjects. Then (2) You also need to be more accurate about what you present in the subjects section. If you are using data from one cycle of NHANES, you shouldn't be talking about every year since 1960, and you should also be specifying the age range for the subjects you intend to study. Please email me your response to these thoughts, ideally before noon Wednesday.
+[^Sadia]: Sadia and Erin: You need to (1) tell me exactly how you will calculate average hours of sleep debt in detail, including what "recommended number of sleep hours" you are planning to use, and the source of that recommendation, (2) specify much more than you did in the "Subjects, and selected how?" section of the form, in particular specifying what age range you will limit your NHANES subjects to in this work, and (3) tell me how you're going to deal with the fact that so many of your key predictor values are going to be 40 (with many of the rest being 20, 30, 35, 45, 50 and 60) *and* what you're going to do about people who worked less than 6 or more than 78 hours. Please email me your responses to each of these thoughts, ideally before noon Wednesday.
