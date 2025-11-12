@@ -29,11 +29,7 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 
 ### Received but not yet reviewed
 
-- Allison (Alli) Thirion-Blasius NHANES 8/2021 to 8/2023
-- Arjun Chatterjee NHANES 8/2021 to 8/2023
-- Emma Chio NHANES 8/2021 to 8/2023
-- Josh Silalahi NHANES 8/2021 to 8/2023
-- Simon Lynn NHANES 8/2021 to 8/2023
+- None at present.
 
 ----
 
