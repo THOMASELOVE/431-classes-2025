@@ -34,7 +34,6 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
-❓ | Johnathan Huff[^Johnathan] | Pro Football Reference, 2024 (link to come) | Tackles made in a season | Defensive Position (4 levels) | *TBD*
 ❓ |  Scout Osborne[^Scout] | PROTECT (Predicting Response to Standardized Colitis Therapy) Study: [Table 6 in this article](https://doi.org/10.1016/j.chom.2018.09.009) | fecal calprotectin levels | relative abundance of the bacterial species H. parainfluenzae | 368
 
 ### NHANES Study Plans not yet approved
@@ -60,6 +59,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Fai Albuainain & Avianna Thompson | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 450
 ✔️ | Fangzhou (Eric) Liu | [Environmental Justice Index](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) | % of tract residents ages 16+ who are unemployed | % of racial/ethnic minority residents | 7,000 *US census tracts*
 ✔️ | Hana Sato | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) | Family income ratio (vs. poverty) | Race in the household (4 levels) | 3,825 *people representing Midwest households*
+✔️ | Johnathan Huff[^Johnathan] | [Pro Football Reference, 2024](https://www.pro-football-reference.com/years/2024/defense.htm) | Tackles made in 2024 | Defensive Position (4 levels) | 1,594
 ✔️ | Moses Fleischman | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Days in past 30 when mental health was not good | Adult made the respondent feel safe/protected during childhood (5 levels) | 10,000
 ✔️ | Noni Pinales & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | Lifetime count: use of emergency contraception | Male parental figure status (3 levels) | 1,460 women ages 15-49
 ✔️ | Phia Ribeiro & Annabelle Elsner Pacheco | [Portuguese student performance](https://archive.ics.uci.edu/dataset/320/student+performance) | Final grade in Mathematics | Final grade in Portuguese | 382
