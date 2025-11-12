@@ -36,13 +36,35 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 - Josh Silalahi NHANES 8/2021 to 8/2023
 - Simon Lynn NHANES 8/2021 to 8/2023
 
-### Non-NHANES Study Plans
+----
 
-#### All set - go on and do the rest of Project B
+## Submitted Plans Not Yet Approved
+
+### Non-NHANES Study Plans not yet approved
 
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
-✔️ | Andrew Crawford [^Andrew] | [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/) | ICU length of stay | average hemoglobin level during ICU stay | 6,899 ICU patients with a single stay
+❓ | Dayanna Bohorquez[^Dayanna] | [Medical Expenditure Panel Survey 2023](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247) | Out-of-pocket burden | Insurance type (2 levels) | 791 *subjects with cancer*
+**NO** | Johnathan Huff[^Johnathan] | [NFL Statistics: Career_Stats_Defensive](https://www.kaggle.com/datasets/kendallgillies/nflstatistics?select=Career_Stats_Defensive.csv) | Tackles made in a season | Defensive Position | *will change*
+❓ |  Scout Osborne[^Scout] | PROTECT (Predicting Response to Standardized Colitis Therapy) Study: [Table 6 in this article](https://doi.org/10.1016/j.chom.2018.09.009) | fecal calprotectin levels | relative abundance of the bacterial species H. parainfluenzae | 368
+
+### NHANES Study Plans not yet approved
+
+OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
+:--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
+❓ | Jiakun Wang[^Jiakun] | 2017 to 3/2020 | mean of `BPXOSY1`, `BPXOSY2`, `BPXOSY3` systolic blood pressure (mm Hg) | `BMXBMI` body mass index (kg/m2) | 7,007
+❓ | Leland Metheny[^Leland] | 8/2021 to 8/2023 | `LBDNENO` Segmented neutrophils (1000 cell/μL) | *to be clarified* | 2,242
+❓ | Sadia Ahmed[^Sadia] and Erin San Valentin | 2017 to 3/2020 | `SLD012` and `SLD013` to calculate average hours of weekly sleep debt | `OCQ180` work hours last week | 4,015 
+
+----
+
+## Approved Study Plans
+
+### Approved Non-NHANES Study Plans
+
+OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
+:--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
+✔️ | Andrew Crawford | [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/) | ICU length of stay | average hemoglobin level during ICU stay | 6,899 ICU patients with a single stay
 ✔️ | Dana Kleinman | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | average hours of sleep per night | cardiovascular physical activity (3 levels) | 1,074
 ✔️ | Fai Albuainain & Avianna Thompson | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 450
 ✔️ | Fangzhou (Eric) Liu | [Environmental Justice Index](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) | % of tract residents ages 16+ who are unemployed | % of racial/ethnic minority residents | 7,720 *US census tracts*
@@ -54,21 +76,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Subin Lee | [2025 Annual Social and Economic Supplements Data](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html) | Total medical out-of-pocket expenditure ($) in 2024 | Total family earnings ($) in 2024 |  1,354
 ✔️ | Vennila Ramasubramanian and Paulina Gonzalez | [BRFSS 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) | Body Mass Index | Educational Attainment (4 levels) | 8,859
 
-#### Footnotes (and perhaps other issues) still to be resolved
-
-OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
-:--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
-❓ | Dayanna Bohorquez[^Dayanna] | [Medical Expenditure Panel Survey 2023](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247) | Out-of-pocket burden | Insurance type (2 levels) | 791 *subjects with cancer*
-**NO** | Johnathan Huff[^Johnathan] | [NFL Statistics: Career_Stats_Defensive](https://www.kaggle.com/datasets/kendallgillies/nflstatistics?select=Career_Stats_Defensive.csv) | Tackles made in a season | Defensive Position | *will change*
-❓ |  Scout Osborne[^Scout] | PROTECT (Predicting Response to Standardized Colitis Therapy) Study: [Table 6 in this article](https://doi.org/10.1016/j.chom.2018.09.009) | fecal calprotectin levels | relative abundance of the bacterial species H. parainfluenzae | 368
-
-[^Dayanna]: Dayanna: Two questions: (1) Is the outcome describing out-of-pocket costs in 2023, or in some other year? (2) Is the insurance information only binary or are there more than two categories, like public, private, uninsured? It would be better if there were 3 or more categories for your key predictor. Please email me your response to these questions, ideally before noon Wednesday.
-[^Johnathan]: Johnathan: This is a problem in several ways. (1) The data are old. Newer information on the same subject is available elsewhere. (2) The data are from Kaggle, which I didn't expressly forbid here, but I probably should have. The Kaggle data are already pre-canned for you, and I don't love that. (3) You cannot use multiple years of the same player for this project, so you must filter the data to look at either all of the players in one specific season, or maybe all players in one season and then one other season far enough away in time that there is no overlap in players, so, for example, data on 2000 and 2024 (where the year would become one of your predictors.) (4) You would need to specify which position categories you plan to study (since many players in the Kaggle set have missing data in the Position column) (5) You also need tell me what other predictors are that you are planning to include in Study 2 in order for me to approve this. So that's a lot to deal with here, but if you still want to try with these data, or (better) a combination of multiple data sets from the Kaggle site, or (better still) getting the data yourself from NFL's statistics site or something like football-reference.com, I am willing to consider it. In the meantime, though, you will need to email me about how you'd like to proceed, ideally by the noon Wednesday deadline.
-[^Scout]: Scout: Can you email me both the units of measurement and the range you observe (minimum and maximum) for your outcome and key predictor, ideally by the noon Wednesday deadline?
-
-### NHANES Study Plans
-
-#### All set - go on and do the rest of Project B
+### Approved NHANES Study Plans
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
@@ -89,14 +97,11 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Shufei Fang & <br> Ruoying Chen | 8/2021 to 8/2023 | `LBXTC` Total cholesterol (mg/dl) | `LBXWBCSI` White blood cell count (1000 cells / μl) | 1,994
 ✔️ | Valerie Lam | 2017 to 3/2020 | `LBXIN` insulin (μU/mL) | `BMXHIP` hip circumference (cm) | 1,795 *women*
 
-#### Footnotes (and perhaps other issues) still to be resolved
+----
 
-OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
-:--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
-❓ | Jiakun Wang[^Jiakun] | 2017 to 3/2020 | mean of `BPXOSY1`, `BPXOSY2`, `BPXOSY3` systolic blood pressure (mm Hg) | `BMXBMI` body mass index (kg/m2) | 7,007
-❓ | Leland Metheny[^Leland] | 8/2021 to 8/2023 | `LBDNENO` Segmented neutrophils (1000 cell/μL) | *to be clarified* | 2,242
-❓ | Sadia Ahmed[^Sadia] and Erin San Valentin | 2017 to 3/2020 | `SLD012` and `SLD013` to calculate average hours of weekly sleep debt | `OCQ180` work hours last week | 4,015 
-
+[^Dayanna]: Dayanna: Two questions: (1) Is the outcome describing out-of-pocket costs in 2023, or in some other year? (2) Is the insurance information only binary or are there more than two categories, like public, private, uninsured? It would be better if there were 3 or more categories for your key predictor. Please email me your response to these questions, ideally before noon Wednesday.
+[^Johnathan]: Johnathan: This is a problem in several ways. (1) The data are old. Newer information on the same subject is available elsewhere. (2) The data are from Kaggle, which I didn't expressly forbid here, but I probably should have. The Kaggle data are already pre-canned for you, and I don't love that. (3) You cannot use multiple years of the same player for this project, so you must filter the data to look at either all of the players in one specific season, or maybe all players in one season and then one other season far enough away in time that there is no overlap in players, so, for example, data on 2000 and 2024 (where the year would become one of your predictors.) (4) You would need to specify which position categories you plan to study (since many players in the Kaggle set have missing data in the Position column) (5) You also need tell me what other predictors are that you are planning to include in Study 2 in order for me to approve this. So that's a lot to deal with here, but if you still want to try with these data, or (better) a combination of multiple data sets from the Kaggle site, or (better still) getting the data yourself from NFL's statistics site or something like football-reference.com, I am willing to consider it. In the meantime, though, you will need to email me about how you'd like to proceed, ideally by the noon Wednesday deadline.
+[^Scout]: Scout: Can you email me both the units of measurement and the range you observe (minimum and maximum) for your outcome and key predictor, ideally by the noon Wednesday deadline?
 [^Jiakun]: Jiakun: Either (a) take a random sample of 4,000 of these subjects between the ages of 21 and 79 for your Project B, please, or, if you prefer, (b) focus on a single sex, or a smaller age range, or some other inclusion criterion that focuses your sample on less than 4,000 subjects. Personally, I would prefer you to choose option (b). Please email me to let me know you've seen this and what you will do, so I can correct the size above and then remove this note.
 [^Leland]: Leland: You need to specify for me (1) exactly what variable you will use as your key predictor to describe alcohol use, and tell me (if it is categorical) how many levels it has (outside of things that should be treated as missing) or (if it is quantitative) what the range is, and how this affects your number of subjects. Then (2) You also need to be more accurate about what you present in the subjects section. If you are using data from one cycle of NHANES, you shouldn't be talking about every year since 1960, and you should also be specifying the age range for the subjects you intend to study. Please email me your response to these thoughts, ideally before noon Wednesday.
 [^Sadia]: Sadia and Erin: You need to (1) tell me exactly how you will calculate average hours of sleep debt in detail, including what "recommended number of sleep hours" you are planning to use, and the source of that recommendation, (2) specify much more than you did in the "Subjects, and selected how?" section of the form, in particular specifying what age range you will limit your NHANES subjects to in this work, and (3) tell me how you're going to deal with the fact that so many of your key predictor values are going to be 40 (with many of the rest being 20, 30, 35, 45, 50 and 60) *and* what you're going to do about people who worked less than 6 or more than 78 hours. Please email me your responses to each of these thoughts, ideally before noon Wednesday.
