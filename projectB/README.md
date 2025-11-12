@@ -22,18 +22,24 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 5. If you have more than the maximum allowable number of observations (10,000 for Non-NHANES studies, and 7,500 for NHANES studies), I encourage you to either (a) focus on a single sex (either females only or males only), or restrict the age range, or apply some other simply explained inclusion criterion that focuses your sample down below the maximum (maybe to about 4,000 subjects), or (b) *a less good solution* take a random sample of, say, 4,000 complete cases from your sample so that, again, you are well below the maximum possible sample size for your type of study.
 6. If you get names instead of numbers in your categorical variables when the `nhanes()` function in the **nhanesA** package, you can either work with those names, or try adding `translated = FALSE`, as in `demo <- nhanes("DEMO_L", translated = FALSE)` to your call to the `nhanes()` function.
 
-### Recently Submitted Forms I will evaluate later this afternoon.
+### Recently Submitted Forms that I will evaluate tonight.
 
 - Vennila Ramasubramanian and Paula Gonzalez ([BRFSS 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html))
-- Madison Albert (NHANES 8/2021 - 8/2023)
-- Leah Nez (will partner with Janetta Brundage, who will send the full form, and then I can evaluate)
-- Renu Madhuraj Jadhav (will partner with Isabela Drumond Fonseca, who will send the full form, and then I can evaluate)
-- Hannah-Beth Iqbal and Comelia Soltanirad (NHANES 8/2021 - 8/2023)
-- Andrew Morris (NHANES 8/2021 - 8/2023)
 - Pooja Madan Mohan and Noha Orabi ([Global Coral Bleaching Database (NCEI Accession 0228498)](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498))
-- Sadia Ahmed and Erin San Valentin (NHANES 2017-3/2020)
 - Johnathan Huff ([NFL Statistics: Career_Stats_Defensive](https://www.kaggle.com/datasets/kendallgillies/nflstatistics?select=Career_Stats_Defensive.csv))
+- Dayanna Bohorquez ([Medical Expenditure Panel Survey](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247))
+- Fangzhou Liu ([Environmental Justice Index](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html))
+- Hana Sato ([National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html))
+- Janetta Brundage and Leah Nez (NHANES 8/2021 - 8/2023)
+- Sadia Ahmed and Erin San Valentin (NHANES 2017-3/2020)
+- Hannah-Beth Iqbal and Comelia Soltanirad (NHANES 8/2021 - 8/2023)
+- Madison Albert (NHANES 8/2021 - 8/2023)
+- Andrew Morris (NHANES 8/2021 - 8/2023)
 - Lauren Sapienza (NHANES 8/2021 - 8/2023)
+- Leland Metheny (NHANES 8/2021 - 8/2023)
+- Renu Madhuraj Jadhav (will partner with Isabela Drumond Fonseca, who will send the full form, and then I can evaluate)
+- Ching-Wen Mai (will partner with Kuangstan (Wilson) Hsu, who will send the full form, then I can evaluate)
+
 
 ### Non-NHANES Study Plans
 
