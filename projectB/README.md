@@ -31,7 +31,7 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 - Andrew Morris (NHANES 8/2021 - 8/2023)
 - Lauren Sapienza (NHANES 8/2021 - 8/2023)
 - Leland Metheny (NHANES 8/2021 - 8/2023)
-- Scout Osborne (PROTECT (Predicting Response to Standardized Colitis Therapy) Study [Table 6 in this article](https://doi.org/10.1016/j.chom.2018.09.009))
+- Scout Osborne (PROTECT (Predicting Response to Standardized Colitis Therapy) Study: [Table 6 in this article](https://doi.org/10.1016/j.chom.2018.09.009))
 - Andrew Crawford ([MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/))
 
 ### Forms waiting for their partner to submit the full form
