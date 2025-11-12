@@ -22,7 +22,7 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 5. If you have more than the maximum allowable number of observations (10,000 for Non-NHANES studies, and 7,500 for NHANES studies), I encourage you to either (a) focus on a single sex (either females only or males only), or restrict the age range, or apply some other simply explained inclusion criterion that focuses your sample down below the maximum (maybe to about 4,000 subjects), or (b) *a less good solution* take a random sample of, say, 4,000 complete cases from your sample so that, again, you are well below the maximum possible sample size for your type of study.
 6. For NHANES studies, if you get names instead of numbers in your categorical variables when using the `nhanes()` function in the **nhanesA** package, you can either work with those names, or try adding `translated = FALSE`, as in `demo <- nhanes("DEMO_L", translated = FALSE)` to your call to the `nhanes()` function.
 
-### Recently Submitted Forms that I will evaluate tonight.
+### Recently Submitted Forms that I am evaluating now.
 
 - Janetta Brundage and Leah Nez (NHANES 8/2021 - 8/2023)
 - Sadia Ahmed and Erin San Valentin (NHANES 2017-3/2020)
@@ -31,8 +31,13 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 - Andrew Morris (NHANES 8/2021 - 8/2023)
 - Lauren Sapienza (NHANES 8/2021 - 8/2023)
 - Leland Metheny (NHANES 8/2021 - 8/2023)
-- Renu Madhuraj Jadhav (will partner with Isabela Drumond Fonseca, who will send the full form, and then I can evaluate)
-- Ching-Wen Mai (will partner with Kuangstan (Wilson) Hsu, who will send the full form, then I can evaluate)
+- Scout Osborne (PROTECT (Predicting Response to Standardized Colitis Therapy) Study [Table 6 in this article](https://doi.org/10.1016/j.chom.2018.09.009))
+- Andrew Crawford ([MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/))
+
+### Forms waiting for their partner to submit the full form
+
+- Renu Madhuraj Jadhav (will partner with Isabela Drumond Fonseca)
+- Ching-Wen Mai (will partner with Kuangstan (Wilson) Hsu)
 
 
 ### Non-NHANES Study Plans
@@ -45,7 +50,6 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Fai Albuainain & Avianna Thompson | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 450
 ✔️ | Moses Fleischman | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Days in past 30 when mental health was not good | Adult made the respondent feel safe/protected during childhood (5 levels) | 10,000
 ✔️ | Noni Pinales & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | Lifetime count: use of emergency contraception | Male parental figure status (3 levels) | 1,460 women ages 15-49
-✔️ | Phia Ribeiro & Annabelle Elsner Pacheco | 431 Favorite Movies data from 2025-10-28 | Awards received | Rotten Tomatoes Critic's Score | 250
 ✔️ | Pooja Madan Mohan and Noha Orabi | ([Global Coral Bleaching Database (NCEI Accession 0228498)](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498)) | Percent bleached | Depth of site | 2,427 coral reef sites
 ✔️ | Subin Lee | [2025 Annual Social and Economic Supplements Data](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html) | Total medical out-of-pocket expenditure ($) in 2024 | Total family earnings ($) in 2024 |  1,354
 ✔️ | Vennila Ramasubramanian and Paula Gonzalez | [BRFSS 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) | Body Mass Index | Educational Attainment (4 levels) | 8,859
@@ -58,6 +62,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 ❓ | Fangzhou Liu[^Fangzhou] | [Environmental Justice Index](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) | % of tract residents with a cancer diagnosis | % of racial/ethnic minority residents | 7,720 *US census tracts*
 ❓ | Hana Sato[^Hana] | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) | Family income ratio (vs. poverty) | Race in the household (6 levels) | 3,825 *people representing Midwest households*
 **NO** | Johnathan Huff[^Johnathan] | [NFL Statistics: Career_Stats_Defensive](https://www.kaggle.com/datasets/kendallgillies/nflstatistics?select=Career_Stats_Defensive.csv) | Tackles made in a season | Defensive Position | *will change*
+❓ | Phia Ribeiro[^Phia] & Annabelle Elsner Pacheco | 431 Favorite Movies data from 2025-10-28 | Awards received | Rotten Tomatoes Critic's Score | 250
 
 
 ### NHANES Study Plans
@@ -89,3 +94,4 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 [^Hana]: Hana: Several issues of concern: (1) A value of your proposed outcome being 0 does not mean the family income is below the poverty threshold. It means that they literally have no family income. A value of 1 would be at the poverty threshold, with values below 1 indicating that income is below the threshold. (2) The race categories are confusing at best, and you will need to cut this down, I think, by comparing three specific groups (White only, Black/African-American only, all others) (3) Both of your measures indicate that the person is describing their entire family/household. Are all of your other variables similarly describing households? (4) Focusing on the Midwest is OK, I suppose, but you have to tell me which states that includes in this case. Please email me your responses to each of these thoughts, ideally before noon Wednesday.
 [^Johnathan]: Johnathan: This is a problem in several ways. (1) The data are old. Newer information on the same subject is available elsewhere. (2) The data are from Kaggle, which I didn't expressly forbid here, but I probably should have. The Kaggle data are already pre-canned for you, and I don't love that. (3) You cannot use multiple years of the same player for this project, so you must filter the data to look at either all of the players in one specific season, or maybe all players in one season and then one other season far enough away in time that there is no overlap in players, so, for example, data on 2000 and 2024 (where the year would become one of your predictors.) (4) You would need to specify which position categories you plan to study (since many players in the Kaggle set have missing data in the Position column) (5) You also need tell me what other predictors are that you are planning to include in Study 2 in order for me to approve this. So that's a lot to deal with here, but if you still want to try with these data, or (better) a combination of multiple data sets from the Kaggle site, or (better still) getting the data yourself from NFL's statistics site or something like football-reference.com, I am willing to consider it. In the meantime, though, you will need to email me about how you'd like to proceed, ideally by the noon Wednesday deadline.
 [^Jiakun]: Jiakun: Either (a) take a random sample of 4,000 of these subjects between the ages of 21 and 79 for your Project B, please, or, if you prefer, (b) focus on a single sex, or a smaller age range, or some other inclusion criterion that focuses your sample on less than 4,000 subjects. Personally, I would prefer you to choose option (b). Please email me to let me know you've seen this and what you will do, so I can correct the size above and then remove this note.
+[^Phia]: Phia: Please see my email of 2025-11-11 (8:40 PM) reacting to your problematic new submission, and then reply to that email so I can update this plan, as needed.
