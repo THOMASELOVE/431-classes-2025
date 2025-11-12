@@ -24,12 +24,7 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 
 ### Awaiting Submissions
 
-- Alex Krammer
 - Linda Chen
-
-### Received but not yet reviewed
-
-- None at present.
 
 ----
 
@@ -60,6 +55,7 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
+✔️ | Alexander Krammer | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Body Mass Index | average number of alcoholic drinks on days the subject drank in the past 30 days | 7,736 people from VA and IL
 ✔️ | Andrew Crawford | [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/) | ICU length of stay | average hemoglobin level during ICU stay | 6,899 ICU patients with a single stay
 ✔️ | Dana Kleinman | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | average hours of sleep per night | cardiovascular physical activity (3 levels) | 1,074
 ✔️ | Dayanna Bohorquez | [Medical Expenditure Panel Survey 2023](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247) | Out-of-pocket burden | Insurance type (2-3 levels) | 791 *subjects with cancer*
