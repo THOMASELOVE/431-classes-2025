@@ -85,5 +85,5 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 ----
 
 [^Arjun]: Arjun: Thanks for acknowledging my email. I look forward to your reply this evening.
-[^Leland]: Leland: You need to specify for me (1) exactly what variable you will use as your key predictor to describe alcohol use, and tell me (if it is categorical) how many levels it has (outside of things that should be treated as missing) or (if it is quantitative) what the range is, and how this affects your number of subjects. Then (2) You also need to be more accurate about what you present in the subjects section. If you are using data from one cycle of NHANES, you shouldn't be talking about every year since 1960, and you should also be specifying the age range for the subjects you intend to study. Please email me your response to these thoughts, as soon as possible.
+[^Leland]: Leland: Please reply to my email sent 2:30 PM on 2025-11-12.
 [^Linda]: Linda: Please reply to my email sent 2:20 PM on 2025-11-12.
