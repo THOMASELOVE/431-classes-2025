@@ -50,10 +50,11 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
+❓ | Allison Thirion Blasius[^Allison] | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DBD381` how many days a child received a complete school lunch | *to be clarified*
+❓ | Arjun Chatterjee[^Arjun] | 8/2021 to 8/2023 | `LBXGH` Hemoglobin A1c | `RIDAGEYR` Age | 5,767
 ❓ | Jiakun Wang[^Jiakun] | 2017 to 3/2020 | mean of `BPXOSY1`, `BPXOSY2`, `BPXOSY3` systolic blood pressure (mm Hg) | `BMXBMI` body mass index (kg/m2) | 7,007
 ❓ | Leland Metheny[^Leland] | 8/2021 to 8/2023 | `LBDNENO` Segmented neutrophils (1000 cell/μL) | *to be clarified* | 2,242
 ❓ | Sadia Ahmed[^Sadia] and Erin San Valentin | 2017 to 3/2020 | `SLD012` and `SLD013` to calculate average hours of weekly sleep debt | `OCQ180` work hours last week | 4,015 
-❓ | Joshua Silalahi[^Joshua] | 8/2021 to 8/2023 | `BMXWAIST` Waist circumference (cm) | *unclear* | 1,661 men ages 18-60
 
 ----
 
@@ -86,23 +87,27 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Andrew Morris | 8/2021 to 8/2023 | `BPXOSY1` systolic blood pressure (mm Hg), 1st reading | `HUQ042` Place most often go for health care (5 levels) | 532
 ✔️ | Ben Kwiatkowski | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `KIQ481` Times per night waking to urinate (0-4 or 5+) | 4,843
 ✔️ | Cher Yuan | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DMDMARTZ` Marital Status (3 levels) | 5,000
+✔️ | Emma Chio | 8/2021 to 8/2023 | `LBXTLG` triglycerides (mg/dL) | `SLD013` Weekend sleep hours | 2,588
 ✔️ | Hannah-Beth Iqbal and Comelia Soltanirad | 8/2021 to 8/2023 | `LBXTC` Total cholesterol (mg/dl) | `INDFMPIR` Ratio of family income to poverty | 4,337
 ✔️ | Helena Zhao | 8/2021 to 8/2023 | `BPXOSY1` systolic blood pressure (mm Hg), 1st reading | `BMXBMI` body mass index (kg/m2) | 3,000
 ✔️ | Isabela Drumond Fonseca & Renu Madhuraj Jadhav | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `LBXVIDMS` Vitamin D 25OHD2+25OHD3 (nmol/L) | 892
 ✔️ | Janetta Brundage and Leah Nez | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `DMDMARTZ` Marital Status (3 levels) | 1,074
 ✔️ | Jiayi Sun | 8/2021 to 8/2023 | `LBXVIDMS` Vitamin D: 25OHD2 + 25OHD3 (nmol/L) | `INDFMPIR` Ratio of family income to poverty | 518 *age 4 to 19*
+✔️ | Joshua Silalahi | 8/2021 to 8/2023 | `BMXWAIST` Waist circumference (cm) | 60*`PHAFSTHR` + `PHAFSTMN` time between last food and venipuncture | 1,661 men ages 18-60
 ✔️ | Kuangtsan (Wilson) Hsu & Ching-Wen Mai | 8/2021 to 8/2023 | `LBXVIDMS` Vitamin D: 25OHD2+25OHD3 (nmol/L) | `PAD680` Minutes of Sedentary Activity per day | 1,584 <br> *age 50-64*
 ✔️ | Lauren Sapienza | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `DPQ020` feeling down, depressed, hopeless in past 2 weeks (4 levels) | 1,896
 ✔️ | Lily Zhang | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `PAD790Q` & `PAD790U` Times engaged in moderate leisure-time physical activity per week (4 groups) | 1,531
 ✔️ | Madison Albert | 8/2021 to 8/2023 | `LUXSMED` Median Liver Stiffness (kPa) | `BMXWAIST` Waist circumference (cm) | 3,226
 ✔️ | Shufei Fang & <br> Ruoying Chen | 8/2021 to 8/2023 | `LBXTC` Total cholesterol (mg/dl) | `LBXWBCSI` White blood cell count (1000 cells / μl) | 1,994
+✔️ | Simon Lynn | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `PAD810Q` frequency of vigorous leisure physical activity | 5,392
 ✔️ | Valerie Lam | 2017 to 3/2020 | `LBXIN` insulin (μU/mL) | `BMXHIP` hip circumference (cm) | 1,795 *women*
 
 ----
 
 [^Johnathan]: Johnathan: This is a problem in several ways. (1) The data are old. Newer information on the same subject is available elsewhere. (2) The data are from Kaggle, which I didn't expressly forbid here, but I probably should have. The Kaggle data are already pre-canned for you, and I don't love that. (3) You cannot use multiple years of the same player for this project, so you must filter the data to look at either all of the players in one specific season, or maybe all players in one season and then one other season far enough away in time that there is no overlap in players, so, for example, data on 2000 and 2024 (where the year would become one of your predictors.) (4) You would need to specify which position categories you plan to study (since many players in the Kaggle set have missing data in the Position column) (5) You also need tell me what other predictors are that you are planning to include in Study 2 in order for me to approve this. So that's a lot to deal with here, but if you still want to try with these data, or (better) a combination of multiple data sets from the Kaggle site, or (better still) getting the data yourself from NFL's statistics site or something like football-reference.com, I am willing to consider it. In the meantime, though, you will need to email me about how you'd like to proceed, ideally by the noon Wednesday deadline.
 [^Scout]: Scout: Can you email me both the units of measurement and the range you observe (minimum and maximum) for your outcome and key predictor, ideally by the noon Wednesday deadline?
+[^Allison]: Allison: You say you're planning to look at 1,133 children ages 0-20 here, but shouldn't they need to be of school age (probably between 6 and 17) to be included in your work? If I am correct that you're using `DBD381` as your predictor, which you need to confirm for me, then that's only asked of people between the ages of 4 and 19 anyway. I would argue that what you should do if that's your predictor is require the children you use to be in a particular age range and have a Yes (1) response to DBQ360 (During the school year, {do you/does SP} attend a kindergarten, grade school, junior or high school?) as well. Please reply to my email sent 10:55 AM 2025-11-12 as soon as possible responding to these comments, and telling me what your new sample size is, if it has to change, and what age range you will use.
+[^Arjun]: Arjun: Please reply to my email sent 10:45 AM on 2025-11-12.
 [^Jiakun]: Jiakun: Either (a) take a random sample of 4,000 of these subjects between the ages of 21 and 79 for your Project B, please, or, if you prefer, (b) focus on a single sex, or a smaller age range, or some other inclusion criterion that focuses your sample on less than 4,000 subjects. Personally, I would prefer you to choose option (b). Please email me to let me know you've seen this and what you will do, so I can correct the size above and then remove this note.
-[^Joshua]: Joshua: Please reply to my email sent 2025-11-12 at about 10 AM. 
 [^Leland]: Leland: You need to specify for me (1) exactly what variable you will use as your key predictor to describe alcohol use, and tell me (if it is categorical) how many levels it has (outside of things that should be treated as missing) or (if it is quantitative) what the range is, and how this affects your number of subjects. Then (2) You also need to be more accurate about what you present in the subjects section. If you are using data from one cycle of NHANES, you shouldn't be talking about every year since 1960, and you should also be specifying the age range for the subjects you intend to study. Please email me your response to these thoughts, ideally before noon Wednesday.
 [^Sadia]: Sadia and Erin: You need to (1) tell me exactly how you will calculate average hours of sleep debt in detail, including what "recommended number of sleep hours" you are planning to use, and the source of that recommendation, (2) specify much more than you did in the "Subjects, and selected how?" section of the form, in particular specifying what age range you will limit your NHANES subjects to in this work, and (3) tell me how you're going to deal with the fact that so many of your key predictor values are going to be 40 (with many of the rest being 20, 30, 35, 45, 50 and 60) *and* what you're going to do about people who worked less than 6 or more than 78 hours. Please email me your responses to each of these thoughts, ideally before noon Wednesday.
