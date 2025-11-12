@@ -22,56 +22,24 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 
 - The deadline for the form is Wednesday 2025-11-12 at noon. If you are more than 59 minutes late, you will be assigned to the schedule last and lose some credit on Project B.
 
-### Awaiting Submissions
-
-- Linda Chen
-
-----
-
-## Submitted Plans Not Yet Approved
-
-### Non-NHANES Study Plans not yet approved
-
-OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
-:--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
-❓ |  Scout Osborne[^Scout] | PROTECT (Predicting Response to Standardized Colitis Therapy) Study: [Table 6 in this article](https://doi.org/10.1016/j.chom.2018.09.009) | fecal calprotectin levels | relative abundance of the bacterial species H. parainfluenzae | 368
-
-### NHANES Study Plans not yet approved
+## Submitted Plans Not Yet Approved (All are NHANES)
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
-❓ | Allison Thirion Blasius[^Allison] | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DBD381` how many days a child received a complete school lunch | *to be clarified*
 ❓ | Arjun Chatterjee[^Arjun] | 8/2021 to 8/2023 | `LBXGH` Hemoglobin A1c | `RIDAGEYR` Age | 5,767
 ❓ | Leland Metheny[^Leland] | 8/2021 to 8/2023 | `LBDNENO` Segmented neutrophils (1000 cell/μL) | *to be clarified* | 2,242
+❓ | Linda Chen[^Linda] | 8/2021 to 8/2023 | *new outcome needed* | `LBDTSTSI` Testosterone (nmol/L) | *to be clarified*
 
 ----
 
 ## Approved Study Plans
-
-### Approved Non-NHANES Study Plans
-
-OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
-:--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
-✔️ | Alexander Krammer | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Body Mass Index | average number of alcoholic drinks on days the subject drank in the past 30 days | 7,736 people from VA and IL
-✔️ | Andrew Crawford | [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/) | ICU length of stay | average hemoglobin level during ICU stay | 6,899 ICU patients with a single stay
-✔️ | Dana Kleinman | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | average hours of sleep per night | cardiovascular physical activity (3 levels) | 1,074
-✔️ | Dayanna Bohorquez | [Medical Expenditure Panel Survey 2023](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247) | Out-of-pocket burden | Insurance type (2-3 levels) | 791 *subjects with cancer*
-✔️ | Fai Albuainain & Avianna Thompson | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 450
-✔️ | Fangzhou (Eric) Liu | [Environmental Justice Index](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) | % of tract residents ages 16+ who are unemployed | % of racial/ethnic minority residents | 7,000 *US census tracts*
-✔️ | Hana Sato | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) | Family income ratio (vs. poverty) | Race in the household (4 levels) | 3,825 *people representing Midwest households*
-✔️ | Johnathan Huff | [Pro Football Reference, 2024](https://www.pro-football-reference.com/years/2024/defense.htm) | Tackles made in 2024 | Defensive Position (4 levels) | 1,594
-✔️ | Moses Fleischman | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Days in past 30 when mental health was not good | Adult made the respondent feel safe/protected during childhood (5 levels) | 10,000
-✔️ | Noni Pinales & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | Lifetime count: use of emergency contraception | Male parental figure status (3 levels) | 1,460 women ages 15-49
-✔️ | Phia Ribeiro & Annabelle Elsner Pacheco | [Portuguese student performance](https://archive.ics.uci.edu/dataset/320/student+performance) | Final grade in Mathematics | Final grade in Portuguese | 382
-✔️ | Pooja Madan Mohan and Noha Orabi | ([Global Coral Bleaching Database (NCEI Accession 0228498)](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498)) | Percent bleached | Depth of site | 2,427 coral reef sites
-✔️ | Subin Lee | [2025 Annual Social and Economic Supplements Data](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html) | Total medical out-of-pocket expenditure ($) in 2024 | Total family earnings ($) in 2024 |  1,354
-✔️ | Vennila Ramasubramanian and Paulina Gonzalez | [BRFSS 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) | Body Mass Index | Educational Attainment (4 levels) | 8,859
 
 ### Approved NHANES Study Plans
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
 ✔️ | Alex Bergendorf | 8/2021 to 8/2023 | `LBXHSCRP` HS C-reactive protein (mg/dl) | `PUQ100` Are products used in the home to control insects? (yes/no) | 2,268
+✔️ | Allison Thirion Blasius | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DBD381` how many days a child received a complete school lunch | 1,656 ages 6-18
 ✔️ | Amanda Barabas | 8/2021 to 8/2023 | `LBXSATSI` Alanine Aminotransferase (ALT) (IU/l) | `PUQ100` Are products used in the home to control insects? (yes/no) | 6,366
 ✔️ | Amjad Samara | 8/2021 to 8/2023 | `LBDLDL` LDL cholesterol (mg/dl) | `BMXBMI` body mass index (kg/m2) | 3,192
 ✔️ | Andrew Morris | 8/2021 to 8/2023 | `BPXOSY1` systolic blood pressure (mm Hg), 1st reading | `HUQ042` Place most often go for health care (5 levels) | 532
@@ -94,9 +62,28 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Simon Lynn | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `PAD810Q` frequency of vigorous leisure physical activity | 5,392
 ✔️ | Valerie Lam | 2017 to 3/2020 | `LBXIN` insulin (μU/mL) | `BMXHIP` hip circumference (cm) | 1,795 *women*
 
+### Approved Non-NHANES Study Plans
+
+OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
+:--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
+✔️ | Alexander Krammer | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Body Mass Index | average number of alcoholic drinks on days the subject drank in the past 30 days | 7,736 people from VA and IL
+✔️ | Andrew Crawford | [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/) | ICU length of stay | average hemoglobin level during ICU stay | 6,899 ICU patients with a single stay
+✔️ | Dana Kleinman | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | average hours of sleep per night | cardiovascular physical activity (3 levels) | 1,074
+✔️ | Dayanna Bohorquez | [Medical Expenditure Panel Survey 2023](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247) | Out-of-pocket burden | Insurance type (2-3 levels) | 791 *subjects with cancer*
+✔️ | Fai Albuainain & Avianna Thompson | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 450
+✔️ | Fangzhou (Eric) Liu | [Environmental Justice Index](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) | % of tract residents ages 16+ who are unemployed | % of racial/ethnic minority residents | 7,000 *US census tracts*
+✔️ | Hana Sato | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) | Family income ratio (vs. poverty) | Race in the household (4 levels) | 3,825 *people representing Midwest households*
+✔️ | Johnathan Huff | [Pro Football Reference, 2024](https://www.pro-football-reference.com/years/2024/defense.htm) | Tackles made in 2024 | Defensive Position (4 levels) | 1,594
+✔️ | Moses Fleischman | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Days in past 30 when mental health was not good | Adult made the respondent feel safe/protected during childhood (5 levels) | 10,000
+✔️ | Noni Pinales & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | Lifetime count: use of emergency contraception | Male parental figure status (3 levels) | 1,460 women ages 15-49
+✔️ | Phia Ribeiro & Annabelle Elsner Pacheco | [Portuguese student performance](https://archive.ics.uci.edu/dataset/320/student+performance) | Final grade in Mathematics | Final grade in Portuguese | 382
+✔️ | Pooja Madan Mohan and Noha Orabi | ([Global Coral Bleaching Database (NCEI Accession 0228498)](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498)) | Percent bleached | Depth of site | 2,427 coral reef sites
+✔️ | Scout Osborne | PROTECT (Predicting Response to Standardized Colitis Therapy) Study: [Table 6 in this article](https://doi.org/10.1016/j.chom.2018.09.009) | fecal calprotectin levels (mcg/g) | relative fraction of the bacterial species H. parainfluenzae | 368
+✔️ | Subin Lee | [2025 Annual Social and Economic Supplements Data](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html) | Total medical out-of-pocket expenditure ($) in 2024 | Total family earnings ($) in 2024 |  1,354
+✔️ | Vennila Ramasubramanian and Paulina Gonzalez | [BRFSS 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) | Body Mass Index | Educational Attainment (4 levels) | 8,859
+
 ----
 
-[^Scout]: Scout: Can you email me both the units of measurement and the range you observe (minimum and maximum) for your outcome and key predictor, ideally by the noon Wednesday deadline?
-[^Allison]: Allison: You say you're planning to look at 1,133 children ages 0-20 here, but shouldn't they need to be of school age (probably between 6 and 17) to be included in your work? If I am correct that you're using `DBD381` as your predictor, which you need to confirm for me, then that's only asked of people between the ages of 4 and 19 anyway. I would argue that what you should do if that's your predictor is require the children you use to be in a particular age range and have a Yes (1) response to DBQ360 (During the school year, {do you/does SP} attend a kindergarten, grade school, junior or high school?) as well. Please reply to my email sent 10:55 AM 2025-11-12 as soon as possible responding to these comments, and telling me what your new sample size is, if it has to change, and what age range you will use.
-[^Arjun]: Arjun: Please reply to my email sent 10:45 AM on 2025-11-12.
-[^Leland]: Leland: You need to specify for me (1) exactly what variable you will use as your key predictor to describe alcohol use, and tell me (if it is categorical) how many levels it has (outside of things that should be treated as missing) or (if it is quantitative) what the range is, and how this affects your number of subjects. Then (2) You also need to be more accurate about what you present in the subjects section. If you are using data from one cycle of NHANES, you shouldn't be talking about every year since 1960, and you should also be specifying the age range for the subjects you intend to study. Please email me your response to these thoughts, ideally before noon Wednesday.
+[^Arjun]: Arjun: Thanks for acknowledging my email. I look forward to your reply this evening.
+[^Leland]: Leland: You need to specify for me (1) exactly what variable you will use as your key predictor to describe alcohol use, and tell me (if it is categorical) how many levels it has (outside of things that should be treated as missing) or (if it is quantitative) what the range is, and how this affects your number of subjects. Then (2) You also need to be more accurate about what you present in the subjects section. If you are using data from one cycle of NHANES, you shouldn't be talking about every year since 1960, and you should also be specifying the age range for the subjects you intend to study. Please email me your response to these thoughts, as soon as possible.
+[^Linda]: Linda: Please reply to my email sent 2:20 PM on 2025-11-12.
