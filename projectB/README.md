@@ -22,9 +22,16 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 5. If you have more than the maximum allowable number of observations (10,000 for Non-NHANES studies, and 7,500 for NHANES studies), I encourage you to either (a) focus on a single sex (either females only or males only), or restrict the age range, or apply some other simply explained inclusion criterion that focuses your sample down below the maximum (maybe to about 4,000 subjects), or (b) *a less good solution* take a random sample of, say, 4,000 complete cases from your sample so that, again, you are well below the maximum possible sample size for your type of study.
 6. For NHANES studies, if you get names instead of numbers in your categorical variables when using the `nhanes()` function in the **nhanesA** package, you can either work with those names, or try adding `translated = FALSE`, as in `demo <- nhanes("DEMO_L", translated = FALSE)` to your call to the `nhanes()` function.
 
-### Awaiting partner's submission of the full form
+### Awaiting Submissions
 
-- Renu Madhuraj Jadhav (will partner with Isabela Drumond Fonseca)
+1. Alex Krammer
+2. Allison (Alli) Thirion-Blasius
+3. Arjun Chatterjee
+4. Emma Chio
+5. Isabela Drumond Fonseca (with Renu Madhuraj Jadhav - who submitted small form)
+6. Josh Silalahi
+7. Linda Chen
+8. Simon Lynn
 
 ### Non-NHANES Study Plans
 
@@ -34,6 +41,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
 ✔️ | Dana Kleinman | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | average hours of sleep per night | cardiovascular physical activity (3 levels) | 1,074
 ✔️ | Fai Albuainain & Avianna Thompson | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 450
+✔️ | Hana Sato | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) | Family income ratio (vs. poverty) | Race in the household (4 levels) | 3,825 *people representing Midwest households*
 ✔️ | Moses Fleischman | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Days in past 30 when mental health was not good | Adult made the respondent feel safe/protected during childhood (5 levels) | 10,000
 ✔️ | Noni Pinales & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | Lifetime count: use of emergency contraception | Male parental figure status (3 levels) | 1,460 women ages 15-49
 ✔️ | Phia Ribeiro & Annabelle Elsner Pacheco | [Portuguese student performance](https://archive.ics.uci.edu/dataset/320/student+performance) | Final grade in Mathematics | Final grade in Portuguese | 382
@@ -48,14 +56,12 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 ❓ | Andrew Crawford [^Andrew] | [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/) | ICU length of stay | average hemoglobin level during ICU stay | 6,899 ICU patients with a single stay
 ❓ | Dayanna Bohorquez[^Dayanna] | [Medical Expenditure Panel Survey 2023](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247) | Out-of-pocket burden | Insurance type (2 levels) | 791 *subjects with cancer*
 ❓ | Fangzhou Liu[^Fangzhou] | [Environmental Justice Index](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) | % of tract residents ages 16+ who are unemployed | % of racial/ethnic minority residents | 7,720 *US census tracts*
-❓ | Hana Sato[^Hana] | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) | Family income ratio (vs. poverty) | Race in the household (6 levels) | 3,825 *people representing Midwest households*
 **NO** | Johnathan Huff[^Johnathan] | [NFL Statistics: Career_Stats_Defensive](https://www.kaggle.com/datasets/kendallgillies/nflstatistics?select=Career_Stats_Defensive.csv) | Tackles made in a season | Defensive Position | *will change*
 ❓ |  Scout Osborne[^Scout] | PROTECT (Predicting Response to Standardized Colitis Therapy) Study: [Table 6 in this article](https://doi.org/10.1016/j.chom.2018.09.009) | fecal calprotectin levels | relative abundance of the bacterial species H. parainfluenzae | 368
 
 [^Andrew]: Andrew: I am concerned about the outcome containing minimal variation, and baffled by your statement that this value can be below 0 days. How could a length of stay be negative? Can you email me a tabyl of the ICU lengths of stay for these 6,899 subjects, by the deadline of noon Wednesday? Then I can decide if this is going to work.
 [^Dayanna]: Dayanna: Two questions: (1) Is the outcome describing out-of-pocket costs in 2023, or in some other year? (2) Is the insurance information only binary or are there more than two categories, like public, private, uninsured? It would be better if there were 3 or more categories for your key predictor. Please email me your response to these questions, ideally before noon Wednesday.
 [^Fangzhou]: Fangzhou (Eric): I don't love that your outcome is the result of a model, rather than real data. Is there another outcome you could use instead for Study 2? If not, I will probably be OK with this, but it's not ideal, so I want to know if there's another, better, option. Email me your thoughts, ideally before noon Wednesday.
-[^Hana]: Hana: Several issues of concern: (1) A value of your proposed outcome being 0 does not mean the family income is below the poverty threshold. It means that they literally have no family income. A value of 1 would be at the poverty threshold, with values below 1 indicating that income is below the threshold. (2) The race categories are confusing at best, and you will need to cut this down, I think, by comparing three specific groups (White only, Black/African-American only, all others) (3) Both of your measures indicate that the person is describing their entire family/household. Are all of your other variables similarly describing households? (4) Focusing on the Midwest is OK, I suppose, but you have to tell me which states that includes in this case. Please email me your responses to each of these thoughts, ideally before noon Wednesday.
 [^Johnathan]: Johnathan: This is a problem in several ways. (1) The data are old. Newer information on the same subject is available elsewhere. (2) The data are from Kaggle, which I didn't expressly forbid here, but I probably should have. The Kaggle data are already pre-canned for you, and I don't love that. (3) You cannot use multiple years of the same player for this project, so you must filter the data to look at either all of the players in one specific season, or maybe all players in one season and then one other season far enough away in time that there is no overlap in players, so, for example, data on 2000 and 2024 (where the year would become one of your predictors.) (4) You would need to specify which position categories you plan to study (since many players in the Kaggle set have missing data in the Position column) (5) You also need tell me what other predictors are that you are planning to include in Study 2 in order for me to approve this. So that's a lot to deal with here, but if you still want to try with these data, or (better) a combination of multiple data sets from the Kaggle site, or (better still) getting the data yourself from NFL's statistics site or something like football-reference.com, I am willing to consider it. In the meantime, though, you will need to email me about how you'd like to proceed, ideally by the noon Wednesday deadline.
 [^Scout]: Scout: Can you email me both the units of measurement and the range you observe (minimum and maximum) for your outcome and key predictor, ideally by the noon Wednesday deadline?
 
