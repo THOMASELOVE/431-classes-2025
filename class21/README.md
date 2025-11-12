@@ -14,7 +14,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Status of Project B Registration is [here](https://github.com/THOMASELOVE/431-classes-2025/tree/main/projectB).
+1. Project B Registration status is [now available here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/registration.md).
     - The schedule for Project B presentations will be available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) on Friday 2025-11-14.
 2. Feedback on the Minute Paper after Class 20 will be available **by class time**
 3. More to come. 
