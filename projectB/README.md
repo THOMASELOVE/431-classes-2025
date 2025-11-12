@@ -34,11 +34,9 @@ As each group's [Project B Registration Form](https://bit.ly/431-projB-registrat
 - Scout Osborne (PROTECT (Predicting Response to Standardized Colitis Therapy) Study: [Table 6 in this article](https://doi.org/10.1016/j.chom.2018.09.009))
 - Andrew Crawford ([MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/))
 
-### Forms waiting for their partner to submit the full form
+### Awaiting partner's submission of the full form
 
 - Renu Madhuraj Jadhav (will partner with Isabela Drumond Fonseca)
-- Ching-Wen Mai (will partner with Kuangstan (Wilson) Hsu)
-
 
 ### Non-NHANES Study Plans
 
