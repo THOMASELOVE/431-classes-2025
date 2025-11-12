@@ -59,7 +59,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Fai Albuainain & Avianna Thompson | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 450
 ✔️ | Fangzhou (Eric) Liu | [Environmental Justice Index](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) | % of tract residents ages 16+ who are unemployed | % of racial/ethnic minority residents | 7,000 *US census tracts*
 ✔️ | Hana Sato | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) | Family income ratio (vs. poverty) | Race in the household (4 levels) | 3,825 *people representing Midwest households*
-✔️ | Johnathan Huff[^Johnathan] | [Pro Football Reference, 2024](https://www.pro-football-reference.com/years/2024/defense.htm) | Tackles made in 2024 | Defensive Position (4 levels) | 1,594
+✔️ | Johnathan Huff | [Pro Football Reference, 2024](https://www.pro-football-reference.com/years/2024/defense.htm) | Tackles made in 2024 | Defensive Position (4 levels) | 1,594
 ✔️ | Moses Fleischman | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Days in past 30 when mental health was not good | Adult made the respondent feel safe/protected during childhood (5 levels) | 10,000
 ✔️ | Noni Pinales & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | Lifetime count: use of emergency contraception | Male parental figure status (3 levels) | 1,460 women ages 15-49
 ✔️ | Phia Ribeiro & Annabelle Elsner Pacheco | [Portuguese student performance](https://archive.ics.uci.edu/dataset/320/student+performance) | Final grade in Mathematics | Final grade in Portuguese | 382
@@ -96,7 +96,6 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 
 ----
 
-[^Johnathan]: Johnathan: Thanks for your email. I await your revised response to the form.
 [^Scout]: Scout: Can you email me both the units of measurement and the range you observe (minimum and maximum) for your outcome and key predictor, ideally by the noon Wednesday deadline?
 [^Allison]: Allison: You say you're planning to look at 1,133 children ages 0-20 here, but shouldn't they need to be of school age (probably between 6 and 17) to be included in your work? If I am correct that you're using `DBD381` as your predictor, which you need to confirm for me, then that's only asked of people between the ages of 4 and 19 anyway. I would argue that what you should do if that's your predictor is require the children you use to be in a particular age range and have a Yes (1) response to DBQ360 (During the school year, {do you/does SP} attend a kindergarten, grade school, junior or high school?) as well. Please reply to my email sent 10:55 AM 2025-11-12 as soon as possible responding to these comments, and telling me what your new sample size is, if it has to change, and what age range you will use.
 [^Arjun]: Arjun: Please reply to my email sent 10:45 AM on 2025-11-12.
