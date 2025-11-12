@@ -18,11 +18,9 @@ The schedule will be [posted here](https://github.com/THOMASELOVE/431-classes-20
 
 ## Registration Status
 
-As each group's [Project B Registration Form](https://bit.ly/431-projB-registration-2025) is submitted, I will list the investigators below. 
+We have 41 Project Bs in 431 this semester.
 
-- The deadline for the form is Wednesday 2025-11-12 at noon. If you are more than 59 minutes late, you will be assigned to the schedule last and lose some credit on Project B.
-
-## Submitted Plans Not Yet Approved (All are NHANES)
+## Submitted Plans Not Yet Approved (All are NHANES: 3 projects, 3 people)
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
@@ -34,7 +32,7 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 
 ## Approved Study Plans
 
-### Approved NHANES Study Plans
+### Approved NHANES Study Plans (23 projects, 29 people)
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
@@ -62,7 +60,7 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Simon Lynn | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `PAD810Q` frequency of vigorous leisure physical activity | 5,392
 ✔️ | Valerie Lam | 2017 to 3/2020 | `LBXIN` insulin (μU/mL) | `BMXHIP` hip circumference (cm) | 1,795 *women*
 
-### Approved Non-NHANES Study Plans
+### Approved Non-NHANES Study Plans (15 projects, 20 people)
 
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
