@@ -43,7 +43,6 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
 ❓ | Allison Thirion Blasius[^Allison] | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DBD381` how many days a child received a complete school lunch | *to be clarified*
 ❓ | Arjun Chatterjee[^Arjun] | 8/2021 to 8/2023 | `LBXGH` Hemoglobin A1c | `RIDAGEYR` Age | 5,767
-❓ | Jiakun Wang[^Jiakun] | 2017 to 3/2020 | mean of `BPXOSY1`, `BPXOSY2`, `BPXOSY3` systolic blood pressure (mm Hg) | `BMXBMI` body mass index (kg/m2) | 7,007
 ❓ | Leland Metheny[^Leland] | 8/2021 to 8/2023 | `LBDNENO` Segmented neutrophils (1000 cell/μL) | *to be clarified* | 2,242
 
 ----
@@ -84,6 +83,7 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Helena Zhao | 8/2021 to 8/2023 | `BPXOSY1` systolic blood pressure (mm Hg), 1st reading | `BMXBMI` body mass index (kg/m2) | 3,000
 ✔️ | Isabela Drumond Fonseca & Renu Madhuraj Jadhav | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `LBXVIDMS` Vitamin D 25OHD2+25OHD3 (nmol/L) | 892
 ✔️ | Janetta Brundage and Leah Nez | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `DMDMARTZ` Marital Status (3 levels) | 1,074
+✔️ | Jiakun Wang | 2017 to 3/2020 | mean of `BPXOSY1`, `BPXOSY2`, `BPXOSY3` systolic blood pressure (mm Hg) | `BMXBMI` body mass index (kg/m2) | 3,561 women
 ✔️ | Jiayi Sun | 8/2021 to 8/2023 | `LBXVIDMS` Vitamin D: 25OHD2 + 25OHD3 (nmol/L) | `INDFMPIR` Ratio of family income to poverty | 518 *age 4 to 19*
 ✔️ | Joshua Silalahi | 8/2021 to 8/2023 | `BMXWAIST` Waist circumference (cm) | 60*`PHAFSTHR` + `PHAFSTMN` time between last food and venipuncture | 1,661 men ages 18-60
 ✔️ | Kuangtsan (Wilson) Hsu & Ching-Wen Mai | 8/2021 to 8/2023 | `LBXVIDMS` Vitamin D: 25OHD2+25OHD3 (nmol/L) | `PAD680` Minutes of Sedentary Activity per day | 1,584 <br> *age 50-64*
@@ -100,5 +100,4 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 [^Scout]: Scout: Can you email me both the units of measurement and the range you observe (minimum and maximum) for your outcome and key predictor, ideally by the noon Wednesday deadline?
 [^Allison]: Allison: You say you're planning to look at 1,133 children ages 0-20 here, but shouldn't they need to be of school age (probably between 6 and 17) to be included in your work? If I am correct that you're using `DBD381` as your predictor, which you need to confirm for me, then that's only asked of people between the ages of 4 and 19 anyway. I would argue that what you should do if that's your predictor is require the children you use to be in a particular age range and have a Yes (1) response to DBQ360 (During the school year, {do you/does SP} attend a kindergarten, grade school, junior or high school?) as well. Please reply to my email sent 10:55 AM 2025-11-12 as soon as possible responding to these comments, and telling me what your new sample size is, if it has to change, and what age range you will use.
 [^Arjun]: Arjun: Please reply to my email sent 10:45 AM on 2025-11-12.
-[^Jiakun]: Jiakun: Either (a) take a random sample of 4,000 of these subjects between the ages of 21 and 79 for your Project B, please, or, if you prefer, (b) focus on a single sex, or a smaller age range, or some other inclusion criterion that focuses your sample on less than 4,000 subjects. Personally, I would prefer you to choose option (b). Please email me to let me know you've seen this and what you will do, so I can correct the size above and then remove this note.
 [^Leland]: Leland: You need to specify for me (1) exactly what variable you will use as your key predictor to describe alcohol use, and tell me (if it is categorical) how many levels it has (outside of things that should be treated as missing) or (if it is quantitative) what the range is, and how this affects your number of subjects. Then (2) You also need to be more accurate about what you present in the subjects section. If you are using data from one cycle of NHANES, you shouldn't be talking about every year since 1960, and you should also be specifying the age range for the subjects you intend to study. Please email me your response to these thoughts, ideally before noon Wednesday.
