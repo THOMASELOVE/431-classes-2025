@@ -41,6 +41,7 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
 ✔️ | Dana Kleinman | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | average hours of sleep per night | cardiovascular physical activity (3 levels) | 1,074
 ✔️ | Fai Albuainain & Avianna Thompson | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html), 2024 Adult Sample | days missed work  in past 12m | asthma episode/attack  in past 12m | 450
+✔️ | Fangzhou (Eric) Liu | [Environmental Justice Index](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) | % of tract residents ages 16+ who are unemployed | % of racial/ethnic minority residents | 7,720 *US census tracts*
 ✔️ | Hana Sato | [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) | Family income ratio (vs. poverty) | Race in the household (4 levels) | 3,825 *people representing Midwest households*
 ✔️ | Moses Fleischman | [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024 | Days in past 30 when mental health was not good | Adult made the respondent feel safe/protected during childhood (5 levels) | 10,000
 ✔️ | Noni Pinales & Swati Jha | [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm), 2022-2023 - Female Respondent File | Lifetime count: use of emergency contraception | Male parental figure status (3 levels) | 1,460 women ages 15-49
@@ -55,7 +56,6 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
 ❓ | Andrew Crawford [^Andrew] | [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/) | ICU length of stay | average hemoglobin level during ICU stay | 6,899 ICU patients with a single stay
 ❓ | Dayanna Bohorquez[^Dayanna] | [Medical Expenditure Panel Survey 2023](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247) | Out-of-pocket burden | Insurance type (2 levels) | 791 *subjects with cancer*
-❓ | Fangzhou Liu[^Fangzhou] | [Environmental Justice Index](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) | % of tract residents ages 16+ who are unemployed | % of racial/ethnic minority residents | 7,720 *US census tracts*
 **NO** | Johnathan Huff[^Johnathan] | [NFL Statistics: Career_Stats_Defensive](https://www.kaggle.com/datasets/kendallgillies/nflstatistics?select=Career_Stats_Defensive.csv) | Tackles made in a season | Defensive Position | *will change*
 ❓ |  Scout Osborne[^Scout] | PROTECT (Predicting Response to Standardized Colitis Therapy) Study: [Table 6 in this article](https://doi.org/10.1016/j.chom.2018.09.009) | fecal calprotectin levels | relative abundance of the bacterial species H. parainfluenzae | 368
 
