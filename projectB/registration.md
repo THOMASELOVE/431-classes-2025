@@ -10,8 +10,8 @@ In the **OK?** column, below...
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
-❓ | Arjun Chatterjee[^Arjun] | 8/2021 to 8/2023 | `LBXGH` Hemoglobin A1c | `RIDAGEYR` Age | 5,767
-❓ | Leland Metheny[^Leland] | 8/2021 to 8/2023 | `LBDNENO` Segmented neutrophils (1000 cell/μL) | *to be clarified* | 2,242
+❓ | Arjun Chatterjee[^Arjun] | 8/2021 to 8/2023 | `LBXGH` Hemoglobin A1c | *new key predictor* | *to be clarified*
+❓ | Leland Metheny[^Leland] | 8/2021 to 8/2023 | `LBDNENO` Segmented neutrophils (1000 cell/μL) | `ALQ121` and `ALQ130` to get alcoholic drinks per week | *to be clarified*
 ❓ | Linda Chen[^Linda] | 8/2021 to 8/2023 | *new outcome needed* | `LBDTSTSI` Testosterone (nmol/L) | *to be clarified*
 
 ----
@@ -69,5 +69,5 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 ----
 
 [^Arjun]: Arjun: Thanks for acknowledging my email. I look forward to your reply this evening.
-[^Leland]: Leland: Please reply to my email sent 2:30 PM on 2025-11-12.
+[^Leland]: Leland: Thanks for your email. I replied at 4:40 PM on 2025-11-12 and again to clarify at 4:45 PM asking some questions. I look forward to your reply.
 [^Linda]: Linda: Please reply to my email sent 2:20 PM on 2025-11-12.
