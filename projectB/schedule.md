@@ -1,6 +1,9 @@
 # Project B Schedule of Project Presentations
 
-- If you have questions about this schedule, want to change from In Person to Zoom, or have an emergency on your presentation day, email Dr. Love.
+- Email Dr. Love as soon as possible if...
+  - you have questions about this schedule,
+  - you want to change from **In Person** to a **Zoom** presentation,
+  - or you have an emergency on your presentation day.
 - Arrive for your presentation (either join the Zoom or arrive in person) at the **Arrival Time** listed below. That is the important time.
   - The Start Time and Finish Time values are approximate.
   - We'll start as close to your Arrival Time as we can, and your actual presentation time is 20 minutes.
