@@ -4,7 +4,7 @@
   - you have questions about this schedule,
   - you want to change from **[In Person](#in-person-presentations)** to a **Zoom** presentation,
   - or you have an emergency on your presentation day.
-- Arrive for your presentation (either join the Zoom or arrive [at my office](#in-person-presentations)) at the **Arrival Time** listed below. That is the important time.
+- Arrive for your presentation (either join the Zoom call or arrive [at my office](#in-person-presentations)) at the **Arrival Time** listed below. That is the important time.
   - The Start Time and Finish Time values are approximate.
   - We'll start as close to your Arrival Time as we can, and your actual presentation time is 20 minutes.
  
