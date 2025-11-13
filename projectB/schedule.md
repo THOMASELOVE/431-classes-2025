@@ -6,7 +6,7 @@ Code | Day | Date | Investigator(s) | Arrival Time | Start Time | Finish Time | 
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-01 | WED | 12-03 | Allison Thirion Blasius | **12:55 PM** | 1:00 PM | 1:25 PM | Zoom | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-02 | WED | 12-03 | Hannah-Beth Iqbal <br> & Comelia Soltanirad | **1:20 PM** | 1:25 PM | 1:50 PM | Zoom | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-03 | WED | 12-03 | Valerie Lam | **1:20 PM** | 1:25 PM | 1:50 PM | Zoom | NHANES <br> [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
+B-03 | WED | 12-03 | Valerie Lam | **1:45 PM** | 1:50 PM | 2:15 PM | Zoom | NHANES <br> [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 
 ## Presentations on Thursday 2025-12-04
 
