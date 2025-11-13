@@ -1,5 +1,9 @@
 # Project B Schedule of Project Presentations
 
+- If you have questions about this schedule, or have an emergency on your presentation day, email Dr. Love.
+- Arrive for your presentation (either join the Zoom or arrive in person) at the **Arrival Time** listed below. That is the important time.
+  - The Start Time and Finish Time values are approximate. We'll start a little earlier if we can, and your actual presentation time is 20 minutes.
+ 
 ## Presentations on Wednesday 2025-12-03 via Zoom
 
 Code | Day | Date | Investigator(s) | Arrival Time | Start Time | Finish Time | Style | Data Source
