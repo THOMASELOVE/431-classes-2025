@@ -1,10 +1,9 @@
 # Registration status for all 41 Project B submissions
 
-We have 41 Project Bs in 431 this semester.
+We have 41 Project Bs in 431 this semester. In the **OK?** column, below...
 
-In the **OK?** column, below...
-    - ✔️ means I have approved your plan. If there is a check by your name, then you're all set. Go and do the rest of Project B.
-    - ❓ means I am likely to approve your plan, but the footnote will tell you what further information or clarification I need (and how you should send it) before I formally approve your work.
+- ✔️ means I have approved your plan. If there is a check by your name, then you're all set. Go and do the rest of Project B.
+- ❓ means I am likely to approve your plan, but the footnote will tell you what further information or clarification I need (and how you should send it) before I formally approve your work.
 
 ## Submitted Plan Not Yet Approved
 
