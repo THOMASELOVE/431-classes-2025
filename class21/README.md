@@ -19,7 +19,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. The Project B presentation schedule is also [available now](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 3. Feedback on the Minute Paper after Class 20 [is available here](https://bit.ly/431-2025-min-20-feedback).
 
-## References from the Slides
+## Reference from the Slides
 
 - Gelman Andrew (2008) [Scaling regression inputs by dividing by two standard deviations](https://pubmed.ncbi.nlm.nih.gov/17960576/) *Statistics in Medicine* 27(15): 2865-73.
 
