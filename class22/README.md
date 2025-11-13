@@ -24,6 +24,13 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ---
 
+### Thanksgiving Break means no class next week
+
+1. **WARNING!** I will be away for a week during the break! I will check my email every day through Saturday 2025-11-22 **and then not again until** Sunday 2025-11-30, and forward from there every day until the Quiz is due. So from Sunday 2025-11-23 through Saturday 2025-11-29, your emailed questions about the Quiz will simply await my return.
+2. TA Office hours are **canceled** from Saturday 2025-11-22 through Friday 2025-11-28 for the break.
+
+---
+
 ## Reminders
 
 ## Taking Other Courses With Me
