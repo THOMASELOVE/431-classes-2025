@@ -2,6 +2,9 @@
 
 ## Approved NHANES Study Plans (26 projects, 32 people)
 
+- 3 projects use NHANES 2017-3/2020 data
+- 23 projects use NHANES 8/2021 - 8/2023 data
+
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
 ✔️ | Alex Bergendorf | 8/2021 to 8/2023 | `LBXHSCRP` HS C-reactive protein (mg/dl) | `PUQ100` Are products used in the home to control insects? (yes/no) | 2,268
