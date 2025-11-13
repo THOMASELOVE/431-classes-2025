@@ -2,8 +2,8 @@
 
 ## Approved NHANES Study Plans (26 projects, 32 people)
 
-- 3 projects use NHANES 2017-3/2020 data
-- 23 projects use NHANES 8/2021 - 8/2023 data
+- 3 projects use NHANES [2017-3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) data
+- 23 projects use NHANES [8/2021 - 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023) data
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
