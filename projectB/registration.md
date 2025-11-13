@@ -2,19 +2,9 @@
 
 We have 41 Project Bs in 431 this semester. In the **OK?** column, below...
 
-- ✔️ means I have approved your plan. If there is a check by your name, then you're all set. Go and do the rest of Project B.
-- ❓ means I am likely to approve your plan, but the footnote will tell you what further information or clarification I need (and how you should send it) before I formally approve your work.
+## All 41 Study Plans are now approved
 
-## Submitted Plan Not Yet Approved
-
-OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
-:--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
-
-----
-
-## Approved Study Plans
-
-### Approved NHANES Study Plans (25 projects, 31 people)
+### Approved NHANES Study Plans (26 projects, 32 people)
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
@@ -65,6 +55,3 @@ OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Subin Lee | [2025 Annual Social and Economic Supplements Data](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html) | Total medical out-of-pocket expenditure ($) in 2024 | Total family earnings ($) in 2024 |  1,354
 ✔️ | Vennila Ramasubramanian and Paulina Gonzalez | [BRFSS 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) | Body Mass Index | Educational Attainment (4 levels) | 8,859
 
-----
-
-[^Linda]: Linda: Please reply to my email sent 2:20 PM on 2025-11-12.
