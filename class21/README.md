@@ -14,10 +14,11 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Project B Registration status is [now available here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/registration.md).
-    - The schedule for Project B presentations will be available [here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md) on Friday 2025-11-14.
-2. Feedback on the Minute Paper after Class 20 will be available **by class time**
-3. More to come. 
+1. Project B Registration status is [available here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/registration.md).
+    - All but one project B plan is now approved.
+2. The Project B presentation schedule is also [available now](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
+3. Feedback on the Minute Paper after Class 20 will be available **by class time**
+4. More to come. 
 
 ## References from the Slides
 
@@ -48,7 +49,7 @@ Deadline | Item(s)
 :-----------------: | :----------------------------------------------------------------------------------------------------------
 2025-11-19 at noon | (1) [Lab 6](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6) is due to [Canvas](https://canvas.case.edu/). <br> (2) [Minute Paper after Class 22](https://github.com/THOMASELOVE/431-minute-2025) (*to appear*)
 2025-12-03 at noon | (3) [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) is due (Google Form). <br> [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) will be made available to you by 3 PM on Thursday 2025-11-20.
-~30 minutes on <br> December <br> 3, 4, 5, 8 or 9 | (4) [Project B](https://thomaselove.github.io/431-projectB-2025/) presentation with me (either in person or over Zoom) <br> You will express your schedule preferences in the [Project B registration form](https://thomaselove.github.io/431-projectB-2025/register.html). <br> The presentation schedule will be posted on 2025-11-14.
+~30 minutes on <br> December <br> 3, 4, 5, 8 or 9 | (4) [Project B](https://thomaselove.github.io/431-projectB-2025/) presentation with me (either in person or over Zoom) <br> The [Project B presentation schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 2025-12-10 at noon | (5) **Final Deadline**: All [Project B](https://thomaselove.github.io/431-projectB-2025/) Materials are due. <br> (6) [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due. <br> (optional) (7) [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) is due.
 Around December 10 | (8) Course Evaluation of 431 for CWRU (exact date and web link TBA)
 
