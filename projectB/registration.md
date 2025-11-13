@@ -8,11 +8,11 @@
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
 ✔️ | Alex Bergendorf | 8/2021 to 8/2023 | `LBXHSCRP` HS C-reactive protein (mg/dl) | `PUQ100` Are products used in the home to control insects? (yes/no) | 2,268
-✔️ | Allison Thirion Blasius | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DBD381` how many days a child received a complete school lunch | 1,656 ages 6-18
+✔️ | Allison Thirion Blasius | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DBD381` how many days a child received a complete school lunch | 1,656 *ages 6-18*
 ✔️ | Amanda Barabas | 8/2021 to 8/2023 | `LBXSATSI` Alanine Aminotransferase (ALT) (IU/l) | `PUQ100` Are products used in the home to control insects? (yes/no) | 6,366
 ✔️ | Amjad Samara | 8/2021 to 8/2023 | `LBDLDL` LDL cholesterol (mg/dl) | `BMXBMI` body mass index (kg/m2) | 3,192
 ✔️ | Andrew Morris | 8/2021 to 8/2023 | `BPXOSY1` systolic blood pressure (mm Hg), 1st reading | `HUQ042` Place most often go for health care (5 levels) | 532
-✔️ | Arjun Chatterjee | 8/2021 to 8/2023 | `LBXGH` Hemoglobin A1c | `LUXCAPM` Median Controlled Attenuated (dB/m) | 654 people with diabetes
+✔️ | Arjun Chatterjee | 8/2021 to 8/2023 | `LBXGH` Hemoglobin A1c | `LUXCAPM` Median Controlled Attenuated (dB/m) | 654 *people with diabetes*
 ✔️ | Ben Kwiatkowski | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `KIQ481` Times per night waking to urinate (0-4 or 5+) | 4,843
 ✔️ | Cher Yuan | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `DMDMARTZ` Marital Status (3 levels) | 5,000
 ✔️ | Emma Chio | 8/2021 to 8/2023 | `LBXTLG` triglycerides (mg/dL) | `SLD013` Weekend sleep hours | 2,588
@@ -20,16 +20,16 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Helena Zhao | 8/2021 to 8/2023 | `BPXOSY1` systolic blood pressure (mm Hg), 1st reading | `BMXBMI` body mass index (kg/m2) | 3,000
 ✔️ | Isabela Drumond Fonseca & Renu Madhuraj Jadhav | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `LBXVIDMS` Vitamin D 25OHD2+25OHD3 (nmol/L) | 892
 ✔️ | Janetta Brundage and Leah Nez | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `DMDMARTZ` Marital Status (3 levels) | 1,074
-✔️ | Jiakun Wang | 2017 to 3/2020 | mean of `BPXOSY1`, `BPXOSY2`, `BPXOSY3` systolic blood pressure (mm Hg) | `BMXBMI` body mass index (kg/m2) | 3,561 women
+✔️ | Jiakun Wang | 2017 to 3/2020 | mean of `BPXOSY1`, `BPXOSY2`, `BPXOSY3` systolic blood pressure (mm Hg) | `BMXBMI` body mass index (kg/m2) | 3,561 *women*
 ✔️ | Jiayi Sun | 8/2021 to 8/2023 | `LBXVIDMS` Vitamin D: 25OHD2 + 25OHD3 (nmol/L) | `INDFMPIR` Ratio of family income to poverty | 518 *age 4 to 19*
-✔️ | Joshua Silalahi | 8/2021 to 8/2023 | `BMXWAIST` Waist circumference (cm) | 60*`PHAFSTHR` + `PHAFSTMN` time between last food and venipuncture | 1,661 men ages 18-60
+✔️ | Joshua Silalahi | 8/2021 to 8/2023 | `BMXWAIST` Waist circumference (cm) | 60*`PHAFSTHR` + `PHAFSTMN` time between last food and venipuncture | 1,661 *men ages 18-60*
 ✔️ | Kuangtsan (Wilson) Hsu & Ching-Wen Mai | 8/2021 to 8/2023 | `LBXVIDMS` Vitamin D: 25OHD2+25OHD3 (nmol/L) | `PAD680` Minutes of Sedentary Activity per day | 1,584 <br> *age 50-64*
 ✔️ | Lauren Sapienza | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `DPQ020` feeling down, depressed, hopeless in past 2 weeks (4 levels) | 1,896
 ✔️ | Leland Metheny | 8/2021 to 8/2023 | `LBDNENO` Segmented neutrophils (1000 cell/μL) | `ALQ121` and `ALQ130` to get alcoholic drinks per week | 3,737
 ✔️ | Linda Chen | 8/2021 to 8/2023 | `LBXSATSI` Alanine Aminotransferase (ALT) (IU/L) | `LBXFER` ferritin (ng/mL) | 1,628
 ✔️ | Lily Zhang | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `PAD790Q` & `PAD790U` Times engaged in moderate leisure-time physical activity per week (4 groups) | 1,531
 ✔️ | Madison Albert | 8/2021 to 8/2023 | `LUXSMED` Median Liver Stiffness (kPa) | `BMXWAIST` Waist circumference (cm) | 3,226
-✔️ | Sadia Ahmed and Erin San Valentin | 2017 to 3/2020 | `SLD012` and `SLD013`: average hours of weekly sleep debt | `OCQ180` work hours last week | 3,704 ages 20-64
+✔️ | Sadia Ahmed and Erin San Valentin | 2017 to 3/2020 | `SLD012` and `SLD013`: average hours of weekly sleep debt | `OCQ180` work hours last week | 3,704 *ages 20-64*
 ✔️ | Shufei Fang & <br> Ruoying Chen | 8/2021 to 8/2023 | `LBXTC` Total cholesterol (mg/dl) | `LBXWBCSI` White blood cell count (1000 cells / μl) | 1,994
 ✔️ | Simon Lynn | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `PAD810Q` frequency of vigorous leisure physical activity | 5,392
 ✔️ | Valerie Lam | 2017 to 3/2020 | `LBXIN` insulin (μU/mL) | `BMXHIP` hip circumference (cm) | 1,795 *women*
