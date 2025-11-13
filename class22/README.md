@@ -15,10 +15,11 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. Today's Data Source is [NHANES 2013-14](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2013)
-2. The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
-3. You should have received news last Thursday that we (slightly) changed the [Lab 6 instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6), to add to the data cleaning the process of making the subjects whose `ejec_frac` was listed as 0 into NA values. Please make sure you are using the current version (dated 2025-11-13) of the instructions. The [PDF linked here](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab6/431-lab6.pdf) and sent to your email last Thursday indicates the changes (all on page 4 of the instructions) with yellow highlighting.
-4. [Creating simulated data sets in R](https://stirlingcodingclub.github.io/simulating_data/index.html) by Brad Duthie might be of some interest to you who wonder how I simulate class examples from existing real data. This isn't exactly what I do (among other things, I use the tidyverse more) but it's close and more generally applicable than my method.
-5. More to come.
+2. **Lab 6 instructions** You should have received news last Thursday that we (slightly) changed the [Lab 6 instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/lab6), to add to the data cleaning the process of making the subjects whose `ejec_frac` was listed as 0 into NA values. Please make sure you are using the current version (dated 2025-11-13) of the instructions. The [PDF linked here](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab6/431-lab6.pdf) and sent to your email last Thursday indicates the changes (all on page 4 of the instructions) with yellow highlighting.
+3. The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md). Let me know via email if you have questions.
+4. Complete [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) materials will be posted by 3 PM on Thursday 2025-11-20.
+5. [Creating simulated data sets in R](https://stirlingcodingclub.github.io/simulating_data/index.html) by Brad Duthie might be of some interest to you who wonder how I simulate class examples from existing real data. This isn't exactly what I do (among other things, I use the tidyverse more) but it's close and more generally applicable than my method.
+6. More to come.
 
 ---
 
