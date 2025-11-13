@@ -44,6 +44,7 @@ Code | Day | Date | Investigator(s) | Arrival Time | Start Time | Finish Time | 
 B-15 | FRI | 12-05 | Kuangstan Hsu <br> & Ching-Wen Mai | **1:55 PM** | 2:00 PM | 2:25 PM | Zoom | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-16 | FRI | 12-05 | Alex Krammer | **2:20 PM** | 2:25 PM | 2:50 PM | Zoom | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
 B-17 | FRI | 12-05 | Vennila <br> Ramasubramanian <br> & Paulina Gonzalez | **2:45 PM** | 2:50 PM  | 3:15 PM | Zoom | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2023.html)), 2023
+-- | -- | -- | Brief Break
 B-18 | FRI | 12-05 | Lauren Sapienza | **3:25 PM** | 3:30 PM | 3:55 PM | Zoom | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-19 | FRI | 12-05 | Isabela Drumond <br> Fonseca & <br> Renu Jadhav | **3:50 PM** | 3:55 PM | 4:20 PM | Zoom | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-20 | FRI | 12-05 | Dana Kleinman | **4:15 PM** | 4:20 PM | 4:45 PM | Zoom | National Health Interview <br> Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html)) 2024
@@ -78,7 +79,7 @@ B-34 | MON | 12-08 | Dayanna Bohorquez | **4:45 PM** | 4:50 PM | 5:15 PM | Zoom 
 
 Code | Day | Date | Investigator(s) | Arrival Time | Start Time | Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-35 | TUE | 12-09 | Sophia Ribeiro & <br> Annabelle <br> Elsner Pacheco | **11:20 AM** | 11:25 AM | 11:50 AM | **In <br> Person** | [Portuguese student performance](https://archive.ics.uci.edu/dataset/320/student+performance)
+B-35 | TUE | 12-09 | Sophia Ribeiro & <br> Annabelle <br> Elsner Pacheco | **11:20 AM** | 11:25 AM | 11:50 AM | **In <br> Person** | Portuguese <br> [student performance](https://archive.ics.uci.edu/dataset/320/student+performance)
 B-36 | TUE | 12-09 | Jiayi Sun | **11:45 AM** | 11:50 AM | 12:15 PM | **In <br> Person** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 - Break
@@ -89,5 +90,5 @@ B-37 | TUE | 12-09 | Andrew Morris | **12:50 PM** | 12:55 PM | 1:20 PM | **In <b
 B-38 | TUE | 12-09 | Scout Osborne | **1:15 PM** | 1:20 PM | 1:45 PM | **In <br> Person** | PROTECT (Predicting Response <br> to Standardized <br> Colitis Therapy) <br> Study: [Table 6](https://doi.org/10.1016/j.chom.2018.09.009) 
 -- | -- | -- | Brief Break
 B-39 | TUE | 12-09 | Shufei Fang & <br> Ruoying Chen | **1:55 PM** | 2:00 PM | 2:25 PM | **In <br> Person** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-40 | TUE | 12-09 | Moses Fleischman | **2:25 PM** | 2:30 PM | 2:50 PM | **In <br> Person** | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
+B-40 | TUE | 12-09 | Moses Fleischman | **2:20 PM** | 2:25 PM | 2:50 PM | **In <br> Person** | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
 B-41 | TUE | 12-09 | Leland Metheny | **2:45 PM** | 2:50 PM | 3:15 PM | **In <br> Person** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
