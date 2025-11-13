@@ -103,7 +103,7 @@ B-41 | TUE | 12-09 | Leland Metheny | **2:45 PM** | 2:50 PM | 3:15 PM | **[In Pe
 
 ## Zoom Presentations
 
-The Zoom link you need for your presentation time is found on **our Shared Drive** in the **431 Project B Presentation Zoom Links** document.
+The Zoom link for your presentation time is found on **our Shared Drive** in the **431 Project B Presentation Zoom Links** document.
 
 1. Join the Zoom at the **Arrival Time** listed for your project. You may be placed in a waiting room. I will let you in when I am ready for you.
 2. Join the Zoom from a quiet location with good internet coverage using a computer which allows you to open the camera so that I can see you, and also has a decent microphone so I can hear you easily and decent speakers so that you can hear me easily.
