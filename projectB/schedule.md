@@ -16,6 +16,7 @@ Code | Day | Date | Investigator(s) | Arrival Time | Start Time | Finish Time | 
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-04 | THU | 12-04 | Janetta Brundage <br> & Leah Nez | **9:50 AM** | 9:55 AM | 10:20 AM | **In <br> Person** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-05 | THU | 12-04 | Xueer (Cher) Yuan | **10:15 AM** | 10:20 AM | 10:45 AM | **In <br> Person** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+-- | -- | -- | Brief Break
 B-06 | THU | 12-04 | Arjun Chatterjee | **10:55 AM** | 11:00 AM | 11:25 AM | **In <br> Person** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-07 | THU | 12-04 | Madison Albert | **11:20 AM** | 11:25 AM | 11:50 AM | **In <br> Person** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-08 | THU | 12-04 | Fai Albuainain & <br> Avianna Thompson | **11:45 AM** | 11:50 AM | 12:15 PM | **In <br> Person** | National Health Interview <br> Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html)) 2024
