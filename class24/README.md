@@ -20,6 +20,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. This section will appear in time for class. 
 
+## Project B Presentations
+
+The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
+
 ---
 
 ## There are 6 Remaining Deliverables for 431 This Semester
