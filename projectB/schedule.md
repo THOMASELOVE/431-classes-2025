@@ -87,7 +87,7 @@ B-34 | MON | 12-08 | Dayanna Bohorquez | **4:45 PM** | 4:50 PM | 5:15 PM | [Zoom
 
 Code | Day | Date | Investigator(s) | Arrival Time | Start Time | Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-35 | TUE | 12-09 | Sophia Ribeiro & <br> Annabelle <br> Elsner Pacheco | **11:20 AM** | 11:25 AM | 11:50 AM | **[In Person](#in-person-presentations)** | Portuguese <br> [student performance](https://archive.ics.uci.edu/dataset/320/student+performance)
+B-35 | TUE | 12-09 | Sophia Ribeiro & <br> Annabelle <br> Elsner Pacheco | **11:20 AM** | 11:25 AM | 11:50 AM |  [Zoom](#zoom-presentations) | Portuguese <br> [student performance](https://archive.ics.uci.edu/dataset/320/student+performance)
 B-36 | TUE | 12-09 | Jiayi Sun | **11:45 AM** | 11:50 AM | 12:15 PM | **[In Person](#in-person-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 - Break
