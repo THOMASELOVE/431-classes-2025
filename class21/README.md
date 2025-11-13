@@ -17,7 +17,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. Project B Registration status is [available here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/registration.md).
     - All but one project B plan is now approved.
 2. The Project B presentation schedule is also [available now](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
-3. Feedback on the Minute Paper after Class 20 will be available **by class time**
+3. Feedback on the Minute Paper after Class 20 [is available here](https://bit.ly/431-2025-min-20-feedback).
 
 ## References from the Slides
 
