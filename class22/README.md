@@ -16,7 +16,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. Today's Data Source is [NHANES 2013-14](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2013)
 2. The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
-3. More to come.
+3. [Creating simulated data sets in R](https://stirlingcodingclub.github.io/simulating_data/index.html) by Brad Duthie might be of some interest to you who wonder how I simulate class examples from existing real data. This isn't exactly what I do (among other things, I use the tidyverse more) but it's close and more generally applicable than my method.
+4. More to come.
+
+---
+
+## Reminders
 
 ## Taking Other Courses With Me
 
@@ -35,3 +40,5 @@ Deadline | Item(s)
 Around December 10 | (8) Course Evaluation of 431 for CWRU (exact date and web link TBA)
 
 **Note**: There will also be two or three more opportunities for bonus credit this semester - each of which will have deadlines after the Thanksgiving Break. So far, one has been published, and another will be published before Thanksgiving Break.
+
+--------
