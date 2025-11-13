@@ -9,7 +9,6 @@ We have 41 Project Bs in 431 this semester. In the **OK?** column, below...
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
-❓ | Linda Chen[^Linda] | 8/2021 to 8/2023 | *new outcome needed* | `LBDTSTSI` Testosterone (nmol/L) | *to be clarified*
 
 ----
 
@@ -38,6 +37,7 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Kuangtsan (Wilson) Hsu & Ching-Wen Mai | 8/2021 to 8/2023 | `LBXVIDMS` Vitamin D: 25OHD2+25OHD3 (nmol/L) | `PAD680` Minutes of Sedentary Activity per day | 1,584 <br> *age 50-64*
 ✔️ | Lauren Sapienza | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `DPQ020` feeling down, depressed, hopeless in past 2 weeks (4 levels) | 1,896
 ✔️ | Leland Metheny | 8/2021 to 8/2023 | `LBDNENO` Segmented neutrophils (1000 cell/μL) | `ALQ121` and `ALQ130` to get alcoholic drinks per week | 3,737
+✔️ | Linda Chen | 8/2021 to 8/2023 | `LBXSATSI` Alanine Aminotransferase (ALT) (IU/L) | `LBXFER` ferritin (ng/mL) | 1,628
 ✔️ | Lily Zhang | 8/2021 to 8/2023 | `SLD012` Weekday sleep hours | `PAD790Q` & `PAD790U` Times engaged in moderate leisure-time physical activity per week (4 groups) | 1,531
 ✔️ | Madison Albert | 8/2021 to 8/2023 | `LUXSMED` Median Liver Stiffness (kPa) | `BMXWAIST` Waist circumference (cm) | 3,226
 ✔️ | Sadia Ahmed and Erin San Valentin | 2017 to 3/2020 | `SLD012` and `SLD013`: average hours of weekly sleep debt | `OCQ180` work hours last week | 3,704 ages 20-64
