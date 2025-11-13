@@ -1,10 +1,6 @@
-# Registration status for all 41 Project B submissions
+# All 41 Study Plans are now approved
 
-We have 41 Project Bs in 431 this semester. In the **OK?** column, below...
-
-## All 41 Study Plans are now approved
-
-### Approved NHANES Study Plans (26 projects, 32 people)
+## Approved NHANES Study Plans (26 projects, 32 people)
 
 OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :------------------: | :--------------------: | :--------------------: | ----:
@@ -35,7 +31,7 @@ OK? | Investigator(s) | Survey Dates | S2 Outcome | S2 Key Predictor | Subjects
 ✔️ | Simon Lynn | 8/2021 to 8/2023 | `BMXBMI` Body Mass Index | `PAD810Q` frequency of vigorous leisure physical activity | 5,392
 ✔️ | Valerie Lam | 2017 to 3/2020 | `LBXIN` insulin (μU/mL) | `BMXHIP` hip circumference (cm) | 1,795 *women*
 
-### Approved Non-NHANES Study Plans (15 projects, 20 people)
+## Approved Non-NHANES Study Plans (15 projects, 20 people)
 
 OK? | Investigator(s) | Data Source | S2 Outcome | S2 Key Predictor | Subjects
 :--: | :-------------------------------------: | :-----------------------------: | :-----------------: | :-----------------: | ----:
