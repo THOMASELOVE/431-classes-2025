@@ -18,7 +18,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - All but one project B plan is now approved.
 2. The Project B presentation schedule is also [available now](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 3. Feedback on the Minute Paper after Class 20 will be available **by class time**
-4. More to come. 
 
 ## References from the Slides
 
