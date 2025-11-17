@@ -58,4 +58,8 @@ Around December 10 | (8) Course Evaluation of 431 for CWRU (exact date and web l
 
 [The fifth anniversary of a viral histogram](https://statmodeling.stat.columbia.edu/2025/11/14/the-fifth-anniversary-of-a-viral-histogram/) by Erik van Zwet
 
+>  I came across a paper by [Barnett and Wren](https://bmjopen.bmj.com/content/9/11/e032506) (2019) who scraped more than a million confidence intervals of ratio estimates from PubMed and made them publicly available. I converted the confidence intervals to z-statistics, made a histogram, and was struck by the lack of z-statistics between -2 and 2 (i.e. non-significant results).
+
 ![](z-stats_BW.png)
+
+
