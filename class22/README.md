@@ -58,4 +58,4 @@ Around December 10 | (8) Course Evaluation of 431 for CWRU (exact date and web l
 
 [The fifth anniversary of a viral histogram](https://statmodeling.stat.columbia.edu/2025/11/14/the-fifth-anniversary-of-a-viral-histogram/) by Erik van Zwet
 
-![](images/z-stats_BW.png)
+![](z-stats_BW.png)
