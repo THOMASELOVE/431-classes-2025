@@ -22,7 +22,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 5. **Quiz 2** Complete [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) materials will be posted by 3 PM on Thursday 2025-11-20.
 6. [Creating simulated data sets in R](https://stirlingcodingclub.github.io/simulating_data/index.html) by Brad Duthie might be of some interest to you who wonder how I simulate class examples from existing real data. This isn't exactly what I do (among other things, I use the tidyverse more) but it's close and more generally applicable than my method.
 7. Today's Data Source is [NHANES 2013-14](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2013)
-8. More to come.
 
 ---
 
