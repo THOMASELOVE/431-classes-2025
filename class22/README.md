@@ -53,3 +53,9 @@ Around December 10 | (8) Course Evaluation of 431 for CWRU (exact date and web l
 **Note**: There are three remaining opportunities for bonus credit this semester - each has deadlines between December 2 and 4. So far, one has been published, another [is right here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class21/extra.md), and the final one will also be published before Thanksgiving Break.
 
 --------
+
+# One Last Thing
+
+[The fifth anniversary of a viral histogram](https://statmodeling.stat.columbia.edu/2025/11/14/the-fifth-anniversary-of-a-viral-histogram/) by Erik van Zwet
+
+![](images/z-stats_BW.png)
