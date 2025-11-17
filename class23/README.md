@@ -34,11 +34,13 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ---
 
-## Taking Other Courses With Me
+## One Last Thing
 
-In addition to 431, I teach two other semester-long courses, called **PQHS 432** and **PQHS 500**. I will teach both 432 and 500 in Spring 2026. My advice on these courses is found [in the Class 18 README](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class18#taking-other-courses-with-me).
+[A database of every mound-charging we've found in Major League Baseball](https://www.patreon.com/posts/database-of-weve-142735794). Also see [this FlowingData post](https://flowingdata.com/2025/11/14/database-of-mound-charging-in-baseball/) which alerted me to these data.
 
 ---
+
+# Reminders of things I have shared previously
 
 ## There are 6 Remaining Deliverables for 431 This Semester
 
@@ -52,3 +54,8 @@ Deadline | Item(s)
 Around December 10 | (6) Course Evaluation of 431 for CWRU (exact date and web link TBA)
 
 **Note**: There are three remaining opportunities for bonus credit this semester - each has deadlines between December 2 and 4. So far, one has been published, another [is right here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class21/extra.md), and the final one will also be published before Thanksgiving Break.
+
+## Taking Other Courses With Me
+
+In addition to 431, I teach two other semester-long courses, called **PQHS 432** and **PQHS 500**. I will teach both 432 and 500 in Spring 2026. My advice on these courses is found [in the Class 18 README](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class18#taking-other-courses-with-me).
+
