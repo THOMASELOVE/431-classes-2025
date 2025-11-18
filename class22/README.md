@@ -19,9 +19,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Please make sure you are using the current version (dated 2025-11-13) of the instructions.
     - The [PDF linked here](https://github.com/THOMASELOVE/431-labs-2025/blob/main/lab6/431-lab6.pdf) and sent to your email last Thursday indicates the changes (all on page 4 of the instructions) with yellow highlighting.
 4. **Project B** As a reminder, the [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md). Let me know via email if you have questions.
-5. **Quiz 2** Complete [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) materials will be posted by 3 PM on Thursday 2025-11-20.
-6. [Creating simulated data sets in R](https://stirlingcodingclub.github.io/simulating_data/index.html) by Brad Duthie might be of some interest to you who wonder how I simulate class examples from existing real data. This isn't exactly what I do (among other things, I use the tidyverse more) but it's close and more generally applicable than my method.
-7. Today's Data Source is [NHANES 2013-14](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2013)
+5. Missing Data in Project B
+    - In Project B, study 1: for each analysis, filter to complete cases on the variables used in that individual analysis.
+    - In Project B, study 2: filter to complete cases on your outcome and key predictor, then single imputation on all other predictors to determine final model choice, then (ideally) show multiple imputation results (model_parameters() and glance()) across all of the data.
+6. **Quiz 2** Complete [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) materials will be posted by 3 PM on Thursday 2025-11-20.
+7. [Creating simulated data sets in R](https://stirlingcodingclub.github.io/simulating_data/index.html) by Brad Duthie might be of some interest to you who wonder how I simulate class examples from existing real data. This isn't exactly what I do (among other things, I use the tidyverse more) but it's close and more generally applicable than my method.
+8. Today's Data Source is [NHANES 2013-14](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2013)
 
 ---
 
