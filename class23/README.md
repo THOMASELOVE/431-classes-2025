@@ -34,9 +34,19 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ---
 
-## One Last Thing
+## Quiz 2 materials
+
+**will be available** by 3 PM. Visit [this link](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2).
+
+---
+
+## An Interesting Data Base
 
 [A database of every mound-charging we've found in Major League Baseball](https://www.patreon.com/posts/database-of-weve-142735794). Also see [this FlowingData post](https://flowingdata.com/2025/11/14/database-of-mound-charging-in-baseball/) which alerted me to these data.
+
+## One Last Thing
+
+[ChatGPT now has PhD-Level Intelligence, and the poor personal choices to prove it](https://www.mcsweeneys.net/articles/chatgpt-now-has-phd-level-intelligence-and-the-poor-personal-choices-to-prove-it) by Katie Burgess
 
 ---
 
