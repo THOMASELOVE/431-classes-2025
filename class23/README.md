@@ -59,3 +59,7 @@ Around December 10 | (6) Course Evaluation of 431 for CWRU (exact date and web l
 
 In addition to 431, I teach two other semester-long courses, called **PQHS 432** and **PQHS 500**. I will teach both 432 and 500 in Spring 2026. My advice on these courses is found [in the Class 18 README](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class18#taking-other-courses-with-me).
 
+## Missing Data in Project B
+
+- In Project B, study 1: for each analysis, filter to complete cases on the variables used in that individual analysis.
+- In Project B, study 2: filter to complete cases on your outcome and key predictor, then single imputation on all other predictors to determine final model choice, then (ideally) show multiple imputation results (`model_parameters()` and `glance()` are sufficient) across all of the data.
