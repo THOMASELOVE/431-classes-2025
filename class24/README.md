@@ -22,6 +22,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ---
 
+- [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)
+
+---
 ## Project B Presentations
 
 The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
