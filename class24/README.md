@@ -22,9 +22,15 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ---
 
+## References from Today's Slides
+
 - [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/)
+- The [conflicted package](https://conflicted.r-lib.org/)
+- The [MASS package](https://cran.r-project.org/web/packages/MASS/index.html) ([PDF of instructions](https://cran.r-project.org/web/packages/MASS/MASS.pdf)) [Github location](https://github.com/cran/MASS)
+- The [quantreg package](https://cran.r-project.org/web/packages/quantreg/index.html)
 
 ---
+
 ## Project B Presentations
 
 The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
