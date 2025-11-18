@@ -19,7 +19,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. This section will appear in time for class.
-2. 
 
 ## Project B Presentations
 
