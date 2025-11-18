@@ -28,6 +28,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - The [conflicted package](https://conflicted.r-lib.org/)
 - The [MASS package](https://cran.r-project.org/web/packages/MASS/index.html) ([PDF of instructions](https://cran.r-project.org/web/packages/MASS/MASS.pdf)) [Github location](https://github.com/cran/MASS)
 - The [quantreg package](https://cran.r-project.org/web/packages/quantreg/index.html)
+- [Robust Regression](https://stats.oarc.ucla.edu/r/dae/robust-regression/) from UCLA was the motivation for using my `crimestat` data (different time frame, though)
+- 
 
 ---
 
