@@ -20,11 +20,16 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. This section will appear in time for class.
 
+---
+
 ## Project B Presentations
 
 The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 
----
+## Dealing with Missing Data in Project B
+
+- In Project B, study 1: for each analysis, filter to complete cases on the variables used in that individual analysis.
+- In Project B, study 2: filter to complete cases on your outcome and key predictor, then single imputation on all other predictors to determine final model choice, then (ideally) show multiple imputation results (`model_parameters()` and `glance()` are sufficient) across all of the data.
 
 ## There are 6 Remaining Deliverables for 431 This Semester
 
@@ -39,8 +44,4 @@ Around December 10 | (6) Course Evaluation of 431 for CWRU (exact date and web l
 
 **Note**: While there are 3 opportunities for bonus credit in the late part of this semester, two will still be active after today's class 24. One of them [is right here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class21/extra.md), and the other one was published in material you received prior to the Thanksgiving Break. Act quickly, though. All of these opportunities have deadlines well before our final class (Class 25) starts on Thursday.
 
-## Missing Data in Project B
-
-- In Project B, study 1: for each analysis, filter to complete cases on the variables used in that individual analysis.
-- In Project B, study 2: filter to complete cases on your outcome and key predictor, then single imputation on all other predictors to determine final model choice, then (ideally) show multiple imputation results (`model_parameters()` and `glance()` are sufficient) across all of the data.
 
