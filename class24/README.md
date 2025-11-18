@@ -25,10 +25,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 
-## One Last Thing
-
-[ChatGPT now has PhD-Level Intelligence, and the poor personal choices to prove it](https://www.mcsweeneys.net/articles/chatgpt-now-has-phd-level-intelligence-and-the-poor-personal-choices-to-prove-it) by Katie Burgess
-
 ---
 
 ## There are 6 Remaining Deliverables for 431 This Semester
