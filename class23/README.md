@@ -22,6 +22,14 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ---
 
+![](side_dishes.png)
+
+[Here’s What Your Part Of America Eats On Thanksgiving](https://fivethirtyeight.com/features/heres-what-your-part-of-america-eats-on-thanksgiving/) from Walt Hickey at 538, 2015-11-20.
+
+- Here is the [TidyTuesday repository of data](https://github.com/rfordatascience/tidytuesday/tree/main/data/2018/2018-11-20) from this article.
+
+---
+
 ## Thinking through a problem
 
 [How is it that this problem, with its 21 data points, is so much easier to handle with 1 predictor than with 16 predictors?](https://statmodeling.stat.columbia.edu/2025/11/14/how-is-it-that-this-problem-with-its-21-data-points-is-so-much-easier-to-handle-with-1-predictor-than-with-16-predictors/) by Andrew Gelman
