@@ -31,6 +31,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ---
 
+## An Interesting Data Base
+
+[A database of every mound-charging we've found in Major League Baseball](https://www.patreon.com/posts/database-of-weve-142735794). Also see [this FlowingData post](https://flowingdata.com/2025/11/14/database-of-mound-charging-in-baseball/) which alerted me to these data.
+
+---
+
 ## Thinking through a problem
 
 [How is it that this problem, with its 21 data points, is so much easier to handle with 1 predictor than with 16 predictors?](https://statmodeling.stat.columbia.edu/2025/11/14/how-is-it-that-this-problem-with-its-21-data-points-is-so-much-easier-to-handle-with-1-predictor-than-with-16-predictors/) by Andrew Gelman
@@ -50,10 +56,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 **will be available** by 3 PM. Visit [this link](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2).
 
 ---
-
-## An Interesting Data Base
-
-[A database of every mound-charging we've found in Major League Baseball](https://www.patreon.com/posts/database-of-weve-142735794). Also see [this FlowingData post](https://flowingdata.com/2025/11/14/database-of-mound-charging-in-baseball/) which alerted me to these data.
 
 ## One Last Thing
 
