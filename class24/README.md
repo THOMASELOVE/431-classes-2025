@@ -42,7 +42,7 @@ As things stand, here is the complete list. See the [Course Calendar](https://th
 
 Deadline | Item(s)
 :-----------------: | :----------------------------------------------------------------------------------------------------------
-2025-12-03 at noon | (1) [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) is due (Google Form). <br> [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) will be made available to you by 3 PM on Thursday 2025-11-20.
+2025-12-03 at noon | (1) [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) is due (Google Form). 
 ~30 minutes on <br> December <br> 3, 4, 5, 8 or 9 | (2) [Project B](https://thomaselove.github.io/431-projectB-2025/) presentation with me (either in person or over Zoom) <br> The [Project B presentation schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 2025-12-10 at noon | (3) **Final Deadline**: All [Project B](https://thomaselove.github.io/431-projectB-2025/) Materials are due. <br> (4) [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due. <br> (optional) (5) [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) is due.
 Around December 10 | (6) Course Evaluation of 431 for CWRU (exact date and web link TBA)
