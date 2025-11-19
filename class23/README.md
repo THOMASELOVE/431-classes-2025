@@ -70,6 +70,7 @@ There are three remaining opportunities for bonus credit this semester.
 - One was published in late October, and is due Monday 2025-12-01 at 5 PM
 - Another was provided one week ago, and is due Wednesday 2025-12-03 at 9 AM
 - The third one will be published **today**, and is due Thursday 2025-12-04 at 9 AM.
+- Completing [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is far more important than any of these.
 
 ---
 
