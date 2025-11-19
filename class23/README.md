@@ -17,6 +17,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. At least nine students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
 2. The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 3. Feedback on the Minute Paper after Class 22 will be **available by class time**.
+4. I answered a question about combining information from two variables together (in the context of looking at alcohol use in NHANES) in an email 2025-11-19. The sample code and output also are found on our Shared Drive now.
 5. Good luck with [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) and [Project B](https://thomaselove.github.io/431-projectB-2025/)!
 
 ---
