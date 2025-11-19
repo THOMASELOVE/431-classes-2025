@@ -17,14 +17,15 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. At least nine students have now [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). Don't leave this to the last couple of days!
 2. The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 3. Feedback on the Minute Paper after Class 22 will be **available by class time**.
-4. Enjoy the Thanksgiving Break!
 5. Good luck with [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) and [Project B](https://thomaselove.github.io/431-projectB-2025/)!
 
 ---
 
-![](side-dishes.png)
+## Enjoy the Thanksgiving Break!
 
 [Here’s What Your Part Of America Eats On Thanksgiving](https://fivethirtyeight.com/features/heres-what-your-part-of-america-eats-on-thanksgiving/) from Walt Hickey at 538, 2015-11-20.
+
+![](side-dishes.png)
 
 - Here is the [TidyTuesday repository of data](https://github.com/rfordatascience/tidytuesday/tree/main/data/2018/2018-11-20) from this article.
 
