@@ -64,7 +64,7 @@ Code | Day | Date | Investigator(s) | Arrival Time | Start Time | Finish Time | 
 B-21 | MON | 12-08 | Jiakun Wang | **8:50 AM** | 8:55 AM | 9:20 AM | [Zoom](#zoom-presentations) | NHANES <br> [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 B-22 | MON | 12-08 | Amjad Samara | **9:15 AM** | 9:20 AM | 9:45 AM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 -- | -- | -- | Brief Break
-B-23 | MON | 12-08 | Alex Bergendorf | **9:55 PM** | 10:00 AM | 10:25 AM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-23 | MON | 12-08 | Alex Bergendorf | **9:55 AM** | 10:00 AM | 10:25 AM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-24 | MON | 12-08 | Pooja Madan Mohan <br> & Noha Orabi | **10:20 AM** | 10:25 AM | 10:50 AM | [Zoom](#zoom-presentations) | Global Coral <br> Bleaching [Database](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498) 
 B-25 | MON | 12-08 | Johnathan Huff | **10:45 AM** | 10:50 AM | 11:15 AM | [Zoom](#zoom-presentations) | Pro Football <br> Reference [2024](https://www.pro-football-reference.com/years/2024/defense.htm)
 -- | -- | -- | Brief Break
