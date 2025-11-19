@@ -8,13 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
-24 | 2025-12-02 | Coming soon | Coming soon | Coming soon | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
-
-<!-- 
-
 24 | 2025-12-02 | **[Slides 24](https://thomaselove.github.io/431-slides-2025/class24.html)** | **[Word 24](https://thomaselove.github.io/431-slides-2025/class24w.docx)** | **[Code 24](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class24.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
-
--->
 
 ## Announcements
 
@@ -30,7 +24,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - The [MASS package](https://cran.r-project.org/web/packages/MASS/index.html) ([PDF of instructions](https://cran.r-project.org/web/packages/MASS/MASS.pdf)) [Github location](https://github.com/cran/MASS)
 - The [quantreg package](https://cran.r-project.org/web/packages/quantreg/index.html)
 - [Robust Regression](https://stats.oarc.ucla.edu/r/dae/robust-regression/) from UCLA was the motivation for using my `crimestat` data (different time frame, though)
-
 
 ---
 
