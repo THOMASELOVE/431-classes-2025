@@ -22,7 +22,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ---
 
-![](side_dishes.png)
+![](side-dishes.png)
 
 [Here’s What Your Part Of America Eats On Thanksgiving](https://fivethirtyeight.com/features/heres-what-your-part-of-america-eats-on-thanksgiving/) from Walt Hickey at 538, 2015-11-20.
 
