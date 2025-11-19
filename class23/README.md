@@ -53,6 +53,13 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ---
 
+A pair of interesting papers I thought I would share with you...
+
+- [What should we say about statistical inference?](https://www.tandfonline.com/doi/full/10.1080/10691898.2019.1702415#d1e185) by Jeff Witmer, which is a position paper on the use of p-values, statistical inference, terminology, and related ideas.
+- [A New Era of Learning: Considerations for ChatGPT as a Tool to Enhance Statistics and Data Science Education](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2223609#abstract) by Amanda Ellis and Emily Slade "We explore the possibility of leveraging ChatGPT’s capabilities in statistics and data science education, providing examples of how ChatGPT can aid in developing course materials and suggestions for how educators can prompt students to interact with ChatGPT responsibly."
+
+---
+
 ## Quiz 2 materials
 
 **will be available** by 3 PM. Visit [this link](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2).
