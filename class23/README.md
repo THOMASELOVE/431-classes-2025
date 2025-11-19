@@ -67,9 +67,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 There are three remaining opportunities for bonus credit this semester. 
 
-- One was published weeks ago, and it is due Monday 2025-12-01 at 5 PM
-- Another was provided in Class 21, and is due Wednesday 2025-12-03 at 9 AM
-- The final one will be published **today** and is due Thursday 2025-12-04 at 9 AM.
+- One was published in late October, and is due Monday 2025-12-01 at 5 PM
+- Another was provided one week ago, and is due Wednesday 2025-12-03 at 9 AM
+- The third one will be published **today**, and is due Thursday 2025-12-04 at 9 AM.
 
 ---
 
