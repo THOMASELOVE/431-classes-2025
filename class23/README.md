@@ -62,7 +62,7 @@ A pair of interesting papers I thought I would share with you...
 
 ## Quiz 2 materials
 
-**will be available** by 3 PM. Visit [this link](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2).
+Visit [this link](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2).
 
 ---
 
