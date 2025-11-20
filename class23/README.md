@@ -14,12 +14,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. I need to hear from **Paulina Gonzalez** in response to an email I sent. Please respond **now**.
-2. I have posted the Answer Sketch for Lab 6 to our Shared Drive.
+1. I need to hear from **Paulina Gonzalez** in response to an email I sent. Please respond to that **now**.
+2. I have posted the Answer Sketch for Lab 6 to our **Shared Drive**.
 3. At least 11 students have [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). Here are [the instructions](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX). You want to get this done during the break, if possible.
 4. The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 5. Feedback on the Minute Paper after Class 22 [is available here](https://bit.ly/431-2025-min-22-feedback).
-6. I answered a question about combining information from two variables together (in the context of looking at alcohol use in NHANES) in an email 2025-11-19. The sample code and output are also found on our Shared Drive.
+6. I answered a question about combining information from two variables together (in the context of looking at alcohol use in NHANES) in an email 2025-11-19. The sample code and output are also found on our **Shared Drive**.
 7. Good luck with [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) and [Project B](https://thomaselove.github.io/431-projectB-2025/) and [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX)!
 
 ---
