@@ -10,6 +10,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 24 | 2025-12-02 | **[Slides 24](https://thomaselove.github.io/431-slides-2025/class24.html)** | **[Word 24](https://thomaselove.github.io/431-slides-2025/class24w.docx)** | **[Code 24](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class24.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/easy_or_hard.png) from <https://xkcd.com/2682>, of course.
+
 ## Announcements
 
 1. This section will appear in time for class.
