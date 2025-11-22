@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 ## Announcements
 
-1. We'll do today's slides last. That's why they are found lower on this page.
+1. We'll do today's slides last. That's why [they are found below](#todays-slides).
 2. The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 3. I will say **something today** about each of the three "bonus opportunities" that were available to close out the semester.
 
@@ -56,8 +56,6 @@ Frank Harrell posted this [Biostatistical Modeling Plan](https://hbiostat.org/bl
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 25 | 2025-12-04 | **[Slides 25](https://thomaselove.github.io/431-slides-2025/class25.html)** | **[Word 25](https://thomaselove.github.io/431-slides-2025/class25w.docx)** | **[Code 25](https://github.com/THOMASELOVE/431-slides-2025/blob/main/class25.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
-
-------------
 
 ## References from Today's Slides
 
