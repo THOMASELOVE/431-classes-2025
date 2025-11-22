@@ -5,12 +5,12 @@
   - you want to change from **[In Person](#in-person-presentations)** to a **[Zoom](#zoom-presentations)** presentation (which we can easily do),
   - or you have an emergency on your presentation day.
 - Arrive for your presentation (either join the [Zoom](#zoom-presentations) call or arrive [at my office](#in-person-presentations)) at the **Arrival Time** listed below. That is the important time.
-  - The Finish Time values are approximate.
   - We'll start as close to your Arrival Time as we can, and your actual presentation time is 20 minutes.
+  - As noted, the Finish Time values are approximate.
  
 ## Presentations on Wednesday 2025-12-03 via [Zoom](#zoom-presentations)
 
-Code | Day | Date | Investigator(s) | Arrival Time | Finish Time <br> *approximate* | Style | Data Source
+Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-01 | WED | 12-03 | Allison Thirion Blasius | **9:00 AM** <br> new time | 9:30 AM <br> new time | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-02 | WED | 12-03 | Hannah-Beth Iqbal <br> & Comelia Soltanirad | **1:20 PM** <br> *to be adjusted* | 1:50 PM <br> *to be adjusted* | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
