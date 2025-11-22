@@ -7,6 +7,8 @@
 - Arrive for your presentation (either join the [Zoom](#zoom-presentations) call or arrive [at my office](#in-person-presentations)) at the **Arrival Time** listed below. That is the important time.
   - We'll start as close to your Arrival Time as we can, and your actual presentation time is 20 minutes.
   - As noted, the Finish Time values are approximate.
+- There is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
+- The **431 Project B Presentation Zoom Links** document also on our Shared Drive provides Zoom links for every presentation time, even those planned as In Person, in case of emergency.
  
 ## Presentations on Wednesday 2025-12-03 via [Zoom](#zoom-presentations)
 
