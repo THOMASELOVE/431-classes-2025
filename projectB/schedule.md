@@ -20,7 +20,7 @@ B-03 | WED | 12-03 | Valerie Lam | **2:30 PM** <br> new time | 3:00 PM <br> new 
 
 ### Presenting [In Person](#in-person-presentations)
 
-Code | Day | Date | Investigator(s) | Arrival Time | Finish Time | Style | Data Source
+Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-04 | THU | 12-04 | Janetta Brundage <br> & Leah Nez | **9:50 AM** | 10:20 AM | **[In Person](#in-person-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-05 | THU | 12-04 | Xueer (Cher) Yuan | **10:15 AM** | 10:45 AM | **[In Person](#in-person-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
@@ -31,7 +31,7 @@ B-08 | THU | 12-04 | Fai Albuainain & <br> Avianna Thompson | **11:45 AM** | 12:
 
 ### Presenting over [Zoom](#zoom-presentations)
 
-Code | Day | Date | Investigator(s) | Arrival Time | Finish Time | Style | Data Source
+Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-09 | THU | 12-04 | Sadia Ahmed & <br> Erin San Valentin | **3:55 PM** | 4:25 PM | [Zoom](#zoom-presentations) | NHANES <br> [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 B-10 | THU | 12-04 | Andrew Crawford | **4:20 PM** | 4:50 PM | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) <br> Clinical Database
@@ -39,7 +39,7 @@ B-11 | THU | 12-04 | Joshua Silalahi | **4:45 PM** | 5:15 PM | [Zoom](#zoom-pres
 
 ## Presentations on Friday 2025-12-05
 
-Code | Day | Date | Investigator(s) | Arrival Time | Finish Time | Style | Data Source
+Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-12 | FRI | 12-05 | Fangzhou (Eric) Liu | **11:25 AM** | 11:55 AM | [Zoom](#zoom-presentations) | Environmental Justice <br> Index ([EJI](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html))
 B-13 | FRI | 12-05 | Simon Lynn | **11:50 AM** | 12:20 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
@@ -47,7 +47,7 @@ B-14 | FRI | 12-05 | Helena Zhao | **12:15 PM** | 12:45 PM | [Zoom](#zoom-presen
 
 - Break
 
-Code | Day | Date | Investigator(s) | Arrival Time | Finish Time | Style | Data Source
+Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-15 | FRI | 12-05 | Kuangstan Hsu <br> & Ching-Wen Mai | **1:55 PM** | 2:00 PM | 2:25 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-16 | FRI | 12-05 | Alex Krammer | **2:20 PM** | 2:25 PM | 2:50 PM | [Zoom](#zoom-presentations) | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
@@ -59,7 +59,7 @@ B-20 | FRI | 12-05 | Dana Kleinman | **4:15 PM** | 4:20 PM | 4:45 PM | [Zoom](#z
 
 ## Presentations on Monday 2025-12-08
 
-Code | Day | Date | Investigator(s) | Arrival Time | Finish Time | Style | Data Source
+Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-21 | MON | 12-08 | Jiakun Wang | **8:50 AM** | 9:20 AM | [Zoom](#zoom-presentations) | NHANES <br> [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 B-22 | MON | 12-08 | Amjad Samara | **9:15 AM** | 9:45 AM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
@@ -74,7 +74,7 @@ B-28 | MON | 12-08 | Ben Kwiatkowski | **12:15 PM** | 12:45 PM | [Zoom](#zoom-pr
 
 - Break
 
-Code | Day | Date | Investigator(s) | Arrival Time | Finish Time | Style | Data Source
+Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-29 | MON | 12-08 | Emma Chio | **2:40 PM** | 3:10 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-30 | MON | 12-08 | Noni Pinales <br> & Swati Jha | **3:05 PM** | 3:35 PM | [Zoom](#zoom-presentations) | National Survey of <br> Family Growth ([NSFG](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm)), <br> 2022-2023 Female
@@ -85,14 +85,14 @@ B-34 | MON | 12-08 | Dayanna Bohorquez | **4:45 PM** | 5:15 PM | [Zoom](#zoom-pr
 
 ## Presentations on Tuesday 2025-12-09
 
-Code | Day | Date | Investigator(s) | Arrival Time | Finish Time | Style | Data Source
+Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-35 | TUE | 12-09 | Sophia Ribeiro & <br> Annabelle <br> Elsner Pacheco | **11:20 AM** | 11:50 AM |  [Zoom](#zoom-presentations) | Portuguese <br> [student performance](https://archive.ics.uci.edu/dataset/320/student+performance)
 B-36 | TUE | 12-09 | Jiayi Sun | **11:45 AM** | 12:15 PM | **[In Person](#in-person-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 - Break
 
-Code | Day | Date | Investigator(s) | Arrival Time | Finish Time | Style | Data Source
+Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-37 | TUE | 12-09 | Andrew Morris | **12:50 PM** | 1:20 PM | **[In Person](#in-person-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-38 | TUE | 12-09 | Scout Osborne | **1:15 PM** | 1:45 PM | **[In Person](#in-person-presentations)** | PROTECT (Predicting Response <br> to Standardized <br> Colitis Therapy) <br> Study: [Table 6](https://doi.org/10.1016/j.chom.2018.09.009) 
