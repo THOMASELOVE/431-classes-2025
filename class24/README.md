@@ -16,6 +16,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. This section will appear in time for class.
 2. Lab 6 grades and feedback should be available by class time.
+3. Remember that there is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
+4. Please arrive at the **Arrival Time** listed on the [431 Project B presentation schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 
 ---
 
