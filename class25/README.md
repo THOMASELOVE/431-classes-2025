@@ -49,6 +49,8 @@ Around December 10 | (5) Course Evaluation of 431 for CWRU (exact date and web l
 
 Frank Harrell posted this [Biostatistical Modeling Plan](https://hbiostat.org/blog/post/modplan/), most recently on 2023-01-26. This is the kind of thing we will work towards in 432.
 
+> This is an example statistical plan for project proposals where the goal is to develop a biostatistical model for prediction, and to do external or strong internal validation of the model.
+
 -------------
 
 ## Today's Slides
@@ -75,4 +77,3 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 8. The bootstrap is a very useful, and somewhat underused tool.
 9. Prediction models need to predict well in new situations.
 10. Statistical thinking is far too important to be left to statisticians.
-> This is an example statistical plan for project proposals where the goal is to develop a biostatistical model for prediction, and to do external or strong internal validation of the model.
