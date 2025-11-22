@@ -12,6 +12,8 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 2. The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 3. I will say **something today** about each of the three "bonus opportunities" that were available to close out the semester.
 
+-------
+
 ## Quiz 2
 
 **Details to come**.
