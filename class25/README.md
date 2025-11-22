@@ -46,7 +46,7 @@ Today, we might spend a few minutes with <https://www.graphs.world/>
 
 1. You have to visualize and count data to understand it.
 2. 90% of statistical work could be described as data management.
-3. R Markdown and the tidyverse make it easier to do the right thing.
+3. Quarto and the tidyverse make it easier to do the right thing.
 4. Statistical significance is not a helpful concept.
 5. Point estimates and confidence intervals are useful ideas.
 6. Most statistical procedures are in fact regression models.
