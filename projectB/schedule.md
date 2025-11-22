@@ -10,7 +10,7 @@
  
 ## Presentations on Wednesday 2025-12-03 via [Zoom](#zoom-presentations)
 
-Code | Day | Date | Investigator(s) | Arrival Time | Finish Time | Style | Data Source
+Code | Day | Date | Investigator(s) | Arrival Time | Finish Time <br> *approximate* | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-01 | WED | 12-03 | Allison Thirion Blasius | **9:00 AM** <br> new time | 9:30 AM <br> new time | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-02 | WED | 12-03 | Hannah-Beth Iqbal <br> & Comelia Soltanirad | **1:20 PM** <br> *to be adjusted* | 1:50 PM <br> *to be adjusted* | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
