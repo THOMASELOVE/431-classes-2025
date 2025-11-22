@@ -14,11 +14,26 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. This section will appear in time for class. 
+1. The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
+2. I will say **something today** about each of the three "bonus opportunities" that were available to close out the semester.
 
-## graphs.world
+## Quiz 2
 
-Today, we might spend a few minutes with <https://www.graphs.world/>
+**Details to come**.
+
+-------
+
+## There are at most 5 remaining deliverables for 431
+
+See the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html) for more details, and updates will appear there, if needed. All dates are **WEDNESDAYS**, unless indicated otherwise.
+
+Deadline | Item(s)
+:-----------------: | :----------------------------------------------------------------------------------------------------------
+~30 minutes on <br> December <br> 3, 4, 5, 8 or 9 | (1) [Project B](https://thomaselove.github.io/431-projectB-2025/) presentation with me (either in person or over Zoom) <br> The [Project B presentation schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
+2025-12-10 at noon | (2) **Final Deadline**: All [Project B](https://thomaselove.github.io/431-projectB-2025/) Materials are due. <br> (3) [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due. <br> (optional) (4) [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) is due.
+Around December 10 | (5) Course Evaluation of 431 for CWRU (exact date and web link TBA)
+
+-------
 
 ## References from Today's Slides
 
@@ -36,7 +51,7 @@ Today, we might spend a few minutes with <https://www.graphs.world/>
     - Several additional "get ready for 432" recommendations are in [my response to the Minute Paper](https://bit.ly/431-2023-min-25-feedback).
 4. Need a break? Perhaps you'll enjoy these [10 GIFs for Stats/Data People](https://graphpaperdiaries.com/2017/03/15/7-gifs-for-statsdata-people/) from BS King.
 
-# Ten of the Most Important Ideas from 431
+## Ten of the Most Important Ideas from 431
 
 1. You have to visualize and count data to understand it.
 2. 90% of statistical work could be described as data management.
@@ -56,4 +71,3 @@ Today, we might spend a few minutes with <https://www.graphs.world/>
 Frank Harrell posted this [Biostatistical Modeling Plan](https://hbiostat.org/blog/post/modplan/), most recently on 2023-01-26. This is the kind of thing we will work towards in 432.
 
 > This is an example statistical plan for project proposals where the goal is to develop a biostatistical model for prediction, and to do external or strong internal validation of the model.
-
