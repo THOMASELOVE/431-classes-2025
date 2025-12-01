@@ -50,7 +50,7 @@ Deadline | Item(s)
 2025-12-03 at noon | (1) [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2025/tree/main/quiz2) is due (Google Form). 
 ~30 minutes on <br> December <br> 3, 4, 5, 8 or 9 | (2) [Project B](https://thomaselove.github.io/431-projectB-2025/) presentation with me (either in person or over Zoom) <br> The [Project B presentation schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 2025-12-10 at noon | (3) **Final Deadline**: All [Project B](https://thomaselove.github.io/431-projectB-2025/) Materials are due. <br> (4) [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due. <br> (optional) (5) [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) is due.
-Around December 10 | (6) Course Evaluation of 431 for CWRU (exact date and web link TBA)
+Around December 10 | (6) Course Evaluation of 431 for CWRU at <https://webapps.case.edu/courseevals/>
 
 **Note**: While there are 3 opportunities for bonus credit in the late part of this semester, two will still be active after today's class 24. One of them [is right here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class21/extra.md), and the other one was published in material you received prior to the Thanksgiving Break. Act quickly, though. The remaining 2 opportunities are due at 9 AM Wednesday 2025-12-03 and 9 AM Wednesday 2025-12-04, respectively.
 
