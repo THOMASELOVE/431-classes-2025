@@ -14,7 +14,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Lab 6 grades and feedback should be available by class time.
+1. Lab 6 grades and feedback are now posted to our Shared Drive.
     - Five of our favorite responses to Task 5 in Lab 6 [are available here](https://docs.google.com/document/d/1nWHVGxKsVcw73PjdPYBPzq2aLXx7G9lM_HNK-4xvh-E/edit?usp=sharing).
 2. Remember that there is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
 3. Please arrive at the **Arrival Time** listed on the [431 Project B presentation schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
@@ -52,6 +52,6 @@ Deadline | Item(s)
 2025-12-10 at noon | (3) **Final Deadline**: All [Project B](https://thomaselove.github.io/431-projectB-2025/) Materials are due. <br> (4) [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due. <br> (optional) (5) [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) is due.
 Around December 10 | (6) Course Evaluation of 431 for CWRU at <https://webapps.case.edu/courseevals/>
 
-**Note**: While there are 3 opportunities for bonus credit in the late part of this semester, two will still be active after today's class 24. One of them [is right here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class21/extra.md), and the other one was published in material you received prior to the Thanksgiving Break. Act quickly, though. The remaining 2 opportunities are due at 9 AM Wednesday 2025-12-03 and 9 AM Wednesday 2025-12-04, respectively.
+**Note**: While there are 3 opportunities for bonus credit in the late part of this semester, two remain active after today's class 24. One was described in one of our recent READMEs, and the other in Quiz 2. Act quickly. These remaining 2 opportunities are due at 9 AM Wednesday 2025-12-03 and 9 AM Wednesday 2025-12-04, respectively.
 
 
