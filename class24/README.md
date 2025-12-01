@@ -14,15 +14,17 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Lab 6 grades and feedback are now posted to our Shared Drive.
+1. Remember that Quiz 2 is due at NOON on Wednesday 2025-12-03 (tomorrow.)
+2. Lab 6 grades and feedback are now posted to our Shared Drive.
     - Five of our favorite responses to Task 5 in Lab 6 [are available here](https://docs.google.com/document/d/1nWHVGxKsVcw73PjdPYBPzq2aLXx7G9lM_HNK-4xvh-E/edit?usp=sharing).
-2. Remember that there is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
-3. Please arrive at the **Arrival Time** listed on the [431 Project B presentation schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
-4. You might want to visit [this YouTube playlist](https://youtube.com/playlist?list=PL1WkTI58HjciC-FdKZkwiVet-Iar6u7wm&si=UvpdygUuUBFO_2kH).
+3. Remember that there is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
+4. Please arrive at the **Arrival Time** listed on the [431 Project B presentation schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
+5. You might want to visit [this YouTube playlist](https://youtube.com/playlist?list=PL1WkTI58HjciC-FdKZkwiVet-Iar6u7wm&si=UvpdygUuUBFO_2kH).
     - The 2024 playlist (49 songs) is at <https://youtube.com/playlist?list=PL1WkTI58HjcjAdtJOkV3GFtFCEZR82Jmn&si=QUPbsvf0HtDLxrOE>.
     - The 2023 playlist (44 songs) is at <https://youtube.com/playlist?list=PL1WkTI58Hjcivws3CSv-xCLROR7-cEFgH&si=kC2sWTcbb9NcESwg>.
     - The 2022 playlist (55 songs) is at <https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN&si=_uBgcU5iCLTfOqyg>.
     - If you missed this opportunity, [read this part of the Project B directions](https://thomaselove.github.io/431-projectB-2025/checklist.html#a-special-note) and do what it says to do there by 9 AM Wednesday 2025-12-03, please. I would like to have a larger sample.
+6. Speaking of extra credit opportunities, two remain active after today's class. One was described in one of our recent READMEs, and the other in Quiz 2. Act quickly. These remaining 2 opportunities are due at 9 AM Wednesday 2025-12-03 and 9 AM Wednesday 2025-12-04, respectively.
 
 ---
 
