@@ -20,7 +20,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - If you want me to regrade any Lab, then fill out the [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request). While the (optional) form is due 2025-12-10 at noon, I'd really like to get those done in the next day or so if possible.
 3. Please arrive at the **Arrival Time** listed on the [431 Project B presentation schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
     - Remember the **431 Project B Presentations: Description and Advice** document on our Shared Drive, which I hope is useful.
-4. Thanks and congratulations to the 22/52 of you who've [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). It's due 2025-12-10 at noon.
+4. Thanks and congratulations to the 23/52 of you who've [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md). It's due 2025-12-10 at noon.
 5. You might want to visit [this YouTube playlist](https://youtube.com/playlist?list=PL1WkTI58HjciC-FdKZkwiVet-Iar6u7wm&si=UvpdygUuUBFO_2kH) of favorite songs from 45 students in this year's class.
     - Two students did select [the same song](https://www.youtube.com/watch?v=GqXyTNKlwTI&list=PL1WkTI58HjciC-FdKZkwiVet-Iar6u7wm&index=2), from all of the songs in the universe.
     - The [2024 playlist (49 songs)](https://youtube.com/playlist?list=PL1WkTI58HjcjAdtJOkV3GFtFCEZR82Jmn&si=QUPbsvf0HtDLxrOE), the [2023 playlist (44 songs)](https://youtube.com/playlist?list=PL1WkTI58Hjcivws3CSv-xCLROR7-cEFgH&si=kC2sWTcbb9NcESwg), and the [2022 playlist (55 songs)](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN&si=_uBgcU5iCLTfOqyg) are also available.
