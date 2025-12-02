@@ -25,7 +25,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Two students did select [the same song](https://www.youtube.com/watch?v=GqXyTNKlwTI&list=PL1WkTI58HjciC-FdKZkwiVet-Iar6u7wm&index=2), from all of the songs in the universe.
     - The [2024 playlist (49 songs)](https://youtube.com/playlist?list=PL1WkTI58HjcjAdtJOkV3GFtFCEZR82Jmn&si=QUPbsvf0HtDLxrOE), the [2023 playlist (44 songs)](https://youtube.com/playlist?list=PL1WkTI58Hjcivws3CSv-xCLROR7-cEFgH&si=kC2sWTcbb9NcESwg), and the [2022 playlist (55 songs)](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN&si=_uBgcU5iCLTfOqyg) are also available.
     - If you missed this opportunity, [read this part of the Project B directions](https://thomaselove.github.io/431-projectB-2025/checklist.html#a-special-note).
-6. Speaking of extra credit opportunities, two remain active after today's class. One was described in a recent README, and the other in Quiz 2. Act quickly. These remaining opportunities are due at 9 AM Wednesday 2025-12-03 (which 30/52 have completed) and 9 AM Wednesday 2025-12-04 (which 22/52 have completed,) respectively.
+6. Speaking of extra credit opportunities, two remain active after today's class. One was described in a recent README, and the other in Quiz 2. Act quickly. These remaining opportunities are due at 9 AM Wednesday 2025-12-03 (which 31/52 have completed) and 9 AM Wednesday 2025-12-04 (which 22/52 have completed,) respectively.
 7. The Course Evaluation of 431 for CWRU should now be available at <https://webapps.case.edu/courseevals/>. Please take the time to fill this out, ideally **after** your Project B Presentation.
 
 ---
