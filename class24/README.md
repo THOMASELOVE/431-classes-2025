@@ -14,7 +14,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Remember that Quiz 2 is due at NOON on Wednesday 2025-12-03 (tomorrow.) Be sure to submit your Google Form by that time.
+1. Remember that Quiz 2 is due at NOON on Wednesday 2025-12-03 (tomorrow.) Be sure to submit your Google Form by that time. So far, I see 32/52 responses, some of which aren't yet complete.
 2. Lab 6 grades and feedback are now posted to our Shared Drive, as is the Answer Sketch / Grading Rubric.
     - Five of our favorite responses to Task 5 in Lab 6 [are available here](https://docs.google.com/document/d/1nWHVGxKsVcw73PjdPYBPzq2aLXx7G9lM_HNK-4xvh-E/edit?usp=sharing).
     - If you want me to regrade any Lab, then fill out the [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request). While the (optional) form is due 2025-12-10 at noon, I'd really like to get those done in the next day or so if possible.
