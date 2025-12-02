@@ -18,15 +18,15 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. Lab 6 grades and feedback are now posted to our Shared Drive, as is the Answer Sketch / Grading Rubric.
     - Five of our favorite responses to Task 5 in Lab 6 [are available here](https://docs.google.com/document/d/1nWHVGxKsVcw73PjdPYBPzq2aLXx7G9lM_HNK-4xvh-E/edit?usp=sharing).
     - If you want me to regrade any Lab, then fill out the [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request). While the (optional) form is due 2025-12-10 at noon, I'd really like to get those done in the next day or so if possible.
-3. Remember that there is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
-4. Please arrive at the **Arrival Time** listed on the [431 Project B presentation schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
-5. Thanks and congratulations to those of you who've [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md).
-6. You might want to visit [this YouTube playlist](https://youtube.com/playlist?list=PL1WkTI58HjciC-FdKZkwiVet-Iar6u7wm&si=UvpdygUuUBFO_2kH) of favorite songs from 45 students in this year's class.
+3. Please arrive at the **Arrival Time** listed on the [431 Project B presentation schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
+    - Remember the **431 Project B Presentations: Description and Advice** document on our Shared Drive, which I hope is useful.
+4. Thanks and congratulations to the 22/52 of you who've [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md).
+5. You might want to visit [this YouTube playlist](https://youtube.com/playlist?list=PL1WkTI58HjciC-FdKZkwiVet-Iar6u7wm&si=UvpdygUuUBFO_2kH) of favorite songs from 45 students in this year's class.
     - Two students did select [the same song](https://www.youtube.com/watch?v=GqXyTNKlwTI&list=PL1WkTI58HjciC-FdKZkwiVet-Iar6u7wm&index=2), from all of the songs in the universe.
     - The [2024 playlist (49 songs)](https://youtube.com/playlist?list=PL1WkTI58HjcjAdtJOkV3GFtFCEZR82Jmn&si=QUPbsvf0HtDLxrOE), the [2023 playlist (44 songs)](https://youtube.com/playlist?list=PL1WkTI58Hjcivws3CSv-xCLROR7-cEFgH&si=kC2sWTcbb9NcESwg), and the [2022 playlist (55 songs)](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN&si=_uBgcU5iCLTfOqyg) are also available.
     - If you missed this opportunity, [read this part of the Project B directions](https://thomaselove.github.io/431-projectB-2025/checklist.html#a-special-note).
-7. Speaking of extra credit opportunities, two remain active after today's class. One was described in a recent README, and the other in Quiz 2. Act quickly. These remaining opportunities are due at 9 AM Wednesday 2025-12-03 (which 30/52 have completed) and 9 AM Wednesday 2025-12-04 (which 22/52 have completed,) respectively.
-8. The Course Evaluation of 431 for CWRU should now be available at <https://webapps.case.edu/courseevals/>. Please take the time to fill this out, ideally **after** your Project B Presentation.
+6. Speaking of extra credit opportunities, two remain active after today's class. One was described in a recent README, and the other in Quiz 2. Act quickly. These remaining opportunities are due at 9 AM Wednesday 2025-12-03 (which 30/52 have completed) and 9 AM Wednesday 2025-12-04 (which 22/52 have completed,) respectively.
+7. The Course Evaluation of 431 for CWRU should now be available at <https://webapps.case.edu/courseevals/>. Please take the time to fill this out, ideally **after** your Project B Presentation.
 
 ---
 
