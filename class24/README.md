@@ -22,11 +22,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 4. Please arrive at the **Arrival Time** listed on the [431 Project B presentation schedule](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
 5. Thanks and congratulations to those of you who've [completed Lab X](https://github.com/THOMASELOVE/431-labs-2025/blob/main/labX/websites_2025.md).
 6. You might want to visit [this YouTube playlist](https://youtube.com/playlist?list=PL1WkTI58HjciC-FdKZkwiVet-Iar6u7wm&si=UvpdygUuUBFO_2kH).
-    - The 2024 playlist (49 songs) is at <https://youtube.com/playlist?list=PL1WkTI58HjcjAdtJOkV3GFtFCEZR82Jmn&si=QUPbsvf0HtDLxrOE>.
-    - The 2023 playlist (44 songs) is at <https://youtube.com/playlist?list=PL1WkTI58Hjcivws3CSv-xCLROR7-cEFgH&si=kC2sWTcbb9NcESwg>.
-    - The 2022 playlist (55 songs) is at <https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN&si=_uBgcU5iCLTfOqyg>.
-    - If you missed this opportunity, [read this part of the Project B directions](https://thomaselove.github.io/431-projectB-2025/checklist.html#a-special-note) and do what it says to do there by 9 AM Wednesday 2025-12-03, please, to get a little extra credit. I would very much like to have a larger sample.
-7. Speaking of extra credit opportunities, two remain active after today's class. One was described in one of our recent READMEs, and the other in Quiz 2. Act quickly. These remaining 2 opportunities are due at 9 AM Wednesday 2025-12-03 and 9 AM Wednesday 2025-12-04, respectively.
+    - The [2024 playlist (49 songs)](https://youtube.com/playlist?list=PL1WkTI58HjcjAdtJOkV3GFtFCEZR82Jmn&si=QUPbsvf0HtDLxrOE), the [2023 playlist (44 songs)](https://youtube.com/playlist?list=PL1WkTI58Hjcivws3CSv-xCLROR7-cEFgH&si=kC2sWTcbb9NcESwg), and the [2022 playlist (55 songs)](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN&si=_uBgcU5iCLTfOqyg) are also available.
+    - If you missed this opportunity, [read this part of the Project B directions](https://thomaselove.github.io/431-projectB-2025/checklist.html#a-special-note).
+7. Speaking of extra credit opportunities, two remain active after today's class. One was described in one of our recent READMEs, and the other in Quiz 2. Act quickly. These remaining opportunities are due at 9 AM Wednesday 2025-12-03 and 9 AM Wednesday 2025-12-04, respectively.
 8. The Course Evaluation of 431 for CWRU should now be available at <https://webapps.case.edu/courseevals/>. Please take the time to fill this out, ideally **after** your Project B Presentation.
 
 ---
