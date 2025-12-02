@@ -14,8 +14,8 @@
     - Annabelle Elsner Pachecho
 7. `ggplot()` from [ggplot2](https://ggplot2.tidyverse.org/) in **tidyverse**
     - Alexander Krammer, Allison Thirion Blasius, Amanda Barabas, Cher Yuan, Fangzhou Liu
-    - Jiayi Sun, Johnathan Huff, Noha Orabi, Ruoying Chen, Vennila Ramasubramanian
-    - Wilson Hsu
+    - Jiayi Sun, Johnathan Huff, Leland Metheny, Noha Orabi, Ruoying Chen
+    - Vennila Ramasubramanian, Wilson Hsu
 8. `kable()` from [knitr](https://bookdown.org/yihui/rmarkdown-cookbook/kable.html)
     - Benjamin Kwiatkowski, Lauren Sapienza
 9. `lovedist()` from [Love-431.R](https://github.com/THOMASELOVE/431-data/blob/main/data/Love-431.R)
