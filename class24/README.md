@@ -39,6 +39,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - The [quantreg package](https://cran.r-project.org/web/packages/quantreg/index.html)
 - [Robust Regression](https://stats.oarc.ucla.edu/r/dae/robust-regression/) from UCLA was the motivation for using my `crimestat` data (different time frame, though)
 
+## Advertising
+
+I am singing with the [Chagrin Falls Studio Orchestra](https://thecfso.com/) on Monday 2025-12-22 and Tuesday 2025-12-03 at their annual Wassail Christmas Concert. The 40 piece orchestra is backed by four singers (no solos for me this time) for a family-friendly concert of holiday favorites performed at the [Chagrin Valley Little Theatre](https://app.arts-people.com/index.php?show=290422) in Chagrin Falls, Ohio. If you're interested, tickets can be purchased in advance at <https://app.arts-people.com/index.php?show=290422>. Please feel absolutely no obligation to attend.
+
 ---
 
 ## Project B Presentations
