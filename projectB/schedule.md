@@ -134,4 +134,4 @@ In person presentations will be given in my office in **room WG-82J** at the ext
 Code | Day | Date | Investigator(s) | Data Source 
 :----: | :----: | :----: | :----------------------------------: | :----------------------------------------------------------------------: 
 B-01 ✅ | WED | 12-03 | Allison Thirion Blasius | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023) 
-B-02 ✅ | WED | 12-03 | Hannah-Beth Iqbal <br> & Comelia Soltanirad | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-02 ✅ | WED | 12-03 | Hannah-Beth Iqbal & Comelia Soltanirad | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
