@@ -10,6 +10,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 1. We'll do today's slides last. That's why [they are found below](#todays-slides).
 2. The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
+3. Here's a [video from The GRAPH Courses](https://www.youtube.com/watch?v=OlvO-EG-P60) on creating a personal website that some people found helpful in doing Lab X.
 
 ## Bonus Opportunities
 
