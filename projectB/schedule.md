@@ -132,6 +132,6 @@ In person presentations will be given in my office in **room WG-82J** at the ext
 
 ## Completed Presentations
 
-Code | Day | Date | Investigator(s) | Data Source | Completed
-:----: | :----: | :----: | :----------------------------------: | :----------------------------------------: | :-----:
-B-01 | WED | 12-03 | Allison Thirion Blasius | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023) | √
+Code | Day | Date | Investigator(s) | Data Source 
+:----: | :----: | :----: | :----------------------------------: | :----------------------------------------------------------------------: 
+B-01 ✅ | WED | 12-03 | Allison Thirion Blasius | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023) 
