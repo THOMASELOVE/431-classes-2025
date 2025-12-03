@@ -10,7 +10,12 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 1. We'll do today's slides last. That's why [they are found below](#todays-slides).
 2. The [Project B Presentation Schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
-3. I will say **something today** about each of the three "bonus opportunities" that were available to close out the semester.
+
+## Bonus Opportunities
+
+1. Check out [this YouTube Playlist](https://youtube.com/playlist?list=PL1WkTI58HjciC-FdKZkwiVet-Iar6u7wm&si=UvpdygUuUBFO_2kH) of favorite songs from students in 431 this year.
+2. I've prepared a list of [your favorite R functions](https://github.com/THOMASELOVE/431-classes-2025/blob/main/extra/favorite-R-function.md).
+3. There **will be information here by class time** about the third bonus opportunity, listed in Quiz 2, and due at 9 AM Thursday 2025-12-04.
 
 -------
 
