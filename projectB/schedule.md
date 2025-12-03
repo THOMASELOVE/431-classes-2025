@@ -99,7 +99,7 @@ Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish T
 B-37 | TUE | 12-09 | Andrew Morris | **12:50 PM** | 1:20 PM | **[In Person](#in-person-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-38 | TUE | 12-09 | Scout Osborne | **1:15 PM** | 1:45 PM | **[In Person](#in-person-presentations)** | PROTECT (Predicting Response <br> to Standardized <br> Colitis Therapy) <br> Study: [Table 6](https://doi.org/10.1016/j.chom.2018.09.009) 
 -- | -- | -- | Brief Break
-B-39 | TUE | 12-09 | Shufei Fang & <br> Ruoying Chen | **1:55 PM** | 2:25 PM | **[Zoom](#zoom-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-39 | TUE | 12-09 | Shufei Fang & <br> Ruoying Chen | **1:55 PM** | 2:25 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-40 | TUE | 12-09 | Moses Fleischman | **2:20 PM** | 2:50 PM | **[In Person](#in-person-presentations)** | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
 B-41 | TUE | 12-09 | Leland Metheny | **2:45 PM** | 3:15 PM | **[In Person](#in-person-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
