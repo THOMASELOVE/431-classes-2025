@@ -1,6 +1,6 @@
 # Favorite R Functions of 431 Students in Fall 2025
 
-For those of you who missed this opportunity, check out [this](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class21/extra.md) linked on the [Class 21 README](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class21).
+For those of you who missed this opportunity, check out [this](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class21/extra.md), which is linked on the [Class 21 README](https://github.com/THOMASELOVE/431-classes-2025/tree/main/class21).
 
 Sorted alphabetically by function name...
 
