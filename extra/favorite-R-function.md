@@ -1,5 +1,7 @@
 # Favorite R Functions of 431 Students in Fall 2025
 
+Sorted alphabetically by function name...
+
 1. `augment()` from [broom](https://broom.tidymodels.org/)
     - Amjad Samara
 2. `case_when()` from [dplyr](https://dplyr.tidyverse.org/reference/case_when.html) in **tidyverse**
