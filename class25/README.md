@@ -27,13 +27,13 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 ## There are at most 5 remaining deliverables for 431
 
-See the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html) for more details, and updates will appear there, if needed. All dates are **WEDNESDAYS**, unless indicated otherwise.
+See the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html) for more details, and updates will appear there, if needed. 
 
 Deadline | Item(s)
 :-----------------: | :----------------------------------------------------------------------------------------------------------
-~30 minutes on <br> December <br> 3, 4, 5, 8 or 9 | (1) [Project B](https://thomaselove.github.io/431-projectB-2025/) presentation with me (either in person or over Zoom) <br> The [Project B presentation schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
-2025-12-10 at noon | (2) **Final Deadline**: All [Project B](https://thomaselove.github.io/431-projectB-2025/) Materials are due. <br> (3) [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due. <br> (optional) (4) [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) is due.
-Around December 10 | (5) Course Evaluation of 431 for CWRU at <https://webapps.case.edu/courseevals/>
+~30 minutes on <br> December <br> 4, 5, 8 or 9 | (1) [Project B](https://thomaselove.github.io/431-projectB-2025/) presentation with me (either in person or over Zoom) <br> The [Project B presentation schedule is here](https://github.com/THOMASELOVE/431-classes-2025/blob/main/projectB/schedule.md).
+Wednesday <br> 2025-12-10 at noon | (2) **Final Deadline**: All [Project B](https://thomaselove.github.io/431-projectB-2025/) Materials are due. <br> (3) [Lab X](https://github.com/THOMASELOVE/431-labs-2025/tree/main/labX) is due. <br> (optional) (4) [Lab Regrade Request Form](https://bit.ly/431-2025-lab-regrade-request) is due.
+Once your presentation <br> is complete | (5) Course Evaluation of 431 for CWRU at <https://webapps.case.edu/courseevals/>
 
 -------
 
