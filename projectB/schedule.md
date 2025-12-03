@@ -10,11 +10,10 @@
 - There is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
 - The **431 Project B Presentation Zoom Links** document also on our Shared Drive provides Zoom links for every presentation time, even those planned as In Person, in case of emergency.
  
-## Presentations on Wednesday 2025-12-03 via [Zoom](#zoom-presentations)
+## Remaining Presentations on Wednesday 2025-12-03 via [Zoom](#zoom-presentations)
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Status | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-01 | WED | 12-03 | Allison Thirion Blasius | **9:00 AM** <br> **new time** | 9:30 AM <br> **new time** | Completed | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-02 | WED | 12-03 | Hannah-Beth Iqbal <br> & Comelia Soltanirad | **10:30 AM** <br> **new time** | 11:00 AM <br> **new time** | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-03 | WED | 12-03 | Valerie Lam | **2:30 PM** <br> **new time** | 3:00 PM <br> **new time** | [Zoom](#zoom-presentations) | NHANES <br> [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 
@@ -131,3 +130,8 @@ In person presentations will be given in my office in **room WG-82J** at the ext
   
 [^Wood]: The Wood building is next to the Robbins building, which contains our classroom. If you need help getting to my office, let me know, and I'll show you the way from our classroom.
 
+## Completed Presentations
+
+Code | Day | Date | Investigator(s) | Data Source | Completed
+:----: | :----: | :----: | :----------------------------------: | :----------------------------------------: | :-----:
+B-01 | WED | 12-03 | Allison Thirion Blasius | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023) | √
