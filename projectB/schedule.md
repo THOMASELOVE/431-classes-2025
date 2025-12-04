@@ -133,4 +133,4 @@ Code | Day | Date | Investigator(s) | Data Source
 :----: | :----: | :----: | :----------------------------------: | :----------------------------------------------------------------------: 
 B-01 ✅ | WED | 12-03 | Allison Thirion Blasius | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023) 
 B-02 ✅ | WED | 12-03 | Hannah-Beth Iqbal & Comelia Soltanirad | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-03 ✅ | WED | 12-03 | Valerie Lam | NHANES <br> [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
+B-03 ✅ | WED | 12-03 | Valerie Lam | NHANES [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
