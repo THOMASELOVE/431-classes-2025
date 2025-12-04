@@ -14,7 +14,8 @@
  
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Status | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-11 | ? | ? | Joshua Silalahi | **?** | ? |  [Zoom](#zoom-presentations) | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-10 | ? | ? | Andrew Crawford | **?** | ? | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) <br> Clinical Database
+B-11 | ? | ? | Joshua Silalahi | **?** | ? | [Zoom](#zoom-presentations) | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 ## Remaining Presentations on Thursday 2025-12-04
 
@@ -23,7 +24,6 @@ B-11 | ? | ? | Joshua Silalahi | **?** | ? |  [Zoom](#zoom-presentations) | NHAN
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-09 | THU | 12-04 | Sadia Ahmed & <br> Erin San Valentin | **3:55 PM** | 4:25 PM | [Zoom](#zoom-presentations) | NHANES <br> [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
-B-10 | THU | 12-04 | Andrew Crawford | **4:20 PM** | 4:50 PM | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) <br> Clinical Database
 
 ## Presentations on Friday 2025-12-05
 
