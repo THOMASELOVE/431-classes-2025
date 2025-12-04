@@ -9,12 +9,11 @@
   - As noted, the Finish Time values are approximate.
 - There is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
 - The **431 Project B Presentation Zoom Links** document also on our Shared Drive provides Zoom links for every presentation time, even those planned as In Person, in case of emergency.
+## Presentations to be re-scheduled
  
-## Remaining Presentations on Wednesday 2025-12-03 via [Zoom](#zoom-presentations)
-
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Status | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-03 | WED | 12-03 | Valerie Lam | **2:30 PM** <br> **new time** | 3:00 PM <br> **new time** | [Zoom](#zoom-presentations) | NHANES <br> [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
+B-11 | ? | ? | Joshua Silalahi | **?** | ? |  [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 ## Presentations on Thursday 2025-12-04
 
@@ -35,7 +34,6 @@ Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish T
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-09 | THU | 12-04 | Sadia Ahmed & <br> Erin San Valentin | **3:55 PM** | 4:25 PM | [Zoom](#zoom-presentations) | NHANES <br> [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 B-10 | THU | 12-04 | Andrew Crawford | **4:20 PM** | 4:50 PM | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) <br> Clinical Database
-B-11 | THU | 12-04 | Joshua Silalahi | **4:45 PM** | 5:15 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 ## Presentations on Friday 2025-12-05
 
@@ -135,3 +133,4 @@ Code | Day | Date | Investigator(s) | Data Source
 :----: | :----: | :----: | :----------------------------------: | :----------------------------------------------------------------------: 
 B-01 ✅ | WED | 12-03 | Allison Thirion Blasius | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023) 
 B-02 ✅ | WED | 12-03 | Hannah-Beth Iqbal & Comelia Soltanirad | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-03 ✅ | WED | 12-03 | Valerie Lam | NHANES <br> [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
