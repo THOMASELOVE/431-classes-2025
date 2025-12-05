@@ -57,7 +57,7 @@ B-28 | MON | 12-08 | Ben Kwiatkowski | **12:15 PM** | 12:45 PM | [Zoom](#zoom-pr
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-16 | MON | 12-08 | Alex Krammer | **2:10** | 2:40 PM | [Zoom](#zoom-presentations) | Behavioral Risk Factor Surv. System ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
+B-16 | MON | 12-08 | Alex Krammer | **2:10 PM** <br> **new time** | 2:40 PM | [Zoom](#zoom-presentations) | Behavioral Risk Factor <br> Surveillance System ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
 B-29 | MON | 12-08 | Emma Chio | **2:40 PM** | 3:10 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-30 | MON | 12-08 | Noni Pinales <br> & Swati Jha | **3:05 PM** | 3:35 PM | [Zoom](#zoom-presentations) | National Survey of <br> Family Growth ([NSFG](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm)), <br> 2022-2023 Female
 B-31 | MON | 12-08 | Hana Sato | **3:30 PM** | 4:00 PM | [Zoom](#zoom-presentations) | National Health Interview <br> Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html)) 2024
