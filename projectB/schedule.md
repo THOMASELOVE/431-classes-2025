@@ -22,12 +22,6 @@ B-11 | MON? | 12-08? | Joshua Silalahi | **1:10 PM?** | 1:40 PM? | [Zoom](#zoom-
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-14 | FRI | 12-05 | Helena Zhao | **12:15 PM** | 12:45 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-
-- Break
-
-Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
-:----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-15 | FRI | 12-05 | Kuangstan Hsu <br> & Ching-Wen Mai | **1:55 PM** | 2:25 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 -- | -- | -- | Brief Break
 B-17 | FRI | 12-05 | Vennila <br> Ramasubramanian <br> & Paulina Gonzalez | **2:45 PM** | 3:15 PM | [Zoom](#zoom-presentations) | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2023.html)), 2023
@@ -124,3 +118,4 @@ B-08 ✅ | THU | 12-04 | Fai Albuainain & Avianna Thompson | National Health Int
 B-09 ✅ | THU | 12-04 | Sadia Ahmed & Erin San Valentin | NHANES [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 B-12 ✅ | FRI | 12-05 | Fangzhou (Eric) Liu | Environmental Justice <br> Index ([EJI](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html))
 B-13 ✅ | FRI | 12-05 | Simon Lynn | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-14 ✅ | FRI | 12-05 | Helena Zhao | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
