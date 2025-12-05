@@ -16,7 +16,7 @@ Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish T
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-10 | ? | ? | Andrew Crawford | **?** | ? | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) Clinical Database
 B-11 | ? | ? | Joshua Silalahi | **?** | ? | [Zoom](#zoom-presentations) | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-16 | ? | ? | Alex Krammer | **?** | ? | [Zoom](#zoom-presentations) | Behavioral Risk Factor <br> Surveillance System ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
+B-16 | ? | ? | Alex Krammer | **?** | ? | [Zoom](#zoom-presentations) | Behavioral Risk Factor Surveillance System ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
 
 ## Presentations on Friday 2025-12-05
 
