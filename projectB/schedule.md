@@ -18,12 +18,10 @@ B-10 | ? | ? | Andrew Crawford | **?** | ? | [Zoom](#zoom-presentations) | [MIMI
 B-11 | ? | ? | Joshua Silalahi | **?** | ? | [Zoom](#zoom-presentations) | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 
-## Presentations on Friday 2025-12-05
+## Remaining Presentations on Friday 2025-12-05
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-12 | FRI | 12-05 | Fangzhou (Eric) Liu | **11:25 AM** | 11:55 AM | [Zoom](#zoom-presentations) | Environmental Justice <br> Index ([EJI](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html))
-B-13 | FRI | 12-05 | Simon Lynn | **11:50 AM** | 12:20 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-14 | FRI | 12-05 | Helena Zhao | **12:15 PM** | 12:45 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 - Break
@@ -124,3 +122,5 @@ B-06 ✅ | THU | 12-04 | Arjun Chatterjee | NHANES [8/2021 to 8/2023](https://ww
 B-07 ✅ | THU | 12-04 | Madison Albert | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-08 ✅ | THU | 12-04 | Fai Albuainain & Avianna Thompson | National Health Interview <br> Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html)) 2024
 B-09 ✅ | THU | 12-04 | Sadia Ahmed & Erin San Valentin | NHANES [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
+B-12 ✅ | FRI | 12-05 | Fangzhou (Eric) Liu | Environmental Justice <br> Index ([EJI](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html))
+B-13 ✅ | FRI | 12-05 | Simon Lynn | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
