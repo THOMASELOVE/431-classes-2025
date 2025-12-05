@@ -16,6 +16,7 @@ Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish T
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-10 | ? | ? | Andrew Crawford | **?** | ? | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) Clinical Database
 B-11 | ? | ? | Joshua Silalahi | **?** | ? | [Zoom](#zoom-presentations) | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-16 | ? | ? | Alex Krammer | **?** | ? | [Zoom](#zoom-presentations) | Behavioral Risk Factor <br> Surveillance System ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
 
 ## Presentations on Friday 2025-12-05
 
@@ -30,7 +31,7 @@ B-14 | FRI | 12-05 | Helena Zhao | **12:15 PM** | 12:45 PM | [Zoom](#zoom-presen
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-15 | FRI | 12-05 | Kuangstan Hsu <br> & Ching-Wen Mai | **1:55 PM** | 2:25 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-16 | FRI | 12-05 | Alex Krammer | **2:20 PM** | 2:50 PM | [Zoom](#zoom-presentations) | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
+-- | -- | -- | Brief Break
 B-17 | FRI | 12-05 | Vennila <br> Ramasubramanian <br> & Paulina Gonzalez | **2:45 PM** | 3:15 PM | [Zoom](#zoom-presentations) | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2023.html)), 2023
 -- | -- | -- | Brief Break
 B-18 | FRI | 12-05 | Lauren Sapienza | **3:25 PM** | 3:55 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
