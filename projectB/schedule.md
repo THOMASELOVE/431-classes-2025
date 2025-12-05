@@ -21,8 +21,6 @@ B-11 | MON? | 12-08? | Joshua Silalahi | **1:10 PM?** | 1:40 PM? | [Zoom](#zoom-
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-17 | FRI | 12-05 | Vennila <br> Ramasubramanian <br> & Paulina Gonzalez | **2:45 PM** | 3:15 PM | [Zoom](#zoom-presentations) | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2023.html)), 2023
--- | -- | -- | Brief Break
 B-18 | FRI | 12-05 | Lauren Sapienza | **3:25 PM** | 3:55 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-19 | FRI | 12-05 | Isabela Drumond <br> Fonseca & <br> Renu Jadhav | **3:50 PM** | 4:20 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-20 | FRI | 12-05 | Dana Kleinman | **4:15 PM** | 4:45 PM | [Zoom](#zoom-presentations) | National Health Interview <br> Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html)) 2024
@@ -111,9 +109,10 @@ B-04 ✅ | THU | 12-04 | Janetta Brundage & Leah Nez | NHANES [8/2021 to 8/2023]
 B-05 ✅ | THU | 12-04 | Xueer (Cher) Yuan | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-06 ✅ | THU | 12-04 | Arjun Chatterjee | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-07 ✅ | THU | 12-04 | Madison Albert | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-08 ✅ | THU | 12-04 | Fai Albuainain & Avianna Thompson | National Health Interview <br> Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html)) 2024
+B-08 ✅ | THU | 12-04 | Fai Albuainain & Avianna Thompson | National Health Interview Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html)) 2024
 B-09 ✅ | THU | 12-04 | Sadia Ahmed & Erin San Valentin | NHANES [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 B-12 ✅ | FRI | 12-05 | Fangzhou (Eric) Liu | Environmental Justice Index ([EJI](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html))
 B-13 ✅ | FRI | 12-05 | Simon Lynn | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-14 ✅ | FRI | 12-05 | Helena Zhao | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-15 ✅ | FRI | 12-05 | Kuangstan Hsu <br> & Ching-Wen Mai | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-15 ✅ | FRI | 12-05 | Kuangstan Hsu & Ching-Wen Mai | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-17 ✅ | FRI | 12-05 | Vennila Ramasubramanian & Paulina Gonzalez | [BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2023.html), 2023
