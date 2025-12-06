@@ -10,12 +10,6 @@
 - There is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
 - The **431 Project B Presentation Zoom Links** document also on our Shared Drive provides Zoom links for every presentation time, even those planned as In Person, in case of emergency.
 
-## Presentations to be re-scheduled
- 
-Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Status | Data Source
-:----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-11 | MON? | 12-08? | Joshua Silalahi | **1:10 PM?** | 1:40 PM? | [Zoom](#zoom-presentations) | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-
 ## Presentations on Monday 2025-12-08
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
@@ -42,6 +36,7 @@ B-31 | MON | 12-08 | Hana Sato | **3:30 PM** | 4:00 PM | [Zoom](#zoom-presentati
 B-32 | MON | 12-08 | Linda Chen | **3:55 PM** | 4:25 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-33 | MON | 12-08 | Amanda Barabas | **4:20 PM** | 4:50 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-34 | MON | 12-08 | Dayanna Bohorquez | **4:45 PM** | 5:15 PM | [Zoom](#zoom-presentations) | Medical Expenditure <br> Panel Survey <br> ([MEPS](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247)), 2023
+B-11 | MON | 12-08 | Joshua Silalahi | **5:10 PM** | 5:40 PM | [Zoom](#zoom-presentations) | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 ## Presentations on Tuesday 2025-12-09
 
