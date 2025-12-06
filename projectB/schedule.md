@@ -14,7 +14,6 @@
  
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Status | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-10 | TUE? | 12-09? | Andrew Crawford | **10:50 AM?** | 11:20 AM? | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) Clinical Database
 B-11 | MON? | 12-08? | Joshua Silalahi | **1:10 PM?** | 1:40 PM? | [Zoom](#zoom-presentations) | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 ## Presentations on Monday 2025-12-08
@@ -48,6 +47,7 @@ B-34 | MON | 12-08 | Dayanna Bohorquez | **4:45 PM** | 5:15 PM | [Zoom](#zoom-pr
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
+B-10 | TUE | 12-09 | Andrew Crawford | **10:50 AM** | 11:20 AM | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) Clinical Database
 B-35 | TUE | 12-09 | Sophia Ribeiro & <br> Annabelle <br> Elsner Pacheco | **11:20 AM** | 11:50 AM |  [Zoom](#zoom-presentations) | Portuguese <br> [student performance](https://archive.ics.uci.edu/dataset/320/student+performance)
 B-36 | TUE | 12-09 | Jiayi Sun | **11:45 AM** | 12:15 PM | **[In Person](#in-person-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
@@ -63,7 +63,6 @@ B-40 | TUE | 12-09 | Moses Fleischman | **2:20 PM** | 2:50 PM | **[In Person](#i
 B-41 | TUE | 12-09 | Leland Metheny | **2:45 PM** | 3:15 PM | **[In Person](#in-person-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 ## Zoom Presentations
-
 The Zoom link for your presentation time is found on **our Shared Drive** in the **431 Project B Presentation Zoom Links** document.
 
 1. Join the Zoom at the **Arrival Time** listed for your project. You may be placed in a waiting room. I will let you in when I am ready for you.
