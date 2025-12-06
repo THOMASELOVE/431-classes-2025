@@ -14,7 +14,7 @@
  
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Status | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-10 | ? | ? | Andrew Crawford | **?** | ? | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) Clinical Database
+B-10 | TUE? | 12-09? | Andrew Crawford | **10:50 AM?** | 11:20 AM? | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) Clinical Database
 B-11 | MON? | 12-08? | Joshua Silalahi | **1:10 PM?** | 1:40 PM? | [Zoom](#zoom-presentations) | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 ## Presentations on Monday 2025-12-08
