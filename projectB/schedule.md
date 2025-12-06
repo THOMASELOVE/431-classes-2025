@@ -73,7 +73,7 @@ The Zoom link for your presentation time is found on **our Shared Drive** in the
 5. If you are working with a partner, one of you will share from a single computer for both studies, even while the other one is talking.
 6. If you have a partner, I will randomly determine who will present Study 1, and who will present Study 2 at the time of your presentation. Be ready to present either study at a moment's notice.
 7. Before you leave the Zoom call, you will have a good understanding from me of both how you did, and what you should do to improve your work in time for the final portfolio report (due 2025-12-10 at noon.)
-8. After you complete the presentation, leave my office, please remember to complete CWRU's Course Evaluation Form for 431.
+8. After you complete the presentation, please remember to complete CWRU's Course Evaluation Form for 431.
 
 ## In Person Presentations
 
