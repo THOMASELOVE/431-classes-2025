@@ -2,13 +2,14 @@
 
 - Email Dr. Love as soon as possible if...
   - you have questions about this schedule,
-  - you want to change from **[In Person](#in-person-presentations)** to a **[Zoom](#zoom-presentations)** presentation (which we can easily do),
   - or you have an emergency on your presentation day.
-- Arrive for your presentation (either join the [Zoom](#zoom-presentations) call or arrive [at my office](#in-person-presentations)) at the **Arrival Time** listed below. That is the important time.
+- Join the [Zoom](#zoom-presentations) call at the **Arrival Time** listed below. 
   - We'll start as close to your Arrival Time as we can, and your actual presentation time is 20 minutes.
   - As noted, the Finish Time values are approximate.
 - There is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
 - The **431 Project B Presentation Zoom Links** document also on our Shared Drive provides Zoom links for every presentation time, even those planned as In Person, in case of emergency.
+
+# All remaining presentations this semester will be given over Zoom.
 
 ## Presentations on Monday 2025-12-08
 
@@ -44,18 +45,18 @@ Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish T
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
 B-10 | TUE | 12-09 | Andrew Crawford | **10:50 AM** <br> **new time** | 11:20 AM | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) <br> Clinical Database
 B-35 | TUE | 12-09 | Sophia Ribeiro & <br> Annabelle <br> Elsner Pacheco | **11:20 AM** | 11:50 AM |  [Zoom](#zoom-presentations) | Portuguese <br> [student performance](https://archive.ics.uci.edu/dataset/320/student+performance)
-B-36 | TUE | 12-09 | Jiayi Sun | **11:45 AM** | 12:15 PM | **[In Person](#in-person-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-36 | TUE | 12-09 | Jiayi Sun | **11:45 AM** | 12:15 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 - Break
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-37 | TUE | 12-09 | Andrew Morris | **12:50 PM** | 1:20 PM | **[In Person](#in-person-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-38 | TUE | 12-09 | Scout Osborne | **1:15 PM** | 1:45 PM | **[In Person](#in-person-presentations)** | PROTECT (Predicting Response <br> to Standardized <br> Colitis Therapy) <br> Study: [Table 6](https://doi.org/10.1016/j.chom.2018.09.009) 
+B-37 | TUE | 12-09 | Andrew Morris | **12:50 PM** | 1:20 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-38 | TUE | 12-09 | Scout Osborne | **1:15 PM** | 1:45 PM | [Zoom](#zoom-presentations) | PROTECT (Predicting Response <br> to Standardized <br> Colitis Therapy) <br> Study: [Table 6](https://doi.org/10.1016/j.chom.2018.09.009) 
 -- | -- | -- | Brief Break
 B-39 | TUE | 12-09 | Shufei Fang & <br> Ruoying Chen | **1:55 PM** | 2:25 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-40 | TUE | 12-09 | Moses Fleischman | **2:20 PM** | 2:50 PM | **[In Person](#in-person-presentations)** | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
-B-41 | TUE | 12-09 | Leland Metheny | **2:45 PM** | 3:15 PM | **[In Person](#in-person-presentations)** | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-40 | TUE | 12-09 | Moses Fleischman | **2:20 PM** | 2:50 PM | [Zoom](#zoom-presentations) | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
+B-41 | TUE | 12-09 | Leland Metheny | **2:45 PM** | 3:15 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 ## Zoom Presentations
 The Zoom link for your presentation time is found on **our Shared Drive** in the **431 Project B Presentation Zoom Links** document.
