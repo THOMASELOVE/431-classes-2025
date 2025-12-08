@@ -11,7 +11,7 @@
 
 # All remaining presentations this semester will be given over Zoom.
 
-## Remaining Presentations on Monday 2025-12-08
+## Remaining Presentation on Monday 2025-12-08
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
