@@ -36,13 +36,14 @@ B-30 | MON | 12-08 | Noni Pinales <br> & Swati Jha | **3:05 PM** | 3:35 PM | [Zo
 B-31 | MON | 12-08 | Hana Sato | **3:30 PM** | 4:00 PM | [Zoom](#zoom-presentations) | National Health Interview <br> Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html)) 2024
 B-32 | MON | 12-08 | Linda Chen | **3:55 PM** | 4:25 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-33 | MON | 12-08 | Amanda Barabas | **4:20 PM** | 4:50 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-34 | MON | 12-08 | Dayanna Bohorquez | **4:45 PM** | 5:15 PM | [Zoom](#zoom-presentations) | Medical Expenditure <br> Panel Survey <br> ([MEPS](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247)), 2023
+-- | -- | -- | Brief Break
 B-11 | MON | 12-08 | Joshua Silalahi | **5:10 PM** <br> **new time** | 5:40 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 ## Presentations on Tuesday 2025-12-09
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
+B-34 | TUE | 12-09 | Dayanna Bohorquez | **10:30 AM** | 11:00 PM | [Zoom](#zoom-presentations) | Medical Expenditure <br> Panel Survey <br> ([MEPS](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247)), 2023
 B-10 | TUE | 12-09 | Andrew Crawford | **10:50 AM** <br> **new time** | 11:20 AM | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) <br> Clinical Database
 B-35 | TUE | 12-09 | Sophia Ribeiro & <br> Annabelle <br> Elsner Pacheco | **11:20 AM** | 11:50 AM |  [Zoom](#zoom-presentations) | Portuguese <br> [student performance](https://archive.ics.uci.edu/dataset/320/student+performance)
 B-36 | TUE | 12-09 | Jiayi Sun | **11:45 AM** | 12:15 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
