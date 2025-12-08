@@ -100,7 +100,7 @@ B-20 ✅ | FRI | 12-05 | Dana Kleinman | National Health Interview Survey ([NHIS
 B-21 ✅ | MON | 12-08 | Jiakun Wang | NHANES [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 B-22 ✅ | MON | 12-08 | Amjad Samara | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-23 ✅ | MON | 12-08 | Alex Bergendorf | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
--- | --
+B-24 | TUE
 B-25 ✅ | MON | 12-08 | Johnathan Huff | Pro Football Reference [2024](https://www.pro-football-reference.com/years/2024/defense.htm)
 B-26 ✅ | MON | 12-08 | Lily Zhang | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-27 ✅ | MON | 12-08 | Subin Lee | Annual Social & <br> Economic Supplements Data, [2025](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html)
