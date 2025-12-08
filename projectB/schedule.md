@@ -15,8 +15,6 @@
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-23 | MON | 12-08 | Alex Bergendorf | **9:55 AM** | 10:25 AM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
--- | -- | -- | Brief Break
 B-25 | MON | 12-08 | Johnathan Huff | **10:45 AM** | 11:15 AM | [Zoom](#zoom-presentations) | Pro Football <br> Reference [2024](https://www.pro-football-reference.com/years/2024/defense.htm)
 -- | -- | -- | Brief Break
 B-26 | MON | 12-08 | Lily Zhang | **11:25 AM** | 11:55 AM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
@@ -107,4 +105,5 @@ B-19 ✅ | FRI | 12-05 | Isabela Drumond Fonseca & Renu Madhuraj Jadhav | NHANES
 B-20 ✅ | FRI | 12-05 | Dana Kleinman | National Health Interview Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) 2024)
 B-21 ✅ | MON | 12-08 | Jiakun Wang | NHANES [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 B-22 ✅ | MON | 12-08 | Amjad Samara | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-23 ✅ | MON | 12-08 | Alex Bergendorf | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
