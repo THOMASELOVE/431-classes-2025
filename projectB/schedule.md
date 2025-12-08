@@ -28,7 +28,7 @@ B-11 | MON | 12-08 | Joshua Silalahi | **5:10 PM** <br> **new time** | 5:40 PM |
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-32 | TUE | 12-08 | Linda Chen | **9:00 AM** | 9:30 AM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-32 | TUE | 12-08 | Linda Chen | **9:00 AM** <br> **new time** | 9:30 AM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-30 | TUE | 12-09 | Noni Pinales <br> & Swati Jha | **9:30 AM** <br> **new time** | 9:50 AM | [Zoom](#zoom-presentations) | National Survey of <br> Family Growth ([NSFG](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm)), <br> 2022-2023 Female
 B-24 | TUE | 12-09 | Pooja Madan Mohan <br> & Noha Orabi | **10:00 AM** <br> **new time** | 10:30 AM | [Zoom](#zoom-presentations) | Global Coral <br> Bleaching [Database](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498) 
 B-34 | TUE | 12-09 | Dayanna Bohorquez | **10:30 AM** <br> **new time** | 11:00 PM | [Zoom](#zoom-presentations) | Medical Expenditure <br> Panel Survey <br> ([MEPS](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247)), 2023
