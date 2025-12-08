@@ -104,3 +104,11 @@ B-29 ✅ | MON | 12-08 | Emma Chio | NHANES [8/2021 to 8/2023](https://wwwn.cdc.
 B-31 ✅ | MON | 12-08 | Hana Sato | National Health Interview Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html)) 2024
 *B-32* | *TUE*
 B-33 ✅ | MON | 12-08 | Amanda Barabas | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+*B-34* | *TUE*
+*B-35* | *TUE*
+*B-36* | *TUE*
+*B-37* | *TUE*
+*B-38* | *TUE*
+*B-39* | *TUE*
+*B-40* | *TUE*
+*B-41* | *TUE*
