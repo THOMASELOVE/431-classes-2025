@@ -86,8 +86,8 @@ B-06 ✅ | THU | 12-04 | Arjun Chatterjee | NHANES [8/2021 to 8/2023](https://ww
 B-07 ✅ | THU | 12-04 | Madison Albert | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-08 ✅ | THU | 12-04 | Fai Albuainain & Avianna Thompson | National Health Interview Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) 2024)
 B-09 ✅ | THU | 12-04 | Sadia Ahmed & Erin San Valentin | NHANES [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
-B-10 | TUE
-B-11 | MON 
+*B-10* | *TUE*
+*B-11* | *MON* 
 B-12 ✅ | FRI | 12-05 | Fangzhou (Eric) Liu | Environmental Justice Index ([EJI](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html))
 B-13 ✅ | FRI | 12-05 | Simon Lynn | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-14 ✅ | FRI | 12-05 | Helena Zhao | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
@@ -100,21 +100,14 @@ B-20 ✅ | FRI | 12-05 | Dana Kleinman | National Health Interview Survey ([NHIS
 B-21 ✅ | MON | 12-08 | Jiakun Wang | NHANES [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 B-22 ✅ | MON | 12-08 | Amjad Samara | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-23 ✅ | MON | 12-08 | Alex Bergendorf | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-24 | TUE
+*B-24* | *TUE*
 B-25 ✅ | MON | 12-08 | Johnathan Huff | Pro Football Reference [2024](https://www.pro-football-reference.com/years/2024/defense.htm)
 B-26 ✅ | MON | 12-08 | Lily Zhang | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-27 ✅ | MON | 12-08 | Subin Lee | Annual Social & <br> Economic Supplements Data, [2025](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html)
 B-28 ✅ | MON | 12-08 | Ben Kwiatkowski | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-29 | MON
-B-30 | TUE
-B-31 | MON
-B-32 | TUE
-B-33 | MON
-B-34 | TUE
-B-35 | TUE
-B-36 | TUE
-B-37 | TUE
-B-38 | TUE
-B-39 | TUE
-B-40 | TUE
-B-41 | TUE
+*B-29* | *MON*
+*B-30* | *TUE*
+*B-31* | *MON*
+*B-32* | *TUE*
+*B-33* | MON
+
