@@ -1,13 +1,10 @@
 # Project B Schedule of Project Presentations
 
-- Email Dr. Love as soon as possible if...
-  - you have questions about this schedule,
-  - or you have an emergency on your presentation day.
 - Join the [Zoom](#zoom-presentations) call at the **Arrival Time** listed below. 
   - We'll start as close to your Arrival Time as we can, and your actual presentation time is 20 minutes.
   - As noted, the Finish Time values are approximate.
 - There is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
-- The **431 Project B Presentation Zoom Links** document also on our Shared Drive provides Zoom links for every presentation time, even those planned as In Person, in case of emergency.
+- The **431 Project B Presentation Zoom Links** document also on our Shared Drive provides Zoom links for every presentation time.
 
 # All remaining presentations this semester will be given over Zoom.
 
