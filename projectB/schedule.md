@@ -90,7 +90,7 @@ B-12 ✅ | FRI | 12-05 | Fangzhou (Eric) Liu | Environmental Justice Index ([EJI
 B-13 ✅ | FRI | 12-05 | Simon Lynn | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-14 ✅ | FRI | 12-05 | Helena Zhao | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-15 ✅ | FRI | 12-05 | Kuangstan Hsu & Ching-Wen Mai | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-16 ✅ | MON | 12-08 | Alex Krammer | Behavioral Risk Factor Surveillance System ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
+B-16 ✅ | MON | 12-08 | Alex Krammer | [BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024
 B-17 ✅ | FRI | 12-05 | Vennila Ramasubramanian & Paulina Gonzalez | [BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2023.html), 2023
 B-18 ✅ | FRI | 12-05 | Lauren Sapienza | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-19 ✅ | FRI | 12-05 | Isabela Drumond Fonseca & Renu Madhuraj Jadhav | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
