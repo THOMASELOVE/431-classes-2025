@@ -6,14 +6,14 @@
 - There is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
 - The **431 Project B Presentation Zoom Links** document also on our Shared Drive provides Zoom links for every presentation time.
 
-## Remaining Zoom Presentations on Tuesday 2025-12-09
+## Remaining Zoom Presentation
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-40 | TUE | 12-09 | Moses Fleischman | **2:20 PM** | 2:50 PM | [Zoom](#zoom-presentations) | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
 B-41 | TUE | 12-09 | Leland Metheny | **2:45 PM** | 3:15 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 ## Zoom Presentations
+
 The Zoom link for your presentation time is found on **our Shared Drive** in the **431 Project B Presentation Zoom Links** document.
 
 1. Join the Zoom at the **Arrival Time** listed for your project. You may be placed in a waiting room. I will let you in when I am ready for you.
@@ -82,5 +82,5 @@ B-36 ✅ | TUE | 12-09 | Jiayi Sun | NHANES [8/2021 to 8/2023](https://wwwn.cdc.
 B-37 ✅ | TUE | 12-09 | Andrew Morris | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-38 ✅ | TUE | 12-09 | Scout Osborne | PROTECT (Predicting Response to Standardized Colitis Therapy) Study: [Table 6](https://doi.org/10.1016/j.chom.2018.09.009) 
 B-39 ✅ | TUE | 12-09 | Shufei Fang & Ruoying Chen | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-*B-40* | *TUE*
-*B-41* | *TUE*
+B-40 ✅ | TUE | 12-09 | Moses Fleischman | [BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html), 2024
+
