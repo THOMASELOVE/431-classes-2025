@@ -10,10 +10,6 @@
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-37 | TUE | 12-09 | Andrew Morris | **12:50 PM** | 1:20 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-38 | TUE | 12-09 | Scout Osborne | **1:15 PM** | 1:45 PM | [Zoom](#zoom-presentations) | PROTECT (Predicting Response <br> to Standardized <br> Colitis Therapy) <br> Study: [Table 6](https://doi.org/10.1016/j.chom.2018.09.009) 
--- | -- | -- | Brief Break
-B-39 | TUE | 12-09 | Shufei Fang & <br> Ruoying Chen | **1:55 PM** | 2:25 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-40 | TUE | 12-09 | Moses Fleischman | **2:20 PM** | 2:50 PM | [Zoom](#zoom-presentations) | Behavioral Risk Factor <br> Surveillance System <br> ([BRFSS](https://www.cdc.gov/brfss/annual_data/annual_2024.html)), 2024
 B-41 | TUE | 12-09 | Leland Metheny | **2:45 PM** | 3:15 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
@@ -83,8 +79,8 @@ B-33 ✅ | MON | 12-08 | Amanda Barabas | NHANES [8/2021 to 8/2023](https://wwwn
 B-34 ✅ | TUE | 12-09 | Dayanna Bohorquez | Medical Expenditure Panel Survey ([MEPS](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247)), 2023
 B-35 ✅ | TUE | 12-09 | Sophia Ribeiro & Annabelle Elsner Pacheco | Portuguese [student performance](https://archive.ics.uci.edu/dataset/320/student+performance)
 B-36 ✅ | TUE | 12-09 | Jiayi Sun | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-*B-37* | *TUE*
-*B-38* | *TUE*
-*B-39* | *TUE*
+B-37 ✅ | TUE | 12-09 | Andrew Morris | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
+B-38 ✅ | TUE | 12-09 | Scout Osborne | PROTECT (Predicting Response to Standardized Colitis Therapy) Study: [Table 6](https://doi.org/10.1016/j.chom.2018.09.009) 
+B-39 ✅ | TUE | 12-09 | Shufei Fang & Ruoying Chen | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 *B-40* | *TUE*
 *B-41* | *TUE*
