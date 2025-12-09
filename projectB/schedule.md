@@ -10,7 +10,6 @@
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-24 | TUE | 12-09 | Pooja Madan Mohan <br> & Noha Orabi | **10:00 AM** <br> **new time** | 10:30 AM | [Zoom](#zoom-presentations) | Global Coral <br> Bleaching [Database](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498) 
 B-34 | TUE | 12-09 | Dayanna Bohorquez | **10:30 AM** <br> **new time** | 11:00 PM | [Zoom](#zoom-presentations) | Medical Expenditure <br> Panel Survey <br> ([MEPS](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247)), 2023
 B-10 | TUE | 12-09 | Andrew Crawford | **10:50 AM** <br> **new time** | 11:20 AM | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) <br> Clinical Database
 B-35 | TUE | 12-09 | Sophia Ribeiro & <br> Annabelle <br> Elsner Pacheco | **11:20 AM** | 11:50 AM |  [Zoom](#zoom-presentations) | Portuguese <br> [student performance](https://archive.ics.uci.edu/dataset/320/student+performance)
@@ -75,7 +74,7 @@ B-20 ✅ | FRI | 12-05 | Dana Kleinman | National Health Interview Survey ([NHIS
 B-21 ✅ | MON | 12-08 | Jiakun Wang | NHANES [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 B-22 ✅ | MON | 12-08 | Amjad Samara | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-23 ✅ | MON | 12-08 | Alex Bergendorf | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-*B-24* | *TUE*
+B-24 ✅ | TUE | 12-09 | Pooja Madan Mohan & Noha Orabi | Global Coral Bleaching [Database](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498) 
 B-25 ✅ | MON | 12-08 | Johnathan Huff | Pro Football Reference [2024](https://www.pro-football-reference.com/years/2024/defense.htm)
 B-26 ✅ | MON | 12-08 | Lily Zhang | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-27 ✅ | MON | 12-08 | Subin Lee | Annual Social & <br> Economic Supplements Data, [2025](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html)
