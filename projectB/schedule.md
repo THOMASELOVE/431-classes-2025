@@ -73,7 +73,7 @@ B-23 ✅ | MON | 12-08 | Alex Bergendorf | NHANES [8/2021 to 8/2023](https://www
 B-24 ✅ | TUE | 12-09 | Pooja Madan Mohan & Noha Orabi | Global Coral Bleaching [Database](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498) 
 B-25 ✅ | MON | 12-08 | Johnathan Huff | Pro Football Reference [2024](https://www.pro-football-reference.com/years/2024/defense.htm)
 B-26 ✅ | MON | 12-08 | Lily Zhang | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-27 ✅ | MON | 12-08 | Subin Lee | Annual Social & <br> Economic Supplements Data, [2025](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html)
+B-27 ✅ | MON | 12-08 | Subin Lee | Annual Social & Economic Supplement, [2025](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html)
 B-28 ✅ | MON | 12-08 | Ben Kwiatkowski | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-29 ✅ | MON | 12-08 | Emma Chio | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-30 ✅ | TUE | 12-09 | Noni Pinales <br> & Swati Jha | National Survey of Family Growth ([NSFG](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm)), 22-23
