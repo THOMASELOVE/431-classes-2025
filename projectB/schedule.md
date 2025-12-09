@@ -16,7 +16,6 @@ B-34 | TUE | 12-09 | Dayanna Bohorquez | **10:30 AM** <br> **new time** | 11:00 
 B-10 | TUE | 12-09 | Andrew Crawford | **10:50 AM** <br> **new time** | 11:20 AM | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) <br> Clinical Database
 B-35 | TUE | 12-09 | Sophia Ribeiro & <br> Annabelle <br> Elsner Pacheco | **11:20 AM** | 11:50 AM |  [Zoom](#zoom-presentations) | Portuguese <br> [student performance](https://archive.ics.uci.edu/dataset/320/student+performance)
 B-36 | TUE | 12-09 | Jiayi Sun | **11:45 AM** | 12:15 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-11 | TUE | 12-09 | Joshua Silalahi | **12:10 PM** <br> **new time** | 12:40 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-37 | TUE | 12-09 | Andrew Morris | **12:50 PM** | 1:20 PM | [Zoom](#zoom-presentations) | NHANES <br> [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-38 | TUE | 12-09 | Scout Osborne | **1:15 PM** | 1:45 PM | [Zoom](#zoom-presentations) | PROTECT (Predicting Response <br> to Standardized <br> Colitis Therapy) <br> Study: [Table 6](https://doi.org/10.1016/j.chom.2018.09.009) 
 -- | -- | -- | Brief Break
