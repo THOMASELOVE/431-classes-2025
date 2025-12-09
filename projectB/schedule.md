@@ -6,14 +6,7 @@
 - There is a document on our Shared Drive called **431 Project B Presentations: Description and Advice**, which I hope is useful.
 - The **431 Project B Presentation Zoom Links** document also on our Shared Drive provides Zoom links for every presentation time.
 
-# All remaining presentations this semester will be given over Zoom.
-
-## Remaining Presentation on Monday 2025-12-08
-
-Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
-:----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-
-## Presentations on Tuesday 2025-12-09
+## Remaining Zoom Presentations on Tuesday 2025-12-09
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
