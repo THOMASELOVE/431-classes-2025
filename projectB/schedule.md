@@ -76,7 +76,7 @@ B-26 ✅ | MON | 12-08 | Lily Zhang | NHANES [8/2021 to 8/2023](https://wwwn.cdc
 B-27 ✅ | MON | 12-08 | Subin Lee | Annual Social & Economic Supplement, [2025](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html)
 B-28 ✅ | MON | 12-08 | Ben Kwiatkowski | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-29 ✅ | MON | 12-08 | Emma Chio | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-B-30 ✅ | TUE | 12-09 | Noni Pinales <br> & Swati Jha | National Survey of Family Growth ([NSFG](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm)), 22-23
+B-30 ✅ | TUE | 12-09 | Noni Pinales & Swati Jha | National Survey of Family Growth ([NSFG](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm)), 22-23
 B-31 ✅ | MON | 12-08 | Hana Sato | National Health Interview Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html)) 2024
 B-32 ✅ | TUE | 12-08 | Linda Chen | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-33 ✅ | MON | 12-08 | Amanda Barabas | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
