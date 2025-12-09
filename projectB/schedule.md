@@ -10,7 +10,6 @@
 
 Code | Day | Date | Investigator(s) | Arrival Time | *Approximate* <br> Finish Time | Style | Data Source
 :----: | :----: | :----: | :----------------------------------: | :--------: | :--------: | :-------: | :----------------------------------------: | 
-B-30 | TUE | 12-09 | Noni Pinales <br> & Swati Jha | **9:30 AM** <br> **new time** | 9:50 AM | [Zoom](#zoom-presentations) | National Survey of <br> Family Growth ([NSFG](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm)), <br> 2022-2023 Female
 B-24 | TUE | 12-09 | Pooja Madan Mohan <br> & Noha Orabi | **10:00 AM** <br> **new time** | 10:30 AM | [Zoom](#zoom-presentations) | Global Coral <br> Bleaching [Database](https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/accession/download/228498) 
 B-34 | TUE | 12-09 | Dayanna Bohorquez | **10:30 AM** <br> **new time** | 11:00 PM | [Zoom](#zoom-presentations) | Medical Expenditure <br> Panel Survey <br> ([MEPS](https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-247)), 2023
 B-10 | TUE | 12-09 | Andrew Crawford | **10:50 AM** <br> **new time** | 11:20 AM | [Zoom](#zoom-presentations) | [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) <br> Clinical Database
@@ -64,7 +63,6 @@ B-07 ✅ | THU | 12-04 | Madison Albert | NHANES [8/2021 to 8/2023](https://wwwn
 B-08 ✅ | THU | 12-04 | Fai Albuainain & Avianna Thompson | National Health Interview Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) 2024)
 B-09 ✅ | THU | 12-04 | Sadia Ahmed & Erin San Valentin | NHANES [2017 to 3/2020](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020)
 *B-10* | *TUE*
-*B-11* | *MON* 
 B-12 ✅ | FRI | 12-05 | Fangzhou (Eric) Liu | Environmental Justice Index ([EJI](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html))
 B-13 ✅ | FRI | 12-05 | Simon Lynn | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-14 ✅ | FRI | 12-05 | Helena Zhao | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
@@ -83,7 +81,7 @@ B-26 ✅ | MON | 12-08 | Lily Zhang | NHANES [8/2021 to 8/2023](https://wwwn.cdc
 B-27 ✅ | MON | 12-08 | Subin Lee | Annual Social & <br> Economic Supplements Data, [2025](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html)
 B-28 ✅ | MON | 12-08 | Ben Kwiatkowski | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-29 ✅ | MON | 12-08 | Emma Chio | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
-*B-30* | *TUE*
+B-30 ✅ | TUE | 12-09 | Noni Pinales <br> & Swati Jha | National Survey of Family Growth ([NSFG](https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm)), 2022-2023 Females
 B-31 ✅ | MON | 12-08 | Hana Sato | National Health Interview Survey ([NHIS](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html)) 2024
 B-32 ✅ | TUE | 12-08 | Linda Chen | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 B-33 ✅ | MON | 12-08 | Amanda Barabas | NHANES [8/2021 to 8/2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
